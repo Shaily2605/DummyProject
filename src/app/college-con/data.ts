@@ -84,6 +84,10 @@ import * as vishwakarmainstituteoftechnologyvitpune from '../../assets/collegeDa
 import * as xavierinstituteofmanagementandentrepreneurshipbangalore from '../../assets/collegeData/xavier-institute-of-management-and-entrepreneurship-bangalore'
 import * as drdypatilinstituteofmanagementandresearchdypimrpimpripune from '../../assets/collegeData/dr-dy-patil-institute-of-management-and-research-dypimr-pimpri-pune'
 import * as ifmrgraduateschoolofbusinesschennai from '../../assets/collegeData/ifmr-graduate-school-of-business-chennai'
+import * as northislandcollege from '../../assets/collegeData/north-island-college'
+import * as northernalbertainstitute from '../../assets/collegeData/northern-alberta-institute'
+
+
 export { 
     MIT, 
     
@@ -166,5 +170,7 @@ export {
     walchandinstituteoftechnologysolapur,
     //budapestuniversityoftechnologyandeconomics,
     //dalhousieuniversity,
-    armedforcesmedicalcollegeafmcpune
+    armedforcesmedicalcollegeafmcpune,
+    northislandcollege,
+    northernalbertainstitute
  }

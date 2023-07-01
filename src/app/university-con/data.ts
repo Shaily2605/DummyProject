@@ -409,9 +409,764 @@ import * as universityofsuffolk from '../../assets/universityData/university-of-
 import * as universityoftrento from '../../assets/universityData/university-of-trento'
 import * as ismuniversityofmanagementandeconomics from '../../assets/universityData/ism-university-of-management-and-economics'
 import * as allindiainstituteofmedicalsciencesaiimsnewdelhi from '../../assets/universityData/all-india-institute-of-medical-sciences-aiims-new-delhi'
+import * as nipissinguniversity from '../../assets/universityData/nipissing-university'
+import * as northeasternuniversity from '../../assets/universityData/northeastern-university'
+import * as paceuniversity from '../../assets/universityData/pace-university'
+import * as purdueuniversity from '../../assets/universityData/purdue-university'
+import * as queenslanduniversity from '../../assets/universityData/queensland-university'
+import * as saintlouisuniversity from '../../assets/universityData/saint-louis-university'
+import * as solentuniversity from '../../assets/universityData/solent-university'
+import * as stanforduniversity from '../../assets/universityData/stanford-university'
+import * as swinburneuniversity from '../../assets/universityData/swinburne-university'
+import * as teessideuniversity from '../../assets/universityData/teesside-university'
+import * as texasamuniversity from '../../assets/universityData/texas-a-m-university'
+import * as universityofillinois from '../../assets/universityData/university-of-illinois'
+import * as universityofnewcastle from '../../assets/universityData/university-of-newcastle'
+import * as universityofqueensland from '../../assets/universityData/university-of-queensland'
+import * as universityoftexasaustin from '../../assets/universityData/university-of-texas-austin'
+import * as universityoftexasdallas from '../../assets/universityData/university-of-texas-dallas'
+import * as universityofwesternaustralia from '../../assets/universityData/university-of-western-australia'
+import * as torontometropolitanuniversity from '../../assets/universityData/toronto-metropolitan-university'
+import * as torrensuniversity from '../../assets/universityData/torrens-university'
+import * as trinitywesternuniversity from '../../assets/universityData/trinity-western-university'
+import * as universityatbuffalo from '../../assets/universityData/university-at-buffalo'
+import * as universityofcalgary from '../../assets/universityData/university-of-calgary'
+import * as universityofcalifornia from '../../assets/universityData/university-of-california'
+import * as universityofcanberra from '../../assets/universityData/university-of-canberra'
+import * as universityofflorida from '../../assets/universityData/university-of-florida'
+import * as universityofkent from '../../assets/universityData/university-of-kent'
+import * as universityofnewhaven from '../../assets/universityData/university-of-newhaven'
+import * as universityofnorthtexas from '../../assets/universityData/university-of-north-texas'
+import * as universityofprinceedwardisland from '../../assets/universityData/university-of-prince-edward-island'
+import * as universityofsouthflorida from '../../assets/universityData/university-of-south-florida'
+import * as universityofsoutherncalifornia from '../../assets/universityData/university-of-southern-california'
+import * as universityofsouthernqueensland from '../../assets/universityData/university-of-southern-queensland'
+import * as universityoftechnology from '../../assets/universityData/university-of-technology'
+import * as universityoftexasarlington from '../../assets/universityData/university-of-texas-arlington'
+import * as universityofsunshinecoast from '../../assets/universityData/university-of-sunshine-coast'
+import * as universityoftoronto from '../../assets/universityData/university-of-toronto'
+import * as universityofwollongong from '../../assets/universityData/university-of-wollongong'
+import * as vancouverislanduniversity from '../../assets/universityData/vancouver-island-university'
+import * as victoriauniversitysydney from '../../assets/universityData/victoria-university-sydney'
+import * as victoriauniversity from '../../assets/universityData/victoria-university'
 
-export { 
-    
+import * as millenniaatlanticuniversity from '../../assets/universityData/millennia-atlantic-university'
+import * as millersvilleuniversitypennsylvania from '../../assets/universityData/millersville-university-pennsylvania'
+import * as milliganuniversitytennessee from '../../assets/universityData/milligan-university-tennessee'
+import * as millikinuniversityillinois from '../../assets/universityData/millikin-university-illinois'
+import * as minnesotastateuniversitymankato from '../../assets/universityData/minnesota-state-university-mankato'
+import * as minnesotastateuniversitymoorhead from '../../assets/universityData/minnesota-state-university-moorhead'
+import * as minotstateuniversity from '../../assets/universityData/minot-state-university'
+import * as mississippistateuniversity from '../../assets/universityData/mississippi-state-university'
+import * as mississippiuniversityforwomen from '../../assets/universityData/mississippi-university-for-women'
+import * as mississippivalleystateuniversity from '../../assets/universityData/mississippi-valley-state-university'
+import * as missouribaptistuniversity from '../../assets/universityData/missouri-baptist-university'
+import * as missouristateuniversity from '../../assets/universityData/missouri-state-university'
+import * as missouriuniversityofscienceandtechnology from '../../assets/universityData/missouri-university-of-science-and-technology'
+import * as missouriwesternstateuniversity from '../../assets/universityData/missouri-western-state-university'
+import * as monmouthuniversity from '../../assets/universityData/monmouth-university'
+import * as montanastateuniversitybillings from '../../assets/universityData/montana-state-university-billings'
+import * as montanastateuniversitynorthern from '../../assets/universityData/montana-state-university-northern'
+import * as montclairstateuniversity from '../../assets/universityData/montclair-state-university'
+import * as millermottecollegenorthcarolina from '../../assets/universityData/miller-motte-college-north-carolina'
+import * as millermottecollegesouthcarolina from '../../assets/universityData/miller-motte-college-south-carolina'
+import * as millsapscollegemississippi from '../../assets/universityData/millsaps-college-mississippi'
+import * as millscollegecalifornia from '../../assets/universityData/mills-college-california'
+import * as milwaukeeinstituteofartanddesign from '../../assets/universityData/milwaukee-institute-of-art-and-design'
+import * as milwaukeeschoolofengineering from '../../assets/universityData/milwaukee-school-of-engineering'
+import * as mississippicollegemississippi from '../../assets/universityData/mississippi-college-mississippi'
+import * as missourivalleycollege from '../../assets/universityData/missouri-valley-college'
+import * as mitchelltechnicalcollege from '../../assets/universityData/mitchell-technical-college'
+import * as mohavecommunitycollege from '../../assets/universityData/mohave-community-college'
+import * as mohawkcollegeontario from '../../assets/universityData/mohawk-college-ontario'
+import * as molloycollegenewyork from '../../assets/universityData/molloy-college-new-york'
+import * as monbulkcollegevictoria from '../../assets/universityData/monbulk-college-victoria'
+import * as monmouthcollegeillinois from '../../assets/universityData/monmouth-college-illinois'
+import * as monroecollegenewyork from '../../assets/universityData/monroe-college-new-york'
+import * as montreatcollegenorthcarolina from '../../assets/universityData/montreat-college-north-carolina'
+import * as montserratcollegeofartmaine from '../../assets/universityData/montserrat-college-of-art-maine'
+import * as montserratcollegeofartmassachusetts from '../../assets/universityData/montserrat-college-of-art-massachusetts'
+import * as mooretheologicalcollege from '../../assets/universityData/moore-theological-college'
+import * as moravianuniversitypennsylvania from '../../assets/universityData/moravian-university-pennsylvania'
+import * as morehousecollegegeorgia from '../../assets/universityData/morehouse-college-georgia'
+import * as morgancommunitycollege from '../../assets/universityData/morgan-community-college'
+import * as morganstateuniversity from '../../assets/universityData/morgan-state-university'
+import * as morlingcollegenewsouthwales from '../../assets/universityData/morling-college-new-south-wales'
+import * as morningsideuniversity from '../../assets/universityData/morningside-university'
+import * as morrincollegequebec from '../../assets/universityData/morrin-college-quebec'
+import * as morriscollegesouthcarolina from '../../assets/universityData/morris-college-south-carolina'
+import * as morrisoninstituteoftechnology from '../../assets/universityData/morrison-institute-of-technology'
+import * as mosmamanitoba from '../../assets/universityData/mosma-manitoba'
+import * as mountainstatecollege from '../../assets/universityData/mountain-state-college'
+import * as mountallisonuniversity from '../../assets/universityData/mount-allison-university'
+import * as mountaloysiuscollege from '../../assets/universityData/mount-aloysius-college'
+import * as mountcarmelcollegeofnursing from '../../assets/universityData/mount-carmel-college-of-nursing'
+import * as mountholyokecollege from '../../assets/universityData/mount-holyoke-college'
+import * as mountmartyuniversity from '../../assets/universityData/mount-marty-university'
+import * as mountmaryuniversity from '../../assets/universityData/mount-mary-university'
+import * as mountmercyuniversity from '../../assets/universityData/mount-mercy-university'
+import * as mountroyaluniversity from '../../assets/universityData/mount-royal-university'
+import * as mountsaintmarysuniversity from '../../assets/universityData/mount-saint-marys-university'
+import * as mountsaintvincentuniversity from '../../assets/universityData/mount-saint-vincent-university'
+import * as mountstjosephuniversity from '../../assets/universityData/mount-st-joseph-university'
+import * as mountstmarysuniversity from '../../assets/universityData/mount-st-marys-university'
+import * as mountvernonnazareneuniversity from '../../assets/universityData/mount-vernon-nazarene-university'
+import * as mountwestcommunityandtechnicalcollege from '../../assets/universityData/mountwest-community-and-technical-college'
+import * as msudenvercolorado from '../../assets/universityData/msu-denver-colorado'
+import * as muhlenbergcollege from '../../assets/universityData/muhlenberg-college'
+import * as multnomahuniversity from '../../assets/universityData/multnomah-university'
+import * as murdochbusinessschool from '../../assets/universityData/murdoch-business-school'
+import * as mureskinstitutewa from '../../assets/universityData/muresk-institute-wa'
+import * as murraystatecollege from '../../assets/universityData/murray-state-college'
+import * as murraystateuniversity from '../../assets/universityData/murray-state-university'
+import * as muskingumuniversity from '../../assets/universityData/muskingum-university'
+import * as naitalberta from '../../assets/universityData/nait-alberta'
+import * as naropauniversity from '../../assets/universityData/naropa-university'
+import * as nashuacommunitycollege from '../../assets/universityData/nashua-community-college'
+import * as nationalaboriginalislander from '../../assets/universityData/national-aboriginal-islander'
+import * as nationalcollegeofvocationaleducation from '../../assets/universityData/national-college-of-vocational-education'
+import * as nationalmedicalcollege from '../../assets/universityData/national-medical-college'
+import * as nationalparalegalcollege from '../../assets/universityData/national-paralegal-college'
+import * as nationalparkcollege from '../../assets/universityData/national-park-college'
+import * as nationaluniversitycalifornia from '../../assets/universityData/national-university-california'
+import * as nationaluniversityofhealthsciences from '../../assets/universityData/national-university-of-health-sciences'
+import * as naturecarecollege from '../../assets/universityData/nature-care-college'
+import * as navajotechnicaluniversity from '../../assets/universityData/navajo-technical-university'
+import * as navarrocollegetexas from '../../assets/universityData/navarro-college-texas'
+import * as nazarenetheologicalcollege from '../../assets/universityData/nazarene-theological-college'
+import * as nbcccorporateofficefredericton from '../../assets/universityData/nbcc-corporate-office-fredericton'
+import * as ncktechnicalcollege from '../../assets/universityData/nck-technical-college'
+import * as neathporttalbotcollegeafan from '../../assets/universityData/neath-port-talbot-college-afan'
+import * as neathporttalbotcollegecolegponardawe from '../../assets/universityData/neath-port-talbot-college-coleg-ponardawe'
+import * as nebraskachristiancollege from '../../assets/universityData/nebraska-christian-college'
+import * as nebraskacollegeoftechnicalagriculture from '../../assets/universityData/nebraska-college-of-technical-agriculture'
+import * as nebraskaindiancommunitycollege from '../../assets/universityData/nebraska-indian-community-college'
+import * as nebraskamethodistcollege from '../../assets/universityData/nebraska-methodist-college'
+import * as nebraskawesleyanuniversity from '../../assets/universityData/nebraska-wesleyan-university'
+import * as neoshocountycommunitycollege from '../../assets/universityData/neosho-county-community-college'
+import * as nepalmedicalcollege from '../../assets/universityData/nepal-medical-college'
+import * as nepalgunjmedicalcollege from '../../assets/universityData/nepalgunj-medical-college'
+import * as neumontcollegeofcomputerscience from '../../assets/universityData/neumont-college-of-computer-science'
+import * as nevadastatecollege from '../../assets/universityData/nevada-state-college'
+import * as newbrunswickbibleinstitute from '../../assets/universityData/new-brunswick-bible-institute'
+import * as newbrunswickcollegeofcraftanddesign from '../../assets/universityData/new-brunswick-college-of-craft-and-design'
+import * as newcollegeofflorida from '../../assets/universityData/new-college-of-florida'
+import * as newenglandcollege from '../../assets/universityData/new-england-college'
+import * as newjerseycityuniversity from '../../assets/universityData/new-jersey-city-university'
+import * as newjerseyinstituteoftechnology from '../../assets/universityData/new-jersey-institute-of-technology'
+import * as newmexicohighlandsuniversity from '../../assets/universityData/new-mexico-highlands-university'
+import * as newmexicoinstituteofminingandtechnology from '../../assets/universityData/new-mexico-institute-of-mining-and-technology'
+import * as newmexicojuniorcollege from '../../assets/universityData/new-mexico-junior-college'
+import * as newmexicomilitaryinstitute from '../../assets/universityData/new-mexico-military-institute'
+import * as newmexicostateuniversityalamogordo from '../../assets/universityData/new-mexico-state-university-alamogordo'
+import * as newmexicostateuniversitycarlsbad from '../../assets/universityData/new-mexico-state-university-carlsbad'
+import * as newmexicostateuniversitygrants from '../../assets/universityData/new-mexico-state-university-grants'
+import * as newmexicostateuniversity from '../../assets/universityData/new-mexico-state-university'
+import * as newmexicoveteransupwardbound from '../../assets/universityData/new-mexico-veterans-upward-bound'
+import * as newrivercommunityandtechnicalcollege from '../../assets/universityData/new-river-community-and-technical-college'
+import * as newschoolofarchitectureanddesign from '../../assets/universityData/new-school-of-architecture-and-design'
+import * as newsouthwalespoliceacademy from '../../assets/universityData/new-south-wales-police-academy'
+import * as newyorkcollegeofhealthprofessions from '../../assets/universityData/new-york-college-of-health-professions'
+import * as newyorkfilmacademy from '../../assets/universityData/new-york-film-academy'
+import * as newyorkschoolofinteriordesign from '../../assets/universityData/new-york-school-of-interior-design'
+import * as newyorkuniversity from '../../assets/universityData/new-york-university'
+import * as newberrycollege from '../../assets/universityData/newberry-college'
+import * as newcastleuniversity from '../../assets/universityData/newcastle-university'
+import * as newmancollegeireland from '../../assets/universityData/newman-college-ireland'
+import * as newmantheologicalcollege from '../../assets/universityData/newman-theological-college'
+import * as newmanuniversitykansas from '../../assets/universityData/newman-university-kansas'
+import * as nhticoncordscommunitycollege from '../../assets/universityData/nhti-concords-community-college'
+import * as niaccnorthiowaareacommunitycollege from '../../assets/universityData/niacc-north-iowa-area-community-college'
+import * as niagaracollegeontario from '../../assets/universityData/niagara-college-ontario'
+import * as nichollsstateuniversity from '../../assets/universityData/nicholls-state-university'
+import * as nicolavalleyinstituteoftechnology from '../../assets/universityData/nicola-valley-institute-of-technology'
+import * as nightingalecollege from '../../assets/universityData/nightingale-college'
+import * as nipawinbiblecollege from '../../assets/universityData/nipawin-bible-college'
+import * as nipissinguniversityontario from '../../assets/universityData/nipissing-university-ontario'
+import * as nobelmedicalcollege from '../../assets/universityData/nobel-medical-college'
+import * as nocholscollegemassachusetts from '../../assets/universityData/nochols-college-massachusetts'
+import * as norquestcollegeedmontoncampus from '../../assets/universityData/norquest-college-edmonton-campus'
+import * as northamericanuniversity from '../../assets/universityData/north-american-university'
+import * as northarkansascollege from '../../assets/universityData/north-arkansas-college'
+import * as northcarolinaagriculturalandtechnicalstateuniversity from '../../assets/universityData/north-carolina-agricultural-and-technical-state-university'
+import * as northcarolinacentraluniversity from '../../assets/universityData/north-carolina-central-university'
+import * as northcarolinastateuniversity from '../../assets/universityData/north-carolina-state-university'
+import * as northcarolinawesleyancollege from '../../assets/universityData/north-carolina-wesleyan-college'
+import * as northcentralcollegeillinois from '../../assets/universityData/north-central-college-illinois'
+import * as northcentraluniversity from '../../assets/universityData/north-central-university'
+import * as northdakotastateuniversity from '../../assets/universityData/north-dakota-state-university'
+import * as northeastmedicalcollege from '../../assets/universityData/north-east-medical-college'
+import * as northgreenvilleuniversitynorthcarolina from '../../assets/universityData/north-greenville-university-north-carolina'
+import * as northgreenvilleuniversitysouthcarolina from '../../assets/universityData/north-greenville-university-south-carolina'
+import * as northidahocollege from '../../assets/universityData/north-idaho-college'
+import * as northislandcollege from '../../assets/universityData/north-island-college'
+import * as northparkuniversity from '../../assets/universityData/north-park-university'
+import * as northscotlandcollege from '../../assets/universityData/north-scotland-college'
+import * as northwestcollegesaskatchewan from '../../assets/universityData/north-west-college-saskatchewan'
+import * as northwestregionalcollegenorthernireland from '../../assets/universityData/north-west-regional-college-northern-ireland'
+import * as northwestregionalcollegederrylondonderry from '../../assets/universityData/north-west-regional-college-derry-londonderry'
+import * as northwestregionalcollegelimavady from '../../assets/universityData/north-west-regional-college-limavady'
+import * as northcentraluniversityarizona from '../../assets/universityData/northcentral-university-arizona'
+import * as northeastalabamacommunitycollege from '../../assets/universityData/northeast-alabama-community-college'
+import * as northeasttexascommunitycollege from '../../assets/universityData/northeast-texas-community-college'
+import * as northeastwisconsintechnicalcollege from '../../assets/universityData/northeast-wisconsin-technical-college'
+import * as northeasternillinoisuniversity from '../../assets/universityData/northeastern-illinois-university'
+import * as northeasternuniversitymassachusetts from '../../assets/universityData/northeastern-university-massachusetts'
+import * as northernarizonauniversity from '../../assets/universityData/northern-arizona-university'
+import * as northernillinoisuniversity from '../../assets/universityData/northern-illinois-university'
+import * as northernkentuckyuniversity from '../../assets/universityData/northern-kentucky-university'
+import * as northernlakescollege from '../../assets/universityData/northern-lakes-college'
+import * as northernlightscollege from '../../assets/universityData/northern-lights-college'
+import * as northernmichiganuniversity from '../../assets/universityData/northern-michigan-university'
+import * as northernnewmexicocollege from '../../assets/universityData/northern-new-mexico-college'
+import * as northernregionalcollegeballymoney from '../../assets/universityData/northern-regional-college-ballymoney'
+import * as northernregionalcollegeantrim from '../../assets/universityData/northern-regional-college-antrim'
+import * as northernregionalcollegelarne from '../../assets/universityData/northern-regional-college-larne'
+import * as northernregionalcollegenorthernireland from '../../assets/universityData/northern-regional-college-northern-ireland'
+import * as northernstateuniversity from '../../assets/universityData/northern-state-university'
+import * as northernvermontuniversity from '../../assets/universityData/northern-vermont-university'
+import * as northlandpioneercollege from '../../assets/universityData/northland-pioneer-college'
+import * as northlandscollegesaskatchewan from '../../assets/universityData/northlands-college-saskatchewan'
+import * as northpointbiblecollege from '../../assets/universityData/northpoint-bible-college'
+import * as northumbriauniversity from '../../assets/universityData/northumbria-university'
+import * as northwestarkansascommunitycollege from '../../assets/universityData/northwest-arkansas-community-college'
+import * as northwestcareercollege from '../../assets/universityData/northwest-career-college'
+import * as northwestcollegeofartanddesign from '../../assets/universityData/northwest-college-of-art-and-design'
+import * as northwestcollegewyoming from '../../assets/universityData/northwest-college-wyoming'
+import * as northwestiowacommunitycollege from '../../assets/universityData/northwest-iowa-community-college'
+import * as northwestmissouristateuniversity from '../../assets/universityData/northwest-missouri-state-university'
+import * as northwestnazareneuniversity from '../../assets/universityData/northwest-nazarene-university'
+import * as northwestuniversity from '../../assets/universityData/northwest-university'
+import * as northwestvistacollege from '../../assets/universityData/northwest-vista-college'
+import * as northwesterncollegeiowa from '../../assets/universityData/northwestern-college-iowa'
+import * as northwesternconnecticutcommunitycollege from '../../assets/universityData/northwestern-connecticut-community-college'
+import * as northwesternoklahomastateuniversity from '../../assets/universityData/northwestern-oklahoma-state-university'
+import * as northwesternstateuniversity from '../../assets/universityData/northwestern-state-university'
+import * as northwesternuniversityillinois from '../../assets/universityData/northwestern-university-illinois'
+import * as northwestshoalscommunitycollege from '../../assets/universityData/northwest-shoals-community-college'
+import * as northwoodtechnicalcollege from '../../assets/universityData/northwood-technical-college'
+import * as northwooduniversity from '../../assets/universityData/northwood-university'
+import * as norwalkcommunitycollege from '../../assets/universityData/norwalk-community-college'
+import * as norwichuniversity from '../../assets/universityData/norwich-university'
+import * as nossicollegeofart from '../../assets/universityData/nossi-college-of-art'
+import * as notredamecollege from '../../assets/universityData/notre-dame-college'
+import * as notredameofmarylanduniversity from '../../assets/universityData/notre-dame-of-maryland-university'
+import * as nottinghamtrentuniversity from '../../assets/universityData/nottingham-trent-university'
+import * as novascotiaagriculturalcollege from '../../assets/universityData/nova-scotia-agricultural-college'
+import * as novascotiateacherscollege from '../../assets/universityData/nova-scotia-teachers-college'
+import * as novasouthwesternuniversity from '../../assets/universityData/nova-southwestern-university'
+import * as nptcgroupofcollege from '../../assets/universityData/nptc-group-of-college'
+import * as nrcballymena from '../../assets/universityData/nrc-ballymena'
+import * as nscaduniversity from '../../assets/universityData/nscad-university'
+import * as nscccentreofgeographicsciences from '../../assets/universityData/nscc-centre-of-geographic-sciences'
+import * as nsccinstituteoftechnologycampus from '../../assets/universityData/nscc-institute-of-technology-campus'
+import * as nscecenovascotia from '../../assets/universityData/nscece-nova-scotia'
+import * as nuetahidatsasahnishnhscommunitycollege from '../../assets/universityData/nueta-hidatsa-sahnish-nhs-community-college'
+import * as nunavutarcticcollege from '../../assets/universityData/nunavut-arctic-college'
+import * as nunezcommunitycollege from '../../assets/universityData/nunez-community-college'
+import * as nungalinyacollege from '../../assets/universityData/nungalinya-college'
+import * as nyackcollege from '../../assets/universityData/nyack-college'
+import * as oaklandcityuniversity from '../../assets/universityData/oakland-city-university'
+import * as oaklanduniversity from '../../assets/universityData/oakland-university'
+import * as oberlincollege from '../../assets/universityData/oberlin-college'
+import * as ocaduniversity from '../../assets/universityData/ocad-university'
+import * as occidentalcollege from '../../assets/universityData/occidental-college'
+import * as oceancountycollege from '../../assets/universityData/ocean-county-college'
+import * as odessacollege from '../../assets/universityData/odessa-college'
+import * as oglethorpeuniversity from '../../assets/universityData/oglethorpe-university'
+import * as ohiobusinesscollege from '../../assets/universityData/ohio-business-college'
+import * as ohiochristianuniversity from '../../assets/universityData/ohio-christian-university'
+import * as ohiodominicanuniversity from '../../assets/universityData/ohio-dominican-university'
+import * as ohionorthernuniversity from '../../assets/universityData/ohio-northern-university'
+import * as ohiostateuniversity from '../../assets/universityData/ohio-state-university'
+import * as ohiotechnicalcollege from '../../assets/universityData/ohio-technical-college'
+import * as ohiouniversity from '../../assets/universityData/ohio-university'
+import * as ohiovalleycollegeoftechnology from '../../assets/universityData/ohio-valley-college-of-technology'
+import * as ohiovalleyuniversity from '../../assets/universityData/ohio-valley-university'
+import * as ohiovalleyuniversitywestvirginia from '../../assets/universityData/ohio-valley-university-west-virginia'
+import * as ohiowesleyanuniversity from '../../assets/universityData/ohio-wesleyan-university'
+import * as okanagancollegekelownacampus from '../../assets/universityData/okanagan-college-kelowna-campus'
+import * as oklahomacityuniversity from '../../assets/universityData/oklahoma-city-university'
+import * as oklahomastateuniversity from '../../assets/universityData/oklahoma-state-university'
+import * as oklahomawesleyanuniversity from '../../assets/universityData/oklahoma-wesleyan-university'
+import * as olddominionuniversity from '../../assets/universityData/old-dominion-university'
+import * as oldsuncommunitycollege from '../../assets/universityData/old-sun-community-college'
+import * as oldscollegealberta from '../../assets/universityData/olds-college-alberta'
+import * as olincollegeofengineering from '../../assets/universityData/olin-college-of-engineering'
+import * as olivetcollegemichigan from '../../assets/universityData/olivet-college-michigan'
+import * as olivetnazareneuniversity from '../../assets/universityData/olivet-nazarene-university'
+import * as ontariotechuniversity from '../../assets/universityData/ontario-tech-university'
+import * as oralrobertsuniversity from '../../assets/universityData/oral-roberts-university'
+import * as orangecoastcollege from '../../assets/universityData/orange-coast-college'
+import * as oregoninstituteoftechnology from '../../assets/universityData/oregon-institute-of-technology'
+import * as oregonstateuniversity from '../../assets/universityData/oregon-state-university'
+import * as otiscollegeofartanddesign from '../../assets/universityData/otis-college-of-art-and-design'
+import * as ottawauniversity from '../../assets/universityData/ottawa-university'
+import * as otterbeinuniversity from '../../assets/universityData/otterbein-university'
+import * as ouachitabaptistuniversity from '../../assets/universityData/ouachita-baptist-university'
+import * as oultoncollegemoncton from '../../assets/universityData/oulton-college-moncton'
+import * as ourladyofthelakeuniversity from '../../assets/universityData/our-lady-of-the-lake-university'
+import * as ozarkacollegearkansas from '../../assets/universityData/ozarka-college-arkansas'
+import * as paceuniversitynewyork from '../../assets/universityData/pace-university-new-york'
+import * as pacificlutheranuniversity from '../../assets/universityData/pacific-lutheran-university'
+import * as pacificnorthwestcollegeofart from '../../assets/universityData/pacific-northwest-college-of-art'
+import * as pacificrimchristianuniversity from '../../assets/universityData/pacific-rim-christian-university'
+import * as pacificstatesuniversity from '../../assets/universityData/pacific-states-university'
+import * as pacificunioncollege from '../../assets/universityData/pacific-union-college'
+import * as palmbeachatlanticuniversity from '../../assets/universityData/palm-beach-atlantic-university'
+import * as palmercollegeofchiropracticmaincampus from '../../assets/universityData/palmer-college-of-chiropractic-main-campus'
+import * as paloaltocollegetexas from '../../assets/universityData/palo-alto-college-texas'
+import * as panolacollegetexas from '../../assets/universityData/panola-college-texas'
+import * as paradisevalleycommunitycollege from '../../assets/universityData/paradise-valley-community-college'
+import * as parisjuniorcollegetexas from '../../assets/universityData/paris-junior-college-texas'
+import * as parkeruniversitycampus from '../../assets/universityData/parker-university-campus'
+import * as parklandcollegemaincampus from '../../assets/universityData/parkland-college-main-campus'
+import * as parklandcollegetradesandtechnologycentre from '../../assets/universityData/parkland-college-trades-and-technology-centre'
+import * as parklandcollegekelvington from '../../assets/universityData/parkland-college-kelvington'
+import * as paulquinncollegetexas from '../../assets/universityData/paul-quinn-college-texas'
+import * as pavillonjraymondfrenette from '../../assets/universityData/pavillon-j-raymond-frenette'
+import * as peaceriverbibleinstitute from '../../assets/universityData/peace-river-bible-institute'
+import * as pearsoncollegeuwc from '../../assets/universityData/pearson-college-uwc'
+import * as pembrokescollegewales from '../../assets/universityData/pembrokes-college-wales'
+import * as pennstateuniversity from '../../assets/universityData/penn-state-university'
+import * as pennsylvaniacollegeofartanddesign from '../../assets/universityData/pennsylvania-college-of-art-and-design'
+import * as pennsylvaniacollegeofhealthsciences from '../../assets/universityData/pennsylvania-college-of-health-sciences'
+import * as pennsylvaniacollegeoftechnology from '../../assets/universityData/pennsylvania-college-of-technology'
+import * as pennsylvaniahighlandscommunitycollege from '../../assets/universityData/pennsylvania-highlands-community-college'
+import * as pepperdineuniversitycalifornia from '../../assets/universityData/pepperdine-university-california'
+import * as perrytechnicalinstitutewashington from '../../assets/universityData/perry-technical-institute-washington'
+import * as perthbiblecollegewesternaustralia from '../../assets/universityData/perth-bible-college-western-australia'
+import * as perustatecollegenebraska from '../../assets/universityData/peru-state-college-nebraska'
+import * as pfeifferuniversity from '../../assets/universityData/pfeiffer-university'
+import * as philandersmithcollegearkansas from '../../assets/universityData/philander-smith-college-arkansas'
+import * as phillipscommunitycollegeoftheuniversity from '../../assets/universityData/phillips-community-college-of-the-university'
+import * as phoenixcollegearizona from '../../assets/universityData/phoenix-college-arizona'
+import * as piedmonttechnicalcollege from '../../assets/universityData/piedmont-technical-college'
+import * as pierpontcommunityandtechnicalcollege from '../../assets/universityData/pierpont-community-and-technical-college'
+import * as pimamedicalinstitutelasvegas from '../../assets/universityData/pima-medical-institute-las-vegas'
+import * as pimamedicalinstitutearizona from '../../assets/universityData/pima-medical-institute-arizona'
+import * as pittsburgstateuniversity from '../../assets/universityData/pittsburg-state-university'
+import * as pitzercollegecalifornia from '../../assets/universityData/pitzer-college-california'
+import * as plazacollegenewyork from '../../assets/universityData/plaza-college-new-york'
+import * as plymouthstateuniversity from '../../assets/universityData/plymouth-state-university'
+import * as pointlomanazareneuniversitycalifornia from '../../assets/universityData/point-loma-nazarene-university-california'
+import * as pointuniversitygeorgia from '../../assets/universityData/point-university-georgia'
+import * as polytechnicuniversityorlandocampus from '../../assets/universityData/polytechnic-university-orlando-campus'
+import * as purdueuniversityfortwayne from '../../assets/universityData/purdue-university-fort-wayne'
+import * as pomonacollegecalifornia from '../../assets/universityData/pomona-college-california'
+import * as pontificalcollegejosephinum from '../../assets/universityData/pontifical-college-josephinum'
+import * as portagecollegelaclabichecampus from '../../assets/universityData/portage-college-lac-la-biche-campus'
+import * as portervillecollegecalifornia from '../../assets/universityData/porterville-college-california'
+import * as portlandstateuniversity from '../../assets/universityData/portland-state-university'
+import * as postuniversityconnecticut from '../../assets/universityData/post-university-connecticut'
+import * as prairiecollegealberta from '../../assets/universityData/prairie-college-alberta'
+import * as prairieviewaandmuniversity from '../../assets/universityData/prairie-view-aandm-university'
+import * as prattcommunitycollegekansas from '../../assets/universityData/pratt-community-college-kansas'
+import * as prattinstitutenewyork from '../../assets/universityData/pratt-institute-new-york'
+import * as presbyteriancollege from '../../assets/universityData/presbyterian-college'
+import * as prescottcollegearizona from '../../assets/universityData/prescott-college-arizona'
+import * as princetonuniversity from '../../assets/universityData/princeton-university'
+import * as presentationcollegesouthdakota from '../../assets/universityData/presentation-college-south-dakota'
+import * as providencecollegerhodeisland from '../../assets/universityData/providence-college-rhode-island'
+import * as providenceuniversity from '../../assets/universityData/providence-university'
+import * as provocollegeutah from '../../assets/universityData/provo-college-utah'
+import * as pueblocommunitycollegecolorado from '../../assets/universityData/pueblo-community-college-colorado'
+import * as purdueuniversityindiana from '../../assets/universityData/purdue-university-indiana'
+import * as qimrberghofermedicalresearchinstitute from '../../assets/universityData/qimr-berghofer-medical-research-institute'
+import * as queenmaryuniversityoflondon from '../../assets/universityData/queen-mary-university-of-london'
+import * as queensuniversitybelfast from '../../assets/universityData/queens-university-belfast'
+import * as queensuniversityofcharlotte from '../../assets/universityData/queens-university-of-charlotte'
+import * as questuniversitycanada from '../../assets/universityData/quest-university-canada'
+import * as quincycollegemassachusetts from '../../assets/universityData/quincy-college-massachusetts'
+import * as quincyuniversityillinois from '../../assets/universityData/quincy-university-illinois'
+import * as quinnipiacuniversity from '../../assets/universityData/quinnipiac-university'
+import * as qutgardenspointcampus from '../../assets/universityData/qut-gardens-point-campus'
+import * as racmavictoria from '../../assets/universityData/racma-victoria'
+import * as ramapocollegeofnewjersey from '../../assets/universityData/ramapo-college-of-new-jersey'
+import * as randalluniversity from '../../assets/universityData/randall-university'
+import * as rangercollegetexas from '../../assets/universityData/ranger-college-texas'
+import * as rankentechnicalcollegemissouri from '../../assets/universityData/ranken-technical-college-missouri'
+import * as rasmussenuniversityfargo from '../../assets/universityData/rasmussen-university-fargo'
+import * as rasmussenuniversitywisconsin from '../../assets/universityData/rasmussen-university-wisconsin'
+import * as redcrowcommunitycollege from '../../assets/universityData/red-crow-community-college'
+import * as reddeerpolytechnicuniversity from '../../assets/universityData/red-deer-polytechnic-university'
+import * as redrivercollegegimli from '../../assets/universityData/red-river-college-gimli'
+import * as redrivercollegeadultlearningcentre from '../../assets/universityData/red-river-college-adult-learning-centre'
+import * as redrivercollegepeguis from '../../assets/universityData/red-river-college-peguis'
+import * as redrivercollegeprincessstreet from '../../assets/universityData/red-river-college-princess-street'
+import * as redrivercollegesteinbachcommunity from '../../assets/universityData/red-river-college-steinbach-community'
+import * as redrivercollegesaatcsouthport from '../../assets/universityData/red-river-college-saatc-southport'
+import * as redrivercollegesaatcwinnipeg from '../../assets/universityData/red-river-college-saatc-winnipeg'
+import * as reedcollegeoregon from '../../assets/universityData/reed-college-oregon'
+import * as regentcollegevancouver from '../../assets/universityData/regent-college-vancouver'
+import * as regentuniversityvirginia from '../../assets/universityData/regent-university-virginia'
+import * as regiscollegemassachusetts from '../../assets/universityData/regis-college-massachusetts'
+import * as regisuniversity from '../../assets/universityData/regis-university'
+import * as remingtoncollegegreenspointcampus from '../../assets/universityData/remington-college-greenspoint-campus'
+import * as remingtoncollegelouisiana from '../../assets/universityData/remington-college-louisiana'
+import * as remingtoncollegetennessee from '../../assets/universityData/remington-college-tennessee'
+import * as rhodeislandcollege from '../../assets/universityData/rhode-island-college'
+import * as rhodeislandschoolofdesign from '../../assets/universityData/rhode-island-school-of-design'
+import * as rhodescollegetennessee from '../../assets/universityData/rhodes-college-tennessee'
+import * as riceuniversity from '../../assets/universityData/rice-university'
+import * as rideruniversity from '../../assets/universityData/rider-university'
+import * as ridleycollegevictoria from '../../assets/universityData/ridley-college-victoria'
+import * as ringlingcollegeofartanddesign from '../../assets/universityData/ringling-college-of-art-and-design'
+import * as riosaladocollegearizona from '../../assets/universityData/rio-salado-college-arizona'
+import * as riponcollegewisconsin from '../../assets/universityData/ripon-college-wisconsin'
+import * as rivervalleycommunitycollege from '../../assets/universityData/river-valley-community-college'
+import * as rivieruniversity from '../../assets/universityData/rivier-university'
+import * as robertmorrisuniversity from '../../assets/universityData/robert-morris-university'
+import * as robertsoncollegemanitoba from '../../assets/universityData/robertson-college-manitoba'
+import * as rockforduniversity from '../../assets/universityData/rockford-university'
+import * as rockhurstuniversity from '../../assets/universityData/rockhurst-university'
+import * as rockymountaincollegeofartdesign from '../../assets/universityData/rocky-mountain-college-of-art-design'
+import * as rockymountaincollegemontana from '../../assets/universityData/rocky-mountain-college-montana'
+import * as rogerwilliamsuniversity from '../../assets/universityData/roger-williams-university'
+import * as rogersstateuniversity from '../../assets/universityData/rogers-state-university'
+import * as rolinscollegeflorida from '../../assets/universityData/rolins-college-florida'
+import * as rooseveltuniversity from '../../assets/universityData/roosevelt-university'
+import * as rosehulmaninstituteoftechnology from '../../assets/universityData/rose-hulman-institute-of-technology'
+import * as rosemountcollegepennsylvania from '../../assets/universityData/rosemount-college-pennsylvania'
+import * as rowanuniversity from '../../assets/universityData/rowan-university'
+import * as roxburycommunitycollege from '../../assets/universityData/roxbury-community-college'
+import * as royalaustralianandnewzealandcollege from '../../assets/universityData/royal-australian-and-new-zealand-college'
+import * as royalhollowayengland from '../../assets/universityData/royal-holloway-england'
+import * as royalmilitarycollegeofcanada from '../../assets/universityData/royal-military-college-of-canada'
+import * as royalwelshcollege from '../../assets/universityData/royal-welsh-college'
+import * as rrcpolytechlanguagetrainingcentre from '../../assets/universityData/rrc-polytech-language-training-centre'
+import * as rrcpolytechportagecampus from '../../assets/universityData/rrc-polytech-portage-campus'
+import * as rrcpolytechsteinbachcampus from '../../assets/universityData/rrc-polytech-steinbach-campus'
+import * as rrcpolytechwinnipeg from '../../assets/universityData/rrc-polytech-winnipeg'
+import * as rustcollegemississippi from '../../assets/universityData/rust-college-mississippi'
+import * as rutgersuniversitynewarkcampus from '../../assets/universityData/rutgers-university-newark-campus'
+import * as rutgersuniversitycamden from '../../assets/universityData/rutgers-university-camden'
+import * as rutgersnewbrunswick from '../../assets/universityData/rutgers-new-brunswick'
+import * as sacredheartuniversity from '../../assets/universityData/sacred-heart-university'
+import * as saginawvalleystateuniversity from '../../assets/universityData/saginaw-valley-state-university'
+import * as saintanselmcollege from '../../assets/universityData/saint-anselm-college'
+import * as saintaugustinesuniversity from '../../assets/universityData/saint-augustines-university'
+import * as saintcloudstateuniversity from '../../assets/universityData/saint-cloud-state-university'
+import * as saintelizabethuniversity from '../../assets/universityData/saint-elizabeth-university'
+import * as saintfrancisuniversity from '../../assets/universityData/saint-francis-university'
+import * as sainthermantheologicalseminary from '../../assets/universityData/saint-herman-theological-seminary'
+import * as saintjohnsuniversity from '../../assets/universityData/saint-johns-university'
+import * as saintjosephabbeyandseminarycollege from '../../assets/universityData/saint-joseph-abbey-and-seminary-college'
+import * as saintjosephscollegeofmaine from '../../assets/universityData/saint-josephs-college-of-maine'
+import * as saintjosephsuniversity from '../../assets/universityData/saint-josephs-university'
+import * as saintleouniversity from '../../assets/universityData/saint-leo-university'
+import * as saintlouisuniversitymissouri from '../../assets/universityData/saint-louis-university-missouri'
+import * as saintmartinsuniversity from '../../assets/universityData/saint-martins-university'
+import * as saintmaryscollegeofcalifornia from '../../assets/universityData/saint-marys-college-of-california'
+import * as saintmarysuniversityofminnesota from '../../assets/universityData/saint-marys-university-of-minnesota'
+import * as saintmarysuniversitynovascotia from '../../assets/universityData/saint-marys-university-nova-scotia'
+import * as saintpauluniversity from '../../assets/universityData/saint-paul-university'
+import * as saintpetersuniversity from '../../assets/universityData/saint-peters-university'
+import * as saintvincentcollege from '../../assets/universityData/saint-vincent-college'
+import * as saintvladimirscollege from '../../assets/universityData/saint-vladimirs-college'
+import * as saintxavieruniversity from '../../assets/universityData/saint-xavier-university'
+import * as salemcollegenorthcarolina from '../../assets/universityData/salem-college-north-carolina'
+import * as salemstateuniversitymaine from '../../assets/universityData/salem-state-university-maine'
+import * as salemstateuniversitymassachusetts from '../../assets/universityData/salem-state-university-massachusetts'
+import * as salemuniversitywestvirginia from '../../assets/universityData/salem-university-west-virginia'
+import * as salinaareatechnicalcollege from '../../assets/universityData/salina-area-technical-college'
+import * as salisburyuniversity from '../../assets/universityData/salisbury-university'
+import * as salvereginauniversity from '../../assets/universityData/salve-regina-university'
+import * as samhoustonstateuniversity from '../../assets/universityData/sam-houston-state-university'
+import * as samforduniversity from '../../assets/universityData/samford-university'
+import * as samuelmerrittuniversity from '../../assets/universityData/samuel-merritt-university'
+import * as sanantoniocollege from '../../assets/universityData/san-antonio-college'
+import * as sandiegostateuniversity from '../../assets/universityData/san-diego-state-university'
+import * as sanfranciscostateuniversity from '../../assets/universityData/san-francisco-state-university'
+import * as sanignaciouniversity from '../../assets/universityData/san-ignacio-university'
+import * as sanjosestateuniversity from '../../assets/universityData/san-jose-state-university'
+import * as oakwooduniversityalabama from '../../assets/universityData/oakwood-university-alabama'
+import * as sanjuancollegenewmexico from '../../assets/universityData/san-juan-college-new-mexico'
+import * as sansistocollegequeensland from '../../assets/universityData/san-sisto-college-queensland'
+import * as santaclarauniversity from '../../assets/universityData/santa-clara-university'
+import * as santafecollegeflorida from '../../assets/universityData/santa-fe-college-florida'
+import * as santafecommunitycollege from '../../assets/universityData/santa-fe-community-college'
+import * as santiagocanyoncollege from '../../assets/universityData/santiago-canyon-college'
+import * as sarahlawrencecollege from '../../assets/universityData/sarah-lawrence-college'
+import * as saskatchewanindianinstituteoftechnologies from '../../assets/universityData/saskatchewan-indian-institute-of-technologies'
+import * as saskatchewaninstituteofappliedscienceandtechnology from '../../assets/universityData/saskatchewan-institute-of-applied-science-and-technology'
+import * as saskatchewanpolytechnic from '../../assets/universityData/saskatchewan-polytechnic'
+import * as saultcollegeontario from '../../assets/universityData/sault-college-ontario'
+import * as schillerinternationaluniversity from '../../assets/universityData/schiller-international-university'
+import * as schoolofvisualarts from '../../assets/universityData/school-of-visual-arts'
+import * as schreineruniversity from '../../assets/universityData/schreiner-university'
+import * as scottsdalecommunitycollege from '../../assets/universityData/scottsdale-community-college'
+import * as scrippscollegecalifornia from '../../assets/universityData/scripps-college-california'
+import * as sealcovecampus from '../../assets/universityData/seal-cove-campus'
+import * as seattlepacificuniversity from '../../assets/universityData/seattle-pacific-university'
+import * as seattleuniversity from '../../assets/universityData/seattle-university'
+import * as seminolestatecollege from '../../assets/universityData/seminole-state-college'
+import * as setonhalluniversitynewjersey from '../../assets/universityData/seton-hall-university-new-jersey'
+import * as setonhilluniversitypennsylvania from '../../assets/universityData/seton-hill-university-pennsylvania'
+import * as sewardcountycommunitycollege from '../../assets/universityData/seward-county-community-college'
+import * as shafstoninternationalcollege from '../../assets/universityData/shafston-international-college'
+import * as shaheedmonsuralimedicalcollege from '../../assets/universityData/shaheed-monsur-ali-medical-college'
+import * as shawuniversity from '../../assets/universityData/shaw-university'
+import * as shawneestateuniversity from '../../assets/universityData/shawnee-state-university'
+import * as sheltonstatecommunitycollege from '../../assets/universityData/shelton-state-community-college'
+import * as shepherduniversity from '../../assets/universityData/shepherd-university'
+import * as sheridancollegewyoming from '../../assets/universityData/sheridan-college-wyoming'
+import * as shoalhavencommunitycollege from '../../assets/universityData/shoalhaven-community-college'
+import * as shoalhavenmarineandfreshwatercentre from '../../assets/universityData/shoalhaven-marine-and-freshwater-centre'
+import * as shoalhavenrivercollege from '../../assets/universityData/shoalhaven-river-college'
+import * as shortercollegearkansas from '../../assets/universityData/shorter-college-arkansas'
+import * as sierranevadauniversity from '../../assets/universityData/sierra-nevada-university'
+import * as simmonsuniversity from '../../assets/universityData/simmons-university'
+import * as simpsoncollegeiowa from '../../assets/universityData/simpson-college-iowa'
+import * as sintegleskauniversity from '../../assets/universityData/sinte-gleska-university'
+import * as sittingbullcollege from '../../assets/universityData/sitting-bull-college'
+import * as smithcollegemassachusetts from '../../assets/universityData/smith-college-massachusetts'
+import * as sneadstatecommunitycollege from '../../assets/universityData/snead-state-community-college'
+import * as soasuniversityoflondon from '../../assets/universityData/soas-university-of-london'
+import * as sofiauniversity from '../../assets/universityData/sofia-university'
+import * as sokauniversityofamerica from '../../assets/universityData/soka-university-of-america'
+import * as southarkansascommunitycollege from '../../assets/universityData/south-arkansas-community-college'
+import * as southcarolinastateuniversity from '../../assets/universityData/south-carolina-state-university'
+import * as southcoastcolleges from '../../assets/universityData/south-coast-colleges'
+import * as southcollegetennessee from '../../assets/universityData/south-college-tennessee'
+import * as southdakotamines from '../../assets/universityData/south-dakota-mines'
+import * as southdakotastateuniversity from '../../assets/universityData/south-dakota-state-university'
+import * as southlanarkshirecollege from '../../assets/universityData/south-lanarkshire-college'
+import * as southlouisianacommunitycollege from '../../assets/universityData/south-louisiana-community-college'
+import * as southmountaincommunitycollege from '../../assets/universityData/south-mountain-community-college'
+import * as southtexascollegepecancampus from '../../assets/universityData/south-texas-college-pecan-campus'
+import * as southuniversitycolumbia from '../../assets/universityData/south-university-columbia'
+import * as southuniversitytampa from '../../assets/universityData/south-university-tampa'
+import * as southwestcollegecookstowncampus from '../../assets/universityData/south-west-college-cookstown-campus'
+import * as southwestcollegedungannoncampus from '../../assets/universityData/south-west-college-dungannon-campus'
+import * as southwestcollegeernecampus from '../../assets/universityData/south-west-college-erne-campus'
+import * as southwestcollegeomaghcampus from '../../assets/universityData/south-west-college-omagh-campus'
+import * as southbankinstituteoftechnology from '../../assets/universityData/southbank-institute-of-technology'
+import * as southeastarkansascollege from '../../assets/universityData/southeast-arkansas-college'
+import * as southeastcollegesaskatchewan from '../../assets/universityData/southeast-college-saskatchewan'
+import * as southeastmissouristateuniversity from '../../assets/universityData/southeast-missouri-state-university'
+import * as southeasternbiblecollege from '../../assets/universityData/southeastern-bible-college'
+import * as southeasterncommunitycollegeiowa from '../../assets/universityData/southeastern-community-college-iowa'
+import * as southeasternlouisianauniversity from '../../assets/universityData/southeastern-louisiana-university'
+import * as southernadventistuniversity from '../../assets/universityData/southern-adventist-university'
+import * as southernalbertainstituteoftechnology from '../../assets/universityData/southern-alberta-institute-of-technology'
+import * as southernarkansasuniversityarkansas from '../../assets/universityData/southern-arkansas-university-arkansas'
+import * as southernarkansasuniversity from '../../assets/universityData/southern-arkansas-university'
+import * as southerncaliforniainstituteofarchitecture from '../../assets/universityData/southern-california-institute-of-architecture'
+import * as southerncaliforniauniversityofhealthsciences from '../../assets/universityData/southern-california-university-of-health-sciences'
+import * as southernconnecticutstateuniversity from '../../assets/universityData/southern-connecticut-state-university'
+import * as southernillinoisuniversitycarbondale from '../../assets/universityData/southern-illinois-university-carbondale'
+import * as southernillinoisuniversityedwardsville from '../../assets/universityData/southern-illinois-university-edwardsville'
+import * as southernmainecommunitycollege from '../../assets/universityData/southern-maine-community-college'
+import * as southernmethodistuniversity from '../../assets/universityData/southern-methodist-university'
+import * as southernnazareneuniversity from '../../assets/universityData/southern-nazarene-university'
+import * as southernnewhampshireuniversitymaine from '../../assets/universityData/southern-new-hampshire-university-maine'
+import * as southernnewhampshireuniversitynewhampshire from '../../assets/universityData/southern-new-hampshire-university-new-hampshire'
+import * as southernoregonuniversity from '../../assets/universityData/southern-oregon-university'
+import * as southernregionalcollegearmagh from '../../assets/universityData/southern-regional-college-armagh'
+import * as southernregionalcollegebanbridgecampus from '../../assets/universityData/southern-regional-college-banbridge-campus'
+import * as southernregionalcollegekilkeelcampus from '../../assets/universityData/southern-regional-college-kilkeel-campus'
+import * as southernregionalcollegearmaghcampus from '../../assets/universityData/southern-regional-college-armagh-campus'
+import * as southernschoolofnaturaltherapies from '../../assets/universityData/southern-school-of-natural-therapies'
+import * as southernunionstatecommunitycollege from '../../assets/universityData/southern-union-state-community-college'
+import * as southernuniversityandaandmcollege from '../../assets/universityData/southern-university-and-a-and-m-college'
+import * as southernutahuniversityutah from '../../assets/universityData/southern-utah-university-utah'
+import * as southernwesleyanuniversity from '../../assets/universityData/southern-wesleyan-university'
+import * as southernwestvirginiacommunityandtechnicalcollege from '../../assets/universityData/southern-west-virginia-community-and-technical-college'
+import * as southwestbaptistuniversity from '../../assets/universityData/southwest-baptist-university'
+import * as southwestinstituteofhealingarts from '../../assets/universityData/southwest-institute-of-healing-arts'
+import * as southwestminnesotastateuniversity from '../../assets/universityData/southwest-minnesota-state-university'
+import * as southwesttexasjuniorcollege from '../../assets/universityData/southwest-texas-junior-college'
+import * as southwesternassembliesofgoduniversity from '../../assets/universityData/southwestern-assemblies-of-god-university'
+import * as southwesternchristiancollege from '../../assets/universityData/southwestern-christian-college'
+import * as southwesterncollegekansas from '../../assets/universityData/southwestern-college-kansas'
+import * as southwesterncommunitycollegeiowa from '../../assets/universityData/southwestern-community-college-iowa'
+import * as southwesternindianpolytechnicinstitute from '../../assets/universityData/southwestern-indian-polytechnic-institute'
+import * as southwesternoklahomastateuniversity from '../../assets/universityData/southwestern-oklahoma-state-university'
+import * as southwesternuniversityflorida from '../../assets/universityData/southwestern-university-florida'
+import * as southwesternuniversitytexas from '../../assets/universityData/southwestern-university-texas'
+import * as spaldinguniversitykentucky from '../../assets/universityData/spalding-university-kentucky'
+import * as spartancollegeofaeronauticsandtechnology from '../../assets/universityData/spartan-college-of-aeronautics-and-technology'
+import * as spartanburgcommunitycollege from '../../assets/universityData/spartanburg-community-college'
+import * as spelmancollegegeorgia from '../../assets/universityData/spelman-college-georgia'
+import * as springarboruniversitymichigan from '../../assets/universityData/spring-arbor-university-michigan'
+import * as springhillcollegealabama from '../../assets/universityData/spring-hill-college-alabama'
+import * as springfieldcollegemassachusetts from '../../assets/universityData/springfield-college-massachusetts'
+import * as srucaberdeencampusscotland from '../../assets/universityData/sruc-aberdeen-campus-scotland'
+import * as stbrendanshawcollege from '../../assets/universityData/st-brendan-shaw-college'
+import * as stdavidscollegewales from '../../assets/universityData/st-davids-college-wales'
+import * as stjohnsuniversityqueenscampus from '../../assets/universityData/st-johns-university-queens-campus'
+import * as stjohnscollegeprestonvictoria from '../../assets/universityData/st-johns-college-preston-victoria'
+import * as stmarycopticorthodoxcollege from '../../assets/universityData/st-mary-coptic-orthodox-college'
+import * as stambroseuniversityiowa from '../../assets/universityData/st-ambrose-university-iowa'
+import * as standrewsuniversity from '../../assets/universityData/st-andrews-university'
+import * as stcatherineuniversity from '../../assets/universityData/st-catherine-university'
+import * as stclaircollegewindsorcampus from '../../assets/universityData/st-clair-college-windsor-campus'
+import * as stdunstansuniversity from '../../assets/universityData/st-dunstans-university'
+import * as stedwardsuniversitytexas from '../../assets/universityData/st-edwards-university-texas'
+import * as stfranciscollege from '../../assets/universityData/st-francis-college'
+import * as stfrancisxavieruniversity from '../../assets/universityData/st-francis-xavier-university'
+import * as stjohnscollegemaryland from '../../assets/universityData/st-johns-college-maryland'
+import * as stlawrencecollegekingston from '../../assets/universityData/st-lawrence-college-kingston'
+import * as stlukescollegeunitypointhealth from '../../assets/universityData/st-lukes-college-unitypoint-health'
+import * as stmaryscollegeofmaryland from '../../assets/universityData/st-marys-college-of-maryland'
+import * as stmarysuniversitycalgary from '../../assets/universityData/st-marys-university-calgary'
+import * as stmarysuniversitytexas from '../../assets/universityData/st-marys-university-texas'
+import * as stmichaelsuniversityschool from '../../assets/universityData/st-michaels-university-school'
+import * as stnorbertcollegewisconsin from '../../assets/universityData/st-norbert-college-wisconsin'
+import * as stolafcollegeminnesota from '../../assets/universityData/st-olaf-college-minnesota'
+import * as stphilipscollegetexas from '../../assets/universityData/st-philips-college-texas'
+import * as ststephensuniversity from '../../assets/universityData/st-stephens-university'
+import * as stthomasaquinascollege from '../../assets/universityData/st-thomas-aquinas-college'
+import * as stthomasuniversityfredericton from '../../assets/universityData/st-thomas-university-fredericton'
+import * as stthomasuniversityflorida from '../../assets/universityData/st-thomas-university-florida'
+import * as stanforduniversitycalifornia from '../../assets/universityData/stanford-university-california'
+import * as stanleycollegewesternaustralia from '../../assets/universityData/stanley-college-western-australia'
+import * as steinbachbiblecollegesteinbach from '../../assets/universityData/steinbach-bible-college-steinbach'
+import * as stephenfaustinstateuniversity from '../../assets/universityData/stephen-f-austin-state-university'
+import * as stephenscollegemissouri from '../../assets/universityData/stephens-college-missouri'
+import * as sterlingcollegekansas from '../../assets/universityData/sterling-college-kansas'
+import * as sterlingcollegevermont from '../../assets/universityData/sterling-college-vermont'
+import * as stetsonuniversityflorida from '../../assets/universityData/stetson-university-florida'
+import * as stevensinstituteoftechnology from '../../assets/universityData/stevens-institute-of-technology'
+import * as stevensinstituteoftechnologynewyork from '../../assets/universityData/stevens-institute-of-technology-new-york'
+import * as stevenstheinstituteofbusinessandarts from '../../assets/universityData/stevens-the-institute-of-business-and-arts'
+import * as stevenshenagercollegeidaho from '../../assets/universityData/stevens-henager-college-idaho'
+import * as stevenshenagercollegeutah from '../../assets/universityData/stevens-henager-college-utah'
+import * as stillmancollegealabama from '../../assets/universityData/stillman-college-alabama'
+import * as stirlingtheologicalcollege from '../../assets/universityData/stirling-theological-college'
+import * as stocktonuniversitynewjersey from '../../assets/universityData/stockton-university-new-jersey'
+import * as stonehillcollegemassachusetts from '../../assets/universityData/stonehill-college-massachusetts'
+import * as stranmillisuniversitycollegebelfast from '../../assets/universityData/stranmillis-university-college-belfast'
+import * as strayeruniversitydelaware from '../../assets/universityData/strayer-university-delaware'
+import * as strayeruniversitymississippi from '../../assets/universityData/strayer-university-mississippi'
+import * as strayeruniversitysouthcarolina from '../../assets/universityData/strayer-university-south-carolina'
+import * as strayeruniversitywestvirginia from '../../assets/universityData/strayer-university-west-virginia'
+import * as suffolkuniversitymassachusetts from '../../assets/universityData/suffolk-university-massachusetts'
+import * as sulrossstateuniversitytexas from '../../assets/universityData/sul-ross-state-university-texas'
+import * as summercollegeoregon from '../../assets/universityData/summer-college-oregon'
+import * as sunymaritimecollegenewyork from '../../assets/universityData/suny-maritime-college-new-york'
+import * as sussexcountycommunitycollege from '../../assets/universityData/sussex-county-community-college'
+import * as swanseauniversitywales from '../../assets/universityData/swansea-university-wales'
+import * as swarthmorecollegepennsylvania from '../../assets/universityData/swarthmore-college-pennsylvania'
+import * as swinburneuniversityoftechnology from '../../assets/universityData/swinburne-university-of-technology'
+import * as sydneybusinessschool from '../../assets/universityData/sydney-business-school'
+import * as sydneymissionaryandbiblecollege from '../../assets/universityData/sydney-missionary-and-bible-college'
+import * as sylhetwomensmedicalcollege from '../../assets/universityData/sylhet-womens-medical-college'
+import * as taborcollegekansas from '../../assets/universityData/tabor-college-kansas'
+import * as taborsouthaustralia from '../../assets/universityData/tabor-south-australia'
+import * as tafenswnowra from '../../assets/universityData/tafe-nsw-nowra'
+import * as tafequeenslandqueensland from '../../assets/universityData/tafe-queensland-queensland'
+import * as tafequeenslandacaciaridgecampus from '../../assets/universityData/tafe-queensland-acacia-ridge-campus'
+import * as talladegacollegealabama from '../../assets/universityData/talladega-college-alabama'
+import * as talmudicuniversityyeshiva from '../../assets/universityData/talmudic-university-yeshiva'
+import * as tarletonstateuniversity from '../../assets/universityData/tarleton-state-university'
+import * as tarrantcountycollegedistrictoffice from '../../assets/universityData/tarrant-county-college-district-office'
+import * as taylorcollegeandseminaryedmonton from '../../assets/universityData/taylor-college-and-seminary-edmonton'
+import * as tayloruniversityindiana from '../../assets/universityData/taylor-university-indiana'
+import * as technicalcollegeofthelowcountry from '../../assets/universityData/technical-college-of-the-lowcountry'
+import * as technicaluniversityofnovascotia from '../../assets/universityData/technical-university-of-nova-scotia'
+import * as teessideuniversityengland from '../../assets/universityData/teesside-university-england'
+import * as teluquniversityquebec from '../../assets/universityData/teluq-university-quebec'
+import * as templecollegetexas from '../../assets/universityData/temple-college-texas'
+import * as templeuniversitypennsylvania from '../../assets/universityData/temple-university-pennsylvania'
+import * as tennesseestateuniversity from '../../assets/universityData/tennessee-state-university'
+import * as tennesseetechuniversity from '../../assets/universityData/tennessee-tech-university'
+import * as tennesseewesleyanuniversity from '../../assets/universityData/tennessee-wesleyan-university'
+import * as terrastatecommunitycollege from '../../assets/universityData/terra-state-community-college'
+import * as texarkanacollegetexas from '../../assets/universityData/texarkana-college-texas'
+import * as texasaandminternationaluniversity from '../../assets/universityData/texas-aandm-international-university'
+import * as texasaandmuniversitykingsville from '../../assets/universityData/texas-aandm-university-kingsville'
+import * as texasaandmuniversitytexarkana from '../../assets/universityData/texas-aandm-university-texarkana'
+import * as texasaandmuniversitytexas from '../../assets/universityData/texas-aandm-university-texas'
+import * as texasaandmuniversitycentraltexas from '../../assets/universityData/texas-aandm-university-central-texas'
+import * as texasaandmuniversitycommerce from '../../assets/universityData/texas-aandm-university-commerce'
+import * as texasaandmuniversitycorpuschristi from '../../assets/universityData/texas-aandm-university-corpus-christi'
+import * as texasaandmuniversitysanantonio from '../../assets/universityData/texas-aandm-university-san-antonio'
+import * as texaschristianuniversity from '../../assets/universityData/texas-christian-university'
+import * as texascollegetexas from '../../assets/universityData/texas-college-texas'
+import * as texaslutheranuniversity from '../../assets/universityData/texas-lutheran-university'
+import * as texassouthernuniversity from '../../assets/universityData/texas-southern-university'
+import * as texassouthmostcollegegorgas from '../../assets/universityData/texas-southmost-college-gorgas'
+import * as texasstatetechnicalcollege from '../../assets/universityData/texas-state-technical-college'
+import * as texasstateuniversitytexas from '../../assets/universityData/texas-state-university-texas'
+import * as texastechuniversityhealthsciencescenter from '../../assets/universityData/texas-tech-university-health-sciences-center'
+import * as texastechuniversitytexas from '../../assets/universityData/texas-tech-university-texas'
+import * as texaswesleyanuniversity from '../../assets/universityData/texas-wesleyan-university'
+import * as texaswomansuniversity from '../../assets/universityData/texas-womans-university'
+import * as theamericanacademyofdramaticarts from '../../assets/universityData/the-american-academy-of-dramatic-arts'
+import * as theartinstituteofatlanta from '../../assets/universityData/the-art-institute-of-atlanta'
+import * as theartinstituteofaustintexas from '../../assets/universityData/the-art-institute-of-austin-texas'
+import * as theartinstituteofdallas from '../../assets/universityData/the-art-institute-of-dallas'
+import * as theartinstituteofhouston from '../../assets/universityData/the-art-institute-of-houston'
+import * as theaustraliannationaluniversity from '../../assets/universityData/the-australian-national-university'
+import * as thebeautyschoolnorthernireland from '../../assets/universityData/the-beauty-school-northern-ireland'
+import * as thebiblecollegeofwales from '../../assets/universityData/the-bible-college-of-wales'
+import * as thechristcollegeofnursingandhealthsciences from '../../assets/universityData/the-christ-college-of-nursing-and-health-sciences'
+import * as thecollegeofnewjersey from '../../assets/universityData/the-college-of-new-jersey'
+import * as thecollegeofstscholastica from '../../assets/universityData/the-college-of-st-scholastica'
+import * as thecollegeofwoosterohio from '../../assets/universityData/the-college-of-wooster-ohio'
+import * as thecooperunionnewyork from '../../assets/universityData/the-cooper-union-new-york'
+import * as theevergreenstatecollege from '../../assets/universityData/the-evergreen-state-college'
+import * as theglasgowschoolofart from '../../assets/universityData/the-glasgow-school-of-art'
+import * as thejuilliardschoolnewyork from '../../assets/universityData/the-juilliard-school-new-york'
+import * as thekingscollegenewyork from '../../assets/universityData/the-kings-college-new-york'
+import * as thekingsuniversityedmonton from '../../assets/universityData/the-kings-university-edmonton'
+import * as themastersuniversitycalifornia from '../../assets/universityData/the-masters-university-california'
+import * as themoderncollegeofdesign from '../../assets/universityData/the-modern-college-of-design'
+import * as thenewschoolnewyork from '../../assets/universityData/the-new-school-new-york'
+import * as theohiostateuniversityatlima from '../../assets/universityData/the-ohio-state-university-at-lima'
+import * as theohiostateuniversityatmansfield from '../../assets/universityData/the-ohio-state-university-at-mansfield'
+import * as theohiostateuniversityatmarion from '../../assets/universityData/the-ohio-state-university-at-marion'
+import * as theohiostateuniversityatnewark from '../../assets/universityData/the-ohio-state-university-at-newark'
+import * as theohiostateuniversityohio from '../../assets/universityData/the-ohio-state-university-ohio'
+import * as theroyalconservatoryofmusic from '../../assets/universityData/the-royal-conservatory-of-music'
+import * as thescotscollegeglengarrycampus from '../../assets/universityData/the-scots-college-glengarry-campus'
+import * as theuniversityofakronohio from '../../assets/universityData/the-university-of-akron-ohio'
+import * as theuniversityofarizonaglobalcampus from '../../assets/universityData/the-university-of-arizona-global-campus'
+import * as theuniversityofarizonaarizona from '../../assets/universityData/the-university-of-arizona-arizona'
+import * as theuniversityofarts from '../../assets/universityData/the-university-of-arts'
+import * as theuniversityofbaltimore from '../../assets/universityData/the-university-of-baltimore'
+import * as theuniversityofchicago from '../../assets/universityData/the-university-of-chicago'
+import * as theuniversityofiowa from '../../assets/universityData/the-university-of-iowa'
+import * as theuniversityofmanchester from '../../assets/universityData/the-university-of-manchester'
+import * as theuniversityofnewmexiconewmexico from '../../assets/universityData/the-university-of-new-mexico-new-mexico'
+import * as theuniversityofnewmexicovalenciacampus from '../../assets/universityData/the-university-of-new-mexico-valencia-campus'
+import * as theuniversityofneworleans from '../../assets/universityData/the-university-of-new-orleans'
+import * as theuniversityofnotredameaustralia from '../../assets/universityData/the-university-of-notre-dame-australia'
+import * as theuniversityofoklahoma from '../../assets/universityData/the-university-of-oklahoma'
+import * as theuniversityofqueensland from '../../assets/universityData/the-university-of-queensland'
+import * as theuniversityofsouthernmississippi from '../../assets/universityData/the-university-of-southern-mississippi'
+import * as theuniversityoftampa from '../../assets/universityData/the-university-of-tampa'
+import * as theuniversityoftennesseeatchattanooga from '../../assets/universityData/the-university-of-tennessee-at-chattanooga'
+import * as theuniversityoftexasataustin from '../../assets/universityData/the-university-of-texas-at-austin'
+import * as theuniversityoftexasatelpaso from '../../assets/universityData/the-university-of-texas-at-el-paso'
+import * as theuniversityoftexasatsanantonio from '../../assets/universityData/the-university-of-texas-at-san-antonio'
+import * as theuniversityoftexasmdanderson from '../../assets/universityData/the-university-of-texas-md-anderson'
+import * as theuniversityoftexaspermianbasin from '../../assets/universityData/the-university-of-texas-permian-basin'
+import * as theuniversityoftexasriograndevalley from '../../assets/universityData/the-university-of-texas-rio-grande-valley'
+import * as theuniversityoftoledo from '../../assets/universityData/the-university-of-toledo'
+import * as theuniversityoftulsa from '../../assets/universityData/the-university-of-tulsa'
+import * as theuniversityofutah from '../../assets/universityData/the-university-of-utah'
+import * as theuniversityofwesternaustralia from '../../assets/universityData/the-university-of-western-australia'
+import * as theuniversityofwinnipeg from '../../assets/universityData/the-university-of-winnipeg'
+import * as thielcollegepennsylvania from '../../assets/universityData/thiel-college-pennsylvania'
+import * as thomasaquinascollege from '../../assets/universityData/thomas-aquinas-college'
+import * as thomascollegemaine from '../../assets/universityData/thomas-college-maine'
+import * as thomasmorecollegeofliberalarts from '../../assets/universityData/thomas-more-college-of-liberal-arts'
+import * as thomasmoreuniversitykentucky from '../../assets/universityData/thomas-more-university-kentucky'
+import * as thomasuniversityforbescampus from '../../assets/universityData/thomas-university-forbes-campus'
+import * as tiffinuniversityohio from '../../assets/universityData/tiffin-university-ohio'
+import * as toccoafallscollege from '../../assets/universityData/toccoa-falls-college'
+import * as tohonooodhamcommunitycollege from '../../assets/universityData/tohono-oodham-community-college'
+import * as torrensuniversityaustralia from '../../assets/universityData/torrens-university-australia'
+import * as tougaloocollegemississippi from '../../assets/universityData/tougaloo-college-mississippi'
+import * as tourouniversitynevada from '../../assets/universityData/touro-university-nevada'
+import * as towsonuniversitymaryland from '../../assets/universityData/towson-university-maryland'
+import * as transylvaniauniversity from '../../assets/universityData/transylvania-university'
+
+export {
+
     //amityglobalbusinessschool,
     //amityinstituteofinformationtechnologymumbai,
     bridgetowninternationaluniversity,
@@ -823,7 +1578,760 @@ export {
     mainamotimedicalcollege,
     monnomedicalcollegeandhospital,
     immanuelkantbalticfederaluniversity,
-    
+    nipissinguniversity,
+    northeasternuniversity,
+    paceuniversity,
+    purdueuniversity,
+    queenslanduniversity,
+    saintlouisuniversity,
+    solentuniversity,
+    stanforduniversity,
+    swinburneuniversity,
+    teessideuniversity,
+    texasamuniversity,
+    universityofillinois,
+    universityofnewcastle,
+    universityofqueensland,
+    universityoftexasaustin,
+    universityoftexasdallas,
+    universityofwesternaustralia,
+    torontometropolitanuniversity,
+    torrensuniversity,
+    trinitywesternuniversity,
+    universityatbuffalo,
+    universityofcalifornia,
+    universityofcanberra,
+    universityofflorida,
+    universityofkent,
+    universityofnewhaven,
+    universityofnorthtexas,
+    universityofprinceedwardisland,
+    universityofsouthflorida,
+    universityofsoutherncalifornia,
+    universityofsouthernqueensland,
+    universityoftechnology,
+    universityoftexasarlington,
+    universityofsunshinecoast,
+    universityoftoronto,
+    universityofwollongong,
+    vancouverislanduniversity,
+    victoriauniversitysydney,
+    victoriauniversity,
+    universityofcalgary,
     //christuniversitybangalore
-
- }
+    millenniaatlanticuniversity,
+    millersvilleuniversitypennsylvania,
+    milliganuniversitytennessee,
+    millikinuniversityillinois,
+    minnesotastateuniversitymankato,
+    minnesotastateuniversitymoorhead,
+    minotstateuniversity,
+    mississippistateuniversity,
+    mississippiuniversityforwomen,
+    mississippivalleystateuniversity,
+    missouribaptistuniversity,
+    missouristateuniversity,
+    missouriuniversityofscienceandtechnology,
+    missouriwesternstateuniversity,
+    monmouthuniversity,
+    montanastateuniversitybillings,
+    montanastateuniversitynorthern,
+    montclairstateuniversity,
+    millermottecollegenorthcarolina,
+    millermottecollegesouthcarolina,
+    millsapscollegemississippi,
+    millscollegecalifornia,
+    milwaukeeinstituteofartanddesign,
+    milwaukeeschoolofengineering,
+    mississippicollegemississippi,
+    missourivalleycollege,
+    mitchelltechnicalcollege,
+    mohavecommunitycollege,
+    mohawkcollegeontario,
+    molloycollegenewyork,
+    monbulkcollegevictoria,
+    monmouthcollegeillinois,
+    monroecollegenewyork,
+    montreatcollegenorthcarolina,
+    montserratcollegeofartmaine,
+    montserratcollegeofartmassachusetts,
+    mooretheologicalcollege,
+    moravianuniversitypennsylvania,
+    morehousecollegegeorgia,
+    morgancommunitycollege,
+    morganstateuniversity,
+    morlingcollegenewsouthwales,
+    morningsideuniversity,
+    morrincollegequebec,
+    morriscollegesouthcarolina,
+    morrisoninstituteoftechnology,
+    mosmamanitoba,
+    mountainstatecollege,
+    mountallisonuniversity,
+    mountaloysiuscollege,
+    mountcarmelcollegeofnursing,
+    mountholyokecollege,
+    mountmartyuniversity,
+    mountmaryuniversity,
+    mountmercyuniversity,
+    mountroyaluniversity,
+    mountsaintmarysuniversity,
+    mountsaintvincentuniversity,
+    mountstjosephuniversity,
+    mountstmarysuniversity,
+    mountvernonnazareneuniversity,
+    mountwestcommunityandtechnicalcollege,
+    msudenvercolorado,
+    muhlenbergcollege,
+    multnomahuniversity,
+    murdochbusinessschool,
+    mureskinstitutewa,
+    murraystatecollege,
+    murraystateuniversity,
+    muskingumuniversity,
+    naitalberta,
+    naropauniversity,
+    nashuacommunitycollege,
+    nationalaboriginalislander,
+    nationalcollegeofvocationaleducation,
+    nationalmedicalcollege,
+    nationalparalegalcollege,
+    nationalparkcollege,
+    nationaluniversitycalifornia,
+    nationaluniversityofhealthsciences,
+    naturecarecollege,
+    navajotechnicaluniversity,
+    navarrocollegetexas,
+    nazarenetheologicalcollege,
+    nbcccorporateofficefredericton,
+    ncktechnicalcollege,
+    neathporttalbotcollegeafan,
+    neathporttalbotcollegecolegponardawe,
+    nebraskachristiancollege,
+    nebraskacollegeoftechnicalagriculture,
+    nebraskaindiancommunitycollege,
+    nebraskamethodistcollege,
+    nebraskawesleyanuniversity,
+    neoshocountycommunitycollege,
+    nepalmedicalcollege,
+    nepalgunjmedicalcollege,
+    neumontcollegeofcomputerscience,
+    nevadastatecollege,
+    newbrunswickbibleinstitute,
+    newbrunswickcollegeofcraftanddesign,
+    newcollegeofflorida,
+    newenglandcollege,
+    newjerseycityuniversity,
+    newjerseyinstituteoftechnology,
+    newmexicohighlandsuniversity,
+    newmexicoinstituteofminingandtechnology,
+    newmexicojuniorcollege,
+    newmexicomilitaryinstitute,
+    newmexicostateuniversityalamogordo,
+    newmexicostateuniversitycarlsbad,
+    newmexicostateuniversitygrants,
+    newmexicostateuniversity,
+    newmexicoveteransupwardbound,
+    newrivercommunityandtechnicalcollege,
+    newschoolofarchitectureanddesign,
+    newsouthwalespoliceacademy,
+    newyorkcollegeofhealthprofessions,
+    newyorkfilmacademy,
+    newyorkschoolofinteriordesign,
+    newyorkuniversity,
+    newberrycollege,
+    newcastleuniversity,
+    newmancollegeireland,
+    newmantheologicalcollege,
+    newmanuniversitykansas,
+    nhticoncordscommunitycollege,
+    niaccnorthiowaareacommunitycollege,
+    niagaracollegeontario,
+    nichollsstateuniversity,
+    nicolavalleyinstituteoftechnology,
+    nightingalecollege,
+    nipawinbiblecollege,
+    nipissinguniversityontario,
+    nobelmedicalcollege,
+    nocholscollegemassachusetts,
+    norquestcollegeedmontoncampus,
+    northamericanuniversity,
+    northarkansascollege,
+    northcarolinaagriculturalandtechnicalstateuniversity,
+    northcarolinacentraluniversity,
+    northcarolinastateuniversity,
+    northcarolinawesleyancollege,
+    northcentralcollegeillinois,
+    northcentraluniversity,
+    northdakotastateuniversity,
+    northeastmedicalcollege,
+    northgreenvilleuniversitynorthcarolina,
+    northgreenvilleuniversitysouthcarolina,
+    northidahocollege,
+    northislandcollege,
+    northparkuniversity,
+    northscotlandcollege,
+    northwestcollegesaskatchewan,
+    northwestregionalcollegenorthernireland,
+    northwestregionalcollegederrylondonderry,
+    northwestregionalcollegelimavady,
+    northcentraluniversityarizona,
+    northeastalabamacommunitycollege,
+    northeasttexascommunitycollege,
+    northeastwisconsintechnicalcollege,
+    northeasternillinoisuniversity,
+    northeasternuniversitymassachusetts,
+    northernarizonauniversity,
+    northernillinoisuniversity,
+    northernkentuckyuniversity,
+    northernlakescollege,
+    northernlightscollege,
+    northernmichiganuniversity,
+    northernnewmexicocollege,
+    northernregionalcollegeballymoney,
+    northernregionalcollegeantrim,
+    northernregionalcollegelarne,
+    northernregionalcollegenorthernireland,
+    northernstateuniversity,
+    northernvermontuniversity,
+    northlandpioneercollege,
+    northlandscollegesaskatchewan,
+    northpointbiblecollege,
+    northumbriauniversity,
+    northwestarkansascommunitycollege,
+    northwestcareercollege,
+    northwestcollegeofartanddesign,
+    northwestcollegewyoming,
+    northwestiowacommunitycollege,
+    northwestmissouristateuniversity,
+    northwestnazareneuniversity,
+    northwestuniversity,
+    northwestvistacollege,
+    northwesterncollegeiowa,
+    northwesternconnecticutcommunitycollege,
+    northwesternoklahomastateuniversity,
+    northwesternstateuniversity,
+    northwesternuniversityillinois,
+    northwestshoalscommunitycollege,
+    northwoodtechnicalcollege,
+    northwooduniversity,
+    norwalkcommunitycollege,
+    norwichuniversity,
+    nossicollegeofart,
+    notredamecollege,
+    notredameofmarylanduniversity,
+    nottinghamtrentuniversity,
+    novascotiaagriculturalcollege,
+    novascotiateacherscollege,
+    novasouthwesternuniversity,
+    nptcgroupofcollege,
+    nrcballymena,
+    nscaduniversity,
+    nscccentreofgeographicsciences,
+    nsccinstituteoftechnologycampus,
+    nscecenovascotia,
+    nuetahidatsasahnishnhscommunitycollege,
+    nunavutarcticcollege,
+    nunezcommunitycollege,
+    nungalinyacollege,
+    nyackcollege,
+    oaklandcityuniversity,
+    oaklanduniversity,
+    oberlincollege,
+    ocaduniversity,
+    occidentalcollege,
+    oceancountycollege,
+    odessacollege,
+    oglethorpeuniversity,
+    ohiobusinesscollege,
+    ohiochristianuniversity,
+    ohiodominicanuniversity,
+    ohionorthernuniversity,
+    ohiostateuniversity,
+    ohiotechnicalcollege,
+    ohiouniversity,
+    ohiovalleycollegeoftechnology,
+    ohiovalleyuniversity,
+    ohiovalleyuniversitywestvirginia,
+    ohiowesleyanuniversity,
+    okanagancollegekelownacampus,
+    oklahomacityuniversity,
+    oklahomastateuniversity,
+    oklahomawesleyanuniversity,
+    olddominionuniversity,
+    oldsuncommunitycollege,
+    oldscollegealberta,
+    olincollegeofengineering,
+    olivetcollegemichigan,
+    olivetnazareneuniversity,
+    ontariotechuniversity,
+    oralrobertsuniversity,
+    orangecoastcollege,
+    oregoninstituteoftechnology,
+    oregonstateuniversity,
+    otiscollegeofartanddesign,
+    ottawauniversity,
+    otterbeinuniversity,
+    ouachitabaptistuniversity,
+    oultoncollegemoncton,
+    ourladyofthelakeuniversity,
+    ozarkacollegearkansas,
+    paceuniversitynewyork,
+    pacificlutheranuniversity,
+    pacificnorthwestcollegeofart,
+    pacificrimchristianuniversity,
+    pacificstatesuniversity,
+    pacificunioncollege,
+    palmbeachatlanticuniversity,
+    palmercollegeofchiropracticmaincampus,
+    paloaltocollegetexas,
+    panolacollegetexas,
+    paradisevalleycommunitycollege,
+    parisjuniorcollegetexas,
+    parkeruniversitycampus,
+    parklandcollegemaincampus,
+    parklandcollegetradesandtechnologycentre,
+    parklandcollegekelvington,
+    paulquinncollegetexas,
+    pavillonjraymondfrenette,
+    peaceriverbibleinstitute,
+    pearsoncollegeuwc,
+    pembrokescollegewales,
+    pennstateuniversity,
+    pennsylvaniacollegeofartanddesign,
+    pennsylvaniacollegeofhealthsciences,
+    pennsylvaniacollegeoftechnology,
+    pennsylvaniahighlandscommunitycollege,
+    pepperdineuniversitycalifornia,
+    perrytechnicalinstitutewashington,
+    perthbiblecollegewesternaustralia,
+    perustatecollegenebraska,
+    pfeifferuniversity,
+    philandersmithcollegearkansas,
+    phillipscommunitycollegeoftheuniversity,
+    phoenixcollegearizona,
+    piedmonttechnicalcollege,
+    pierpontcommunityandtechnicalcollege,
+    pimamedicalinstitutelasvegas,
+    pimamedicalinstitutearizona,
+    pittsburgstateuniversity,
+    pitzercollegecalifornia,
+    plazacollegenewyork,
+    plymouthstateuniversity,
+    pointlomanazareneuniversitycalifornia,
+    pointuniversitygeorgia,
+    polytechnicuniversityorlandocampus,
+    purdueuniversityfortwayne,
+    pomonacollegecalifornia,
+    pontificalcollegejosephinum,
+    portagecollegelaclabichecampus,
+    portervillecollegecalifornia,
+    portlandstateuniversity,
+    postuniversityconnecticut,
+    prairiecollegealberta,
+    prairieviewaandmuniversity,
+    prattcommunitycollegekansas,
+    prattinstitutenewyork,
+    presbyteriancollege,
+    prescottcollegearizona,
+    princetonuniversity,
+    presentationcollegesouthdakota,
+    providencecollegerhodeisland,
+    providenceuniversity,
+    provocollegeutah,
+    pueblocommunitycollegecolorado,
+    purdueuniversityindiana,
+    qimrberghofermedicalresearchinstitute,
+    queenmaryuniversityoflondon,
+    queensuniversitybelfast,
+    queensuniversityofcharlotte,
+    questuniversitycanada,
+    quincycollegemassachusetts,
+    quincyuniversityillinois,
+    quinnipiacuniversity,
+    qutgardenspointcampus,
+    racmavictoria,
+    ramapocollegeofnewjersey,
+    randalluniversity,
+    rangercollegetexas,
+    rankentechnicalcollegemissouri,
+    rasmussenuniversityfargo,
+    rasmussenuniversitywisconsin,
+    redcrowcommunitycollege,
+    reddeerpolytechnicuniversity,
+    redrivercollegegimli,
+    redrivercollegeadultlearningcentre,
+    redrivercollegepeguis,
+    redrivercollegeprincessstreet,
+    redrivercollegesteinbachcommunity,
+    redrivercollegesaatcsouthport,
+    redrivercollegesaatcwinnipeg,
+    reedcollegeoregon,
+    regentcollegevancouver,
+    regentuniversityvirginia,
+    regiscollegemassachusetts,
+    regisuniversity,
+    remingtoncollegegreenspointcampus,
+    remingtoncollegelouisiana,
+    remingtoncollegetennessee,
+    rhodeislandcollege,
+    rhodeislandschoolofdesign,
+    rhodescollegetennessee,
+    riceuniversity,
+    rideruniversity,
+    ridleycollegevictoria,
+    ringlingcollegeofartanddesign,
+    riosaladocollegearizona,
+    riponcollegewisconsin,
+    rivervalleycommunitycollege,
+    rivieruniversity,
+    robertmorrisuniversity,
+    robertsoncollegemanitoba,
+    rockforduniversity,
+    rockhurstuniversity,
+    rockymountaincollegeofartdesign,
+    rockymountaincollegemontana,
+    rogerwilliamsuniversity,
+    rogersstateuniversity,
+    rolinscollegeflorida,
+    rooseveltuniversity,
+    rosehulmaninstituteoftechnology,
+    rosemountcollegepennsylvania,
+    rowanuniversity,
+    roxburycommunitycollege,
+    royalaustralianandnewzealandcollege,
+    royalhollowayengland,
+    royalmilitarycollegeofcanada,
+    royalwelshcollege,
+    rrcpolytechlanguagetrainingcentre,
+    rrcpolytechportagecampus,
+    rrcpolytechsteinbachcampus,
+    rrcpolytechwinnipeg,
+    rustcollegemississippi,
+    rutgersuniversitynewarkcampus,
+    rutgersuniversitycamden,
+    rutgersnewbrunswick,
+    sacredheartuniversity,
+    saginawvalleystateuniversity,
+    saintanselmcollege,
+    saintaugustinesuniversity,
+    saintcloudstateuniversity,
+    saintelizabethuniversity,
+    saintfrancisuniversity,
+    sainthermantheologicalseminary,
+    saintjohnsuniversity,
+    saintjosephabbeyandseminarycollege,
+    saintjosephscollegeofmaine,
+    saintjosephsuniversity,
+    saintleouniversity,
+    saintlouisuniversitymissouri,
+    saintmartinsuniversity,
+    saintmaryscollegeofcalifornia,
+    saintmarysuniversityofminnesota,
+    saintmarysuniversitynovascotia,
+    saintpauluniversity,
+    saintpetersuniversity,
+    saintvincentcollege,
+    saintvladimirscollege,
+    saintxavieruniversity,
+    salemcollegenorthcarolina,
+    salemstateuniversitymaine,
+    salemstateuniversitymassachusetts,
+    salemuniversitywestvirginia,
+    salinaareatechnicalcollege,
+    salisburyuniversity,
+    salvereginauniversity,
+    samhoustonstateuniversity,
+    samforduniversity,
+    samuelmerrittuniversity,
+    sanantoniocollege,
+    sandiegostateuniversity,
+    sanfranciscostateuniversity,
+    sanignaciouniversity,
+    sanjosestateuniversity,
+    oakwooduniversityalabama,
+    sanjuancollegenewmexico,
+    sansistocollegequeensland,
+    santaclarauniversity,
+    santafecollegeflorida,
+    santafecommunitycollege,
+    santiagocanyoncollege,
+    sarahlawrencecollege,
+    saskatchewanindianinstituteoftechnologies,
+    saskatchewaninstituteofappliedscienceandtechnology,
+    saskatchewanpolytechnic,
+    saultcollegeontario,
+    schillerinternationaluniversity,
+    schoolofvisualarts,
+    schreineruniversity,
+    scottsdalecommunitycollege,
+    scrippscollegecalifornia,
+    sealcovecampus,
+    seattlepacificuniversity,
+    seattleuniversity,
+    seminolestatecollege,
+    setonhalluniversitynewjersey,
+    setonhilluniversitypennsylvania,
+    sewardcountycommunitycollege,
+    shafstoninternationalcollege,
+    shaheedmonsuralimedicalcollege,
+    shawuniversity,
+    shawneestateuniversity,
+    sheltonstatecommunitycollege,
+    shepherduniversity,
+    sheridancollegewyoming,
+    shoalhavencommunitycollege,
+    shoalhavenmarineandfreshwatercentre,
+    shoalhavenrivercollege,
+    shortercollegearkansas,
+    sierranevadauniversity,
+    simmonsuniversity,
+    simpsoncollegeiowa,
+    sintegleskauniversity,
+    sittingbullcollege,
+    smithcollegemassachusetts,
+    sneadstatecommunitycollege,
+    soasuniversityoflondon,
+    sofiauniversity,
+    sokauniversityofamerica,
+    southarkansascommunitycollege,
+    southcarolinastateuniversity,
+    southcoastcolleges,
+    southcollegetennessee,
+    southdakotamines,
+    southdakotastateuniversity,
+    southlanarkshirecollege,
+    southlouisianacommunitycollege,
+    southmountaincommunitycollege,
+    southtexascollegepecancampus,
+    southuniversitycolumbia,
+    southuniversitytampa,
+    southwestcollegecookstowncampus,
+    southwestcollegedungannoncampus,
+    southwestcollegeernecampus,
+    southwestcollegeomaghcampus,
+    southbankinstituteoftechnology,
+    southeastarkansascollege,
+    southeastcollegesaskatchewan,
+    southeastmissouristateuniversity,
+    southeasternbiblecollege,
+    southeasterncommunitycollegeiowa,
+    southeasternlouisianauniversity,
+    southernadventistuniversity,
+    southernalbertainstituteoftechnology,
+    southernarkansasuniversityarkansas,
+    southernarkansasuniversity,
+    southerncaliforniainstituteofarchitecture,
+    southerncaliforniauniversityofhealthsciences,
+    southernconnecticutstateuniversity,
+    southernillinoisuniversitycarbondale,
+    southernillinoisuniversityedwardsville,
+    southernmainecommunitycollege,
+    southernmethodistuniversity,
+    southernnazareneuniversity,
+    southernnewhampshireuniversitymaine,
+    southernnewhampshireuniversitynewhampshire,
+    southernoregonuniversity,
+    southernregionalcollegearmagh,
+    southernregionalcollegebanbridgecampus,
+    southernregionalcollegekilkeelcampus,
+    southernregionalcollegearmaghcampus,
+    southernschoolofnaturaltherapies,
+    southernunionstatecommunitycollege,
+    southernuniversityandaandmcollege,
+    southernutahuniversityutah,
+    southernwesleyanuniversity,
+    southernwestvirginiacommunityandtechnicalcollege,
+    southwestbaptistuniversity,
+    southwestinstituteofhealingarts,
+    southwestminnesotastateuniversity,
+    southwesttexasjuniorcollege,
+    southwesternassembliesofgoduniversity,
+    southwesternchristiancollege,
+    southwesterncollegekansas,
+    southwesterncommunitycollegeiowa,
+    southwesternindianpolytechnicinstitute,
+    southwesternoklahomastateuniversity,
+    southwesternuniversityflorida,
+    southwesternuniversitytexas,
+    spaldinguniversitykentucky,
+    spartancollegeofaeronauticsandtechnology,
+    spartanburgcommunitycollege,
+    spelmancollegegeorgia,
+    springarboruniversitymichigan,
+    springhillcollegealabama,
+    springfieldcollegemassachusetts,
+    srucaberdeencampusscotland,
+    stbrendanshawcollege,
+    stdavidscollegewales,
+    stjohnsuniversityqueenscampus,
+    stjohnscollegeprestonvictoria,
+    stmarycopticorthodoxcollege,
+    stambroseuniversityiowa,
+    standrewsuniversity,
+    stcatherineuniversity,
+    stclaircollegewindsorcampus,
+    stdunstansuniversity,
+    stedwardsuniversitytexas,
+    stfranciscollege,
+    stfrancisxavieruniversity,
+    stjohnscollegemaryland,
+    stlawrencecollegekingston,
+    stlukescollegeunitypointhealth,
+    stmaryscollegeofmaryland,
+    stmarysuniversitycalgary,
+    stmarysuniversitytexas,
+    stmichaelsuniversityschool,
+    stnorbertcollegewisconsin,
+    stolafcollegeminnesota,
+    stphilipscollegetexas,
+    ststephensuniversity,
+    stthomasaquinascollege,
+    stthomasuniversityfredericton,
+    stthomasuniversityflorida,
+    stanforduniversitycalifornia,
+    stanleycollegewesternaustralia,
+    steinbachbiblecollegesteinbach,
+    stephenfaustinstateuniversity,
+    stephenscollegemissouri,
+    sterlingcollegekansas,
+    sterlingcollegevermont,
+    stetsonuniversityflorida,
+    stevensinstituteoftechnology,
+    stevensinstituteoftechnologynewyork,
+    stevenstheinstituteofbusinessandarts,
+    stevenshenagercollegeidaho,
+    stevenshenagercollegeutah,
+    stillmancollegealabama,
+    stirlingtheologicalcollege,
+    stocktonuniversitynewjersey,
+    stonehillcollegemassachusetts,
+    stranmillisuniversitycollegebelfast,
+    strayeruniversitydelaware,
+    strayeruniversitymississippi,
+    strayeruniversitysouthcarolina,
+    strayeruniversitywestvirginia,
+    suffolkuniversitymassachusetts,
+    sulrossstateuniversitytexas,
+    summercollegeoregon,
+    sunymaritimecollegenewyork,
+    sussexcountycommunitycollege,
+    swanseauniversitywales,
+    swarthmorecollegepennsylvania,
+    swinburneuniversityoftechnology,
+    sydneybusinessschool,
+    sydneymissionaryandbiblecollege,
+    sylhetwomensmedicalcollege,
+    taborcollegekansas,
+    taborsouthaustralia,
+    tafenswnowra,
+    tafequeenslandqueensland,
+    tafequeenslandacaciaridgecampus,
+    talladegacollegealabama,
+    talmudicuniversityyeshiva,
+    tarletonstateuniversity,
+    tarrantcountycollegedistrictoffice,
+    taylorcollegeandseminaryedmonton,
+    tayloruniversityindiana,
+    technicalcollegeofthelowcountry,
+    technicaluniversityofnovascotia,
+    teessideuniversityengland,
+    teluquniversityquebec,
+    templecollegetexas,
+    templeuniversitypennsylvania,
+    tennesseestateuniversity,
+    tennesseetechuniversity,
+    tennesseewesleyanuniversity,
+    terrastatecommunitycollege,
+    texarkanacollegetexas,
+    texasaandminternationaluniversity,
+    texasaandmuniversitykingsville,
+    texasaandmuniversitytexarkana,
+    texasaandmuniversitytexas,
+    texasaandmuniversitycentraltexas,
+    texasaandmuniversitycommerce,
+    texasaandmuniversitycorpuschristi,
+    texasaandmuniversitysanantonio,
+    texaschristianuniversity,
+    texascollegetexas,
+    texaslutheranuniversity,
+    texassouthernuniversity,
+    texassouthmostcollegegorgas,
+    texasstatetechnicalcollege,
+    texasstateuniversitytexas,
+    texastechuniversityhealthsciencescenter,
+    texastechuniversitytexas,
+    texaswesleyanuniversity,
+    texaswomansuniversity,
+    theamericanacademyofdramaticarts,
+    theartinstituteofatlanta,
+    theartinstituteofaustintexas,
+    theartinstituteofdallas,
+    theartinstituteofhouston,
+    theaustraliannationaluniversity,
+    thebeautyschoolnorthernireland,
+    thebiblecollegeofwales,
+    thechristcollegeofnursingandhealthsciences,
+    thecollegeofnewjersey,
+    thecollegeofstscholastica,
+    thecollegeofwoosterohio,
+    thecooperunionnewyork,
+    theevergreenstatecollege,
+    theglasgowschoolofart,
+    thejuilliardschoolnewyork,
+    thekingscollegenewyork,
+    thekingsuniversityedmonton,
+    themastersuniversitycalifornia,
+    themoderncollegeofdesign,
+    thenewschoolnewyork,
+    theohiostateuniversityatlima,
+    theohiostateuniversityatmansfield,
+    theohiostateuniversityatmarion,
+    theohiostateuniversityatnewark,
+    theohiostateuniversityohio,
+    theroyalconservatoryofmusic,
+    thescotscollegeglengarrycampus,
+    theuniversityofakronohio,
+    theuniversityofarizonaglobalcampus,
+    theuniversityofarizonaarizona,
+    theuniversityofarts,
+    theuniversityofbaltimore,
+    theuniversityofchicago,
+    theuniversityofiowa,
+    theuniversityofmanchester,
+    theuniversityofnewmexiconewmexico,
+    theuniversityofnewmexicovalenciacampus,
+    theuniversityofneworleans,
+    theuniversityofnotredameaustralia,
+    theuniversityofoklahoma,
+    theuniversityofqueensland,
+    theuniversityofsouthernmississippi,
+    theuniversityoftampa,
+    theuniversityoftennesseeatchattanooga,
+    theuniversityoftexasataustin,
+    theuniversityoftexasatelpaso,
+    theuniversityoftexasatsanantonio,
+    theuniversityoftexasmdanderson,
+    theuniversityoftexaspermianbasin,
+    theuniversityoftexasriograndevalley,
+    theuniversityoftoledo,
+    theuniversityoftulsa,
+    theuniversityofutah,
+    theuniversityofwesternaustralia,
+    theuniversityofwinnipeg,
+    thielcollegepennsylvania,
+    thomasaquinascollege,
+    thomascollegemaine,
+    thomasmorecollegeofliberalarts,
+    thomasmoreuniversitykentucky,
+    thomasuniversityforbescampus,
+    tiffinuniversityohio,
+    toccoafallscollege,
+    tohonooodhamcommunitycollege,
+    torrensuniversityaustralia,
+    tougaloocollegemississippi,
+    tourouniversitynevada,
+    towsonuniversitymaryland,
+    transylvaniauniversity,
+    
+}

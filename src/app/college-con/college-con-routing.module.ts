@@ -5049,7 +5049,95 @@ const routes: Routes = [
     component: CollegeConComponent
   },
   
-  
+  {
+    path: 'north-island-college/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/courses-and-fees/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/admission/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/review/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/placement/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/gallery/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/scholarship/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/faculty/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/news/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/hostel/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'north-island-college/faq/.',
+    component: CollegeConComponent
+  },
+
+  {
+    path: 'northern-alberta-institute/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/courses-and-fees/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/admission/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/review/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/placement/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/gallery/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/scholarship/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/faculty/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/news/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/hostel/.',
+    component: CollegeConComponent
+  },
+  {
+    path: 'northern-alberta-institute/faq/.',
+    component: CollegeConComponent
+  },
 ];
 
 @NgModule({

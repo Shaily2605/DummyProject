@@ -58,6 +58,24 @@ import * as mbbsinuk from '../../assets/courseData/mbbs-in-uk'
 import * as mbbsinukraine from '../../assets/courseData/mbbs-in-ukraine'
 import * as bacheloroftechnologybtech from '../../assets/courseData/bachelor-of-technology-btech'
 import * as mbainukraine from '../../assets/courseData/mba-in-ukraine'
+import * as btechmarineengineering from '../../assets/courseData/btech-marine-engineering'
+import * as masterofscience from '../../assets/courseData/master-of-science'
+import * as mbabankingandfinance from '../../assets/courseData/mba-banking-and-finance'
+import * as mbabusinessanalytics from '../../assets/courseData/mba-business-analytics'
+import * as mbaeventmanagement from '../../assets/courseData/mba-event-management'
+import * as mbaexecutive from '../../assets/courseData/mba-executive'
+import * as mdgeneralmedicine from '../../assets/courseData/md-general-medicine'
+import * as mdpaediatrics from '../../assets/courseData/md-paediatrics'
+import * as mscbiology from '../../assets/courseData/msc-biology'
+import * as msgeneralsurgery from '../../assets/courseData/ms-general-surgery'
+import * as msorthopaedics from '../../assets/courseData/ms-orthopaedics'
+import * as mtechartificialintelligence from '../../assets/courseData/mtech-artificial-intelligence'
+import * as mtechchemicalengineering from '../../assets/courseData/mtech-chemical-engineering'
+import * as mtechcomputerscience from '../../assets/courseData/mtech-computer-science'
+import * as mtechcybersecurity from '../../assets/courseData/mtech-cyber-security'
+import * as mtechenvironmentalengineering from '../../assets/courseData/mtech-environmental-engineering'
+
+
 
 export { 
     MIT, 
@@ -118,6 +136,22 @@ export {
     mbbsinuzbekistan,
     mbbsinkyrgyzstan,
     masterofbusinessadministrationmba,
-    mbainmalta
+    mbainmalta,
+    btechmarineengineering,
+    masterofscience,
+    mbabankingandfinance,
+    mbabusinessanalytics,
+    mbaeventmanagement,
+    mbaexecutive,
+    mdgeneralmedicine,
+    mdpaediatrics,
+    mscbiology,
+    msgeneralsurgery,
+    msorthopaedics,
+    mtechartificialintelligence,
+    mtechchemicalengineering,
+    mtechcomputerscience,
+    mtechcybersecurity,
+    mtechenvironmentalengineering
 
  }

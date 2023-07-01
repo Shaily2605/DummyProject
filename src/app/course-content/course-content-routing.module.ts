@@ -1409,8 +1409,406 @@ const routes: Routes = [
     component: CourseContentComponent
   },
 
-
+  {
+    path: 'btech-marine-engineering/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'btech-marine-engineering/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'btech-marine-engineering/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'btech-marine-engineering/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'btech-marine-engineering/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'btech-marine-engineering/faq/.',
+    component: CourseContentComponent
+  },
   
+
+  {
+    path: 'master-of-science/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-science/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-science/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-science/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-science/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'master-of-science/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-banking-and-finance/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-banking-and-finance/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-banking-and-finance/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-banking-and-finance/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-banking-and-finance/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-banking-and-finance/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-business-analytics/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-business-analytics/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-business-analytics/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-business-analytics/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-business-analytics/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-business-analytics/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-event-management/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-event-management/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-event-management/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-event-management/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-event-management/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-event-management/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mba-executive/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-executive/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-executive/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-executive/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-executive/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mba-executive/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'md-general-medicine/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-general-medicine/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-general-medicine/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-general-medicine/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-general-medicine/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-general-medicine/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'md-paediatrics/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-paediatrics/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-paediatrics/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-paediatrics/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-paediatrics/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'md-paediatrics/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'msc-biology/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'msc-biology/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'msc-biology/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'msc-biology/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'msc-biology/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'msc-biology/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'ms-general-surgery/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-general-surgery/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-general-surgery/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-general-surgery/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-general-surgery/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-general-surgery/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'ms-orthopaedics/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-orthopaedics/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-orthopaedics/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-orthopaedics/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-orthopaedics/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'ms-orthopaedics/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mtech-artificial-intelligence/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-artificial-intelligence/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-artificial-intelligence/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-artificial-intelligence/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-artificial-intelligence/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-artificial-intelligence/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mtech-chemical-engineering/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-chemical-engineering/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-chemical-engineering/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-chemical-engineering/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-chemical-engineering/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-chemical-engineering/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mtech-computer-science/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-computer-science/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-computer-science/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-computer-science/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-computer-science/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-computer-science/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mtech-cyber-security/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-cyber-security/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-cyber-security/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-cyber-security/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-cyber-security/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-cyber-security/faq/.',
+    component: CourseContentComponent
+  },
+
+  {
+    path: 'mtech-environmental-engineering/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-environmental-engineering/info/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-environmental-engineering/top-colleges/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-environmental-engineering/syllabus/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-environmental-engineering/career-options/.',
+    component: CourseContentComponent
+  },
+  {
+    path: 'mtech-environmental-engineering/faq/.',
+    component: CourseContentComponent
+  },
 ];
 
 @NgModule({
