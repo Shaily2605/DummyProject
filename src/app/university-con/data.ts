@@ -1164,6 +1164,35 @@ import * as tougaloocollegemississippi from '../../assets/universityData/tougalo
 import * as tourouniversitynevada from '../../assets/universityData/touro-university-nevada'
 import * as towsonuniversitymaryland from '../../assets/universityData/towson-university-maryland'
 import * as transylvaniauniversity from '../../assets/universityData/transylvania-university'
+import * as trentuniversityontario from '../../assets/universityData/trent-university-ontario'
+import * as treveccanazareneuniversity from '../../assets/universityData/trevecca-nazarene-university'
+import * as tricountytechnicalcollege from '../../assets/universityData/tri-county-technical-college'
+import * as tridenttechnicalcollege from '../../assets/universityData/trident-technical-college'
+import * as trineuniversityindiana from '../../assets/universityData/trine-university-indiana'
+import * as trinitybiblecollegeandgraduateschool from '../../assets/universityData/trinity-bible-college-and-graduate-school'
+import * as trinitycollegeconnecticut from '../../assets/universityData/trinity-college-connecticut'
+import * as trinityinternationaluniversity from '../../assets/universityData/trinity-international-university'
+import * as trinitytheologicalcollege from '../../assets/universityData/trinity-theological-college'
+import * as trinityuniversitycollegecarmarthen from '../../assets/universityData/trinity-university-college-carmarthen'
+import * as trinityuniversitytexas from '../../assets/universityData/trinity-university-texas'
+import * as trinityvalleycommunitycollege from '../../assets/universityData/trinity-valley-community-college'
+import * as trinitywesternuniversitylangley from '../../assets/universityData/trinity-western-university-langley'
+import * as troyuniversityalabama from '../../assets/universityData/troy-university-alabama'
+import * as truettmcconnelluniversity from '../../assets/universityData/truett-mcconnell-university'
+import * as trumanstateuniversity from '../../assets/universityData/truman-state-university'
+import * as tuftsuniversity from '../../assets/universityData/tufts-university'
+import * as tulaneuniversitylouisiana from '../../assets/universityData/tulane-university-louisiana'
+import * as tusculumuniversity from '../../assets/universityData/tusculum-university'
+import * as tuskegeeuniversity from '../../assets/universityData/tuskegee-university'
+import * as tylerjuniorcollege from '../../assets/universityData/tyler-junior-college'
+import * as turtlemountaincommunitycollege from '../../assets/universityData/turtle-mountain-community-college'
+import * as ucclermontcollege from '../../assets/universityData/uc-clermont-college'
+import * as ulsteruniversitymageecampus from '../../assets/universityData/ulster-university-magee-campus'
+import * as unbfacultyoflaw from '../../assets/universityData/unb-faculty-of-law'
+import * as unicampuslampeter from '../../assets/universityData/uni-campus-lampeter'
+import * as unioncollegekentucky from '../../assets/universityData/union-college-kentucky'
+import * as unioncollegenebraska from '../../assets/universityData/union-college-nebraska'
+import * as unionschooloftheology from '../../assets/universityData/union-school-of-theology'
 
 export {
 
@@ -2333,5 +2362,34 @@ export {
     tourouniversitynevada,
     towsonuniversitymaryland,
     transylvaniauniversity,
+    trentuniversityontario,
+    treveccanazareneuniversity,
+    tricountytechnicalcollege,
+    tridenttechnicalcollege,
+    trineuniversityindiana,
+    trinitybiblecollegeandgraduateschool,
+    trinitycollegeconnecticut,
+    trinityinternationaluniversity,
+    trinitytheologicalcollege,
+    trinityuniversitycollegecarmarthen,
+    trinityuniversitytexas,
+    trinityvalleycommunitycollege,
+    trinitywesternuniversitylangley,
+    troyuniversityalabama,
+    truettmcconnelluniversity,
+    trumanstateuniversity,
+    tuftsuniversity,
+    tulaneuniversitylouisiana,
+    tusculumuniversity,
+    tuskegeeuniversity,
+    tylerjuniorcollege,
+    turtlemountaincommunitycollege,
+    ucclermontcollege,
+    ulsteruniversitymageecampus,
+    unbfacultyoflaw,
+    unicampuslampeter,
+    unioncollegekentucky,
+    unioncollegenebraska,
+    unionschooloftheology,
     
 }
