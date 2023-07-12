@@ -336,9 +336,9 @@ export const missouriuniversityofscienceandtechnology = {
             "info": "On-Campus Accommodation ",
             "data": [
                 "The Missouri University of Science and Technology offers a variety of on-campus accommodation options. These include: ",
-                "Residence Halls: Missouri S&T offers residence halls with single and double occupancy rooms as well as suite-style living. These are located on the main campus and are close to all of the academic and recreational facilities.",
-                "Apartments: Missouri S&T offers 3-bedroom, 2-bathroom apartments located on the main campus. These apartments are fully furnished and feature a full kitchen, living room and private bedrooms. ",
-                "Family Housing: Missouri S&T has family housing units located on the main campus. These units are fully furnished and include a living room, kitchen, and private bedrooms."
+                "<b>Residence Halls:</b> Missouri S&T offers residence halls with single and double occupancy rooms as well as suite-style living. These are located on the main campus and are close to all of the academic and recreational facilities.",
+                "<b>Apartments:</b> Missouri S&T offers 3-bedroom, 2-bathroom apartments located on the main campus. These apartments are fully furnished and feature a full kitchen, living room and private bedrooms. ",
+                "<b>Family Housing:</b> Missouri S&T has family housing units located on the main campus. These units are fully furnished and include a living room, kitchen, and private bedrooms."
             ]
         },
         {
@@ -347,10 +347,10 @@ export const missouriuniversityofscienceandtechnology = {
             "info": "Off-Campus Accommodation",
             "data": [
                 "The Missouri University of Science and Technology also offers a variety of off-campus accommodation options. These include: ",
-                "Hotels: Missouri S&T is located close to a number of hotels in the area. These hotels offer a variety of amenities and services to suit all needs and budgets.",
-                "Hostels: Missouri S&T is located close to a variety of hostels in the area. These hostels are typically more affordable than hotels and offer basic accommodation for those on a budget. ",
-                "Apartments: Missouri S&T is located close to a variety of apartment complexes in the area. These apartments range from basic to luxury and typically offer a variety of amenities and services. ",
-                "Homes/Rooms for Rent: Missouri S&T is located close to a variety of homes and rooms for rent in the area. These are typically more affordable than hotels and offer basic accommodation for those on a budget."
+                "<b>Hotels:</b> Missouri S&T is located close to a number of hotels in the area. These hotels offer a variety of amenities and services to suit all needs and budgets.",
+                "<b>Hostels:</b> Missouri S&T is located close to a variety of hostels in the area. These hostels are typically more affordable than hotels and offer basic accommodation for those on a budget. ",
+                "<b>Apartments:</b> Missouri S&T is located close to a variety of apartment complexes in the area. These apartments range from basic to luxury and typically offer a variety of amenities and services. ",
+                "<b>Homes/Rooms for Rent:</b> Missouri S&T is located close to a variety of homes and rooms for rent in the area. These are typically more affordable than hotels and offer basic accommodation for those on a budget."
             ]
         },
         {

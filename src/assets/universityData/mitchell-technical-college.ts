@@ -72,7 +72,7 @@ export const mitchelltechnicalcollege = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The Mitchell Technical Institute provides a wide range of degree and certificate programs. Below is a list of the programs available at the college and their associated tuition fees.",
-            "textBelowInfo": "Associate of Applied Science (AAS):",
+            "textBelowInfo": "<b>Associate of Applied Science (AAS):</b>",
             "data": [
                 "Agribusiness Management: $4,184.50",
                 "Automotive Technology: $4,184.50",

@@ -138,7 +138,8 @@ export const newyorkschoolofinteriordesign = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Demonstrate language proficiency in English by submitting one of the following:",
+            "info": "",
+            "textBelowInfo": "Demonstrate language proficiency in English by submitting one of the following:",
             "data": [
                 "TOEFL score of 80 or higher (internet-based exam)",
                 "IELTS score of 6.0 or higher",

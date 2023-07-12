@@ -133,8 +133,8 @@ export const perthbiblecollegewesternaustralia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "The Perth Bible College is an open access college and Indian students are welcome to apply for admission. The college offers a range of courses from certificate and diploma level to bachelor and higher degrees.",
-            "info": "To be eligible for admission, Indian students must meet the following criteria:",
+            "info": "The Perth Bible College is an open access college and Indian students are welcome to apply for admission. The college offers a range of courses from certificate and diploma level to bachelor and higher degrees.",
+            "textBelowInfo": "To be eligible for admission, Indian students must meet the following criteria:",
             "data": [
                 "Have a minimum of 12 years of education",
                 "Have a good command of the English language (IELTS or TOEFL scores may be required)",

@@ -168,10 +168,10 @@ export const mountsaintmarysuniversity = {
             "title": "",
             "info": "",
             "data": [
-                "Submit Online Application: Students can submit their application online at the Mount Saint Marys University website.",
-                "Submit Official Documents: Students must submit all official documents including transcripts, test scores, and letters of recommendation to the university by post.",
-                "Pay Application Fee: The application fee for international students is $55 and can be paid via credit card or bank transfer.",
-                "Track Application Status: Students may track their application status online to ensure their documents have been received and processed."
+                "<b>Submit Online Application:</b> Students can submit their application online at the Mount Saint Marys University website.",
+                "<b>Submit Official Documents:</b> Students must submit all official documents including transcripts, test scores, and letters of recommendation to the university by post.",
+                "<b>Pay Application Fee:</b> The application fee for international students is $55 and can be paid via credit card or bank transfer.",
+                "<b>Track Application Status:</b> Students may track their application status online to ensure their documents have been received and processed."
             ]
         },
         {

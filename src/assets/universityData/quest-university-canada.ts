@@ -100,8 +100,8 @@ export const questuniversitycanada = {
         {
             "type": "list-bollet",
             "title": "Courses:",
-            "textBelowInfo": "The Bachelor of Arts and Sciences at Quest University Canada is an interdisciplinary program that offers students the flexibility to explore a variety of academic areas. The program includes courses in natural sciences, social sciences, humanities, and the arts.",
-            "info": "Below is a list of some of the courses offered at the university:",
+            "info": "The Bachelor of Arts and Sciences at Quest University Canada is an interdisciplinary program that offers students the flexibility to explore a variety of academic areas. The program includes courses in natural sciences, social sciences, humanities, and the arts.",
+            "textBelowInfo": "Below is a list of some of the courses offered at the university:",
             "data": [
                 "Introduction to Social Sciences",
                 "Introduction to Natural Sciences",

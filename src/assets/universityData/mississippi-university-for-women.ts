@@ -76,16 +76,16 @@ export const mississippiuniversityforwomen = {
             "title": "Undergraduate Programs",
             "info": "",
             "data": [
-                "<b>Associate of Arts/Science Degree:</b> $2,600 per semester",
-                "<b>Bachelor of Arts/Science Degree:</b> $3,000 per semester",
-                "<b>Bachelor of Business Administration:</b> $3,500 per semester",
-                "<b>Bachelor of Fine Arts:</b> $3,500 per semester",
-                "<b>Bachelor of Social Work:</b> $4,000 per semester",
-                "<b>Bachelor of Music:</b> $4,500 per semester",
-                "<b>Bachelor of Nursing:</b> $4,500 per semester",
-                "<b>Bachelor of Education:</b> $4,500 per semester",
-                "<b>Bachelor of Applied Technology:</b> $4,500 per semester",
-                "<b>Bachelor of Architecture:</b> $5,500 per semester"
+                "Associate of Arts/Science Degree: $2,600 per semester",
+                "Bachelor of Arts/Science Degree: $3,000 per semester",
+                "Bachelor of Business Administration: $3,500 per semester",
+                "Bachelor of Fine Arts: $3,500 per semester",
+                "Bachelor of Social Work: $4,000 per semester",
+                "Bachelor of Music: $4,500 per semester",
+                "Bachelor of Nursing: $4,500 per semester",
+                "Bachelor of Education: $4,500 per semester",
+                "Bachelor of Applied Technology: $4,500 per semester",
+                "Bachelor of Architecture: $5,500 per semester"
             ]
         },
         {
@@ -93,11 +93,11 @@ export const mississippiuniversityforwomen = {
             "title": "Graduate Programs",
             "info": "",
             "data": [
-                "<b>Master of Arts/Science Degree:</b> $4,500 per semester",
-                "<b>Master of Business Administration:</b> $5,000 per semester",
-                "<b>Master of Social Work:</b> $5,500 per semester",
-                "<b>Master of Education:</b> $5,500 per semester",
-                "<b>Master of Nursing:</b> $6,000 per semester"
+                "Master of Arts/Science Degree: $4,500 per semester",
+                "Master of Business Administration: $5,000 per semester",
+                "Master of Social Work: $5,500 per semester",
+                "Master of Education: $5,500 per semester",
+                "Master of Nursing: $6,000 per semester"
             ]
         },
         {
@@ -105,8 +105,8 @@ export const mississippiuniversityforwomen = {
             "title": "Certificate and Diploma Programs",
             "info": "",
             "data": [
-                "<b>Certificate Programs:</b> $3,000 per semester",
-                "<b>Diploma Programs:</b> $3,500 per semester"
+                "Certificate Programs: $3,000 per semester",
+                "Diploma Programs: $3,500 per semester"
             ]
         },
         {
@@ -325,11 +325,11 @@ export const mississippiuniversityforwomen = {
         {
             type: 'text',
             title: 'Hostel',
-            data: "<p><b>On-Campus Accommodation</b></p>"
+            data: ""
         },
         {
             "type": "list-bollet",
-            "title": "",
+            "title": "On-Campus Accommodation",
             "info": "Mississippi University for Women offers on-campus accommodation for students. The university features seven residence halls which include:",
             "data": [
                 "Sampson Hall",

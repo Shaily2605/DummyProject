@@ -72,16 +72,16 @@ export const millermottecollegenorthcarolina = {
             "info": "Miller-Motte College, North Carolina, USA offers a wide range of degree, diploma, certificate and continuing education programs. Here is a list of courses offered by Miller-Motte College, North Carolina, USA with their respective fee structure:",
             // "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
-                "<b>Associate of Applied Science in Business Administration:</b> $17,015",
-                "<b>Associate of Science in Medical Assisting:</b> $14,945",
-                "<b>Associate of Applied Science in Criminal Justice:</b> $17,015 ",
-                "<b>Associate of Applied Science in Computer Information Technology:</b> $17,015",
-                "<b>Associate of Applied Science in Health Information Technology:</b> $17,015 ",
-                "<b>Associate of Applied Science in Medical Office Administration:</b> $17,015",
-                "<b>Associate of Applied Science in Medical Billing & Coding:</b> $17,015",
-                "<b>Associate of Applied Science in Veterinary Technology:</b> $19,915 ",
-                "<b>Associate of Science in Nursing:</b> $19,415",
-                "<b>Diploma in Medical Assisting:</b> $14,945"
+                "Associate of Applied Science in Business Administration: $17,015",
+                "Associate of Science in Medical Assisting: $14,945",
+                "Associate of Applied Science in Criminal Justice: $17,015 ",
+                "Associate of Applied Science in Computer Information Technology: $17,015",
+                "Associate of Applied Science in Health Information Technology: $17,015 ",
+                "Associate of Applied Science in Medical Office Administration: $17,015",
+                "Associate of Applied Science in Medical Billing & Coding: $17,015",
+                "Associate of Applied Science in Veterinary Technology: $19,915 ",
+                "Associate of Science in Nursing: $19,415",
+                "Diploma in Medical Assisting: $14,945"
             ]
         },
         {

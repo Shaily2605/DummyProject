@@ -80,12 +80,12 @@ export const montclairstateuniversity = {
             "title": "",
             "info": "Undergraduate Programs:",
             "data": [
-                "<b>Bachelor of Arts (BA):</b> $13,566 per year",
-                "<b>Bachelor of Science (BS):</b> $13,566 per year",
-                "<b>Bachelor of Fine Arts (BFA):</b> $13,566 per year",
-                "<b>Bachelor of Music (BM):</b> $13,566 per year",
-                "<b>Bachelor of Science in Education (BSEd):</b> $13,566 per year",
-                "<b>Bachelor of Music Education (BME):</b> $13,566 per year",
+                "Bachelor of Arts (BA): $13,566 per year",
+                "Bachelor of Science (BS): $13,566 per year",
+                "Bachelor of Fine Arts (BFA): $13,566 per year",
+                "Bachelor of Music (BM): $13,566 per year",
+                "Bachelor of Science in Education (BSEd): $13,566 per year",
+                "Bachelor of Music Education (BME): $13,566 per year",
             ]
         },
         {
@@ -93,13 +93,13 @@ export const montclairstateuniversity = {
             "title": "",
             "info": "Graduate Programs:",
             "data": [
-                "<b>Master of Arts (MA):</b> $19,958 per year",
-                "<b>Master of Science (MS):</b> $19,958 per year",
-                "<b>Master of Fine Arts (MFA):</b> $19,958 per year",
-                "<b>Master of Music (MM):</b> $19,958 per year",
-                "<b>Master of Education (MEd):</b> $19,958 per year",
-                "<b>Master of Music Education (MME):</b> $19,958 per year",
-                "<b>Doctor of Philosophy (PhD):</b> $21,964 per year"
+                "Master of Arts (MA): $19,958 per year",
+                "Master of Science (MS): $19,958 per year",
+                "Master of Fine Arts (MFA): $19,958 per year",
+                "Master of Music (MM): $19,958 per year",
+                "Master of Education (MEd): $19,958 per year",
+                "Master of Music Education (MME): $19,958 per year",
+                "Doctor of Philosophy (PhD): $21,964 per year"
             ]
         },
         {

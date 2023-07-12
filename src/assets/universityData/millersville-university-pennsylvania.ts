@@ -74,13 +74,13 @@ export const millersvilleuniversitypennsylvania = {
             "title": "Courses and Fees",
             "info": "Undergraduate",
             "data": [
-                "<b>Bachelor of Arts:</b> $7,656 per semester",
-                "<b>Bachelor of Science:</b> $7,788 per semester",
-                "<b>Bachelor of Science in Business Administration:</b> $7,895 per semester",
-                "<b>Bachelor of Science in Education:</b> $7,895 per semester",
-                "<b>Bachelor of Science in Nursing:</b> $8,621 per semester",
-                "<b>Bachelor of Arts in Music:</b> $7,731 per semester",
-                "<b>Bachelor of Science in Computer Science:</b> $7,895 per semester"
+                "Bachelor of Arts: $7,656 per semester",
+                "Bachelor of Science: $7,788 per semester",
+                "Bachelor of Science in Business Administration: $7,895 per semester",
+                "Bachelor of Science in Education: $7,895 per semester",
+                "Bachelor of Science in Nursing: $8,621 per semester",
+                "Bachelor of Arts in Music: $7,731 per semester",
+                "Bachelor of Science in Computer Science: $7,895 per semester"
             ]
         },
         {
@@ -88,13 +88,13 @@ export const millersvilleuniversitypennsylvania = {
             "title": "",
             "info": "Graduate",
             "data": [
-                "<b>Master of Arts in Teaching:</b> $7,131 per semester",
-                "<b>Master of Business Administration:</b> $7,531 per semester",
-                "<b>Master of Science in Education:</b> $7,731 per semester",
-                "<b>Master of Science in Nursing:</b> $7,731 per semester",
-                "<b>Master of Science in Computer Science:</b> $7,895 per semester",
-                "<b>Master of Science in Project Management:</b> $7,895 per semester",
-                "<b>Master of Science in Applied Statistics:</b> $7,945 per semester"
+                "Master of Arts in Teaching: $7,131 per semester",
+                "Master of Business Administration: $7,531 per semester",
+                "Master of Science in Education: $7,731 per semester",
+                "Master of Science in Nursing: $7,731 per semester",
+                "Master of Science in Computer Science: $7,895 per semester",
+                "Master of Science in Project Management: $7,895 per semester",
+                "Master of Science in Applied Statistics: $7,945 per semester"
             ]
         },
         {

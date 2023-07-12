@@ -118,8 +118,8 @@ export const pimamedicalinstitutelasvegas = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "The Pima Medical Institute-Las Vegas campus accepts international students, but only those who are holders of a valid United States visa. All international students must provide proof of English proficiency and must meet the same academic requirements as domestic students.",
-            "info": "For admission to the Las Vegas campus, international students must submit the following:",
+            "info": "The Pima Medical Institute-Las Vegas campus accepts international students, but only those who are holders of a valid United States visa. All international students must provide proof of English proficiency and must meet the same academic requirements as domestic students.",
+            "textBelowInfo": "For admission to the Las Vegas campus, international students must submit the following:",
             "data": [
                 "Completed Application for Admission",
                 "Official, sealed transcripts from all academic institutions previously attended",

@@ -122,8 +122,8 @@ export const paulquinncollegetexas = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Paul Quinn College is a private, historically black college located in Dallas, Texas. The college welcomes applications from international students from around the world.",
-            "info": "To be eligible for admission as an international student, you must:",
+            "info": "Paul Quinn College is a private, historically black college located in Dallas, Texas. The college welcomes applications from international students from around the world.",
+            "textBelowInfo": "To be eligible for admission as an international student, you must:",
             "data": [
                 "Submit a completed international student application form.",
                 "Submit all required documents, including transcripts, proof of English proficiency, and evidence of financial support.",

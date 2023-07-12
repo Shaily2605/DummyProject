@@ -72,8 +72,8 @@ export const racmavictoria = {
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
-            "textBelowInfo": "RACMA is the Royal Australasian College of Medical Administrators. It provides training and professional development in healthcare management and leadership.",
-            "info": "The College offers a range of courses, including:",
+            "info": "RACMA is the Royal Australasian College of Medical Administrators. It provides training and professional development in healthcare management and leadership.",
+            "textBelowInfo": "The College offers a range of courses, including:",
             "data": [
                 "Certificate in Medical Administration (CMAdmin): This is a one-year program designed to equip medical administrators with the skills and knowledge required to work in a medical setting. The course fee is $6,500.",
                 "Diploma of Medical Administration (DMAdmin): This is a two-year program designed to provide medical administrators with the skills and knowledge required to take on a more senior role in a medical setting. The course fee is $13,000.",

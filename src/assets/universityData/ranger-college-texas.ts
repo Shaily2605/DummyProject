@@ -126,8 +126,8 @@ export const rangercollegetexas = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Ranger College is an open admissions institution, meaning that any student who can demonstrate the ability to benefit from instruction may be admitted.",
-            "info": "To be accepted, applicants must provide: ",
+            "info": "Ranger College is an open admissions institution, meaning that any student who can demonstrate the ability to benefit from instruction may be admitted.",
+            "textBelowInfo": "To be accepted, applicants must provide: ",
             "data": [
                 "Official high school/college transcripts",
                 "Proof of U.S. residency",

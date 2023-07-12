@@ -140,8 +140,8 @@ export const pitzercollegecalifornia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Pitzer College is an undergraduate college in Claremont, California, which currently enrolls a student population of around 1,100.",
-            "info": "Admission Criteria for Indian Students:",
+            "info": "Pitzer College is an undergraduate college in Claremont, California, which currently enrolls a student population of around 1,100.",
+            "textBelowInfo": "Admission Criteria for Indian Students:",
             "data": [
                 "Students must submit an official transcript from the Indian School Certificate (ISC)/Central Board of Secondary Education (CBSE). ",
                 "Students must submit scores from the Scholastic Aptitude Test (SAT), American College Test (ACT), or both.  ",

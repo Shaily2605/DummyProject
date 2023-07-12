@@ -152,8 +152,8 @@ export const presentationcollegesouthdakota = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Presentation College is a private college located in South Dakota, USA. It offers a range of undergraduate and graduate programs.",
-            "info": "In order to be eligible for admission at Presentation College, all international students must meet the following criteria:",
+            "info": "Presentation College is a private college located in South Dakota, USA. It offers a range of undergraduate and graduate programs.",
+            "textBelowInfo": "In order to be eligible for admission at Presentation College, all international students must meet the following criteria:",
             "data": [
                 "Be at least 18 years of age",
                 "Have a minimum GPA of 3.0",

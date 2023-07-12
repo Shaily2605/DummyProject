@@ -318,11 +318,18 @@ export const newbrunswickcollegeofcraftanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Hostel",
+            "info": "On-Campus Accommodation",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>New Brunswick College of Craft & Design does not offer on-campus accommodation for students.",
-                "<b>Off-Campus Accommodation: </b> <br>Students may choose to live off-campus in apartments, shared housing, or in hostels."
+                "New Brunswick College of Craft & Design does not offer on-campus accommodation for students."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "Students may choose to live off-campus in apartments, shared housing, or in hostels."
             ]
         },
         {

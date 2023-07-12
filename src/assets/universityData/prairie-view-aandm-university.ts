@@ -169,8 +169,8 @@ export const prairieviewaandmuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Prairie View A&M University welcomes applications from international students.",
-            "info": "Eligibility criteria for international students:",
+            "info": "Prairie View A&M University welcomes applications from international students.",
+            "textBelowInfo": "Eligibility criteria for international students:",
             "data": [
                 "Must be a non-U.S. citizen or non-U.S. permanent resident",
                 "Must have a valid student visa",

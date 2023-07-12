@@ -113,8 +113,8 @@ export const providenceuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Providence University College & Theological Seminary (PUC) accepts applications from international students who wish to pursue undergraduate and graduate courses.",
-            "info": "The following documents are required for the admission process:",
+            "info": "Providence University College & Theological Seminary (PUC) accepts applications from international students who wish to pursue undergraduate and graduate courses.",
+            "textBelowInfo": "The following documents are required for the admission process:",
             "data": [
                 "Completed application form",
                 "Official transcripts from all post-secondary institutions attended",

@@ -386,8 +386,8 @@ export const paloaltocollegetexas = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Housing:",
+            "textBelowInfo":  "The college does not have a list of off-campus housing options, however, there are many nearby options. Some of the nearest are:",
             "data": [
-                "The college does not have a list of off-campus housing options, however, there are many nearby options. Some of the nearest are:",
                 "<b>San Antonio Extended Stay:</b> Located at 6800 Broadway St San Antonio, TX 78209.",
                 "<b>Element San Antonio Airport:</b> Located at 5750 Southwest Loop 410 San Antonio, TX 78227.",
                 "<b>Alamo City Motor Inn & Suites:</b> Located at 2115 SW Military Dr San Antonio, TX 78221."
@@ -397,8 +397,8 @@ export const paloaltocollegetexas = {
             "type": "list-bollet",
             "title": "",
             "info": "Hostel Facilities:",
+            "textBelowInfo": "There are a few hostel facilities located near Palo Alto College. These include:",
             "data": [
-                "There are a few hostel facilities located near Palo Alto College. These include:",
                 "<b>Hostel Mundo Joven:</b> Located at 515 Nogalitos St, San Antonio, TX 78204.",
                 "<b>San Antonio International Hostel:</b> Located at 333 S Alamo St, San Antonio, TX 78205.",
                 "<b>Nomads Hostel:</b> Located at 118 Broadway St, San Antonio, TX 78205."

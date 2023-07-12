@@ -336,8 +336,8 @@ export const pontificalcollegejosephinum = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "textBelowInfo": "The Pontifical College Josephinum offers on-campus housing for its students. On-campus housing is available for both undergraduate and graduate students. ",
-            "info": "The college offers three different housing options:",
+            "info": "The Pontifical College Josephinum offers on-campus housing for its students. On-campus housing is available for both undergraduate and graduate students. ",
+            "textBelowInfo": "The college offers three different housing options:",
             "data": [
                 "<b>Residence Hall with Private Rooms:</b> This housing option provides students with a private bedroom and bathroom in a shared apartment with other students. ",
                 "<b>Residence Hall with Shared Rooms:</b> This housing option provides students with a shared bedroom and bathroom in a shared apartment with other students. ",

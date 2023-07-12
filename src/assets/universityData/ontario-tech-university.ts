@@ -146,8 +146,8 @@ export const ontariotechuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Ontario Tech University has specific requirements for admission of international students, including Indian students. ",
-            "info": "To be eligible for admission, international students must meet the following criteria: ",
+            "info": "Ontario Tech University has specific requirements for admission of international students, including Indian students. ",
+            "textBelowInfo": "To be eligible for admission, international students must meet the following criteria: ",
             "data": [
                 "Submit a completed application and all required documents ",
                 "Have sufficient funds to cover tuition and living expenses ",

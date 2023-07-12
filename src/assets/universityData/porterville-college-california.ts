@@ -112,8 +112,8 @@ export const portervillecollegecalifornia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Porterville College admits students who are United States citizens, Permanent Residents, refugees, asylees, and holders of certain types of non-immigrant visas.",
-            "info": "International students must meet the following requirements for admission to Porterville College:",
+            "info": "Porterville College admits students who are United States citizens, Permanent Residents, refugees, asylees, and holders of certain types of non-immigrant visas.",
+            "textBelowInfo": "International students must meet the following requirements for admission to Porterville College:",
             "data": [
                 "Be 18 years of age or older",
                 "Submit evidence of sufficient financial resources to cover tuition and living expenses",

@@ -131,8 +131,8 @@ export const ohiovalleyuniversitywestvirginia = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Ohio Valley University in West Virginia is a Christian college that offers degree programs to both domestic and international students. The university has specific requirements that all students must meet to be considered eligible for admission, including those from India.",
-            "info": "To be eligible for admission to Ohio Valley University, Indian students must meet the following requirements:",
+            "info": "Ohio Valley University in West Virginia is a Christian college that offers degree programs to both domestic and international students. The university has specific requirements that all students must meet to be considered eligible for admission, including those from India.",
+            "textBelowInfo": "To be eligible for admission to Ohio Valley University, Indian students must meet the following requirements:",
             "data": [
                 "Have a valid passport and visa",
                 "Completed an official secondary school education or equivalent",

@@ -1193,6 +1193,120 @@ import * as unicampuslampeter from '../../assets/universityData/uni-campus-lampe
 import * as unioncollegekentucky from '../../assets/universityData/union-college-kentucky'
 import * as unioncollegenebraska from '../../assets/universityData/union-college-nebraska'
 import * as unionschooloftheology from '../../assets/universityData/union-school-of-theology'
+import * as uniontheologicalcollege from '../../assets/universityData/union-theological-college'
+import * as unionuniversitytennessee from '../../assets/universityData/union-university-tennessee'
+import * as unitedstatessportsacademy from '../../assets/universityData/united-states-sports-academy'
+import * as unitedtheologicalcollege from '../../assets/universityData/united-theological-college'
+import * as unitedtribestechnicalcollege from '../../assets/universityData/united-tribes-technical-college'
+import * as unitycollegemaine from '../../assets/universityData/unity-college-maine'
+import * as univeristyofmassachusettslowell from '../../assets/universityData/univeristy-of-massachusetts-lowell'
+import * as universalcollegeofmedicalsciencesnepal from '../../assets/universityData/universal-college-of-medical-sciences-nepal'
+import * as universalmedicalcollege from '../../assets/universityData/universal-medical-college'
+import * as universaltechnicalinstitute from '../../assets/universityData/universal-technical-institute'
+import * as universitysainteanne from '../../assets/universityData/university-sainte-anne'
+import * as universitycaliforniasantacruz from '../../assets/universityData/university-california-santa-cruz'
+import * as universitycollegeofthenorth from '../../assets/universityData/university-college-of-the-north'
+import * as universityofadvancingtechnology from '../../assets/universityData/university-of-advancing-technology'
+import * as universityofalabamabirmingham from '../../assets/universityData/university-of-alabama-birmingham'
+import * as universityofalabamahuntsville from '../../assets/universityData/university-of-alabama-huntsville'
+import * as universityofalabamatuscaloosa from '../../assets/universityData/university-of-alabama-tuscaloosa'
+import * as universityofalaskaanchorage from '../../assets/universityData/university-of-alaska-anchorage'
+import * as universityofalaskafairbanks from '../../assets/universityData/university-of-alaska-fairbanks'
+import * as universityofalaskasoutheast from '../../assets/universityData/university-of-alaska-southeast'
+import * as universityofalbertaaugustanacampus from '../../assets/universityData/university-of-alberta-augustana-campus'
+import * as universityofarkansaspulaskitechnicalcollege from '../../assets/universityData/university-of-arkansas-pulaski-technical-college'
+import * as universityofarkansasatlittlerock from '../../assets/universityData/university-of-arkansas-at-little-rock'
+import * as universityofarkansasatmonticello from '../../assets/universityData/university-of-arkansas-at-monticello'
+import * as universityofarkansasatpinebluff from '../../assets/universityData/university-of-arkansas-at-pine-bluff'
+import * as universityofarkansascommunitycollegeatbatesville from '../../assets/universityData/university-of-arkansas-community-college-at-batesville'
+import * as universityofarkansascommunitycollegeathope from '../../assets/universityData/university-of-arkansas-community-college-at-hope'
+import * as universityofarkansascommunitycollegeatmorrilton from '../../assets/universityData/university-of-arkansas-community-college-at-morrilton'
+import * as universityofarkansasformedicalsciences from '../../assets/universityData/university-of-arkansas-for-medical-sciences'
+import * as universityofarkansasrichmountain from '../../assets/universityData/university-of-arkansas-rich-mountain'
+import * as universityofarkansassystemeversity from '../../assets/universityData/university-of-arkansas-system-eversity'
+import * as universityofarkansasarkansas from '../../assets/universityData/university-of-arkansas-arkansas'
+import * as universityofarkansasfortsmith from '../../assets/universityData/university-of-arkansas-fort-smith'
+import * as universityofbathengland from '../../assets/universityData/university-of-bath-england'
+import * as universityofbradfordengland from '../../assets/universityData/university-of-bradford-england'
+import * as universityofbridgeport from '../../assets/universityData/university-of-bridgeport'
+import * as universityofbrighton from '../../assets/universityData/university-of-brighton'
+import * as universityofcalgaryalberta from '../../assets/universityData/university-of-calgary-alberta'
+import * as universityofcaliforniaberkeley from '../../assets/universityData/university-of-california-berkeley'
+import * as universityofcaliforniadavis from '../../assets/universityData/university-of-california-davis'
+import * as universityofcaliforniairvine from '../../assets/universityData/university-of-california-irvine'
+import * as universityofcaliforniamerced from '../../assets/universityData/university-of-california-merced'
+import * as universityofcaliforniasandiego from '../../assets/universityData/university-of-california-san-diego'
+import * as universityofcalifornialosangeles from '../../assets/universityData/university-of-california-los-angeles'
+import * as universityofcaliforniariverside from '../../assets/universityData/university-of-california-riverside'
+import * as universityofcaliforniasantabarbara from '../../assets/universityData/university-of-california-santa-barbara'
+import * as universityofcanberracollegeuccollege from '../../assets/universityData/university-of-canberra-college-uc-college'
+import * as universityofcanberraaustralian from '../../assets/universityData/university-of-canberra-australian'
+import * as universityofcentralarkansas from '../../assets/universityData/university-of-central-arkansas'
+import * as universityofcentralflorida from '../../assets/universityData/university-of-central-florida'
+import * as universityofcentralmissouri from '../../assets/universityData/university-of-central-missouri'
+import * as universityofcentraloklahoma from '../../assets/universityData/university-of-central-oklahoma'
+import * as universityofcharleston from '../../assets/universityData/university-of-charleston'
+import * as universityofcincinnatiohio from '../../assets/universityData/university-of-cincinnati-ohio'
+import * as universityofcoloradoboulder from '../../assets/universityData/university-of-colorado-boulder'
+import * as universityofcoloradodenver from '../../assets/universityData/university-of-colorado-denver'
+import * as universityofcoloradosprings from '../../assets/universityData/university-of-colorado-springs'
+import * as universityofconnecticut from '../../assets/universityData/university-of-connecticut'
+import * as universityofdallastexas from '../../assets/universityData/university-of-dallas-texas'
+import * as universityofdaytonohio from '../../assets/universityData/university-of-dayton-ohio'
+import * as universityofdelawaredelaware from '../../assets/universityData/university-of-delaware-delaware'
+import * as universityofdenvercolorado from '../../assets/universityData/university-of-denver-colorado'
+import * as universityofdetroitmercy from '../../assets/universityData/university-of-detroit-mercy'
+import * as universityofdivinityvictoria from '../../assets/universityData/university-of-divinity-victoria'
+import * as universityofdubuqueiowa from '../../assets/universityData/university-of-dubuque-iowa'
+import * as universityofedinburghscotland from '../../assets/universityData/university-of-edinburgh-scotland'
+import * as universityofevansville from '../../assets/universityData/university-of-evansville'
+import * as universityoffindlay from '../../assets/universityData/university-of-findlay'
+import * as universityoffloridaflorida from '../../assets/universityData/university-of-florida-florida'
+import * as universityoffredericton from '../../assets/universityData/university-of-fredericton'
+import * as universityofgeorgiageorgia from '../../assets/universityData/university-of-georgia-georgia'
+import * as universityofglasgow from '../../assets/universityData/university-of-glasgow'
+import * as universityofhartford from '../../assets/universityData/university-of-hartford'
+import * as universityofhawaiiatmanoa from '../../assets/universityData/university-of-hawaii-at-manoa'
+import * as universityofhawaiiwestoahu from '../../assets/universityData/university-of-hawaii-west-oahu'
+import * as universityofhighlandsandislands from '../../assets/universityData/university-of-highlands-and-islands'
+import * as universityofholycross from '../../assets/universityData/university-of-holy-cross'
+import * as universityofhoustontexas from '../../assets/universityData/university-of-houston-texas'
+import * as universityofhoustonclearlake from '../../assets/universityData/university-of-houston-clear-lake'
+import * as universityofhoustondowntown from '../../assets/universityData/university-of-houston-downtown'
+import * as universityofhoustonvictoria from '../../assets/universityData/university-of-houston-victoria'
+import * as universityofhull from '../../assets/universityData/university-of-hull'
+import * as universityofidahoidaho from '../../assets/universityData/university-of-idaho-idaho'
+import * as universityofillinoisaturbana from '../../assets/universityData/university-of-illinois-at-urbana'
+import * as universityofillinoischicago from '../../assets/universityData/university-of-illinois-chicago'
+import * as universityofillinoisspringfield from '../../assets/universityData/university-of-illinois-springfield'
+import * as universityofindianapolis from '../../assets/universityData/university-of-indianapolis'
+import * as universityofjamestown from '../../assets/universityData/university-of-jamestown'
+import * as universityofkansaskansas from '../../assets/universityData/university-of-kansas-kansas'
+import * as universityofkentuckykentucky from '../../assets/universityData/university-of-kentucky-kentucky'
+import * as universityofkingscollege from '../../assets/universityData/university-of-kings-college'
+import * as universityoflaverne from '../../assets/universityData/university-of-la-verne'
+import * as universityofleedsengland from '../../assets/universityData/university-of-leeds-england'
+import * as universityoflethbridge from '../../assets/universityData/university-of-lethbridge'
+import * as universityoflouisianaatlafayette from '../../assets/universityData/university-of-louisiana-at-lafayette'
+import * as universityoflouisville from '../../assets/universityData/university-of-louisville'
+import * as universityofmaineataugusta from '../../assets/universityData/university-of-maine-at-augusta'
+import * as universityofmaineatfortkent from '../../assets/universityData/university-of-maine-at-fort-kent'
+import * as universityofmaineatpresqueisle from '../../assets/universityData/university-of-maine-at-presque-isle'
+import * as universityofmainefarmington from '../../assets/universityData/university-of-maine-farmington'
+import * as universityofmainemaine from '../../assets/universityData/university-of-maine-maine'
+import * as universityofmanitoba from '../../assets/universityData/university-of-manitoba'
+import * as universityofmaryhardinbaylor from '../../assets/universityData/university-of-mary-hardin-baylor'
+import * as universityofmarywashington from '../../assets/universityData/university-of-mary-washington'
+import * as universityofmarynorthdakota from '../../assets/universityData/university-of-mary-north-dakota'
+import * as universityofmarylandeasternshore from '../../assets/universityData/university-of-maryland-eastern-shore'
+import * as universityofmarylandglobalcampus from '../../assets/universityData/university-of-maryland-global-campus'
+import * as universityofmarylandbaltimorecounty from '../../assets/universityData/university-of-maryland-baltimore-county'
+import * as universityofmarylandmaryland from '../../assets/universityData/university-of-maryland-maryland'
+import * as universityofmassachusettsamherst from '../../assets/universityData/university-of-massachusetts-amherst'
+import * as universityofmassachusettsboston from '../../assets/universityData/university-of-massachusetts-boston'
+import * as universityofmassachusettsdartmouth from '../../assets/universityData/university-of-massachusetts-dartmouth'
+import * as universityofmassachusettslowell from '../../assets/universityData/university-of-massachusetts-lowell'
+import * as universityofmemphis from '../../assets/universityData/university-of-memphis'
 
 export {
 
@@ -2391,5 +2505,119 @@ export {
     unioncollegekentucky,
     unioncollegenebraska,
     unionschooloftheology,
+    uniontheologicalcollege,
+    unionuniversitytennessee,
+    unitedstatessportsacademy,
+    unitedtheologicalcollege,
+    unitedtribestechnicalcollege,
+    unitycollegemaine,
+    univeristyofmassachusettslowell,
+    universalcollegeofmedicalsciencesnepal,
+    universalmedicalcollege,
+    universaltechnicalinstitute,
+    universitysainteanne,
+    universitycaliforniasantacruz,
+    universitycollegeofthenorth,
+    universityofadvancingtechnology,
+    universityofalabamabirmingham,
+    universityofalabamahuntsville,
+    universityofalabamatuscaloosa,
+    universityofalaskaanchorage,
+    universityofalaskafairbanks,
+    universityofalaskasoutheast,
+    universityofalbertaaugustanacampus,
+    universityofarkansaspulaskitechnicalcollege,
+    universityofarkansasatlittlerock,
+    universityofarkansasatmonticello,
+    universityofarkansasatpinebluff,
+    universityofarkansascommunitycollegeatbatesville,
+    universityofarkansascommunitycollegeathope,
+    universityofarkansascommunitycollegeatmorrilton,
+    universityofarkansasformedicalsciences,
+    universityofarkansasrichmountain,
+    universityofarkansassystemeversity,
+    universityofarkansasarkansas,
+    universityofarkansasfortsmith,
+    universityofbathengland,
+    universityofbradfordengland,
+    universityofbridgeport,
+    universityofbrighton,
+    universityofcalgaryalberta,
+    universityofcaliforniaberkeley,
+    universityofcaliforniadavis,
+    universityofcaliforniairvine,
+    universityofcaliforniamerced,
+    universityofcaliforniasandiego,
+    universityofcalifornialosangeles,
+    universityofcaliforniariverside,
+    universityofcaliforniasantabarbara,
+    universityofcanberracollegeuccollege,
+    universityofcanberraaustralian,
+    universityofcentralarkansas,
+    universityofcentralflorida,
+    universityofcentralmissouri,
+    universityofcentraloklahoma,
+    universityofcharleston,
+    universityofcincinnatiohio,
+    universityofcoloradoboulder,
+    universityofcoloradodenver,
+    universityofcoloradosprings,
+    universityofconnecticut,
+    universityofdallastexas,
+    universityofdaytonohio,
+    universityofdelawaredelaware,
+    universityofdenvercolorado,
+    universityofdetroitmercy,
+    universityofdivinityvictoria,
+    universityofdubuqueiowa,
+    universityofedinburghscotland,
+    universityofevansville,
+    universityoffindlay,
+    universityoffloridaflorida,
+    universityoffredericton,
+    universityofgeorgiageorgia,
+    universityofglasgow,
+    universityofhartford,
+    universityofhawaiiatmanoa,
+    universityofhawaiiwestoahu,
+    universityofhighlandsandislands,
+    universityofholycross,
+    universityofhoustontexas,
+    universityofhoustonclearlake,
+    universityofhoustondowntown,
+    universityofhoustonvictoria,
+    universityofhull,
+    universityofidahoidaho,
+    universityofillinoisaturbana,
+    universityofillinoischicago,
+    universityofillinoisspringfield,
+    universityofindianapolis,
+    universityofjamestown,
+    universityofkansaskansas,
+    universityofkentuckykentucky,
+    universityofkingscollege,
+    universityoflaverne,
+    universityofleedsengland,
+    universityoflethbridge,
+    universityoflouisianaatlafayette,
+    universityoflouisville,
+    universityofmaineataugusta,
+    universityofmaineatfortkent,
+    universityofmaineatpresqueisle,
+    universityofmainefarmington,
+    universityofmainemaine,
+    universityofmanitoba,
+    universityofmaryhardinbaylor,
+    universityofmarywashington,
+    universityofmarynorthdakota,
+    universityofmarylandeasternshore,
+    universityofmarylandglobalcampus,
+    universityofmarylandbaltimorecounty,
+    universityofmarylandmaryland,
+    universityofmassachusettsamherst,
+    universityofmassachusettsboston,
+    universityofmassachusettsdartmouth,
+    universityofmassachusettslowell,
+    universityofmemphis,
     
 }

@@ -54136,6 +54136,5250 @@ const routes: Routes = [
     path: 'union-school-of-theology/faq/.',
     component: UniversityConComponent
   },
+
+
+  {
+    path: 'union-theological-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-theological-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'union-university-tennessee/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'union-university-tennessee/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'united-states-sports-academy/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-states-sports-academy/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'united-theological-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-theological-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'united-tribes-technical-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'united-tribes-technical-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'unity-college-maine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'unity-college-maine/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'univeristy-of-massachusetts-lowell/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'univeristy-of-massachusetts-lowell/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'universal-college-of-medical-sciences-nepal/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-college-of-medical-sciences-nepal/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'universal-medical-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-medical-college/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'universal-technical-institute/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'universal-technical-institute/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-sainte-anne/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-sainte-anne/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-california-santa-cruz/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-california-santa-cruz/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-college-of-the-north/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-college-of-the-north/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-advancing-technology/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-advancing-technology/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-alabama-birmingham/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-birmingham/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-alabama-huntsville/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-huntsville/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-alabama-tuscaloosa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alabama-tuscaloosa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-alaska-anchorage/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-anchorage/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-alaska-fairbanks/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-fairbanks/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-alaska-southeast/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alaska-southeast/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-alberta-augustana-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-alberta-augustana-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-arkansas-pulaski-technical-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-pulaski-technical-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-arkansas-at-little-rock/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-little-rock/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-arkansas-at-monticello/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-monticello/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-at-pine-bluff/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-at-pine-bluff/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-batesville/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-community-college-at-hope/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-hope/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-community-college-at-morrilton/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-for-medical-sciences/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-for-medical-sciences/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-rich-mountain/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-rich-mountain/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-system-eversity/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-system-eversity/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-arkansas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-arkansas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-arkansas-fort-smith/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-arkansas-fort-smith/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-bath-england/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bath-england/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-bradford-england/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bradford-england/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-bridgeport/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-bridgeport/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-brighton/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-brighton/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'university-of-calgary-alberta/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-calgary-alberta/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-berkeley/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-berkeley/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-davis/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-davis/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-irvine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-irvine/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-merced/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-merced/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-san-diego/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-san-diego/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-los-angeles/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-los-angeles/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-california-riverside/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-riverside/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'university-of-california-santa-barbara/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-california-santa-barbara/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-canberra-college-uc-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-college-uc-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-canberra-australian/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-canberra-australian/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-central-arkansas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-arkansas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-central-florida/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-florida/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-central-missouri/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-missouri/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-central-oklahoma/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-central-oklahoma/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-charleston/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-charleston/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-cincinnati-ohio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-cincinnati-ohio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-colorado-boulder/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-boulder/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-colorado-denver/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-denver/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-colorado-springs/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-colorado-springs/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-connecticut/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-connecticut/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-dallas-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dallas-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-dayton-ohio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dayton-ohio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-delaware-delaware/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-delaware-delaware/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-denver-colorado/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-denver-colorado/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-detroit-mercy/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-detroit-mercy/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-divinity-victoria/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-divinity-victoria/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-dubuque-iowa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-dubuque-iowa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-edinburgh-scotland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-edinburgh-scotland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-evansville/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-evansville/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-findlay/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-findlay/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-florida-florida/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-florida-florida/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-fredericton/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-fredericton/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-georgia-georgia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-georgia-georgia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-glasgow/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-glasgow/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-hartford/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hartford/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-hawaii-at-manoa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-at-manoa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-hawaii-west-oahu/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hawaii-west-oahu/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-highlands-and-islands/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-highlands-and-islands/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-holy-cross/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-holy-cross/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-houston-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-houston-clear-lake/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-clear-lake/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-houston-downtown/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-downtown/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-houston-victoria/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-houston-victoria/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-hull/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-hull/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-idaho-idaho/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-idaho-idaho/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-illinois-at-urbana/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-at-urbana/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-illinois-chicago/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-chicago/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-illinois-springfield/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-illinois-springfield/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-indianapolis/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-indianapolis/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'university-of-jamestown/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-jamestown/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-kansas-kansas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kansas-kansas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-kentucky-kentucky/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kentucky-kentucky/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-kings-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-kings-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-la-verne/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-la-verne/faq/.',
+    component: UniversityConComponent
+  },
+
+
+
+  {
+    path: 'university-of-leeds-england/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-leeds-england/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-lethbridge/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-lethbridge/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-louisiana-at-lafayette/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisiana-at-lafayette/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-louisville/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-louisville/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maine-at-augusta/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-augusta/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maine-at-fort-kent/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-fort-kent/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maine-at-presque-isle/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-at-presque-isle/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maine-farmington/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-farmington/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maine-maine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maine-maine/faq/.',
+    component: UniversityConComponent
+  },
+
+
+
+  {
+    path: 'university-of-manitoba/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-manitoba/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-mary-hardin-baylor/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-hardin-baylor/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-mary-washington/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-washington/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-mary-north-dakota/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-mary-north-dakota/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maryland-eastern-shore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-eastern-shore/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maryland-global-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-global-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maryland-baltimore-county/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-baltimore-county/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-maryland-maryland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-maryland-maryland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-massachusetts-amherst/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-amherst/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-massachusetts-boston/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-boston/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-massachusetts-dartmouth/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-dartmouth/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-massachusetts-lowell/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-massachusetts-lowell/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-memphis/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-memphis/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 

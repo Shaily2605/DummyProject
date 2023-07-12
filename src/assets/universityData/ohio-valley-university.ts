@@ -134,8 +134,8 @@ export const ohiovalleyuniversity = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Ohio Valley University is a Christian university located in Vienna, West Virginia. It is accredited by the Higher Learning Commission and the West Virginia Board of Education.",
-            "info": "Ohio Valley University offers a variety of degree programs for both domestic and international students. To be eligible for admission, applicants must meet the following criteria:",
+            "info": "Ohio Valley University is a Christian university located in Vienna, West Virginia. It is accredited by the Higher Learning Commission and the West Virginia Board of Education.",
+            "textBelowInfo": "Ohio Valley University offers a variety of degree programs for both domestic and international students. To be eligible for admission, applicants must meet the following criteria:",
             "data": [
                 "International students must have a valid passport.",
                 "International students must have a minimum grade point average (GPA) of 2.5 on a 4.0 scale.",

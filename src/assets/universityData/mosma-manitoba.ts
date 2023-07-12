@@ -298,11 +298,11 @@ export const mosmamanitoba = {
         {
             type: 'text',
             title: 'Hostel',
-            data: "<p><b>On-Campus Accommodation</b></p>",
+            data: "",
         },
         {
             "type": "list-bollet",
-            "title": "",
+            "title": "On-Campus Accommodation",
             "info": "MOSMA offers on-campus housing for students. The on-campus residences provide a variety of residential living options, including:",
             "data": [
                 "Single-room occupancy units ",

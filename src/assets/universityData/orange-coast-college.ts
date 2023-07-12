@@ -145,8 +145,8 @@ export const orangecoastcollege = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "Orange Coast College (OCC) has an open-door admissions policy for all students, regardless of their citizenship status. All international students, including Indian students, are eligible to apply for admission.",
-            "info": "Admission requirements for international students include:",
+            "info": "Orange Coast College (OCC) has an open-door admissions policy for all students, regardless of their citizenship status. All international students, including Indian students, are eligible to apply for admission.",
+            "textBelowInfo": "Admission requirements for international students include:",
             "data": [
                 "Completed and signed OCC International Student Application Form",
                 "A copy of your valid passport",

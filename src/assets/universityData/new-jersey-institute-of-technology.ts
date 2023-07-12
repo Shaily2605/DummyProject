@@ -157,7 +157,8 @@ export const newjerseyinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Submit the online application form, which requires the following documents:",
+            "info": "",
+            "textBelowInfo": "Submit the online application form, which requires the following documents:",
             "data": [
                 "Official transcripts and mark sheets from your secondary school, college/university, and any other educational institution attended.",
                 "A certified English translation of all documents not in English.",

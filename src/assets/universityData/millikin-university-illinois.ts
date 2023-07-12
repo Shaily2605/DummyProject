@@ -71,11 +71,11 @@ export const millikinuniversityillinois = {
         {
             type: 'text',
             title: 'Courses and Fees',
-            data: "<p><b>Undergraduate Tuition & Fees </b></p>"
+            data: ""
         },
         {
             "type": "list-bollet",
-            "title": "",
+            "title": "Undergraduate Tuition & Fees",
             "info": "Tuition & Fees Per Semester:",
             "data": [
                 "Full-Time (12-18 credit hours) - $17,646",

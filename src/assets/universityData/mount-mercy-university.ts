@@ -135,11 +135,11 @@ export const mountmercyuniversity = {
             "title": "Eligibility Requirement",
             "info": "Eligibility criteria for international students applying to Mount Mercy University, Iowa, USA, are as follows:",
             "data": [
-                "Academic Requirements: Applicants must have a high school diploma or equivalent.",
-                "English Language Requirements: International students must submit an official score report from an approved English language proficiency test, such as TOEFL, IELTS, or Duolingo.",
-                "Financial Requirements: International students must demonstrate proof of financial support for their first year of study.",
-                "Immigration Requirements: Applicants must have a valid F-1 student visa.",
-                "Additional Requirements: Additional documents may be required from international students depending on their individual circumstances."
+                "<b>Academic Requirements:</b> Applicants must have a high school diploma or equivalent.",
+                "<b>English Language Requirements:</b> International students must submit an official score report from an approved English language proficiency test, such as TOEFL, IELTS, or Duolingo.",
+                "<b>Financial Requirements:</b> International students must demonstrate proof of financial support for their first year of study.",
+                "<b>Immigration Requirements:</b> Applicants must have a valid F-1 student visa.",
+                "<b>Additional Requirements:</b> Additional documents may be required from international students depending on their individual circumstances."
             ]
         },
         {

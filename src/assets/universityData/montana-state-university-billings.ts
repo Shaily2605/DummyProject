@@ -78,25 +78,25 @@ export const montanastateuniversitybillings = {
             "title": "",
             "info": "Undergraduate Programs:",
             "data": [
-                "<b>Accounting:</b> $5,955 per semester ",
-                "<b>Art:</b> $5,955 per semester ",
-                "<b>Biological Sciences:</b> $5,955 per semester ",
-                "<b>Business Administration:</b> $5,955 per semester ",
-                "<b>Chemistry:</b> $5,955 per semester",
-                "<b>Computer Science:</b> $5,955 per semester ",
-                "<b>Economics:</b> $5,955 per semester ",
-                "<b>Education:</b> $5,955 per semester ",
-                "<b>Engineering: </b>$5,955 per semester ",
-                "<b>English:</b> $5,955 per semester ",
-                "<b>History:</b> $5,955 per semester ",
-                "<b>Mathematics: </b>$5,955 per semester ",
-                "<b>Music:</b> $5,955 per semester",
-                "<b>Nursing:</b> $5,955 per semester ",
-                "<b>Philosophy:</b> $5,955 per semester ",
-                "<b>Political Science:</b> $5,955 per semester ",
-                "<b>Psychology:</b> $5,955 per semester ",
-                "<b>Sociology:</b> $5,955 per semester ",
-                "<b>Theatre Arts:</b> $5,955 per semester "
+                "Accounting: $5,955 per semester ",
+                "Art: $5,955 per semester ",
+                "Biological Sciences: $5,955 per semester ",
+                "Business Administration: $5,955 per semester ",
+                "Chemistry: $5,955 per semester",
+                "Computer Science: $5,955 per semester ",
+                "Economics: $5,955 per semester ",
+                "Education: $5,955 per semester ",
+                "Engineering: $5,955 per semester ",
+                "English: $5,955 per semester ",
+                "History: $5,955 per semester ",
+                "Mathematics: $5,955 per semester ",
+                "Music: $5,955 per semester",
+                "Nursing: $5,955 per semester ",
+                "Philosophy: $5,955 per semester ",
+                "Political Science: $5,955 per semester ",
+                "Psychology: $5,955 per semester ",
+                "Sociology: $5,955 per semester ",
+                "Theatre Arts: $5,955 per semester "
             ]
         },
         {
@@ -104,11 +104,11 @@ export const montanastateuniversitybillings = {
             "title": "",
             "info": "Graduate Programs: ",
             "data": [
-                "<b>Business Administration:</b> $6,955 per semester",
-                "<b>Education:</b> $6,955 per semester ",
-                "<b>Nursing:</b> $6,955 per semester",
-                "<b>Public Health:</b> $6,955 per semester ",
-                "<b>Social Work:</b> $6,955 per semester "
+                "Business Administration: $6,955 per semester",
+                "Education: $6,955 per semester ",
+                "Nursing: $6,955 per semester",
+                "Public Health: $6,955 per semester ",
+                "Social Work: $6,955 per semester "
             ]
         },
         {
@@ -116,9 +116,9 @@ export const montanastateuniversitybillings = {
             "title": "",
             "info": "Professional Programs:",
             "data": [
-                "<b>Law:</b> $9,955 per semester ",
-                "<b>Medicine:</b> $9,955 per semester ",
-                "<b>Veterinary Medicine:</b> $9,955 per semester"
+                "Law: $9,955 per semester ",
+                "Medicine: $9,955 per semester ",
+                "Veterinary Medicine: $9,955 per semester"
             ]
         },
         {
@@ -163,11 +163,11 @@ export const montanastateuniversitybillings = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Check the Admission Requirements: To apply for admission at Montana State University Billings, you must meet the university's admission requirements. These requirements include a minimum GPA of 2.0, a minimum TOEFL/IELTS score of 550/6.5, and official transcripts from all universities and colleges attended.",
-                "Apply Online: Visit the MSU Billings website and click on the 'Admissions' tab to begin the online application process. The online application requires you to provide personal information such as your name, date of birth, and contact details. You will also need to provide information about your educational background, such as your high school and college transcripts.",
-                "Submit Required Documents: After submitting your application, you will need to submit other documents, such as official transcripts from all universities and colleges attended, financial documents, and scores from the TOEFL/IELTS examination. You may also need to submit a personal statement and/or a resume.",
-                "Pay the Application Fee: You will need to pay a non-refundable application fee of $60 USD. You can pay the fee online with a major credit card or by PayPal.",
-                "Wait for an Admission Decision: After submitting your application and all required documents, you will receive an admission decision in approximately two to four weeks."
+                "<b>Check the Admission Requirements:</b> To apply for admission at Montana State University Billings, you must meet the university's admission requirements. These requirements include a minimum GPA of 2.0, a minimum TOEFL/IELTS score of 550/6.5, and official transcripts from all universities and colleges attended.",
+                "<b>Apply Online:</b> Visit the MSU Billings website and click on the 'Admissions' tab to begin the online application process. The online application requires you to provide personal information such as your name, date of birth, and contact details. You will also need to provide information about your educational background, such as your high school and college transcripts.",
+                "<b>Submit Required Documents:</b> After submitting your application, you will need to submit other documents, such as official transcripts from all universities and colleges attended, financial documents, and scores from the TOEFL/IELTS examination. You may also need to submit a personal statement and/or a resume.",
+                "<b>Pay the Application Fee:</b> You will need to pay a non-refundable application fee of $60 USD. You can pay the fee online with a major credit card or by PayPal.",
+                "<b>Wait for an Admission Decision:</b> After submitting your application and all required documents, you will receive an admission decision in approximately two to four weeks."
             ]
         },
         {

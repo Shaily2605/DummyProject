@@ -139,8 +139,8 @@ export const qimrberghofermedicalresearchinstitute = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "textBelowInfo": "QIMR Berghofer Medical Research Institute offers a range of courses and programs to suit the needs of a diverse range of students. Indian students are eligible to apply for admission to the institute, provided they meet certain criteria.",
-            "info": "To be eligible to apply for admission to QIMR Berghofer Medical Research Institute, Indian students must: ",
+            "info": "QIMR Berghofer Medical Research Institute offers a range of courses and programs to suit the needs of a diverse range of students. Indian students are eligible to apply for admission to the institute, provided they meet certain criteria.",
+            "textBelowInfo": "To be eligible to apply for admission to QIMR Berghofer Medical Research Institute, Indian students must: ",
             "data": [
                 "Hold a valid visa or have applied for a valid visa.",
                 "Meet the English language proficiency requirement (IELTS 6.5 or equivalent).",

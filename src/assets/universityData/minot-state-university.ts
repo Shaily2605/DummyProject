@@ -314,12 +314,12 @@ export const minotstateuniversity = {
             "title": "How to Apply ?",
             "info": "To apply for admission to Minot State University in North Dakota, USA, Indian students must complete the following steps:",
             "data": [
-                "Choose your program: Visit the admissions page of the university website to view the list of available programs and select the one you would like to pursue.",
-                "Submit your application: Create an account on the online application portal of the university and submit your application along with the required documents like transcripts, letters of recommendation, test scores, etc.",
-                "Pay the application fee: After submitting your application, you must pay the non-refundable application fee of USD 40.",
-                "Submit supporting documents: Submit all the required documents like academic transcripts, test scores, financial documents, immigration documents, etc.",
-                "Get a student visa: After your admission is confirmed, you must apply for a student visa (F-1 or J-1) from the nearest US Embassy or Consulate.",
-                "Arrive at the university: Once you receive your visa, you can make arrangements to travel to the US and join your program."
+                "<b>Choose your program:</b> Visit the admissions page of the university website to view the list of available programs and select the one you would like to pursue.",
+                "<b>Submit your application:</b> Create an account on the online application portal of the university and submit your application along with the required documents like transcripts, letters of recommendation, test scores, etc.",
+                "<b>Pay the application fee:</b> After submitting your application, you must pay the non-refundable application fee of USD 40.",
+                "<b>Submit supporting documents:</b> Submit all the required documents like academic transcripts, test scores, financial documents, immigration documents, etc.",
+                "<b>Get a student visa:</b> After your admission is confirmed, you must apply for a student visa (F-1 or J-1) from the nearest US Embassy or Consulate.",
+                "<b>Arrive at the university:</b> Once you receive your visa, you can make arrangements to travel to the US and join your program."
             ]
         },
         {
