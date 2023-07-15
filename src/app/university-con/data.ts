@@ -1307,6 +1307,57 @@ import * as universityofmassachusettsboston from '../../assets/universityData/un
 import * as universityofmassachusettsdartmouth from '../../assets/universityData/university-of-massachusetts-dartmouth'
 import * as universityofmassachusettslowell from '../../assets/universityData/university-of-massachusetts-lowell'
 import * as universityofmemphis from '../../assets/universityData/university-of-memphis'
+import * as universityofmiami from '../../assets/universityData/university-of-miami'
+import * as universityofmichiganmichigan from '../../assets/universityData/university-of-michigan-michigan'
+import * as universityofmichigandearborn from '../../assets/universityData/university-of-michigan-dearborn'
+import * as universityofmichiganflint from '../../assets/universityData/university-of-michigan-flint'
+import * as universityofminnesotaminnesota from '../../assets/universityData/university-of-minnesota-minnesota'
+import * as universityofmississippimississippi from '../../assets/universityData/university-of-mississippi-mississippi'
+import * as universityofmissourimissouri from '../../assets/universityData/university-of-missouri-missouri'
+import * as universityofmobilealabama from '../../assets/universityData/university-of-mobile-alabama'
+import * as universityofmoncton from '../../assets/universityData/university-of-moncton'
+import * as universityofmontanawestern from '../../assets/universityData/university-of-montana-western'
+import * as universityofmontanamontana from '../../assets/universityData/university-of-montana-montana'
+import * as universityofmontevallo from '../../assets/universityData/university-of-montevallo'
+import * as universityofmountolive from '../../assets/universityData/university-of-mount-olive'
+import * as universityofmountunion from '../../assets/universityData/university-of-mount-union'
+import * as universityofnebraskakearney from '../../assets/universityData/university-of-nebraska-kearney'
+import * as universityofnebraskalincoln from '../../assets/universityData/university-of-nebraska-lincoln'
+import * as universityofnebraskaomaha from '../../assets/universityData/university-of-nebraska-omaha'
+import * as universityofnevadalasvegas from '../../assets/universityData/university-of-nevada-las-vegas'
+import * as universityofnevadareno from '../../assets/universityData/university-of-nevada-reno'
+import * as universityofnewenglandbiddefordcampus from '../../assets/universityData/university-of-new-england-biddeford-campus'
+import * as universityofnewenglandnewsouthwales from '../../assets/universityData/university-of-new-england-new-south-wales'
+import * as universityofnewhampshireatmanchester from '../../assets/universityData/university-of-new-hampshire-at-manchester'
+import * as universityofnewhampshiremaine from '../../assets/universityData/university-of-new-hampshire-maine'
+import * as universityofnewhampshirenewhampshire from '../../assets/universityData/university-of-new-hampshire-new-hampshire'
+import * as universityofnewhavenconnecticut from '../../assets/universityData/university-of-new-haven-connecticut'
+import * as universityofnewmexicolosalamos from '../../assets/universityData/university-of-new-mexico-los-alamos'
+import * as universityofnewcastlenewsouthwales from '../../assets/universityData/university-of-newcastle-new-south-wales'
+import * as universityofnorthalabamaalabama from '../../assets/universityData/university-of-north-alabama-alabama'
+import * as universityofnorthcarolinaatchapelhill from '../../assets/universityData/university-of-north-carolina-at-chapel-hill'
+import * as universityofnorthcarolinaatcharlotte from '../../assets/universityData/university-of-north-carolina-at-charlotte'
+import * as universityofnorthcarolinaatpembroke from '../../assets/universityData/university-of-north-carolina-at-pembroke'
+import * as universityofnorthcarolinagreensboro from '../../assets/universityData/university-of-north-carolina-greensboro'
+import * as universityofnorthcarolinaschoolofthearts from '../../assets/universityData/university-of-north-carolina-school-of-the-arts'
+import * as universityofnorthcarolinawilmington from '../../assets/universityData/university-of-north-carolina-wilmington'
+import * as universityofnorthdakota from '../../assets/universityData/university-of-north-dakota'
+import * as universityofnorthfloridaflorida from '../../assets/universityData/university-of-north-florida-florida'
+import * as universityofnorthgeorgia from '../../assets/universityData/university-of-north-georgia'
+import * as universityofnorthtexasatdallas from '../../assets/universityData/university-of-north-texas-at-dallas'
+import * as universityofnorthtexastexas from '../../assets/universityData/university-of-north-texas-texas'
+import * as universityofnorthernbririshcolumbia from '../../assets/universityData/university-of-northern-brirish-columbia'
+import * as universityofnortherncolorado from '../../assets/universityData/university-of-northern-colorado'
+import * as universityofnortherniowa from '../../assets/universityData/university-of-northern-iowa'
+import * as universityofnorthwesternohio from '../../assets/universityData/university-of-northwestern-ohio'
+import * as universityofnotredameindiana from '../../assets/universityData/university-of-notre-dame-indiana'
+import * as universityoforegonoregon from '../../assets/universityData/university-of-oregon-oregon'
+import * as universityofpennsylvania from '../../assets/universityData/university-of-pennsylvania'
+import * as universityofphoenixarizona from '../../assets/universityData/university-of-phoenix-arizona'
+import * as universityofphoenixconnecticut from '../../assets/universityData/university-of-phoenix-connecticut'
+import * as universityofphoenixhawaii from '../../assets/universityData/university-of-phoenix-hawaii'
+import * as universityofpikeville from '../../assets/universityData/university-of-pikeville'
+import * as universityofpittsburgh from '../../assets/universityData/university-of-pittsburgh'
 
 export {
 
@@ -2619,5 +2670,57 @@ export {
     universityofmassachusettsdartmouth,
     universityofmassachusettslowell,
     universityofmemphis,
+    universityofmiami,
+    universityofmichiganmichigan,
+    universityofmichigandearborn,
+    universityofmichiganflint,
+    universityofminnesotaminnesota,
+    universityofmississippimississippi,
+    universityofmissourimissouri,
+    universityofmobilealabama,
+    universityofmoncton,
+    universityofmontanawestern,
+    universityofmontanamontana,
+    universityofmontevallo,
+    universityofmountolive,
+    universityofmountunion,
+    universityofnebraskakearney,
+    universityofnebraskalincoln,
+    universityofnebraskaomaha,
+    universityofnevadalasvegas,
+    universityofnevadareno,
+    universityofnewenglandbiddefordcampus,
+    universityofnewenglandnewsouthwales,
+    universityofnewhampshireatmanchester,
+    universityofnewhampshiremaine,
+    universityofnewhampshirenewhampshire,
+    universityofnewhavenconnecticut,
+    universityofnewmexicolosalamos,
+    universityofnewcastlenewsouthwales,
+    universityofnorthalabamaalabama,
+    universityofnorthcarolinaatchapelhill,
+    universityofnorthcarolinaatcharlotte,
+    universityofnorthcarolinaatpembroke,
+    universityofnorthcarolinagreensboro,
+    universityofnorthcarolinaschoolofthearts,
+    universityofnorthcarolinawilmington,
+    universityofnorthdakota,
+    universityofnorthfloridaflorida,
+    universityofnorthgeorgia,
+    universityofnorthtexasatdallas,
+    universityofnorthtexastexas,
+    universityofnorthernbririshcolumbia,
+    universityofnortherncolorado,
+    universityofnortherniowa,
+    universityofnorthwesternohio,
+    universityofnotredameindiana,
+    universityoforegonoregon,
+    universityofpennsylvania,
+    universityofphoenixarizona,
+    universityofphoenixconnecticut,
+    universityofphoenixhawaii,
+    universityofpikeville,
+    universityofpittsburgh,
     
+
 }
