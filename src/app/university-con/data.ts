@@ -1048,6 +1048,9 @@ import * as summercollegeoregon from '../../assets/universityData/summer-college
 import * as sunymaritimecollegenewyork from '../../assets/universityData/suny-maritime-college-new-york'
 import * as sussexcountycommunitycollege from '../../assets/universityData/sussex-county-community-college'
 import * as swanseauniversitywales from '../../assets/universityData/swansea-university-wales'
+
+// *************** 600 Completed ahe checked ***********************
+
 import * as swarthmorecollegepennsylvania from '../../assets/universityData/swarthmore-college-pennsylvania'
 import * as swinburneuniversityoftechnology from '../../assets/universityData/swinburne-university-of-technology'
 import * as sydneybusinessschool from '../../assets/universityData/sydney-business-school'
