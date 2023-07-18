@@ -160,7 +160,7 @@ export const questuniversitycanada = {
             "data": [
                 "Must be 18 years or older at the time of entering the University.",
                 "Must have completed 12 years of schooling, with a minimum grade of 75% in the last four years of schooling.",
-                "Must have passed the following tests with a minimum score: IELTS (International English Language Testing System): Overall band of 6.5 or higher., TOEFL (Test of English as a Foreign Language): Overall score of 90 or higher.",
+                "Must have passed the following tests with a minimum score:<br> 1. IELTS (International English Language Testing System): Overall band of 6.5 or higher.<br> 2. TOEFL (Test of English as a Foreign Language): Overall score of 90 or higher.",
                 "Must provide an official transcript from all post-secondary institutions attended.",
                 "Must provide evidence of financial support.",
                 "Must submit a personal statement outlining academic and career goals.",

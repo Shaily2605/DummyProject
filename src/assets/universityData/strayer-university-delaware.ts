@@ -164,29 +164,8 @@ export const strayeruniversitydelaware = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Visit the Strayer University website and complete the International Student Application Form."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "textBelowInfo": "Submit the completed application form along with all the required documents. These documents include:",
-            "data": [
-                "Official transcripts from all secondary and post-secondary schools attended",
-                "Official test scores (IELTS, TOEFL, SAT, GRE, etc., as applicable)",
-                "Proof of English language proficiency",
-                "Financial documents proving sufficient funds to pay for tuition and living expenses",
-                "Copy of passport",
-                "Copy of visa (if applicable)",
-                "Copy of any other relevant documents"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Visit the Strayer University website and complete the International Student Application Form.",
+                "Submit the completed application form along with all the required documents. These documents include:<br> 1. Official transcripts from all secondary and post-secondary schools attended<br> 2. Official test scores (IELTS, TOEFL, SAT, GRE, etc., as applicable)<br> 3. Proof of English language proficiency<br> 4. Financial documents proving sufficient funds to pay for tuition and living expenses<br> 5. Copy of passport<br> 6. Copy of visa (if applicable)<br> 7. Copy of any other relevant documents",
                 "Once the application form is received and evaluated, you will be contacted to schedule an admissions interview.",
                 "After the admissions interview, you will be notified of your admission status.",
                 "If you are accepted, you will be required to submit a deposit to secure your place in the university.",

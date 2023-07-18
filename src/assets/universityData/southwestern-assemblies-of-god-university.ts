@@ -140,7 +140,7 @@ export const southwesternassembliesofgoduniversity = {
             "info": "In order to be eligible for admission to Southwestern Assemblies of God University (SAGU) in Texas, USA, Indian students must meet the following criteria: ",
             "data": [
                 "<b>Academic Excellence:</b> Applicants must have a minimum cumulative grade point average (GPA) of 2.75 on a 4.0 scale or equivalent. ",
-                "<b>English Proficiency:</b> Applicants must demonstrate English proficiency by submitting one of the following: TOEFL iBT score of 80 or higher, IELTS score of 6.5 or higher, PTE score of 53 or higher  ",
+                "<b>English Proficiency:</b> Applicants must demonstrate English proficiency by submitting one of the following:<br> 1. TOEFL iBT score of 80 or higher<br> 2. IELTS score of 6.5 or higher<br> 3. PTE score of 53 or higher  ",
                 "<b>Financial Resources:</b> International applicants must demonstrate financial resources to cover educational expenses. Indian students must submit a financial affidavit form or bank statement in their own name to show that they have sufficient funds to cover all educational expenses for one academic year. ",
                 "<b>Documentation:</b> All students must submit all required documents, including transcripts, passport, visa documents, etc. ",
                 "Once the applicant has met all the criteria for admission, they can apply by submitting the online application form on the university website.",

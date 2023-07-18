@@ -143,12 +143,12 @@ export const reddeerpolytechnicuniversity = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the official website of Red Deer Polytechnic University (Red Deer) and go to the Admissions page.",
-                "Step 2: Read the information about admissions criteria and requirements for international students.",
-                "Step 3: Find the application form and fill it out accurately and completely.",
-                "Step 4: Provide all the required documents, including transcripts, language test scores, and financial documentation.",
-                "Step 5: Submit the application form and all the documents to the university.",
-                "Step 6: Wait for a response from the university."
+                "<b>Step 1:</b> Visit the official website of Red Deer Polytechnic University (Red Deer) and go to the Admissions page.",
+                "<b>Step 2:</b> Read the information about admissions criteria and requirements for international students.",
+                "<b>Step 3:</b> Find the application form and fill it out accurately and completely.",
+                "<b>Step 4:</b> Provide all the required documents, including transcripts, language test scores, and financial documentation.",
+                "<b>Step 5:</b> Submit the application form and all the documents to the university.",
+                "<b>Step 6:</b> Wait for a response from the university."
             ]
         },
         {

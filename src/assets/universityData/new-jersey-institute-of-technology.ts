@@ -151,29 +151,8 @@ export const newjerseyinstituteoftechnology = {
             "info": "",
             "data": [
                 "Visit the website of New Jersey Institute of Technology (NJIT) and review the admission requirements for international students.",
-                "Research the courses offered at NJIT and determine which ones are suitable for you."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "textBelowInfo": "Submit the online application form, which requires the following documents:",
-            "data": [
-                "Official transcripts and mark sheets from your secondary school, college/university, and any other educational institution attended.",
-                "A certified English translation of all documents not in English.",
-                "A completed Certification of Finances form.",
-                "A copy of your valid passport.",
-                "Proof of English language proficiency (unless you are a native speaker or have completed a degree in English).",
-                "TOEFL, IELTS, or PTE Academic scores.",
-                "Application fee payment."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Research the courses offered at NJIT and determine which ones are suitable for you.",
+                "Submit the online application form, which requires the following documents:<br> a. Official transcripts and mark sheets from your secondary school, college/university, and any other educational institution attended.<br> b. A certified English translation of all documents not in English.<br> c. A completed Certification of Finances form.<br> d. A copy of your valid passport.<br> e. Proof of English language proficiency (unless you are a native speaker or have completed a degree in English).<br> f. TOEFL, IELTS, or PTE Academic scores.<br> g. Application fee payment.",
                 "Submit the required documents to NJIT’s Office of International Admissions.",
                 "Await the response from NJIT’s Office of International Admissions. If accepted, apply for a student visa from the closest US Embassy in India."
             ]

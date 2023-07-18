@@ -167,7 +167,7 @@ export const muhlenbergcollege = {
             data: "<p>In addition, international students must provide a financial guarantee that demonstrates the ability to pay for tuition, room, board, books and other expenses.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

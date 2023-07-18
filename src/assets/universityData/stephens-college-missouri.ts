@@ -164,14 +164,7 @@ export const stephenscollegemissouri = {
             "data": [
                 "Official transcripts from all schools attended",
                 "Official Secondary School Leaving Certificate",
-                "Official English language proficiency test scores (if applicable)"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Official English language proficiency test scores (if applicable)",
                 "Bank statements",
                 "Copy of passport",
                 "Copy of financial aid documents (if applicable)",

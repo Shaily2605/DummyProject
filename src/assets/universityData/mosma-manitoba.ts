@@ -127,7 +127,7 @@ export const mosmamanitoba = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "Students from India who wish to apply for admission at Morrison Institute of Technology, Illinois, USA must first meet the university's admission requirements. These include:",
             "data": [

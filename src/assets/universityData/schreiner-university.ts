@@ -136,24 +136,7 @@ export const schreineruniversity = {
             "info": "Schreiner University offers admission to international students from all over the world. For Indian students, the following criteria must be fulfilled:",
             "data": [
                 "<b>Academic Requirements:</b> Indian students must have a high school diploma and transcripts that are recognized by the Indian government, with an overall grade point average (GPA) of 3.0 or higher.",
-                "<b>English Language Proficiency:</b> Indian students must demonstrate proficiency in the English language by providing proof of one of the following:"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Score of at least 79 on the TOEFL IBT (internet-based test) or a score of at least 577 on the TOEFL PBT (paper-based test)",
-                "Score of at least 6.5 on the IELTS (International English Language Testing System)",
-                "Score of at least 65 on the PTE (Pearson Test of English)",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "<b>English Language Proficiency:</b> Indian students must demonstrate proficiency in the English language by providing proof of one of the following:<br> a. Score of at least 79 on the TOEFL IBT (internet-based test) or a score of at least 577 on the TOEFL PBT (paper-based test)<br> b. Score of at least 6.5 on the IELTS (International English Language Testing System)<br> c. Score of at least 65 on the PTE (Pearson Test of English)",
                 "<b>Financial Resources:</b> Indian students must show proof of sufficient funds to cover all expenses for the duration of their stay in the US. This includes tuition, living expenses, and travel expenses.",
                 "<b>Visa Requirements:</b> Indian students must receive an F-1 visa from the US Embassy in order to study in the US.",
                 "<b>Health Insurance:</b> Indian students must purchase health insurance before they arrive in the US."

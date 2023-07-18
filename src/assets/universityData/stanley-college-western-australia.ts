@@ -146,27 +146,10 @@ export const stanleycollegewesternaustralia = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Stanley College's entry requirements for Indian students are as follows:",
-            "textBelowInfo": "<b>1. Academic Requirements</b>",
             "data": [
-                "A minimum of 50% in the final year of your High School/12th Grade/Senior Secondary School/Pre-University Certificate or equivalent."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "2. English Language Requirements",
-            "data": [
-                "IELTS overall band of 5.5 with no individual band lower than 5.0 or equivalent. ",
-                "Additional English Language Requirements may be applicable for some courses."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "3. Visa Requirements",
-            "data": [
-                "You must hold a valid student visa to study at Stanley College.",
-                "Stanley College is an approved provider of the Australian Government's Student Visa Program."
+                "<b>Academic Requirements</b> <br> A minimum of 50% in the final year of your High School/12th Grade/Senior Secondary School/Pre-University Certificate or equivalent.",
+                "<b>English Language Requirements </b> <br>IELTS overall band of 5.5 with no individual band lower than 5.0 or equivalent.<br> Additional English Language Requirements may be applicable for some courses.",
+                "<b>Visa Requirements</b> <br>You must hold a valid student visa to study at Stanley College.<br> Stanley College is an approved provider of the Australian Government's Student Visa Program."
             ]
         },
         {

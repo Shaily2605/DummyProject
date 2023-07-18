@@ -170,7 +170,7 @@ export const saintmaryscollegeofcalifornia = {
             "info": "In order to apply for admission at Saint Mary's College of California, international students must meet the following criteria:",
             "data": [
                 "<b>Academic Eligibility:</b> International applicants must have a minimum cumulative grade point average of 2.5 or equivalent on a 4.0 scale.",
-                "<b>English Proficiency:</b> All applicants must demonstrate English proficiency by submitting one of the following: TOEFL or IELTS scores, An official transcript showing successful completion of at least two years of full-time study at a high school or college where English is the primary language of instruction.   ",
+                "<b>English Proficiency:</b> All applicants must demonstrate English proficiency by submitting one of the following:<br> 1. TOEFL or IELTS scores<br> 2. An official transcript showing successful completion of at least two years of full-time study at a high school or college where English is the primary language of instruction.   ",
                 "<b>Financial Support:</b> International applicants must demonstrate that they have sufficient financial support to cover their educational and living expenses, as well as any additional expenses related to visa requirements.",
                 "<b>Application Materials:</b> International applicants must submit all required application materials by the indicated deadline. This includes, but is not limited to, official transcripts/mark sheets, letters of recommendation, and a Personal Statement.",
                 "For more information, please visit the Saint Mary's College of California official website."

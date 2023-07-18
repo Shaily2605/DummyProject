@@ -150,21 +150,8 @@ export const morningsideuniversity = {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "",
-            "textBelowInfo": "Students from India who wish to apply for admission at Morningside University, Iowa, USA must first meet the university's admission requirements. These requirements include completion of high school or equivalent, completion of the TOEFL exam, and submission of the following materials:",
             "data": [
-                "Completed application form",
-                "Official transcripts from all previously attended institutions",
-                "A personal statement",
-                "A letter of recommendation from a teacher or employer",
-                "A copy of the student’s passport",
-                "Financial documents to prove the ability to cover tuition and living expenses"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Students from India who wish to apply for admission at Morningside University, Iowa, USA must first meet the university's admission requirements. These requirements include completion of high school or equivalent, completion of the TOEFL exam, and submission of the following materials:<br> a. Completed application form<br> b. Official transcripts from all previously attended institutions<br> c. A personal statement<br> d. A letter of recommendation from a teacher or employer<br> e. A copy of the student’s passport<br> f. Financial documents to prove the ability to cover tuition and living expenses",
                 "Once all of the required documents have been submitted, the student should submit an official application to the university. The university will review the application and determine whether or not the student is eligible for admission.",
                 "If the student is accepted, the university will provide the student with an I-20 form that will authorize the student to apply for a student visa. The student must then apply for a visa at the US Embassy or Consulate in their home country.",
                 "Once the student has obtained a visa, they will be able to travel to the US and begin their studies at Morningside University."

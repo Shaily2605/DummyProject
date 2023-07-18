@@ -178,7 +178,7 @@ export const mountholyokecollege = {
             data: "<p>In addition, international students must submit a copy of their passport, proof of financial support, and an English proficiency score (such as TOEFL, IELTS, or Duolingo).</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

@@ -200,25 +200,8 @@ export const northernvermontuniversity = {
             "info": "Students from India applying for admission at Northern Vermont University in Johnson, Vermont, USA will need to complete the following steps: ",
             "data": [
                 "Research the university’s admissions requirements and admission deadlines.",
-                "Complete the online application available through the university’s website."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Gather necessary documents and submit them to the university. These documents include:",
-            "data": [
-                "Official transcripts from all post-secondary institutions attended",
-                "Proof of English proficiency (e.g. TOEFL or IELTS scores)",
-                "Proof of financial resources for tuition and living expenses",
-                "Two letters of recommendation"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Complete the online application available through the university’s website.",
+                "Gather necessary documents and submit them to the university. These documents include:<br> a. Official transcripts from all post-secondary institutions attended<br> b. Proof of English proficiency (e.g. TOEFL or IELTS scores)<br> c. Proof of financial resources for tuition and living expenses<br> d. Two letters of recommendation",
                 "If selected for an admission interview, complete the interview with the assigned admissions counselor.",
                 "Receive the admission decision from the university.",
                 "If accepted, submit an enrollment deposit and complete the necessary steps to prepare for enrollment."

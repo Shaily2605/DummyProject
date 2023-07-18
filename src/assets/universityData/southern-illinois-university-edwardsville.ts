@@ -224,33 +224,12 @@ export const southernillinoisuniversityedwardsville = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "The international undergraduate admissions criteria for Indian students at Southern Illinois University Edwardsville are as follows:",
-            "textBelowInfo": "<b>1. Academic:</b>",
             "data": [
-                "High School Diploma or equivalent",
-                "Cumulative Grade Point Average (CGPA) of 2.0 or higher on a 4.0 scale",
-                "Official transcripts from all post-secondary institutions attended"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "2. English Proficiency:",
-            "data": [
-                "Test of English as a Foreign Language (TOEFL) score of 500 (paper-based), 173 (computer-based) or 61 (internet-based).",
-                "International English Language Testing System (IELTS) score of 6.0.",
-                "Pearson Test of English (PTE) score of 43."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "3. Financial Documentation:",
-            "data": [
-                "An official Affidavit of Support and Bank Statement.",
-                "A copy of the passport and visa.",
-                "Proof of medical insurance. ",
-                "For more information regarding the admission process, please visit the official website of Southern Illinois University Edwardsville at http://www.siue.edu/admissions/international/undergraduate.shtml."
-            ]
+                "<b>1. Academic:</b> <br> a. High School Diploma or equivalent<br> b. Cumulative Grade Point Average (CGPA) of 2.0 or higher on a 4.0 scale<br> c. Official transcripts from all post-secondary institutions attended",
+                "<b>2. English Proficiency:</b> <br> a. Test of English as a Foreign Language (TOEFL) score of 500 (paper-based), 173 (computer-based) or 61 (internet-based).<br> b. International English Language Testing System (IELTS) score of 6.0.<br> c. Pearson Test of English (PTE) score of 43.",
+                "<b>3. Financial Documentation:</b> <br> a. An official Affidavit of Support and Bank Statement.<br> b. A copy of the passport and visa.<br> c. Proof of medical insurance. ",
+            ],
+            "heading:": "For more information regarding the admission process, please visit the official website of Southern Illinois University Edwardsville at http://www.siue.edu/admissions/international/undergraduate.shtml."
         },
         {
             "type": "list-bollet",

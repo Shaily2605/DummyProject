@@ -120,29 +120,7 @@ export const saultcollegeontario = {
             "info": "The eligibility criteria for admission to Sault College in Ontario, Canada for Indian students is as follows:",
             "data": [
                 "Must have completed Grade 12 or equivalent from a recognized institution in India.",
-                "Must demonstrate English language proficiency by achieving one of the following: "
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "IELTS (Academic): Overall band of 6.0 with no band below 5.5 ",
-                "TOEFL iBT: Overall score of 80 with no band below 20 ",
-                "CanTEST: Overall score of 4.5 with no band below 4.0 ",
-                "PTE Academic: Overall score of 53 with no band below 47",
-                "CAEL: Overall score of 60 with no band below 50 ",
-                "MELAB: Overall score of 77 with no band below 70 ",
-                "CELPIP: Overall score of 7 with no band below 7 "
-
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Must demonstrate English language proficiency by achieving one of the following:<br> 1. IELTS (Academic): Overall band of 6.0 with no band below 5.5 <br> 2. TOEFL iBT: Overall score of 80 with no band below 20<br> 3. CanTEST: Overall score of 4.5 with no band below 4.0 <br> 4. PTE Academic: Overall score of 53 with no band below 47<br> 5. CAEL: Overall score of 60 with no band below 50<br> 6. MELAB: Overall score of 77 with no band below 70<br> 7. CELPIP: Overall score of 7 with no band below 7 ",
                 "Must provide proof of sufficient funds to support your tuition fees, living expenses and any other expenses related to your studies. ",
                 "Must provide a valid passport and other required documents. ",
                 "Must obtain a valid study permit prior to arriving in Canada.",

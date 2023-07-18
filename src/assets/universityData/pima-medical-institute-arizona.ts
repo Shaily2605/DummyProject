@@ -120,7 +120,7 @@ export const pimamedicalinstitutearizona = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirements",
             "info": "",
             "data": [

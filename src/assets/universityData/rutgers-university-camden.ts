@@ -115,7 +115,7 @@ export const rutgersuniversitycamden = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

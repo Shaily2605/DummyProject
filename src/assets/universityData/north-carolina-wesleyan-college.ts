@@ -124,44 +124,11 @@ export const northcarolinawesleyancollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "North Carolina Wesleyan College welcomes applications from international students.",
-            "textBelowInfo": "Admission Requirements for International Students:",
             "data": [
-                "A completed application for admission",
-                "Official transcripts from all secondary and post-secondary schools attended",
-                "Official TOEFL or IELTS score, if applicable",
-                "Proof of financial support",
-                "Copy of passport",
-                "Proof of immunization",
-                "Non-refundable application fee"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "If you are applying as a freshman, you must submit:",
-            "data": [
-                "Official high school transcripts",
-                "Official SAT or ACT scores"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "If you are applying as a transfer student, you must submit:",
-            "data": [
-                "Official college transcripts",
-                "If you have fewer than 24 transferable semester hours, you must submit high school transcripts and SAT or ACT scores."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "In addition, all applicants must submit the following:",
-            "data": [
-                "A completed essay",
-                "A completed International Student Reference Form",
-                "A completed International Student Financial Aid Form",
-                "Proof of health insurance coverage"
+                "Admission Requirements for International Students:<br> a. A completed application for admission<br> b. Official transcripts from all secondary and post-secondary schools attended<br> c. Official TOEFL or IELTS score, if applicable<br> d. Proof of financial support<br> e. Copy of passport<br> f. Proof of immunization<br> g. Non-refundable application fee",
+                "If you are applying as a freshman, you must submit:<br> a. Official high school transcripts<br> b. Official SAT or ACT scores",
+                "If you are applying as a transfer student, you must submit:<br> a. Official college transcripts<br> b. If you have fewer than 24 transferable semester hours, you must submit high school transcripts and SAT or ACT scores.",
+                "In addition, all applicants must submit the following:<br> a. A completed essay<br> b. A completed International Student Reference Form<br> c. A completed International Student Financial Aid Form<br> d. Proof of health insurance coverage"
             ]
         },
         {

@@ -135,7 +135,7 @@ export const salemstateuniversitymaine = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

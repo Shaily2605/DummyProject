@@ -141,25 +141,7 @@ export const southtexascollegepecancampus = {
             "info": "The South Texas College – Pecan Campus welcomes students from India, and the eligibility requirements are as follows:",
             "data": [
                 "You must be a high school graduate or the equivalent, or have completed a minimum of 12 college credit hours.",
-                "You must demonstrate English language proficiency. This can be done through one of the following:"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "An official TOEFL score of at least 500 (paper-based), 173 (computer-based), or 61 (internet-based).",
-                "An official IELTS score of at least 6.",
-                "An official SAT score of at least 500 on the verbal section.",
-                "An official ACT score of at least 19 on the English section."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "You must demonstrate English language proficiency. This can be done through one of the following:<br> a. An official TOEFL score of at least 500 (paper-based), 173 (computer-based), or 61 (internet-based).<br> b. An official IELTS score of at least 6.<br> c. An official SAT score of at least 500 on the verbal section.<br> d. An official ACT score of at least 19 on the English section.",
                 "You must have a passport that is valid for at least six months from the date of your intended entry into the United States.",
                 "You must have a valid student visa (F-1) issued by the U.S.Embassy in New Delhi.",
                 "You must have financial resources to cover tuition and living expenses for the duration of your program.",

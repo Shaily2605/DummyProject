@@ -143,7 +143,7 @@ export const saintpauluniversity = {
             "info": "Eligibility criteria for Indian students to take admission at Saint Paul University, Ontario, Canada is as follows: ",
             "data": [
                 "A minimum of 16 years of formal education, with a minimum Grade Point Average (GPA) of 3.0 on a 4.0 scale. ",
-                "Proof of English Proficiency: TOEFL (Test of English as a Foreign Language): Score of 80 or higher., IELTS (International English Language Testing System): Score of 6.0 or higher.   ",
+                "Proof of English Proficiency:<br> 1. TOEFL (Test of English as a Foreign Language): Score of 80 or higher.<br> 2. IELTS (International English Language Testing System): Score of 6.0 or higher.",
                 "A valid study permit issued by Immigration, Refugees, and Citizenship Canada (IRCC). ",
                 "Completion of the University's Application for Admission form. ",
                 "Payment of the non-refundable Application Fee."

@@ -136,19 +136,8 @@ export const nashuacommunitycollege = {
                 "Visit the college's website at https://www.nashuacc.edu/ and find the “International Admissions” section.",
                 "Download the international student application form, which can be found on the website.  ",
                 "Fill out the form and submit it along with the required documents.",
-                "Pay the international student application fee."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Submit all required documents, including but not limited to:",
-            "data": [
-                "Proof of English language proficiency (TOEFL/IELTS score report)",
-                "Official transcripts from all post-secondary institutions attended",
-                "Copy of passport",
-                "Bank statement of financial support",
-                "Statement of intent"
+                "Pay the international student application fee.",
+                "Submit all required documents, including but not limited to:<br> a. Proof of English language proficiency (TOEFL/IELTS score report)<br> b. Official transcripts from all post-secondary institutions attended<br> c. Copy of passport<br> d. Bank statement of financial support<br> e. Statement of intent",
             ]
         },
         {

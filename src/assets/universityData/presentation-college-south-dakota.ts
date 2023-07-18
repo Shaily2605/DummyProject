@@ -187,7 +187,7 @@ export const presentationcollegesouthdakota = {
             data: "<p>Students may also be required to submit additional documents depending on their individual situations. For more information, please contact the Office of Admissions at Presentation College.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

@@ -152,7 +152,7 @@ export const pitzercollegecalifornia = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

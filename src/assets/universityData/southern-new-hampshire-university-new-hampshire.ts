@@ -174,7 +174,7 @@ export const southernnewhampshireuniversitynewhampshire = {
             "info": "",
             "data": [
                 "Visit the website of Southern New Hampshire University (SNHU) and create an account.",
-                "Complete the online application form, including all required documents. Students from India are required to submit the following documents: Official transcripts from all universities attended, Official proof of English proficiency (TOEFL, IELTS, or PTE Academic score), Statement of financial resources, Copy of passport, Resume",
+                "Complete the online application form, including all required documents. Students from India are required to submit the following documents:<br> 1. Official transcripts from all universities attended<br> 2. Official proof of English proficiency (TOEFL, IELTS, or PTE Academic score)<br> 3. Statement of financial resources<br> 4. Copy of passport<br> 5. Resume",
                 "Submit the application fee and any required documents.",
                 "The university will review the application, and if approved, will issue an I-20 form to the student.",
                 "Pay the SEVIS fee and apply for an F-1 student visa.",

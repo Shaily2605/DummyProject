@@ -158,12 +158,12 @@ export const oregonstateuniversity = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the Oregon State University website and create an account.",
-                "Step 2: Prepare all your documents including transcripts, test scores, essays, and other application materials.",
-                "Step 3: Submit your application online and pay the application fee.",
-                "Step 4: Book an appointment with the OSU Office of International Services and complete the visa application process.",
-                "Step 5: Once you have been accepted, apply for your student visa at the nearest US Embassy or Consulate.",
-                "Step 6: Arrive in the US and begin your studies at Oregon State University."
+                "<b>Step 1:</b> Visit the Oregon State University website and create an account.",
+                "<b>Step 2:</b> Prepare all your documents including transcripts, test scores, essays, and other application materials.",
+                "<b>Step 3:</b> Submit your application online and pay the application fee.",
+                "<b>Step 4:</b> Book an appointment with the OSU Office of International Services and complete the visa application process.",
+                "<b>Step 5:</b> Once you have been accepted, apply for your student visa at the nearest US Embassy or Consulate.",
+                "<b>Step 6:</b> Arrive in the US and begin your studies at Oregon State University."
             ]
         },
         {

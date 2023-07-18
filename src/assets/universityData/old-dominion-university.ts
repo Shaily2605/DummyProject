@@ -165,7 +165,7 @@ export const olddominionuniversity = {
             "data": [
                 "Visit the Old Dominion University website and find the admissions page.",
                 "Read through the admission requirements for international students and ensure that you meet them.",
-                "Submit the following documents to the university: Official transcripts from all schools attended/ completed, Official test scores from TOEFL, IELTS, or PTE Academic, Two letters of recommendation from professors or academic advisors, A Personal Statement, A completed application form, A non-refundable application fee of $50",
+                "Submit the following documents to the university:<br> a. Official transcripts from all schools attended/ completed<br> b. Official test scores from TOEFL, IELTS, or PTE Academic<br> c. Two letters of recommendation from professors or academic advisors<br> d. A Personal Statement<br> e. A completed application form<br> f. A non-refundable application fee of $50",
                 "Submit the financial documents to prove that you can afford the tuition and living expenses.",
                 "Wait for the decision from the university."
             ]

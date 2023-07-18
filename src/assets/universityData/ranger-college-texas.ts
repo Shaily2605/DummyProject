@@ -144,7 +144,7 @@ export const rangercollegetexas = {
             data: "<p>For more information, please check the website:</p> <p>https://www.rangercollege.edu/admissions/admission-process/</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

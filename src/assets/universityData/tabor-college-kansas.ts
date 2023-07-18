@@ -227,25 +227,7 @@ export const taborcollegekansas = {
             "data": [
                 "Visit the Tabor College website and check the admission requirements for international students.",
                 "Submit a completed online application form and pay the application fee.",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "textBelowInfo": "Submit the following documents:",
-            "data": [
-                "Academic transcripts",
-                "Proof of English language proficiency",
-                "Copy of passport",
-                "Financial documents to demonstrate the ability to fund your studies",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Submit the following documents:<br> 1. Academic transcripts<br> 2. Proof of English language proficiency<br> 3. Copy of passport<br> 4. Financial documents to demonstrate the ability to fund your studies",
                 "Send all documents and the application fee to Tabor College.",
                 "Wait for the admissions decision.",
                 "If accepted, you will receive an I-20 form, which you will need in order to apply for a student visa.",

@@ -149,7 +149,7 @@ export const nscccentreofgeographicsciences = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [
