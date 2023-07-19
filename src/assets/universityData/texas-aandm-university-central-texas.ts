@@ -184,9 +184,9 @@ export const texasaandmuniversitycentraltexas = {
                 "Proof of English proficiency (e.g. TOEFL, IELTS, etc.)",
                 "Financial documents demonstrating ability to pay for course fees, living expenses, and other related expenses",
                 "Copy of Passport",
-                "Any other documents required by the University",
-                "After submitting all the required documents, applicants must wait for a decision from the university. Once accepted, applicants must complete the visa process to obtain a visa to study in the United States."
-            ]
+                "Any other documents required by the University"
+            ],
+            "heading": "<p>After submitting all the required documents, applicants must wait for a decision from the university. Once accepted, applicants must complete the visa process to obtain a visa to study in the United States.</p>"
         },
         {
 

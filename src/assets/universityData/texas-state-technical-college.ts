@@ -123,29 +123,16 @@ export const texasstatetechnicalcollege = {
                 "A copy of the visa page in the passport (if applicable).",
                 "A completed Affidavit of Support.",
                 "A completed physical exam form.",
-                "A completed immunization form.",
-                "Once all documents have been submitted, the admissions office will review and make a decision regarding the applicant’s eligibility."
-            ]
+                "A completed immunization form."
+            ],
+            "heading": "<p>Once all documents have been submitted, the admissions office will review and make a decision regarding the applicant’s eligibility.</p>"
         },
         {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "",
-            "textBelowInfo": "To apply for admission to Texas State Technical College, Texas, USA, students from India must submit the following:",
             "data": [
-                "A completed application form",
-                "Official transcripts from high school and any other colleges or universities attended",
-                "A copy of the student’s passport",
-                "Proof of English language proficiency (TOEFL/IELTS scores)",
-                "Proof of financial resources",
-                "A non-refundable application fee of US$50"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "To apply for admission to Texas State Technical College, Texas, USA, students from India must submit the following:<br> a. A completed application form<br> b. Official transcripts from high school and any other colleges or universities attended<br> c. A copy of the student’s passport<br> d. Proof of English language proficiency (TOEFL/IELTS scores)<br> e. Proof of financial resources<br> f. A non-refundable application fee of US$50",
                 "Once all the required documents have been submitted, the student will receive an admission decision within approximately 4-6 weeks.",
                 "Upon receiving an offer of admission, students must submit their official transcripts, an official copy of their visa document, and the enrollment fee to secure their place in the program.",
                 "Once all of the documents have been received, the student will be issued an I-20 form. This form is required to obtain a student visa and must be presented to the US Embassy or Consulate in the student’s home country.",

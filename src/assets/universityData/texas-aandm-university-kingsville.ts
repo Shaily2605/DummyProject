@@ -142,7 +142,8 @@ export const texasaandmuniversitykingsville = {
             "data": [
                 "Texas Resident: $8,772",
                 "Non-resident: $19,172"
-            ]
+            ],
+            "heading": "<p>Additional fees and charges may apply.</p>"
         },
         {
             type: "meta",
@@ -197,12 +198,8 @@ export const texasaandmuniversitykingsville = {
                 "Resume/CV",
                 "Bank statement to prove financial resources",
                 "Copy of passport"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to these requirements, international applicants must also submit proof of financial resources to cover one year of education and living expenses. The university also requires all international applicants to have health insurance.</p>"
+            ],
+            "heading": "<p>In addition to these requirements, international applicants must also submit proof of financial resources to cover one year of education and living expenses. The university also requires all international applicants to have health insurance.</p>"
         },
         {
             "type": "list-bollet",

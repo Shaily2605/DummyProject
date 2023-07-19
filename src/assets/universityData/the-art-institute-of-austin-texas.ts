@@ -167,9 +167,9 @@ export const theartinstituteofaustintexas = {
                 "<b>Financial Documentation:</b> A certification of finances, including bank statements and/or a letter of support from a sponsor.",
                 "<b>Resume:</b> A current resume or CV.",
                 "<b>Letters of Recommendation:</b> Two letters of recommendation from teachers or employers.",
-                "<b>Portfolio:</b> A portfolio of artwork, if applicable.",
-                "Once all of these documents have been submitted, the school will review the application and make a decision about admission."
-            ]
+                "<b>Portfolio:</b> A portfolio of artwork, if applicable."
+            ],
+            "heading": "<p>Once all of these documents have been submitted, the school will review the application and make a decision about admission.</p>"
         },
         {
 

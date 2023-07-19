@@ -85,9 +85,9 @@ export const theartinstituteofhouston = {
                 "Certificate in Game Art & Design: $10,200",
                 "Certificate in Interior Design: $10,200",
                 "Certificate in Video Production: $10,200",
-                "Certificate in Culinary Arts: $10,200",
-                "The tuition fee may vary depending upon the type of program and other factors. For more information, please visit the Art Institute of Houston’s official website."
-            ]
+                "Certificate in Culinary Arts: $10,200"
+            ],
+            "heading": "<p>The tuition fee may vary depending upon the type of program and other factors. For more information, please visit the Art Institute of Houston’s official website.</p>"
         },
         {
             type: "meta",

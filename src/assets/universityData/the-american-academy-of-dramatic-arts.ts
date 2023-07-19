@@ -131,7 +131,7 @@ export const theamericanacademyofdramaticarts = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

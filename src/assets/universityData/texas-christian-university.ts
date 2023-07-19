@@ -165,9 +165,9 @@ export const texaschristianuniversity = {
                 "Two letters of recommendation",
                 "A personal statement",
                 "A non-refundable $50 application fee",
-                "Financial documentation to show that you have sufficient funds to cover your educational expenses for the period of enrollment at TCU.",
-                "For more information about the admission process for international students, please visit the TCU website at https://admissions.tcu.edu/apply/international-students/."
-            ]
+                "Financial documentation to show that you have sufficient funds to cover your educational expenses for the period of enrollment at TCU."
+            ],
+            "heading": "<p>For more information about the admission process for international students, please visit the TCU website at https://admissions.tcu.edu/apply/international-students/.</p>"
         },
         {
             "type": "list-bollet",
@@ -180,9 +180,9 @@ export const texaschristianuniversity = {
                 "Submit a visa application if necessary.",
                 "Participate in an interview with an admissions counselor if requested.",
                 "Receive an admission decision.",
-                "Pay the necessary deposits and fees to secure admission.",
-                "For more information about the application process for international students, please visit the TCU Admissions website."
-            ]
+                "Pay the necessary deposits and fees to secure admission."
+            ],
+            "heading": "<p>For more information about the application process for international students, please visit the TCU Admissions website.</p>"
         },
         {
 

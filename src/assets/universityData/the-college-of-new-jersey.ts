@@ -101,12 +101,8 @@ export const thecollegeofnewjersey = {
                 "Tuition (per semester): $9,993 ",
                 "Fees (per semester): $1,150 ",
                 "Total (per semester): $11,143"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information about the courses and fees offered at TCNJ, please visit their website at: https://admissions.tcnj.edu/costs-and-financial-aid/tuition-fees/</p>"
+            ],
+            "heading": "<p>For more information about the courses and fees offered at TCNJ, please visit their website at: https://admissions.tcnj.edu/costs-and-financial-aid/tuition-fees/</p>"
         },
         {
             type: "meta",

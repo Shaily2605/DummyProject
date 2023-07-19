@@ -138,12 +138,12 @@ export const thecooperunionnewyork = {
                 "A nonrefundable application fee",
                 "Proof of English language proficiency, if applicable ",
                 "Proof of financial resources to cover tuition, fees, and living expenses ",
-                "A valid visa or immigration status ",
-                "In addition, each applicant must demonstrate academic excellence and must show potential for contributing to the diverse and inclusive community at The Cooper Union."
-            ]
+                "A valid visa or immigration status "
+            ],
+            "heading": "<p>In addition, each applicant must demonstrate academic excellence and must show potential for contributing to the diverse and inclusive community at The Cooper Union.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

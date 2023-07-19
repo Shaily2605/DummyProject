@@ -166,12 +166,8 @@ export const terrastatecommunitycollege = {
                 "Submitting proof of financial support to cover the cost of attendance.",
                 "Demonstrating proficiency in the English language, as evidenced by passing a TOEFL or IELTS exam.",
                 "Meeting all other requirements established by the college or university."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Terra State Community College requires international students to have health insurance coverage for their entire stay in the US. Students must also demonstrate that they are able to financially support themselves for the entire time they are enrolled in the college.</p> <p>For more information, please visit the college's website or contact the Office of Admissions.</p>"
+            ],
+            "heading": "<p>In addition, Terra State Community College requires international students to have health insurance coverage for their entire stay in the US. Students must also demonstrate that they are able to financially support themselves for the entire time they are enrolled in the college.</p> <p>For more information, please visit the college's website or contact the Office of Admissions.</p>"
         },
         {
             "type": "list-bollet",
@@ -187,9 +183,9 @@ export const terrastatecommunitycollege = {
                 "Submit a copy of your visa.",
                 "Submit a copy of your current immunization records.",
                 "Submit any additional documents as requested.",
-                "Pay the $50 non-refundable application fee.",
-                "Once all of the required documents have been submitted, Terra State Community College will review your application and make an admission decision."
-            ]
+                "Pay the $50 non-refundable application fee."
+            ],
+            "heading": "<p>Once all of the required documents have been submitted, Terra State Community College will review your application and make an admission decision.</p>"
         },
         {
 

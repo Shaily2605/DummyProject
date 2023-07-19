@@ -172,9 +172,9 @@ export const texascollegetexas = {
                 "<b>Tests:</b> Take the necessary tests such as the TOEFL, SAT or ACT for admission into the college.",
                 "<b>Financial Aid:</b> Submit the financial aid forms and documents required for any financial assistance.",
                 "<b>Interview:</b> Participate in an interview (Skype or in-person) with a college representative to discuss the course and other related topics.",
-                "<b>Follow-up:</b> Follow up with the college representatives to ensure that your application is complete and under review.",
-                "Once the college has accepted your application, they will provide you with further instructions on how to complete the admission process."
-            ]
+                "<b>Follow-up:</b> Follow up with the college representatives to ensure that your application is complete and under review."
+            ],
+            "heading": "<p>Once the college has accepted your application, they will provide you with further instructions on how to complete the admission process.</p>"
         },
         {
 

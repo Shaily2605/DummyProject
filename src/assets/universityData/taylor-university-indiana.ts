@@ -135,11 +135,7 @@ export const tayloruniversityindiana = {
             "info": "",
             "data": [
                 "Taylor University requires all international students to have completed a secondary education that is equivalent to a US high school diploma. To determine eligibility, Taylor reviews all international applicants’ academic records and requires a minimum GPA of 2.5 on a 4.0 scale.",
-                "In addition, international students must provide evidence of English language proficiency through either an acceptable TOEFL or IELTS score. The minimum requirements are:",
-                "TOEFL:",
-                "iBT: 79",
-                "PBT: 550",
-                "IELTS: 6.0",
+                "In addition, international students must provide evidence of English language proficiency through either an acceptable TOEFL or IELTS score. The minimum requirements are:<br>TOEFL:<br> iBT: 79<br> PBT: 550<br> IELTS: 6.0",
                 "Students who have completed two or more years of college study in the United States and have earned a cumulative GPA of 2.0 or higher, or who have earned an Associate’s degree from a US college or university, may be eligible for a waiver of the TOEFL/IELTS requirement.",
                 "Finally, international students must provide evidence of sufficient financial resources to cover all expenses for the first year of study."
             ]
