@@ -119,12 +119,10 @@ export const theevergreenstatecollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who are interested in applying for admission to The Evergreen State College in Washington, USA, should first visit the college's website to find out the requirements for international students. Generally, international applicants must submit a completed international application, official transcripts, proof of English language proficiency, financial documents, and any other required documents. After submitting the required documents, applicants will be evaluated for admission."
-            ]
+            "data": "<p>Students from India who are interested in applying for admission to The Evergreen State College in Washington, USA, should first visit the college's website to find out the requirements for international students. Generally, international applicants must submit a completed international application, official transcripts, proof of English language proficiency, financial documents, and any other required documents. After submitting the required documents, applicants will be evaluated for admission.</p>"
         },
         {
 
@@ -293,8 +291,8 @@ export const theevergreenstatecollege = {
             "title": "Hostel",
             "info": "",
             "data": [
-                "<b>On-Campus Accommodations:</b> <br>The Evergreen State College offers on-campus housing options to students, faculty, and staff. On-campus housing is available in a variety of styles and locations. Traditional residence halls are available for first-year students, while off-campus apartments and family-style housing are available for upper-class students. The college also offers a variety of living-learning communities for students who want to live and learn together.", 
-                "<b>Off-Campus Accommodations:</b> <br>The Evergreen State College does not offer off-campus hostel facilities. However, there are a number of private hostel providers in the Olympia area, including the Olympia Hostel, the Downtown Olympia Hostel, and the Campus Lodge. These hostels provide affordable accommodations and often have shared rooms and communal areas.", 
+                "<b>On-Campus Accommodations:</b> <br>The Evergreen State College offers on-campus housing options to students, faculty, and staff. On-campus housing is available in a variety of styles and locations. Traditional residence halls are available for first-year students, while off-campus apartments and family-style housing are available for upper-class students. The college also offers a variety of living-learning communities for students who want to live and learn together.",
+                "<b>Off-Campus Accommodations:</b> <br>The Evergreen State College does not offer off-campus hostel facilities. However, there are a number of private hostel providers in the Olympia area, including the Olympia Hostel, the Downtown Olympia Hostel, and the Campus Lodge. These hostels provide affordable accommodations and often have shared rooms and communal areas.",
             ]
         },
         {

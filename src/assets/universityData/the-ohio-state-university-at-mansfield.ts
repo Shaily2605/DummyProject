@@ -121,12 +121,10 @@ export const theohiostateuniversityatmansfield = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirements",
             "info": "",
-            "data": [
-                "Admission requirements for Indian students at The Ohio State University at Mansfield are similar to those for all other international students. Applicants must hold a secondary school diploma or equivalent from an accredited institution, possess adequate academic preparation for the chosen program, have a minimum cumulative grade point average of 2.0 on a 4.0 scale, and demonstrate English proficiency by submitting a TOEFL or IELTS score if applicable. Additionally, all international students must demonstrate proof of adequate financial resources for the duration of their studies at Ohio State."
-            ]
+            "data": "<p>Admission requirements for Indian students at The Ohio State University at Mansfield are similar to those for all other international students. Applicants must hold a secondary school diploma or equivalent from an accredited institution, possess adequate academic preparation for the chosen program, have a minimum cumulative grade point average of 2.0 on a 4.0 scale, and demonstrate English proficiency by submitting a TOEFL or IELTS score if applicable. Additionally, all international students must demonstrate proof of adequate financial resources for the duration of their studies at Ohio State.</p>"
         },
         {
             "type": "list-bollet",

@@ -130,12 +130,11 @@ export const texastechuniversityhealthsciencescenter = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission at Texas Tech University Health Sciences Center in Texas, USA, must first complete the standard application process. This includes submitting an online application, sending transcripts and test scores, providing letters of recommendation, and submitting a personal statement. In addition, applicants must demonstrate English proficiency by providing scores from accepted tests such as the TOEFL or IELTS. Finally, international applicants may need to submit additional documents, such as a financial statement or an affidavit of support."
-            ]
+            "data": "<p>Students from India who wish to apply for admission at Texas Tech University Health Sciences Center in Texas, USA, must first complete the standard application process. This includes submitting an online application, sending transcripts and test scores, providing letters of recommendation, and submitting a personal statement. In addition, applicants must demonstrate English proficiency by providing scores from accepted tests such as the TOEFL or IELTS. Finally, international applicants may need to submit additional documents, such as a financial statement or an affidavit of support.</p>"
+
         },
         {
 

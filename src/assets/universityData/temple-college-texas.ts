@@ -91,12 +91,9 @@ export const templecollegetexas = {
                 "Health Insurance: $99 per semester ",
                 "Student Services Fee: $3 per credit hour ",
                 "Distance Education Fee: $20 per credit hour"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You can find a full list of Temple College's courses at https://www.templejc.edu/academics/catalog.aspx.</p>"
+            ],
+            "heading": "<p>You can find a full list of Temple College's courses at <a>https://www.templejc.edu/academics/catalog.aspx.</a></p>"
+
         },
         {
             type: "meta",

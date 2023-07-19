@@ -130,12 +130,13 @@ export const texasaandmuniversitysanantonio = {
                 "M.A. in Nursing",
                 "M.A. in Psychology",
                 "M.A. in Sociology"
-            ]
+            ],
+            "heading": "<p>The tuition fees for the Undergraduate programs range from $745 to $7,000 per semester and for the Graduate programs range from $4,500 to $10,500 per semester.</p> <p>For detailed information regarding the courses and fee structure of Texas A&M University-San Antonio, please visit their official website: https://www.tamusa.edu/academics/</p>"
+
         },
         {
             type: 'text',
             title: '',
-            data: "<p>The tuition fees for the Undergraduate programs range from $745 to $7,000 per semester and for the Graduate programs range from $4,500 to $10,500 per semester.</p> <p>For detailed information regarding the courses and fee structure of Texas A&M University-San Antonio, please visit their official website: https://www.tamusa.edu/academics/</p>"
         },
         {
             type: "meta",
@@ -175,12 +176,10 @@ export const texasaandmuniversitysanantonio = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission to Texas A&M University-San Antonio must follow the same steps as any other international student applying to the university. These steps include submitting an online application, submitting official transcripts and documentation, providing a financial statement, and submitting an application fee. Once all of the required documents have been submitted, the student will receive an admission decision from the university. For more details on the application process, please visit the university's website: https://www.tamusa.edu/admissions/apply-now/international/index.html."
-            ]
+            "data": "<p>Students from India who wish to apply for admission to Texas A&M University-San Antonio must follow the same steps as any other international student applying to the university. These steps include submitting an online application, submitting official transcripts and documentation, providing a financial statement, and submitting an application fee. Once all of the required documents have been submitted, the student will receive an admission decision from the university. For more details on the application process, please visit the university's website: <a>https://www.tamusa.edu/admissions/apply-now/international/index.html</a>.</p>"
         },
         {
 

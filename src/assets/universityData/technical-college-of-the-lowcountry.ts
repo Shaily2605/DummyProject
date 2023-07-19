@@ -203,12 +203,11 @@ export const technicalcollegeofthelowcountry = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission at Technical College of the Lowcountry, South Carolina, USA should visit the school’s website and submit an online application. All applicants must meet the college’s eligibility criteria and provide all the required documents, including transcripts and English language proficiency scores (if applicable). International students will also need to provide evidence of financial support and proof of health insurance. Once the application is submitted, the college will assess the applicant’s academic record and make a decision on admission."
-            ]
+            "data": "<p>Students from India who wish to apply for admission at Technical College of the Lowcountry, South Carolina, USA should visit the school’s website and submit an online application. All applicants must meet the college’s eligibility criteria and provide all the required documents, including transcripts and English language proficiency scores (if applicable). International students will also need to provide evidence of financial support and proof of health insurance. Once the application is submitted, the college will assess the applicant’s academic record and make a decision on admission.</p>"
+
         },
         {
 

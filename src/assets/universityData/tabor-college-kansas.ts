@@ -232,20 +232,12 @@ export const taborcollegekansas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Submit the following documents:",
+            "info": "Submit the following documents:",
             "data": [
                 "Academic transcripts",
                 "Proof of English language proficiency",
                 "Copy of passport",
                 "Financial documents to demonstrate the ability to fund your studies",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
                 "Send all documents and the application fee to Tabor College.",
                 "Wait for the admissions decision.",
                 "If accepted, you will receive an I-20 form, which you will need in order to apply for a student visa.",

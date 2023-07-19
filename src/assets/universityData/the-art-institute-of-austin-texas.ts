@@ -80,7 +80,7 @@ export const theartinstituteofaustintexas = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The Art Institute of Austin, Texas offers various degree programs in the field of Design, Media Arts, Culinary, and Fashion.",
-            "textBelowInfo": "<b>Design Programs: </b>",
+            "textBelowInfo": "<b>Design Programs:</b>",
             "data": [
                 "Bachelor of Fine Arts in Interior Design",
                 "Bachelor of Fine Arts in Graphic Design",

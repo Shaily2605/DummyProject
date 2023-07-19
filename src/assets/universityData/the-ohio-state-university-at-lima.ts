@@ -148,12 +148,10 @@ export const theohiostateuniversityatlima = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission at The Ohio State University at Lima, Ohio, USA, should visit the university's website to begin the application process. The admission requirements vary depending on a student's academic background and intended course of study. Generally, applicants must submit official transcripts, a personal statement, letters of recommendation, and standardized test scores (such as the SAT or ACT). International students may also need to provide additional documents such as a financial statement, passport and visa information, and proof of English language proficiency. Depending on the program, additional requirements may be needed. After submitting the application, students will be notified of their admission status."
-            ]
+            "data": "<p>Students from India who wish to apply for admission at The Ohio State University at Lima, Ohio, USA, should visit the university's website to begin the application process. The admission requirements vary depending on a student's academic background and intended course of study. Generally, applicants must submit official transcripts, a personal statement, letters of recommendation, and standardized test scores (such as the SAT or ACT). International students may also need to provide additional documents such as a financial statement, passport and visa information, and proof of English language proficiency. Depending on the program, additional requirements may be needed. After submitting the application, students will be notified of their admission status.</p>"
         },
         {
 

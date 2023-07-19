@@ -79,14 +79,10 @@ export const texaslutheranuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses: ",
-            "info": "Business Administration:",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate Courses: ",
+            "textBelowInfo": "<b>Business Administration:</b>",
             "data": [
                 "Major in Accounting: $37,500 per year",
                 "Major in Business Administration: $37,500 per year",

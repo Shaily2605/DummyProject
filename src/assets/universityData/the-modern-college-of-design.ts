@@ -145,12 +145,11 @@ export const themoderncollegeofdesign = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
-            "info": " ",
-            "data": [
-                "Students from India who are interested in applying for admission at The Modern College of Design, Ohio, USA should contact the College's Admissions Department for information about the application process. The College website provides detailed information about the application process, including deadlines, required documents, and required tests. In general, the application process includes submitting an Online Application, Official Transcripts, Official Test Scores, Financial Statements, and other supporting documents. Additionally, the College requires a portfolio of artwork or design work. International students must also provide a valid visa and proof of sufficient funds to cover the cost of tuition, fees, and living expenses. Once all application materials have been submitted, the College will review the application and make an admissions decision."
-            ]
+            "info": "",
+            "data": "<p>Students from India who are interested in applying for admission at The Modern College of Design, Ohio, USA should contact the College's Admissions Department for information about the application process. The College website provides detailed information about the application process, including deadlines, required documents, and required tests. In general, the application process includes submitting an Online Application, Official Transcripts, Official Test Scores, Financial Statements, and other supporting documents. Additionally, the College requires a portfolio of artwork or design work. International students must also provide a valid visa and proof of sufficient funds to cover the cost of tuition, fees, and living expenses. Once all application materials have been submitted, the College will review the application and make an admissions decision.</p>"
+
         },
         {
 

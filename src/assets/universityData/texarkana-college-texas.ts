@@ -150,22 +150,14 @@ export const texarkanacollegetexas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Submit the following documents with the application form:",
+            "info": "Submit the following documents with the application form:",
             "data": [
                 "Copy of passport",
                 "Statement of Purpose",
                 "Official transcripts/mark sheets of all the academic qualifications",
                 "Proof of financial support",
                 "TOEFL/IELTS scores",
-                "Any other documents required by the college"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Any other documents required by the college",
                 "Pay the non-refundable application and processing fees.",
                 "After submitting all the documents, wait for the admission decision from the college.",
             ]

@@ -143,12 +143,11 @@ export const thecooperunionnewyork = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission at The Cooper Union in New York, USA, must go through the Cooper Union International Admissions process. First, applicants must complete the online application form on the Cooper Union website and submit all required documents and materials. These include official academic transcripts, proof of English language proficiency, a personal statement, and two letters of recommendation. After submission, applicants will be required to interview with the admissions committee, either in person or via Skype. Once the application is complete and all documents have been reviewed, the admissions committee will make a decision."
-            ]
+            "data": "<p>Students from India who wish to apply for admission at The Cooper Union in New York, USA, must go through the Cooper Union International Admissions process. First, applicants must complete the online application form on the Cooper Union website and submit all required documents and materials. These include official academic transcripts, proof of English language proficiency, a personal statement, and two letters of recommendation. After submission, applicants will be required to interview with the admissions committee, either in person or via Skype. Once the application is complete and all documents have been reviewed, the admissions committee will make a decision.</p>"
+
         },
         {
 

@@ -156,12 +156,11 @@ export const theglasgowschoolofart = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "To apply for admission at The Glasgow School of Art, students from India must first submit an online application form on the school’s website. They should provide the required documents such as academic transcripts, statement of purpose, portfolio, and proof of English language proficiency. Additionally, they will have to submit the relevant fees. Once the application is received, the school’s admissions team will review it and shortlist the applicants for further evaluation. The successful applicants will then be interviewed by the school, and if selected, will be offered an admission letter."
-            ]
+            "data": "<p>To apply for admission at The Glasgow School of Art, students from India must first submit an online application form on the school’s website. They should provide the required documents such as academic transcripts, statement of purpose, portfolio, and proof of English language proficiency. Additionally, they will have to submit the relevant fees. Once the application is received, the school’s admissions team will review it and shortlist the applicants for further evaluation. The successful applicants will then be interviewed by the school, and if selected, will be offered an admission letter.</p>"
+
         },
         {
 

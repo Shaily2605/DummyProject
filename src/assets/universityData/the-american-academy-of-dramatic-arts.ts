@@ -131,12 +131,11 @@ export const theamericanacademyofdramaticarts = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "Students from India who wish to apply for admission at the American Academy of Dramatic Arts in New York, USA, must complete the application process according to the instructions on the school's website. This includes completing the online application form, providing a personal statement, submitting a resume, and providing two letters of recommendation. Additionally, applicants must submit a portfolio of their work, take an audition, and pay the necessary application fees. Once all of the application materials have been received, the admissions committee will review the application and make a decision on whether or not to accept the applicant."
-            ]
+            "data": "<p>Students from India who wish to apply for admission at the American Academy of Dramatic Arts in New York, USA, must complete the application process according to the instructions on the school's website. This includes completing the online application form, providing a personal statement, submitting a resume, and providing two letters of recommendation. Additionally, applicants must submit a portfolio of their work, take an audition, and pay the necessary application fees. Once all of the application materials have been received, the admissions committee will review the application and make a decision on whether or not to accept the applicant.</p>"
+
         },
         {
 

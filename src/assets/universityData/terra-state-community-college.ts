@@ -114,12 +114,10 @@ export const terrastatecommunitycollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
-            "data": [
-                "The cost of attendance for Terra State Community College varies depending upon the program of study and the number of credit hours taken. The average cost for tuition and fees for a full-time student taking 30 credit hours per semester is approximately $4,500. Additional fees may apply such as a technology fee, course specific fees, or laboratory fees. Financial aid is available to assist students with their educational expenses."
-            ]
+            "data": "<p>The cost of attendance for Terra State Community College varies depending upon the program of study and the number of credit hours taken. The average cost for tuition and fees for a full-time student taking 30 credit hours per semester is approximately $4,500. Additional fees may apply such as a technology fee, course specific fees, or laboratory fees. Financial aid is available to assist students with their educational expenses.</p>"
         },
         {
             type: "meta",
@@ -166,12 +164,8 @@ export const terrastatecommunitycollege = {
                 "Submitting proof of financial support to cover the cost of attendance.",
                 "Demonstrating proficiency in the English language, as evidenced by passing a TOEFL or IELTS exam.",
                 "Meeting all other requirements established by the college or university."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Terra State Community College requires international students to have health insurance coverage for their entire stay in the US. Students must also demonstrate that they are able to financially support themselves for the entire time they are enrolled in the college.</p> <p>For more information, please visit the college's website or contact the Office of Admissions.</p>"
+            ],
+            "heading": "<p>In addition, Terra State Community College requires international students to have health insurance coverage for their entire stay in the US. Students must also demonstrate that they are able to financially support themselves for the entire time they are enrolled in the college.</p> <p>For more information, please visit the college's website or contact the Office of Admissions.</p>"
         },
         {
             "type": "list-bollet",
