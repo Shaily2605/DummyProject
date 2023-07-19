@@ -123,7 +123,7 @@ export const redrivercollegesaatcsouthport = {
             "info": "In order to take admission at Red River College, Stevenson Aviation & Aerospace Training Centre Southport, Manitoba, Canada, Indian students must meet the following criteria:",
             "data": [
                 "Must be at least 18 years of age.",
-                "Must demonstrate English language proficiency through one of the following: IELTS (International English Language Testing System) with a minimum score of 6.5, TOEFL (Test of English as a Foreign Language) with a minimum score of 79, CAEL (Canadian Academic English Language Assessment) with a minimum score of 60",
+                "Must demonstrate English language proficiency through one of the following:<br> 1. IELTS (International English Language Testing System) with a minimum score of 6.5<br> 2. TOEFL (Test of English as a Foreign Language) with a minimum score of 79<br> 3. CAEL (Canadian Academic English Language Assessment) with a minimum score of 60",
                 "Must provide proof of financial support for the duration of the program.",
                 "Must have valid medical insurance coverage.",
                 "Must possess a valid Study Permit issued by Immigration, Refugees and Citizenship Canada (IRCC)."

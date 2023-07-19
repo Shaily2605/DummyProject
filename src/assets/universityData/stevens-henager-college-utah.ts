@@ -140,7 +140,7 @@ export const stevenshenagercollegeutah = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirements",
             "info": "",
             "data": [

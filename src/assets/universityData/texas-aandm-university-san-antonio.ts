@@ -132,11 +132,14 @@ export const texasaandmuniversitysanantonio = {
                 "M.A. in Sociology"
             ],
             "heading": "<p>The tuition fees for the Undergraduate programs range from $745 to $7,000 per semester and for the Graduate programs range from $4,500 to $10,500 per semester.</p> <p>For detailed information regarding the courses and fee structure of Texas A&M University-San Antonio, please visit their official website: https://www.tamusa.edu/academics/</p>"
+<<<<<<< HEAD
 
         },
         {
             type: 'text',
             title: '',
+=======
+>>>>>>> 8941413039fc1b886b93e806f3448038c5d12db4
         },
         {
             type: "meta",

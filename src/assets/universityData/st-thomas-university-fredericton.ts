@@ -122,13 +122,13 @@ export const stthomasuniversityfredericton = {
             "title": "How to Apply ?",
             "info": " ",
             "data": [
-                "Step 1: Go to the website of St. Thomas University and select the 'International Students' tab.",
-                "Step 2: Submit your online application and provide all the required documents such as transcripts, proof of English proficiency, and bank statements.",
-                "Step 3: Pay the non-refundable application fee of $125 CAD.",
-                "Step 4: Submit the Supplementary Documentation Form which includes a letter of intent and a passport-style photograph.",
-                "Step 5: Once your application is reviewed, the university will send you an acceptance letter and an electronic Confirmation of Acceptance for Studies (e-CAS) form.",
-                "Step 6: Apply for a Canadian study permit from the nearest Canadian embassy.",
-                "Step 7: Once your study permit is approved, you can make travel arrangements to Canada and attend your classes at St. Thomas University."
+                "<b>Step 1:</b> Go to the website of St. Thomas University and select the 'International Students' tab.",
+                "<b>Step 2:</b> Submit your online application and provide all the required documents such as transcripts, proof of English proficiency, and bank statements.",
+                "<b>Step 3:</b> Pay the non-refundable application fee of $125 CAD.",
+                "<b>Step 4:</b> Submit the Supplementary Documentation Form which includes a letter of intent and a passport-style photograph.",
+                "<b>Step 5:</b> Once your application is reviewed, the university will send you an acceptance letter and an electronic Confirmation of Acceptance for Studies (e-CAS) form.",
+                "<b>Step 6:</b> Apply for a Canadian study permit from the nearest Canadian embassy.",
+                "<b>Step 7:</b> Once your study permit is approved, you can make travel arrangements to Canada and attend your classes at St. Thomas University."
             ]
         },
         {

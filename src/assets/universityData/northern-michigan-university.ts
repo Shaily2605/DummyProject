@@ -146,26 +146,15 @@ export const northernmichiganuniversity = {
             ]
         },
         {
-            type: 'text',
-            title: 'How to Apply ?',
-            data: "<p>Students from India who wish to apply for admission at Northern Michigan University must follow the same application process as all other international students.</p> <p>The admissions process begins by submitting an online application. Along with the application, students must submit copies of official transcripts, proof of English proficiency, and a non-refundable application fee.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "In addition, students must also submit the following documents:",
+            "title": "How to Apply ?",
+            "info": "Students from India who wish to apply for admission at Northern Michigan University must follow the same application process as all other international students.</p>",
             "data": [
-                "Official financial documents showing evidence of ability to pay for one year of tuition and living expenses",
-                "A copy of the student’s passport",
-                "Two letters of recommendation",
-                "An essay",
-                "Official test scores from either the TOEFL, IELTS, or PTE"
+                "The admissions process begins by submitting an online application. Along with the application, students must submit copies of official transcripts, proof of English proficiency, and a non-refundable application fee.",
+                "In addition, students must also submit the following documents: <br>a. Official financial documents showing evidence of ability to pay for one year of tuition and living expenses<br> b. A copy of the student’s passport<br> c. Two letters of recommendation<br> d. An essay<br> e. Official test scores from either the TOEFL, IELTS, or PTE",
+                "Once all documents are received, the Admissions Office will review the application and contact the student regarding next steps.",
+                "The university also offers a variety of scholarships and financial aid options that Indian students may be eligible for."
             ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all documents are received, the Admissions Office will review the application and contact the student regarding next steps.</p> <p>The university also offers a variety of scholarships and financial aid options that Indian students may be eligible for.</p>"
         },
         {
 

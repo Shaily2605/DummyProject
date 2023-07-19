@@ -181,9 +181,9 @@ export const terrastatecommunitycollege = {
                 "Submit a copy of your visa.",
                 "Submit a copy of your current immunization records.",
                 "Submit any additional documents as requested.",
-                "Pay the $50 non-refundable application fee.",
-                "Once all of the required documents have been submitted, Terra State Community College will review your application and make an admission decision."
-            ]
+                "Pay the $50 non-refundable application fee."
+            ],
+            "heading": "<p>Once all of the required documents have been submitted, Terra State Community College will review your application and make an admission decision.</p>"
         },
         {
 

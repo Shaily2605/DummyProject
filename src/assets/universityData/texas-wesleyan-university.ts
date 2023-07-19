@@ -177,7 +177,7 @@ export const texaswesleyanuniversity = {
             "data": [
                 "Applicants must complete the online application form at https://apply.txwes.edu/apply/.",
                 "International applicants must submit official transcripts or academic records from each secondary school and/or college/university attended. Indian applicants must have their official transcripts translated and evaluated by a NACES approved agency.",
-                "Submit proof of English language proficiency. Texas Wesleyan requires one of the following: IELTS: 6.5 overall, TOEFL: 79 Internet - based(IBT), PTE Academic: 54, Cambridge English Qualifications: Advanced(CAE)",
+                "Submit proof of English language proficiency. Texas Wesleyan requires one of the following:<br> 1. IELTS: 6.5 overall<br> 2. TOEFL: 79 Internet - based(IBT)<br> 3. PTE Academic: 54<br> 4. Cambridge English Qualifications: Advanced(CAE)",
                 "Submit all required documents to the Office of Admissions.This includes official transcripts, language proficiency scores and proof of financial support.",
                 "Submit a non - refundable US $50 application fee.",
                 "Once all documents are received and processed, applicants will receive an admission decision via email.",

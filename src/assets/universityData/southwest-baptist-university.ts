@@ -74,10 +74,8 @@ export const southwestbaptistuniversity = {
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "The Southwest Baptist University offers more than 80 undergraduate and graduate degree programs and areas of study. To view the list of courses offered at Southwest Baptist University, please visit the link below:",
-                "https://www.sbuniv.edu/academics/programs.php",
-                "To view the fee structure for the courses offered at Southwest Baptist University, please visit the link below: ",
-                "https://www.sbuniv.edu/financial-aid/tuition-fees.php"
+                "The Southwest Baptist University offers more than 80 undergraduate and graduate degree programs and areas of study. To view the list of courses offered at Southwest Baptist University, please visit the link below:<br>https://www.sbuniv.edu/academics/programs.php",
+                "To view the fee structure for the courses offered at Southwest Baptist University, please visit the link below: <br> https://www.sbuniv.edu/financial-aid/tuition-fees.php"
             ]
         },
         {
@@ -109,7 +107,7 @@ export const southwestbaptistuniversity = {
             "info": "To be eligible for admission to Southwest Baptist University, international students must:",
             "data": [
                 "Submit proof of completion of secondary education (high school) as well as proof of graduation.",
-                "Provide proof of English proficiency through one of the following:TOEFL (Test of English as a Foreign Language), IELTS (International English Language Testing System), SAT (Scholastic Aptitude Test), ACT (American College Testing)",
+                "Provide proof of English proficiency through one of the following:<br> a. TOEFL (Test of English as a Foreign Language)<br> b. IELTS (International English Language Testing System)<br> c. SAT (Scholastic Aptitude Test)<br> d. ACT (American College Testing)",
                 "Submit a completed international student application, including all supporting documents (transcripts, test scores, etc.).",
                 "Provide evidence of financial resources to cover the cost of attendance.",
                 "Possess a valid passport.",

@@ -147,33 +147,10 @@ export const stjohnsuniversityqueenscampus = {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "The process of applying for admission at St Johns University Queens Campus,New York,USA differs slightly for international students.",
-            "textBelowInfo": "<b>Check the Admission Requirements:</b>",
+            "textBelowInfo": "",
             "data": [
-                "Complete the online application",
-                "Submit an official academic transcript",
-                "Provide proof of English language proficiency",
-                "Submit an official copy of your secondary school diploma",
-                "Provide three letters of recommendation",
-                "Submit a Statement of Intent"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "textBelowInfo": "<b>Submit the Required Documents:</b>",
-            "data": [
-                "Copy of your passport",
-                "Copy of your visa",
-                "Copy of your most recent I-94",
-                "Enrollment Verification Form"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "<b>Check the Admission Requirements:</b><br> 1. Complete the online application<br> 2. Submit an official academic transcript<br> 3. Provide proof of English language proficiency<br> 4. Submit an official copy of your secondary school diploma<br> 5. Provide three letters of recommendation<br> 6. Submit a Statement of Intent",
+                "<b>Submit the Required Documents:</b><br> 1. Copy of your passport<br> 2. Copy of your visa<br> 3. Copy of your most recent I-94<br> 4. Enrollment Verification Form",
                 "<b>Pay the Application Fee:</b> The application fee for international students is $55.",
                 "<b>Submit a Financial Statement:</b> International students must submit a financial statement demonstrating their ability to pay for educational expenses.",
                 "<b>Submit Your Application for Admission:</b> Once you have submitted all of the required documents, you can submit your application for admission.",

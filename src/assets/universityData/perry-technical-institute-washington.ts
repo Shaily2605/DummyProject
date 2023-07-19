@@ -150,13 +150,13 @@ export const perrytechnicalinstitutewashington = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Research Perry Technical Institute and the application process.",
-                "Step 2: Fill out the International Student Admission Application and submit all required documents.",
-                "Step 3: Submit an official transcript from your high school or college in India.",
-                "Step 4: Submit proof of English language proficiency and other required documents.",
-                "Step 5: Submit financial documents to prove you have enough funds available to cover tuition and living costs.",
-                "Step 6: Submit an application fee.",
-                "Step 7: Wait for the admissions office to review your application and make an admission decision."
+                "<b>Step 1:</b> Research Perry Technical Institute and the application process.",
+                "<b>Step 2:</b> Fill out the International Student Admission Application and submit all required documents.",
+                "<b>Step 3:</b> Submit an official transcript from your high school or college in India.",
+                "<b>Step 4:</b> Submit proof of English language proficiency and other required documents.",
+                "<b>Step 5:</b> Submit financial documents to prove you have enough funds available to cover tuition and living costs.",
+                "<b>Step 6:</b> Submit an application fee.",
+                "<b>Step 7:</b> Wait for the admissions office to review your application and make an admission decision."
             ]
         },
         {

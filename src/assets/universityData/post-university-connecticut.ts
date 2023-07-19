@@ -147,7 +147,7 @@ export const postuniversityconnecticut = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

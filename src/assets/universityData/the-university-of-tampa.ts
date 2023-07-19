@@ -94,12 +94,8 @@ export const theuniversityoftampa = {
                 "Public Relations - $18, 848(tuition)",
                 "Sport and Exercise Science - $18, 848(tuition)",
                 "Theatre Arts - $18, 848(tuition)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to tuition fees, students are responsible for additional fees such as the student activities fee, technology fee, and health insurance fee. The total cost of attendance for one academic year is estimated to be $37,000.</p>"
+            ],
+            "heading": "<p>In addition to tuition fees, students are responsible for additional fees such as the student activities fee, technology fee, and health insurance fee. The total cost of attendance for one academic year is estimated to be $37,000.</p>"
         },
         {
             type: "meta",
@@ -151,8 +147,8 @@ export const theuniversityoftampa = {
                 "<b>Submit your additional documents:</b> Submit any additional documents required by the university, such as financial documents or letters of recommendation.",
                 "<b>Pay the application fee:</b> Pay the non-refundable application fee of $50.",
                 "<b>Track your application:</b> Track your application status online to stay up to date on the progress of your application.",
-                "Once you have completed the application process and your application has been processed, you will receive an admissions decision from the university."
-            ]
+            ],
+            "heading": "<p>Once you have completed the application process and your application has been processed, you will receive an admissions decision from the university.</p>"
         },
         {
 

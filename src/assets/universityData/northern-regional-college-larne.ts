@@ -150,7 +150,7 @@ export const northernregionalcollegelarne = {
             "info": "To be eligible for an undergraduate course at Northern Regional College, Larne, you must meet the following criteria:",
             "data": [
                 "You must be 18 years of age or over",
-                "You must have an appropriate academic entry qualification, such as: GCSEs/O Levels, A Levels, International Baccalaureate, Access to Higher Education Diploma, An equivalent qualification from a recognised awarding body",
+                "You must have an appropriate academic entry qualification, such as:<br> a. GCSEs/O Levels<br> b. A Levels<br> c. International Baccalaureate<br> d. Access to Higher Education Diploma<br> e. An equivalent qualification from a recognised awarding body",
                 "You must be able to demonstrate an appropriate level of English language proficiency",
                 "You must have appropriate immigration permission to study in the UK for the duration of the course",
                 "You must be able to attend and participate in all elements of the course, including practical placements and off-site visits",
@@ -158,7 +158,7 @@ export const northernregionalcollegelarne = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

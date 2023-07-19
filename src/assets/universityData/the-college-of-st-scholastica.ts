@@ -155,9 +155,9 @@ export const thecollegeofstscholastica = {
                 "Completed Declaration and Certification of Finances",
                 "A completed International Student Transfer Form (if applicable)",
                 "Completed Affidavit of Support (if applicable)",
-                "Completed Certification of Finances (if applicable)",
-                "In addition, the College of St. Scholastica may require additional documentation depending on the individual's circumstances."
-            ]
+                "Completed Certification of Finances (if applicable)"
+            ],
+            "heading": "<p>In addition, the College of St. Scholastica may require additional documentation depending on the individual's circumstances.</p>"
         },
         {
             "type": "list-bollet",
@@ -170,9 +170,9 @@ export const thecollegeofstscholastica = {
                 "<b>Financial Documentation:</b> Applicants must provide proof of financial support for the duration of their stay in the U.S.",
                 "<b>Passport Copy:</b> Applicants must submit a copy of their valid passport.",
                 "<b>Letter of Recommendation:</b> Applicants must submit at least one letter of recommendation from a professor or other academic advisor.",
-                "<b>Personal Statement:</b> Applicants must submit a personal statement outlining their academic and professional goals and explaining why they want to attend The College of St. Scholastica.",
-                "Once all of the required documents have been submitted, Indian students must wait for an admissions decision from The College of St. Scholastica. If accepted, they will need to obtain an F-1 student visa to study in the U.S."
-            ]
+                "<b>Personal Statement:</b> Applicants must submit a personal statement outlining their academic and professional goals and explaining why they want to attend The College of St. Scholastica."
+            ],
+            "heading": "<p>Once all of the required documents have been submitted, Indian students must wait for an admissions decision from The College of St. Scholastica. If accepted, they will need to obtain an F-1 student visa to study in the U.S.</p>"
         },
         {
 

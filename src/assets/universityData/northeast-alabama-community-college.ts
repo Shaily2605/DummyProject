@@ -131,14 +131,14 @@ export const northeastalabamacommunitycollege = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the Admissions page of the Northeast Alabama Community College (NACC) website.",
-                "Step 2: Select the ‘International Student’ option from the list and click on the ‘Apply Now’ button.",
-                "Step 3: Fill out the online application form with the required details.",
-                "Step 4: Upload all the necessary documents, such as your high school transcripts, passport copies, TOEFL scores and bank statements.",
-                "Step 5: Submit the application form and wait for the confirmation email.",
-                "Step 6: Once your application is accepted, send the required payment for the tuition and other fees to the college.",
-                "Step 7: Get your visa processed by contacting the nearest U.S. embassy or consulate.",
-                "Step 8: Once you receive your visa, book your flight tickets to the college and start your studies!"
+                "<b>Step 1:</b> Visit the Admissions page of the Northeast Alabama Community College (NACC) website.",
+                "<b>Step 2:</b> Select the ‘International Student’ option from the list and click on the ‘Apply Now’ button.",
+                "<b>Step 3:</b> Fill out the online application form with the required details.",
+                "<b>Step 4:</b> Upload all the necessary documents, such as your high school transcripts, passport copies, TOEFL scores and bank statements.",
+                "<b>Step 5:</b> Submit the application form and wait for the confirmation email.",
+                "<b>Step 6:</b> Once your application is accepted, send the required payment for the tuition and other fees to the college.",
+                "<b>Step 7:</b> Get your visa processed by contacting the nearest U.S. embassy or consulate.",
+                "<b>Step 8:</b> Once you receive your visa, book your flight tickets to the college and start your studies!"
             ]
         },
         {
@@ -308,9 +308,9 @@ export const northeastalabamacommunitycollege = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation</b> <br> Northeast Alabama Community College offers on-campus housing for students. The housing is located in the University Commons residence hall. The facility offers a variety of amenities including fully furnished rooms, laundry facilities, cable television, Wi-Fi access, and more. The housing is available to full-time students and is conveniently located near classrooms and other campus facilities.",
-               "<b>Off-Campus Accommodation</b> <br> Northeast Alabama Community College is located in a small town, so there are limited options for off-campus housing. Students can find rental properties in the nearby towns of Rainsville and Valley Head. The rental properties offer a variety of amenities including fully furnished rooms, Wi-Fi access, and more. Some of the rental properties offer meals and transportation services.",
-               "<b>Hostel Facilities</b> <br> Northeast Alabama Community College does not offer hostel facilities. However, there are several hostels in the nearby towns of Rainsville and Valley Head. These hostels offer basic amenities such as beds, showers, and Wi-Fi access. They are also typically quite affordable and are a great option for students looking for a budget-friendly accommodation option."
+                "<b>On-Campus Accommodation</b> <br> Northeast Alabama Community College offers on-campus housing for students. The housing is located in the University Commons residence hall. The facility offers a variety of amenities including fully furnished rooms, laundry facilities, cable television, Wi-Fi access, and more. The housing is available to full-time students and is conveniently located near classrooms and other campus facilities.",
+                "<b>Off-Campus Accommodation</b> <br> Northeast Alabama Community College is located in a small town, so there are limited options for off-campus housing. Students can find rental properties in the nearby towns of Rainsville and Valley Head. The rental properties offer a variety of amenities including fully furnished rooms, Wi-Fi access, and more. Some of the rental properties offer meals and transportation services.",
+                "<b>Hostel Facilities</b> <br> Northeast Alabama Community College does not offer hostel facilities. However, there are several hostels in the nearby towns of Rainsville and Valley Head. These hostels offer basic amenities such as beds, showers, and Wi-Fi access. They are also typically quite affordable and are a great option for students looking for a budget-friendly accommodation option."
             ]
         },
         {

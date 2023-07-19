@@ -189,9 +189,9 @@ export const thebiblecollegeofwales = {
                 "A copy of your passport",
                 "Evidence of English language proficiency (e.g. IELTS, TOEFL, etc.)",
                 "Proof of financial resources (e.g. bank statement, scholarship letter, etc.)",
-                "Any other supporting documents that may be required by the college.",
-                "Once all the documents are submitted, the college will review the application and contact the student if any additional information is needed."
-            ]
+                "Any other supporting documents that may be required by the college."
+            ],
+            "heading": "<p>Once all the documents are submitted, the college will review the application and contact the student if any additional information is needed.</p>"
         },
         {
 

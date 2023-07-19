@@ -125,7 +125,7 @@ export const southeastcollegesaskatchewan = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirements",
             "info": "",
             "data": [

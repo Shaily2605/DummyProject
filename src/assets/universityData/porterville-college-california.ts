@@ -134,7 +134,7 @@ export const portervillecollegecalifornia = {
             "info": "Students from India can apply for admission at Porterville College in California, USA, by following these steps:",
             "data": [
                 "Visit the Porterville College website and fill out the online international application form.",
-                "Submit the application form along with the following documents: Official transcripts from all secondary and post-secondary institutions attended, Official test scores of TOEFL, IELTS, SAT, or ACT, A copy of the student’s passport, A financial statement or bank statement verifying that the student has enough funds to cover tuition and living expenses, Two letters of recommendation, A copy of the student’s visa",
+                "Submit the application form along with the following documents:<br> 1. Official transcripts from all secondary and post-secondary institutions attended<br> 2. Official test scores of TOEFL, IELTS, SAT, or ACT<br> 3. A copy of the student’s passport<br> 4. A financial statement or bank statement verifying that the student has enough funds to cover tuition and living expenses<br> 5. Two letters of recommendation<br> 6. A copy of the student’s visa",
                 "Pay the non-refundable application fee.",
                 "Wait for the college to review the application and send a response. Upon acceptance, the student will be required to pay a deposit to secure their place.",
                 "Once accepted, the student will need to apply for a student visa. This will require them to submit additional documents, such as proof of financial stability, and submit to an interview at the US Embassy.",

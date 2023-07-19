@@ -174,21 +174,8 @@ export const prairiecollegealberta = {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "",
-            "textBelowInfo": "<b>Review the admission requirements for Prairie College:</b> Students from India must complete an International Student Application Form and submit it with the following documents: ",
             "data": [
-                "Official transcripts from all secondary and post-secondary institutions attended",
-                "Proof of English language proficiency test scores, such as IELTS or TOEFL",
-                "A copy of your passport",
-                "Proof of financial support",
-                "A personal statement",
-                "Two letters of reference"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "<b>Review the admission requirements for Prairie College:</b> Students from India must complete an International Student Application Form and submit it with the following documents:<br> 1. Official transcripts from all secondary and post-secondary institutions attended<br> 2. Proof of English language proficiency test scores, such as IELTS or TOEFL<br> 3. A copy of your passport<br> 4. Proof of financial support<br> 5. A personal statement<br> 6. Two letters of reference",
                 "<b>Submit the application:</b> Students from India must submit the completed application form, along with all the required documents, to the college's Office of Admissions.",
                 "<b>Receive a decision:</b> The college will review the application and the accompanying documents and contact the student with a decision on the admission status."
             ]

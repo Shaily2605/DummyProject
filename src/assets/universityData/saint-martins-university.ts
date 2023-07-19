@@ -156,7 +156,7 @@ export const saintmartinsuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

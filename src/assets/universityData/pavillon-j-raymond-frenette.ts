@@ -117,7 +117,7 @@ export const pavillonjraymondfrenette = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

@@ -158,27 +158,7 @@ export const schillerinternationaluniversity = {
             "data": [
                 "Visit the Schiller International University website and review the admission requirements.",
                 "Gather your documents and complete the Admission Application.",
-                "Submit the application along with the required documents, such as:",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "Official Transcripts of all completed secondary and post-secondary education",
-                "Proof of English proficiency (TOEFL, IELTS, etc.)",
-                "Copy of passport",
-                "Proof of financial support",
-                "Letter of recommendation",
-                "Statement of purpose"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Submit the application along with the required documents, such as:<br> 1. Official Transcripts of all completed secondary and post-secondary education<br> 2. Proof of English proficiency (TOEFL, IELTS, etc.)<br> 3. Copy of passport<br> 4. Proof of financial support<br> 5. Letter of recommendation<br> 6. Statement of purpose",
                 "Pay the $50 non-refundable application fee.",
                 "Wait for the Admission Office to review your application.",
                 "Upon receiving a positive response from the Admission Office, apply for a student visa from the US Embassy in your home country.",

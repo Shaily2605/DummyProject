@@ -134,9 +134,7 @@ export const missouribaptistuniversity = {
             "info": "The eligibility criteria for Indian students to take admission at Missouri Baptist University is as follows:",
             "data": [
                 "Must have a high school diploma or equivalent.",
-                "Must provide proof of English proficiency by submitting one of the following:",
-                "a. TOEFL score of at least 500 (173 on the computer-based test or 61 on the internet-based test).",
-                "b. IELTS score of at least 5.5",
+                "Must provide proof of English proficiency by submitting one of the following: <br>a. TOEFL score of at least 500 (173 on the computer-based test or 61 on the internet-based test).<br> b. IELTS score of at least 5.5",
                 "Must submit official transcripts from all secondary and post-secondary institutions attended.",
                 "Must submit a completed application form along with the required documents and applicable application fee.",
                 "Must complete the Free Application for Federal Student Aid (FAFSA) in order to be eligible for any financial aid."

@@ -164,7 +164,7 @@ export const northwestcollegesaskatchewan = {
             "data": [
                 "Visit the college’s website and apply online. You will need to fill in an application form and provide all the required documents.",
                 "Once your application is received, an admission officer at the college will review your application and contact you to discuss the admission process.",
-                "You will need to submit the following documents: Official transcripts of all academic qualifications, Proof of English language proficiency, Proof of financial support, Passport, Canadian Study Permit",
+                "You will need to submit the following documents:<br> a. Official transcripts of all academic qualifications<br> b. Proof of English language proficiency<br> c. Proof of financial support<br> d. Passport<br> e. Canadian Study Permit",
                 "Once your application is approved, you will receive an acceptance letter from the college.",
                 "You will then need to pay the tuition fees and other related costs.",
                 "Once the college has received your tuition fees and other related costs, you will receive your study permit.",

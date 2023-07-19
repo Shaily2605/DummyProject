@@ -133,7 +133,7 @@ export const saintanselmcollege = {
             "data": [
                 "Submit a complete application for admission, including all required documents.",
                 "Have a high school diploma or equivalent that is recognized in the country where it was issued.",
-                "Demonstrate proficiency in English by submitting one of the following: TOEFL score of 79 or higher, IELTS score of 6.5 or higher, SAT Critical Reading and Writing scores of 480 or higher",
+                "Demonstrate proficiency in English by submitting one of the following:<br> 1. TOEFL score of 79 or higher<br> 2. IELTS score of 6.5 or higher<br> 3. SAT Critical Reading and Writing scores of 480 or higher",
                 "Submit an official copy of all secondary school transcripts, including marks from the last two years of secondary school.",
                 "Submit a financial statement, including bank statement, indicating the ability to pay for one year of tuition, fees, and living expenses.",
                 "Submit a copy of the student’s passport and visa."

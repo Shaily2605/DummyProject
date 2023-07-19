@@ -132,26 +132,8 @@ export const newyorkschoolofinteriordesign = {
             "info": "To be eligible for admission at the New York School of Interior Design, international students must meet the following requirements:",
             "data": [
                 "Hold a high school diploma or equivalent from an accredited institution.",
-                "Submit official academic transcripts from all secondary and post-secondary institutions attended."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "textBelowInfo": "Demonstrate language proficiency in English by submitting one of the following:",
-            "data": [
-                "TOEFL score of 80 or higher (internet-based exam)",
-                "IELTS score of 6.0 or higher",
-                "SAT or ACT score",
-                "Successful completion of Level 109 of an ESL program"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
+                "Submit official academic transcripts from all secondary and post-secondary institutions attended.",
+                "Demonstrate language proficiency in English by submitting one of the following:<br> a. TOEFL score of 80 or higher (internet-based exam)<br> b. IELTS score of 6.0 or higher<br> c. SAT or ACT score<br> d. Successful completion of Level 109 of an ESL program",
                 "Submit a copy of their passport.",
                 "Submit a completed application with a non-refundable fee of $75.",
                 "Submit a copy of their visa. ",

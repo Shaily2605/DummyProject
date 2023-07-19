@@ -154,7 +154,7 @@ export const northidahocollege = {
             "title": "Eligibility Requirement",
             "info": "North Idaho College (NIC) welcomes international students from all over the world. International students must meet the following admission requirements:",
             "data": [
-                "<b>Proof of English proficiency: </b>Applicants must demonstrate English proficiency through one of the following: TOEFL score of 61 (Internet-based) or IELTS score of 5., Completion of the NIC Intensive English Language Program (IELP) with a passing grade of 'C' or better",
+                "<b>Proof of English proficiency: </b>Applicants must demonstrate English proficiency through one of the following:<br> a. TOEFL score of 61 (Internet-based) or IELTS score of 5.<br> b. Completion of the NIC Intensive English Language Program (IELP) with a passing grade of 'C' or better",
                 "<b>Proof of Financial Support:</b> Applicants must demonstrate financial ability to pay for tuition, books, and living expenses for the duration of the intended program of study.",
                 "<b>Submission of Official Transcripts:</b> Applicants must submit official transcripts from all universities and/or colleges attended.",
                 "<b>Completed NIC International Student Application:</b> All applicants must complete the NIC International Student Application.",

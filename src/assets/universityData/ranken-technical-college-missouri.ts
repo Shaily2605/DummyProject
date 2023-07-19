@@ -107,7 +107,7 @@ export const rankentechnicalcollegemissouri = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirements",
             "info": "",
             "data": [
@@ -119,13 +119,13 @@ export const rankentechnicalcollegemissouri = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the college website and review the admission requirements for international students.",
-                "Step 2: Fill out the online application form and submit it along with the required documents.",
-                "Step 3: Pay the application fee, which is currently $50.",
-                "Step 4: Send the required documents such as academic records, English language proficiency scores, financial documents, and a copy of your passport to the college.",
-                "Step 5: Receive a letter of acceptance from the college and apply for a student visa.",
-                "Step 6: Submit the visa application form and all the required documents to the nearest U.S. embassy or consulate.",
-                "Step 7: After your visa is approved, book your flight to the US and begin the journey to Ranken Technical College."
+                "<b>Step 1:</b> Visit the college website and review the admission requirements for international students.",
+                "<b>Step 2:</b> Fill out the online application form and submit it along with the required documents.",
+                "<b>Step 3:</b> Pay the application fee, which is currently $50.",
+                "<b>Step 4:</b> Send the required documents such as academic records, English language proficiency scores, financial documents, and a copy of your passport to the college.",
+                "<b>Step 5:</b> Receive a letter of acceptance from the college and apply for a student visa.",
+                "<b>Step 6:</b> Submit the visa application form and all the required documents to the nearest U.S. embassy or consulate.",
+                "<b>Step 7:</b> After your visa is approved, book your flight to the US and begin the journey to Ranken Technical College."
             ]
         },
         {

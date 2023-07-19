@@ -153,21 +153,9 @@ export const mountsaintmarysuniversity = {
         {
             "type": "list-bollet",
             "title": "How to Apply ?",
-            "info": "Check the Admission Requirements: Students must submit the following documents for admission review:",
-            "data": [
-                "Completed online application",
-                "Official high school transcripts",
-                "Official college transcript from all previously attended institutions",
-                "Official Test Scores (SAT or ACT)",
-                "An essay",
-                "Two letters of recommendation"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
             "info": "",
             "data": [
+                "<b>Check the Admission Requirements:</b> Students must submit the following documents for admission review:<br> a. Completed online application<br> b. Official high school transcripts<br> c. Official college transcript from all previously attended institutions<br> d. Official Test Scores (SAT or ACT)<br> e. An essay<br> f. Two letters of recommendation",
                 "<b>Submit Online Application:</b> Students can submit their application online at the Mount Saint Marys University website.",
                 "<b>Submit Official Documents:</b> Students must submit all official documents including transcripts, test scores, and letters of recommendation to the university by post.",
                 "<b>Pay Application Fee:</b> The application fee for international students is $55 and can be paid via credit card or bank transfer.",

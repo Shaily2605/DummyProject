@@ -164,25 +164,25 @@ export const tennesseetechuniversity = {
                 "Have completed the equivalent of 12 years of formal education in their home country.",
                 "Submit all required documents, including transcripts and test scores.",
                 "Pay the required application fee.",
-                "Submit a completed application form. ",
-                "Applicants who do not meet these criteria may be eligible for a provisional admission."
-            ]
+                "Submit a completed application form. "
+            ],
+            "heading": "<p>Applicants who do not meet these criteria may be eligible for a provisional admission.</p>"
         },
         {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the Tennessee Tech University website.",
-                "Step 2: Click on ‘Admissions’ tab and select ‘International Admissions’ tab.",
-                "Step 3: Read the instructions carefully and click on ‘Apply Now’ button.",
-                "Step 4: Fill in the application form with all the required information.",
-                "Step 5: Pay the application fee.",
-                "Step 6: Submit all the required documents such as academic transcripts, test scores, letters of recommendation, etc.",
-                "Step 7: Track the status of your application online.",
-                "Step 8: If you receive an offer of admission, complete all the necessary paperwork and pay the tuition fees.",
-                "Step 9: Apply for student visa to the US embassy in your country.",
-                "Step 10: Once the visa is approved, make arrangements to travel to Tennessee and start your studies at Tennessee Tech University.",
+                "<b>Step 1:</b> Visit the Tennessee Tech University website.",
+                "<b>Step 2:</b> Click on ‘Admissions’ tab and select ‘International Admissions’ tab.",
+                "<b>Step 3:</b> Read the instructions carefully and click on ‘Apply Now’ button.",
+                "<b>Step 4:</b> Fill in the application form with all the required information.",
+                "<b>Step 5:</b> Pay the application fee.",
+                "<b>Step 6:</b> Submit all the required documents such as academic transcripts, test scores, letters of recommendation, etc.",
+                "<b>Step 7:</b> Track the status of your application online.",
+                "<b>Step 8:</b> If you receive an offer of admission, complete all the necessary paperwork and pay the tuition fees.",
+                "<b>Step 9:</b> Apply for student visa to the US embassy in your country.",
+                "<b>Step 10</b>: Once the visa is approved, make arrangements to travel to Tennessee and start your studies at Tennessee Tech University.",
             ]
         },
         {

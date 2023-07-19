@@ -97,12 +97,8 @@ export const thecollegeofwoosterohio = {
                 "Sociology: $48,820",
                 "Theatre: $48,820",
                 "Women's Studies: $48,820"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the tuition and fees listed above, The College of Wooster also charges a one-time $500 orientation fee and a $200 technology fee.</p>"
+            ],
+            "heading": "<p>In addition to the tuition and fees listed above, The College of Wooster also charges a one-time $500 orientation fee and a $200 technology fee.</p>"
         },
         {
             type: "meta",

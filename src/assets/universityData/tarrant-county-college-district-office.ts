@@ -144,7 +144,7 @@ export const tarrantcountycollegedistrictoffice = {
                 "Must be 18 years of age or older.",
                 "Must have completed high school or the equivalent in India and have an official transcript sent to TCCD.",
                 "Must have a valid visa that authorizes study in the United States.",
-                "Must meet the English language proficiency requirements, which can be demonstrated through either: Completion of a TCCD - approved English language proficiency exam, or Submission of TOEFL or IELTS scores",
+                "Must meet the English language proficiency requirements, which can be demonstrated through either:<br> 1. Completion of a TCCD - approved English language proficiency exam, or<br> 2. Submission of TOEFL or IELTS scores",
                 "Must provide evidence of financial resources to cover tuition, fees, living expenses, and other associated costs.",
                 "Must submit a signed and completed TCCD application form.",
                 "Must submit a completed International Student Application form.",

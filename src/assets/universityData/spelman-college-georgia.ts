@@ -126,7 +126,7 @@ export const spelmancollegegeorgia = {
                 "Have a minimum combined SAT score of 1000 or an ACT score of 21.",
                 "Have completed a high school curriculum that includes at least 16 units in English, mathematics, natural or physical science, social science, foreign language and fine arts.",
                 "Have a minimum of 16 units in college preparatory courses in English, mathematics, natural or physical science, social science, foreign language and fine arts.",
-                "Have taken the following courses in high school: Four years of English,Three years of mathematics, Two years of natural or physical science,Two years of social science, Two years of a foreign language, One year of fine arts"
+                "Have taken the following courses in high school:<br> 1. Four years of English<br> 2. Three years of mathematics<br> 3. Two years of natural or physical science<br> 4. Two years of social science<br> 5. Two years of a foreign language<br> 6. One year of fine arts"
             ]
         },
         {

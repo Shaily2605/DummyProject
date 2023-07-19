@@ -138,19 +138,8 @@ export const rasmussenuniversitywisconsin = {
                 "Have a high school diploma or equivalent.",
                 "Have a minimum cumulative GPA of 2.0.",
                 "Submit a copy of their passport and visa, as well as other immigration documents if applicable.",
-                "Submit official transcripts from all colleges/universities attended."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Provide proof of English proficiency. If English is not the student’s first language, they must meet one of the following criteria:",
-            "data": [
-                "Provide a minimum score of 550 on the paper-based Test of English as a Foreign Language (TOEFL);",
-                "Provide a minimum score of 213 on the computer-based TOEFL;",
-                "Provide a minimum score of 79 on the internet-based TOEFL (iBT);",
-                "Provide a minimum score of 6.5 on the International English Language Testing System (IELTS);",
-                "Provide a minimum score of 50 on the Pearson Test of English (PTE)."
+                "Submit official transcripts from all colleges/universities attended.",
+                "Provide proof of English proficiency. If English is not the student’s first language, they must meet one of the following criteria:<br> a. Provide a minimum score of 550 on the paper-based Test of English as a Foreign Language (TOEFL);<br> b. Provide a minimum score of 213 on the computer-based TOEFL;<br> c. Provide a minimum score of 79 on the internet-based TOEFL (iBT);<br> d. Provide a minimum score of 6.5 on the International English Language Testing System (IELTS);<br> e. Provide a minimum score of 50 on the Pearson Test of English (PTE)."
             ]
         },
         {

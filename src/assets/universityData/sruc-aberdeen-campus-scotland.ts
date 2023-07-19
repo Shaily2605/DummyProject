@@ -194,12 +194,12 @@ export const srucaberdeencampusscotland = {
             "title": "How to Apply ?",
             "info": "SRUC Aberdeen Campus offers students from India the opportunity to apply for admission. ",
             "data": [
-                "Step 1: Applicants must first register their interest in studying at SRUC Aberdeen Campus by completing the online application form on the SRUC website.",
-                "Step 2: Applicants then must submit all the required documents such as passport, academic qualifications, English language ability, and references to SRUC.",
-                "Step 3: Once the documents are reviewed, applicants will receive an offer letter from SRUC confirming admission.",
-                "Step 4: Applicants then must apply for a visa to study in the UK. This can be done through the UK Visa and Immigration website.",
-                "Step 5: Once the visa is approved, applicants must pay the tuition fees and accept the offer of admission from SRUC Aberdeen Campus.",
-                "Step 6: Applicants then must complete the online pre-entry assessment and arrive in the UK to begin their studies at SRUC Aberdeen Campus."
+                "<b>Step 1:</b> Applicants must first register their interest in studying at SRUC Aberdeen Campus by completing the online application form on the SRUC website.",
+                "<b>Step 2:</b> Applicants then must submit all the required documents such as passport, academic qualifications, English language ability, and references to SRUC.",
+                "<b>Step 3:</b> Once the documents are reviewed, applicants will receive an offer letter from SRUC confirming admission.",
+                "<b>Step 4:</b> Applicants then must apply for a visa to study in the UK. This can be done through the UK Visa and Immigration website.",
+                "<b>Step 5:</b> Once the visa is approved, applicants must pay the tuition fees and accept the offer of admission from SRUC Aberdeen Campus.",
+                "<b>Step 6:</b> Applicants then must complete the online pre-entry assessment and arrive in the UK to begin their studies at SRUC Aberdeen Campus."
             ]
         },
         {

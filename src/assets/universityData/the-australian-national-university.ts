@@ -164,22 +164,18 @@ export const theaustraliannationaluniversity = {
             ]
         },
         {
-            type: 'text',
-            title: 'How to Apply ?',
-            data: "<p>Students from India who wish to apply for admission at The Australian National University, Australian Capital Territory, Australia must first meet the university’s admission requirements. This includes having a recognised qualification from a recognised institution, such as a high school diploma, a bachelor’s degree or a postgraduate qualification.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Applicants must then submit an application, which includes the following documents:",
+            "title": "How to Apply ?",
+            "info": "Students from India who wish to apply for admission at The Australian National University, Australian Capital Territory, Australia must first meet the university’s admission requirements. This includes having a recognised qualification from a recognised institution, such as a high school diploma, a bachelor’s degree or a postgraduate qualification.",
+            "textBelowInfo": "Applicants must then submit an application, which includes the following documents:",
             "data": [
                 "A completed application form",
                 "Academic transcripts",
                 "Evidence of English language proficiency (if applicable)",
                 "Evidence of financial ability",
-                "An application fee",
-                "Once the application is received, it will be assessed by the university’s admissions team. If the applicant meets the criteria, they will be invited to an interview and/or an entrance test. Once accepted, the student must complete the necessary visa requirements to enter Australia."
-            ]
+                "An application fee"
+            ],
+            "heading": "<p>Once the application is received, it will be assessed by the university’s admissions team. If the applicant meets the criteria, they will be invited to an interview and/or an entrance test. Once accepted, the student must complete the necessary visa requirements to enter Australia.</p>"
         },
         {
 

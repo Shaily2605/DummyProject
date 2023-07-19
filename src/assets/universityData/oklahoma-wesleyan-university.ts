@@ -148,7 +148,7 @@ export const oklahomawesleyanuniversity = {
             "info": "Students from India applying for admission to Oklahoma Wesleyan University (OWU) must follow the same process as any international student. The steps are as follows:",
             "data": [
                 "Submit the International Student Application for Admission.",
-                "Submit the following supporting documents: Official transcripts from all secondary and post-secondary institutions attended, Official test scores from either the SAT or ACT, TOEFL or IELTS scores (if applicable), A Personal Statement, A Resume",
+                "Submit the following supporting documents:<br> a. Official transcripts from all secondary and post-secondary institutions attended<br> b. Official test scores from either the SAT or ACT<br> c. TOEFL or IELTS scores (if applicable)<br> d. A Personal Statement<br> e. A Resume",
                 "Submit Financial Documentation to confirm the ability to pay for the cost of attendance at OWU.",
                 "Submit the non-refundable $50 application fee.",
                 "Once all documents are received and reviewed, OWU will contact the student with a decision."  

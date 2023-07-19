@@ -138,10 +138,7 @@ export const tarletonstateuniversity = {
             "textBelowInfo": "<b>1. Academic Requirements:</b>",
             "data": [
                 "Applicants must have a high school diploma or equivalent with a grade point average of 2.5 or higher. ",
-                "Applicants must demonstrate proficiency in the English language through one of the following: ",
-                "Successful completion of an approved English language program. ",
-                "A minimum TOEFL score of 550 (paper-based) or 79 (internet-based). ",
-                "A minimum IELTS score of 6.0."
+                "Applicants must demonstrate proficiency in the English language through one of the following:<br>a. Successful completion of an approved English language program.<br> b. A minimum TOEFL score of 550 (paper-based) or 79 (internet-based).<br> c. A minimum IELTS score of 6.0."
             ]
         },
         {

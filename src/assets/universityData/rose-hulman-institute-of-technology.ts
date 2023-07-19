@@ -155,7 +155,7 @@ export const rosehulmaninstituteoftechnology = {
             "data": [
                 "Students from India interested in applying to Rose-Hulman Institute of Technology must first create an account on the Common Application, an online platform used by over 900 universities in the United States. ",
                 "After creating an account, students should select Rose-Hulman Institute of Technology as their school of choice.",
-                "Students will then be required to submit the following materials: High School Transcripts, Official Test Scores (SAT, ACT, or TOEFL), Letter of Recommendation, Personal Statement, Application Fee",
+                "Students will then be required to submit the following materials:<br> 1. High School Transcripts<br> 2. Official Test Scores (SAT, ACT, or TOEFL)<br> 3. Letter of Recommendation<br> 4. Personal Statement<br> 5. Application Fee",
                 "Once all documents have been submitted, students should contact the Admissions Office at Rose-Hulman Institute of Technology to ensure that all documents have been received and the application is complete.",
                 "After the application is complete, the Admissions Office will review the application, and if accepted, students will receive an official offer of admission."
             ]
