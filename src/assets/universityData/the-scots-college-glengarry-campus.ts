@@ -128,14 +128,9 @@ export const thescotscollegeglengarrycampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The Scots College - Glengarry Campus,Jervis Bay Territory,Australia does not currently accept Indian students for admission.</p> <p>However, if you are interested in studying at The Scots College - Glengarry Campus, then you may be eligible to apply for a student visa (subclass 500) if you meet the following criteria:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Eligibility Requirements",
+            "info": "The Scots College - Glengarry Campus,Jervis Bay Territory,Australia does not currently accept Indian students for admission.</p> <p>However, if you are interested in studying at The Scots College - Glengarry Campus, then you may be eligible to apply for a student visa (subclass 500) if you meet the following criteria:",
             "data": [
                 "You must have a valid passport from India",
                 "You must have an offer of a place at an approved institution in Australia",
@@ -146,8 +141,8 @@ export const thescotscollegeglengarrycampus = {
                 "You must be under 50 years of age when you apply",
                 "You must have adequate English language proficiency",
                 "You must be able to demonstrate that you have a genuine intention to stay temporarily in Australia",
-                "Source: https://www.studyinaustralia.gov.au/english/live-in-australia/student-visa/eligibility"
-            ]
+            ],
+            "heading": "<p>Source: https://www.studyinaustralia.gov.au/english/live-in-australia/student-visa/eligibility</p>"
         },
         {
             "type": "list-bollet",

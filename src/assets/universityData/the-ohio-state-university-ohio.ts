@@ -146,12 +146,8 @@ export const theohiostateuniversityohio = {
                 "A statement of purpose ",
                 "Letters of recommendation ",
                 "Evidence of financial resources "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on the admission requirements and eligibility criteria for Indian students at The Ohio State University, please visit the university’s website.</p>"
+            ],
+            "heading": "<p>For more information on the admission requirements and eligibility criteria for Indian students at The Ohio State University, please visit the university’s website.</p>"
         },
         {
             "type": "list-bollet",
@@ -162,9 +158,9 @@ export const theohiostateuniversityohio = {
                 "Official transcripts from all previous academic institutions",
                 "Official test scores (SAT or ACT, TOEFL or IELTS)",
                 "Financial documents (proof of sufficient funds to cover expenses)",
-                "Copy of passport",
-                "It is recommended that students apply as early as possible, as some programs may have limited availability and the processing time for international applications can take longer than for domestic students. Once all required documents have been received and the admission process is complete, the Office of International Admissions will issue an I-20 form and visa information."
-            ]
+                "Copy of passport"
+            ],
+            "heading": "<p>It is recommended that students apply as early as possible, as some programs may have limited availability and the processing time for international applications can take longer than for domestic students. Once all required documents have been received and the admission process is complete, the Office of International Admissions will issue an I-20 form and visa information.</p>"
         },
         {
 

@@ -119,12 +119,8 @@ export const theuniversityofarizonaarizona = {
                 "College of Medicine – Tucson",
                 "College of Pharmacy",
                 "College of Veterinary Medicine"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For exact tuition and fees for each program, please visit the University of Arizona's website: https://www.arizona.edu/tuition-and-fees</p>"
+            ],
+            "heading": "<p>For exact tuition and fees for each program, please visit the University of Arizona's website: https://www.arizona.edu/tuition-and-fees</p>"
         },
         {
             type: "meta",

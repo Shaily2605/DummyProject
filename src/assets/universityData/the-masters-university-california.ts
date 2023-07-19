@@ -166,9 +166,9 @@ export const themastersuniversitycalifornia = {
                 "A letter of recommendation from a teacher/professor",
                 "A copy of the student's passport",
                 "Evidence of financial support for the duration of the program",
-                "Any additional documents required by the university.",
-                "Once all documents have been submitted and reviewed, the university will send the applicant an admission letter and further instructions on how to complete their enrollment."
-            ]
+                "Any additional documents required by the university."
+            ],
+            "heading": "<p>Once all documents have been submitted and reviewed, the university will send the applicant an admission letter and further instructions on how to complete their enrollment.</p>"
         },
         {
 

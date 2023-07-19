@@ -163,9 +163,9 @@ export const theuniversityofakronohio = {
                 "Submit a Statement of Purpose and Resume/CV.",
                 "Submit two letters of recommendation.",
                 "Submit financial documents demonstrating the ability to pay for the cost of attendance.",
-                "Submit a copy of the applicant's passport.",
-                "Once these documents have been submitted, they will be reviewed by the university's Admissions Office. Once the review is complete, students will be notified of their admissions status."
-            ]
+                "Submit a copy of the applicant's passport."
+            ],
+            "heading": "<p>Once these documents have been submitted, they will be reviewed by the university's Admissions Office. Once the review is complete, students will be notified of their admissions status.</p>"
         },
         {
 

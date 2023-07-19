@@ -141,7 +141,7 @@ export const theuniversityoftennesseeatchattanooga = {
             "info": "",
             "data": [
                 "The University of Tennessee at Chattanooga (UTC) has specific admission requirements for Indian students. Applicants must have completed an accredited four-year bachelor's degree with a minimum cumulative grade point average (GPA) of 2.5 on a 4.0 scale. In addition, applicants must submit their official transcripts, which must be evaluated by an approved credential evaluation agency. ",
-                "Applicants must also submit proof of English proficiency by submitting either official TOEFL or IELTS scores. The minimum score requirements for each exam are as follows: TOEFL: 79 (internet-based) / 550 (paper-based), IELTS: 6.5",
+                "Applicants must also submit proof of English proficiency by submitting either official TOEFL or IELTS scores. The minimum score requirements for each exam are as follows:<br> 1. TOEFL: 79 (internet-based) / 550 (paper-based)<br> 2. IELTS: 6.5",
                 "Applicants must also submit two letters of recommendation, a statement of purpose, and a resume. All documents must be submitted in English. ",
                 "International applicants must also provide proof of financial support, including a bank statement and an affidavit of financial support. ",
                 "The University of Tennessee at Chattanooga also requires a non-refundable application fee of $50. ",

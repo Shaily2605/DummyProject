@@ -103,12 +103,8 @@ export const thejuilliardschoolnewyork = {
             "info": "Drama:",
             "data": [
                 "Bachelor of Fine Arts: $41,170"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Tuition fees for all programs are subject to change.</p>"
+            ],
+            "heading": "<p>Tuition fees for all programs are subject to change.</p>"
         },
         {
             type: "meta",
@@ -156,12 +152,8 @@ export const thejuilliardschoolnewyork = {
                 "Two letters of recommendation",
                 "Audition or portfolio",
                 "Financial documentation"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Students must also ensure that all documents are submitted in English and all transcripts are translated into English and certified.</p> <p>In addition, students from India must also submit a completed Certificate of Financial Responsibility form and provide proof of sufficient financial resources to meet tuition, living and other expenses while studying at Juilliard.</p> <p>Finally, applying students should note that admission to The Juilliard School is highly competitive and is based on the applicant's artistic achievement, academic record and other factors.</p>"
+            ],
+            "heading": "<p>Students must also ensure that all documents are submitted in English and all transcripts are translated into English and certified.</p> <p>In addition, students from India must also submit a completed Certificate of Financial Responsibility form and provide proof of sufficient financial resources to meet tuition, living and other expenses while studying at Juilliard.</p> <p>Finally, applying students should note that admission to The Juilliard School is highly competitive and is based on the applicant's artistic achievement, academic record and other factors.</p>"
         },
         {
 

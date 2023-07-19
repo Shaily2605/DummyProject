@@ -228,12 +228,12 @@ export const theroyalconservatoryofmusic = {
                 "Pay applicable tuition fees ",
                 "Provide a financial guarantee ",
                 "Submit a police clearance certificate ",
-                "Have a valid passport",
-                "International students must also demonstrate a commitment to continuing their studies in Canada for the duration of the program. Once these requirements are met, Indian students can apply to the RCM's Admissions Office."
-            ]
+                "Have a valid passport"
+            ],
+            "heading": "<p>International students must also demonstrate a commitment to continuing their studies in Canada for the duration of the program. Once these requirements are met, Indian students can apply to the RCM's Admissions Office.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

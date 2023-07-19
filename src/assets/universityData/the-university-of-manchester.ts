@@ -159,9 +159,9 @@ export const theuniversityofmanchester = {
                 "A completed online application form",
                 "Official transcripts from all post-secondary institutions attended",
                 "Proof of English language proficiency ",
-                "Other documents such as personal statement, research proposal, letters of recommendation, curriculum vitae (CV), etc.",
-                "In addition to the above documents, Indian students may also be required to provide additional documents depending on the course they are applying for. For more information, students should refer to the University of Manchester's website."
-            ]
+                "Other documents such as personal statement, research proposal, letters of recommendation, curriculum vitae (CV), etc."
+            ],
+            "heading": "<p>In addition to the above documents, Indian students may also be required to provide additional documents depending on the course they are applying for. For more information, students should refer to the University of Manchester's website.</p>"
         },
         {
 

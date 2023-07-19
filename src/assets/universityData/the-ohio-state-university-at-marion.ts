@@ -207,12 +207,12 @@ export const theohiostateuniversityatmarion = {
                 "ACT/SAT scores (optional)",
                 "Writing samples (optional)",
                 "Proof of English language proficiency (international students only)",
-                "Financial documents (international students only)",
-                "For more information and to apply, please visit the university's website at https://www.marion.osu.edu/admissions/apply.html."
-            ]
+                "Financial documents (international students only)"
+            ],
+            "heading": "<p>For more information and to apply, please visit the university's website at https://www.marion.osu.edu/admissions/apply.html.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

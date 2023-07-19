@@ -145,12 +145,8 @@ export const theuniversityofqueensland = {
                 "Two letters of recommendation ",
                 "Evidence of financial support ",
                 "Any additional supporting documents requested by the university. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Students may also be required to sit for an interview with the university.</p> <p>Once the application package is submitted, The University of Queensland will review the application and provide a decision.</p>"
+            ],
+            "heading": "<p>Students may also be required to sit for an interview with the university.</p> <p>Once the application package is submitted, The University of Queensland will review the application and provide a decision.</p>"
         },
         {
 

@@ -148,7 +148,7 @@ export const theohiostateuniversityatnewark = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [
