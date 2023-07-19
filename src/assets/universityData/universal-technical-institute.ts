@@ -103,12 +103,8 @@ export const universaltechnicalinstitute = {
                 "Uniforms/Supplies: $1,000",
                 "Textbooks: $1,500",
                 "Housing: Varies",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more detailed information on fees, please visit Universal Technical Institute’s website.</p>"
+            ],
+            "heading": "<p>For more detailed information on fees, please visit Universal Technical Institute’s website.</p>"
         },
         {
             type: "meta",

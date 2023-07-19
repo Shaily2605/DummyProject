@@ -213,12 +213,8 @@ export const universityoffredericton = {
                 "Submission of a Financial Declaration Form.",
                 "Submission of a valid passport.",
                 "Submission of valid immigration documents, such as a study permit or student visa.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The University of Fredericton also requires applicants to provide additional documents depending on their individual circumstances. These may include a resume, letters of reference, and a statement of purpose.</p> <p>All international students must also provide proof of adequate medical insurance coverage and an initial deposit to cover tuition fees.</p>"
+            ],
+            "heading": "<p>The University of Fredericton also requires applicants to provide additional documents depending on their individual circumstances. These may include a resume, letters of reference, and a statement of purpose.</p> <p>All international students must also provide proof of adequate medical insurance coverage and an initial deposit to cover tuition fees.</p> <p>For more information on the admission process, please visit the University of Fredericton website.</p>"
         },
         {
 

@@ -110,9 +110,9 @@ export const univeristyofmassachusettslowell = {
                 "<b>SAT/ACT scores:</b> Applicants must submit scores of the SAT or ACT. The minimum scores required for SAT are 1090 and for ACT is 20.",
                 "<b>Financial Documentation:</b> Applicants must demonstrate financial resources to cover the cost of living and tuition fees. They must submit a bank statement from the past 3 months.",
                 "<b>Copy of Passport:</b> Applicants must submit a copy of their passport.",
-                "<b>Student Visa:</b> Applicants must obtain a valid student visa (F-1 visa) before coming to the University of Massachusetts Lowell. ",
-                "For more information about the admission requirements for Indian students at UMass Lowell, please visit the university's website."
-            ]
+                "<b>Student Visa:</b> Applicants must obtain a valid student visa (F-1 visa) before coming to the University of Massachusetts Lowell. "
+            ],
+            "heading": "<p>For more information about the admission requirements for Indian students at UMass Lowell, please visit the university's website.</p>"
         },
         {
             "type": "list-bollet",

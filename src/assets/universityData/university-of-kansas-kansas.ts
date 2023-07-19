@@ -110,12 +110,8 @@ export const universityofkansaskansas = {
             "data": [
                 "Tuition – $371 per credit hour ",
                 "Fees – $50 per credit hour",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You can find more information about courses and fee structures on the University of Kansas website.</p>"
+            ],
+            "heading": "<p>You can find more information about courses and fee structures on the University of Kansas website.</p>"
         },
         {
             type: "meta",
@@ -156,7 +152,7 @@ export const universityofkansaskansas = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

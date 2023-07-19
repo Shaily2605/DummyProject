@@ -138,12 +138,8 @@ export const universityofcentralmissouri = {
                 "Submit official evidence of English proficiency",
                 "Submit proof of financial support",
                 "Submit a copy of their passport",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>International students must also meet the minimum GPA requirement for the program in which they are applying.</p> <p>The University of Central Missouri also requires all international students to have health insurance coverage. The university offers a plan for international students, or students may provide proof of coverage from an alternative provider.</p> <p>Please note that due to COVID-19, additional requirements may apply.</p>"
+            ],
+            "heading": "<p>International students must also meet the minimum GPA requirement for the program in which they are applying.</p> <p>The University of Central Missouri also requires all international students to have health insurance coverage. The university offers a plan for international students, or students may provide proof of coverage from an alternative provider.</p> <p>Please note that due to COVID-19, additional requirements may apply.</p>"
         },
         {
             "type": "list-bollet",

@@ -93,12 +93,8 @@ export const universityofarkansasatmonticello = {
                 "Room and Board Fees: $5,850 per semester",
                 "Books and Supplies: $1,200 per year",
                 "Miscellaneous Fees: $400 per semester",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The exact fee amounts for the various courses may vary depending on the type and number of courses taken. For more information on specific course fees, please contact the UAM Office of Student Financial Services.</p>"
+            ],
+            "heading": "<p>The exact fee amounts for the various courses may vary depending on the type and number of courses taken. For more information on specific course fees, please contact the UAM Office of Student Financial Services.</p>"
         },
         {
             type: "meta",

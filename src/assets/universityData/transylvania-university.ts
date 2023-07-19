@@ -172,9 +172,9 @@ export const transylvaniauniversity = {
             "data": [
                 "Nursing ",
                 "Nursing/Health Sciences ",
-                "RN to BSN ",
-                "For more information on the courses and fee structure of Transylvania University, please visit the university website."
-            ]
+                "RN to BSN "
+            ],
+            "heading": "<p>For more information on the courses and fee structure of Transylvania University, please visit the university website.</p>"
         },
         {
             type: "meta",

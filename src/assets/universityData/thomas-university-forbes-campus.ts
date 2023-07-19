@@ -152,8 +152,13 @@ export const thomasuniversityforbescampus = {
                 "A copy of the student’s visa (if applicable)",
                 "A completed Affidavit of Support (if applicable)",
                 "A completed Health Insurance Form",
-                "A completed Immunization Form"
-            ]
+                "A completed Immunization Form",
+                "A completed copy of the student’s health history form",
+                "A completed copy of the student’s housing agreement",
+                "A completed copy of the student’s orientation agreement",
+                "A completed copy of the student’s tuition and fees agreement",
+            ],
+            "heading": "<p>All documents must be submitted in English and must be original documents or certified copies.</p>"
         },
         {
             "type": "list-bollet",

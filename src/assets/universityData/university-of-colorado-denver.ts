@@ -136,8 +136,8 @@ export const universityofcoloradodenver = {
                 "Submit TOEFL/IELTS scores (if applicable)",
                 "Submit relevant test scores (GMAT, GRE, MAT, etc.)",
                 "Applicants must have a valid visa allowing them to study in the United States.",
-                "International students may also need to submit additional documents, such as a financial statement, to demonstrate that they have the funds to pay for tuition and living expenses."
-            ]
+            ],
+            "heading": "<p>International students may also need to submit additional documents, such as a financial statement, to demonstrate that they have the funds to pay for tuition and living expenses.</p>"
         },
         {
             "type": "list-bollet",

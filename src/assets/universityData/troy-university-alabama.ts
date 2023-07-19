@@ -369,7 +369,7 @@ export const troyuniversityalabama = {
             "info": "Students from India who wish to apply for admission at Troy University, Alabama, USA should follow the steps outlined below:",
             "data": [
                 "Visit the admissions website of Troy University and fill out the online application form.",
-                "Submit all required documents along with your application form, including: Official transcripts of all previous studies, English language proficiency test score (TOEFL/IELTS/PTE), Bank statements to demonstrate sufficient funds, Passport copy, One letter of recommendation",
+                "Submit all required documents along with your application form, including:<br> a. Official transcripts of all previous studies<br> b. English language proficiency test score (TOEFL/IELTS/PTE)<br> c. Bank statements to demonstrate sufficient funds<br> d. Passport copy<br> e. One letter of recommendation",
                 "Pay the application fee.",
                 "Wait for the admission decision from the university.",
                 "Once admission is granted, apply for a student visa from the nearest US embassy or consulate.",

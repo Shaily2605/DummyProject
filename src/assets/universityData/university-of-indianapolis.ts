@@ -147,8 +147,8 @@ export const universityofindianapolis = {
                 "Submission of official financial documents to demonstrate ability to pay",
                 "Submission of a valid passport",
                 "Submission of immunization records (if applicable)",
-                "Please note that some programs may have additional requirements. For specific requirements, please refer to the website of the University of Indianapolis."
-            ]
+            ],
+            "heading": "<p>Please note that some programs may have additional requirements. For specific requirements, please refer to the website of the University of Indianapolis.</p>"
         },
         {
             "type": "list-bollet",

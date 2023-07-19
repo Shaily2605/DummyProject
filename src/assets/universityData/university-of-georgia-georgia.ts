@@ -202,12 +202,8 @@ export const universityofgeorgiageorgia = {
                 "Financial Statement",
                 "Bank Statement",
                 "Copy of Visa",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Applicants must also submit the International Student Supplement Form, which can be found on the University of Georgia's website.</p> <p>Once all of the required documents have been submitted, the University of Georgia will review the application and make a decision on the applicant's admission status.</p>"
+            ],
+            "heading": "<p>Applicants must also submit the International Student Supplement Form, which can be found on the University of Georgia's website.</p> <p>Once all of the required documents have been submitted, the University of Georgia will review the application and make a decision on the applicant's admission status.</p>"
         },
         {
 

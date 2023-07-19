@@ -179,9 +179,9 @@ export const tiffinuniversityohio = {
                 "<b>Visa application:</b> Students should apply for a student visa to study in the USA. ",
                 "<b>Acceptance letter:</b> After the application is accepted, the university will send an acceptance letter. ",
                 "<b>Submit the enrollment fee:</b> Students should submit the enrollment fee to confirm their acceptance. ",
-                "<b>Arrange for accommodation:</b> Students should arrange for accommodation in the USA. ",
-                "Following these steps should help students from India apply for admission to Tiffin University, Ohio, USA."
-            ]
+                "<b>Arrange for accommodation:</b> Students should arrange for accommodation in the USA. "
+            ],
+            "heading": "<p>Following these steps should help students from India apply for admission to Tiffin University, Ohio, USA.</p>"
         },
         {
 

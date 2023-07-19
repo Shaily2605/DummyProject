@@ -145,8 +145,8 @@ export const universityofhoustonclearlake = {
                 "A completed Immunization Form",
                 "Proof of Health Insurance",
                 "Any other documents requested by the University",
-                "For more information, please visit the University of Houston-Clear Lake website."
-            ]
+            ],
+            "heading": "<p>For more information, please visit the University of Houston-Clear Lake website.</p>"
         },
         {
             "type": "list-bollet",
@@ -162,8 +162,8 @@ export const universityofhoustonclearlake = {
                 "Submit a copy of your passport.",
                 "Submit a copy of your visa (if applicable).",
                 "Pay the non-refundable application fee.",
-                "For more information on the application process and requirements, please visit the University of Houston-Clear Lake website."
-            ]
+            ],
+            "heading": "<p>For more information on the application process and requirements, please visit the University of Houston-Clear Lake website.</p>"
         },
         {
 

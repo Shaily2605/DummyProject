@@ -283,8 +283,8 @@ export const universityofedinburghscotland = {
                 "Relevant work experience,",
                 "An interview or assessment, and",
                 "A personal statement.",
-                "You should check the entry requirements for each course you are interested in, which can be found on the university’s website."
-            ]
+            ],
+            "heading": "<p>You should check the entry requirements for each course you are interested in, which can be found on the university’s website.</p>"
         },
         {
             "type": "list-bollet",
@@ -296,12 +296,8 @@ export const universityofedinburghscotland = {
                 "<b>Entrance Exam:</b> Depending on the course you are applying for, you may need to take an entrance exam such as the IELTS, TOEFL, or UKCAT.",
                 "<b>Interview:</b> You may be required to attend an interview in person or via video call.",
                 "<b>Acceptance:</b> Once you have completed the required steps, you will receive a confirmation of your acceptance.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Following these steps will help ensure that your application process is successful and you can pursue your studies at the University of Edinburgh, Scotland, UK.</p>"
+            ],
+            "heading": "<p>Following these steps will help ensure that your application process is successful and you can pursue your studies at the University of Edinburgh, Scotland, UK.</p>"
         },
         {
 

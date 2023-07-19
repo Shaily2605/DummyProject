@@ -90,12 +90,8 @@ export const theuniversityoftexasatelpaso = {
             "data": [
                 "In-State Tuition & Fees: $9,784",
                 "Out-of-State Tuition & Fees: $22,640"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, all students are required to pay a student services fee of $717 and a technology fee of $150.</p> <p>For more information about tuition and fees for specific courses, you can visit the university's website.</p>"
+            ],
+            "heading": "<p>Additionally, all students are required to pay a student services fee of $717 and a technology fee of $150.</p> <p>For more information about tuition and fees for specific courses, you can visit the university's website.</p>"
         },
         {
             type: "meta",
@@ -134,10 +130,14 @@ export const theuniversityoftexasatelpaso = {
                 "Have a valid passport",
                 "Provide proof of health insurance",
                 "Provide a copy of all academic certificates and transcripts",
-            ]
+                "Provide a copy of the student’s visa and other immigration documents",
+                "Provide a completed Statement of Intent to Pursue a Degree",
+                "Submit a completed application for admission, including all required documents",
+            ],
+            "heading": "<p>In addition, Indian students must meet the general UTEP admissions criteria, which includes submitting an official copy of their transcripts and test scores, an application fee, and an official copy of their standardized test scores. For more information on admissions requirements and how to apply, please visit the UTEP Admissions website.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

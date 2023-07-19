@@ -190,9 +190,9 @@ export const universityofalabamatuscaloosa = {
                 "A Statement of Purpose.",
                 "An official bank letter verifying financial resources, if applicable.",
                 "A copy of the student’s passport.",
-                "An application fee of US$50.",
-                "The University of Alabama-Tuscaloosa also recommends that international students contact a university representative or an international student adviser to help with the application process."
-            ]
+                "An application fee of US$50."
+            ],
+            "heading": "<p>The University of Alabama-Tuscaloosa also recommends that international students contact a university representative or an international student adviser to help with the application process.</p>"
         },
         {
 

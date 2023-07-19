@@ -176,8 +176,8 @@ export const towsonuniversitymaryland = {
                 "Official college transcripts (if applicable)",
                 "Application fee ",
                 "Proof of financial support ",
-                "In addition, Indian students must provide evidence of English language proficiency. This can be demonstrated with a TOEFL score of at least 550 (paper-based) or 80 (internet-based), or an IELTS score of at least 6.5."
-            ]
+            ],
+            "heading": "<p>In addition, Indian students must provide evidence of English language proficiency. This can be demonstrated with a TOEFL score of at least 550 (paper-based) or 80 (internet-based), or an IELTS score of at least 6.5.</p>"
         },
         {
             "type": "list-bollet",

@@ -142,9 +142,9 @@ export const unioncollegenebraska = {
                 "SAT or ACT scores",
                 "An essay (optional)",
                 "Two letters of recommendation (optional)",
-                "A completed application form",
-                "In addition, international applicants must also submit proof of English proficiency (such as TOEFL or IELTS scores). Union College also requires that international applicants submit a financial statement demonstrating their ability to pay for the cost of their studies."
-            ]
+                "A completed application form"
+            ],
+            "heading": "<p>In addition, international applicants must also submit proof of English proficiency (such as TOEFL or IELTS scores). Union College also requires that international applicants submit a financial statement demonstrating their ability to pay for the cost of their studies.</p>"
         },
         {
             "type": "list-bollet",

@@ -151,8 +151,8 @@ export const universityofhoustondowntown = {
                 "Submit all required documents by the application deadline.",
                 "Submit a copy of passport.",
                 "Have a valid visa to study in the United States.",
-                "In addition, international students must attend an orientation and register for full - time coursework."
-            ]
+            ],
+            "heading": "<p>In addition, international students must attend an orientation and register for full - time coursework.</p>"
         },
         {
             "type": "list-bollet",

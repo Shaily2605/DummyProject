@@ -129,8 +129,8 @@ export const unionschooloftheology = {
                 "Two letters of recommendation",
                 "A personal statement outlining their reasons for wanting to attend Union School of Theology",
                 "A non-refundable application fee.",
-                "Once the application is complete, it will be reviewed by a panel of faculty members and a decision will be made regarding admission."
-            ]
+            ],
+            "heading": "<p>Once the application is complete, it will be reviewed by a panel of faculty members and a decision will be made regarding admission.</p>"
         },
         {
 

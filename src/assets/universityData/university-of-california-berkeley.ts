@@ -248,12 +248,8 @@ export const universityofcaliforniaberkeley = {
                 "Submit a statement of purpose explaining why you are interested in attending UC Berkeley and how it will help you reach your academic and career goals.",
                 "Submit a non-refundable application fee.",
                 "Demonstrate English proficiency by submitting a TOEFL or IELTS score.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to these general requirements, UC Berkeley also has specific requirements for international students. International students must also submit evidence of sufficient financial resources to support their studies, proof of health insurance, and other documents.</p> <p>For more information about admission requirements for international students, please visit the UC Berkeley website.</p>"
+            ],
+            "heading": "<p>In addition to these general requirements, UC Berkeley also has specific requirements for international students. International students must also submit evidence of sufficient financial resources to support their studies, proof of health insurance, and other documents.</p> <p>For more information about admission requirements for international students, please visit the UC Berkeley website.</p>"
         },
         {
             "type": "list-bollet",

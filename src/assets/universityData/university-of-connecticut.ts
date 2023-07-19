@@ -151,9 +151,9 @@ export const universityofconnecticut = {
                 "Submit proof of English language proficiency (TOEFL, IELTS, or PTE).",
                 "Submit a financial statement that demonstrates the ability to pay all tuition, fees, and living expenses for the duration of the program.",
                 "Submit a Statement of Financial Support, if applicable.",
-                "Submit a completed international student application form.",
-                "For more information, please visit the University of Connecticut's website: https://admissions.uconn.edu/apply/international-applicants/"
-            ]
+                "Submit a completed international student application form."
+            ],
+            "heading": "<p>For more information, please visit the University of Connecticut's website: https://admissions.uconn.edu/apply/international-applicants/</p>"
         },
         {
             "type": "list-bollet",

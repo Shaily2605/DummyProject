@@ -133,12 +133,8 @@ export const universityofdivinityvictoria = {
                 "Have satisfactory character references from two referees. ",
                 "Have a valid student visa (if applicable). ",
                 "Have paid the relevant tuition fees. ",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that additional criteria may be necessary depending on the course of study.</p>"
+            ],
+            "heading": "<p>Please note that additional criteria may be necessary depending on the course of study.</p>"
         },
         {
             "type": "list-bollet",

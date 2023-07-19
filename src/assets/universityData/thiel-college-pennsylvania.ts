@@ -151,12 +151,8 @@ export const thielcollegepennsylvania = {
                 "One letter of recommendation ",
                 "A personal essay ",
                 "Proof of English proficiency "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Applicants must also have a minimum of a 3.0 high school grade point average and must demonstrate proficiency in the English language by submitting TOEFL, IELTS, or SAT/ACT scores.</p> <p>Please note that Thiel College has a rolling admission policy, so applicants are encouraged to apply early.</p> <p>For more information, please visit the Thiel College website at: https://www.thiel.edu/admissions/international-admissions</p>"
+            ],
+            "heading": "<p>Applicants must also have a minimum of a 3.0 high school grade point average and must demonstrate proficiency in the English language by submitting TOEFL, IELTS, or SAT/ACT scores.</p> <p>Please note that Thiel College has a rolling admission policy, so applicants are encouraged to apply early.</p> <p>For more information, please visit the Thiel College website at: https://www.thiel.edu/admissions/international-admissions</p>"
         },
         {
             "type": "list-bollet",

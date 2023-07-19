@@ -95,8 +95,8 @@ export const trinityvalleycommunitycollege = {
                 "Tuition & Fees (out-of-district): $195 per credit hour ",
                 "Tuition & Fees (out-of-state): $265 per credit hour ",
                 "Tuition & Fees (international): $300 per credit hour",
-                "For more information on the courses offered, please visit the following website: https://www.tvcc.edu/academics/course-offerings."
-            ]
+            ],
+            "heading": "<p>For more information on the courses offered, please visit the following website: https://www.tvcc.edu/academics/course-offerings.</p>"
         },
         {
             type: "meta",
@@ -134,9 +134,9 @@ export const trinityvalleycommunitycollege = {
                 "Student Declaration and Certification of Finances Form",
                 "Official immunization records",
                 "Copy of driver’s license or other form of photo identification",
-                "Any other documents required by the college",
-                "For more information, please visit the college's website: https://www.tvcc.edu/admissions/international-students/"
-            ]
+                "Any other documents required by the college"
+            ],
+            "heading": "<p>For more information, please visit the college's website: https://www.tvcc.edu/admissions/international-students/</p>"
         },
         {
             "type": "list-bollet",

@@ -147,7 +147,9 @@ export const universityofarkansasformedicalsciences = {
                 "You must submit two letters of recommendation from former teachers or professors.",
                 "You must have a valid health insurance policy.",
                 "You must submit a statement of purpose outlining your reasons for applying to the program.",
-            ]
+                "You must possess proof of financial resources to cover the cost of living and studying in the U.S."
+            ],
+            "heading": "<p>In addition to the above eligibility criteria, you will also need to submit a completed application form, a non-refundable application fee, and other relevant documents as required by the university.</p>"
         },
         {
             "type": "list-bollet",

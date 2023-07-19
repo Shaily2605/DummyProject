@@ -127,7 +127,7 @@ export const universityofillinoischicago = {
             "info": " ",
             "data": [
                 "The University of Illinois at Chicago (UIC) requires that all Indian students must have a valid Indian passport and visa before beginning their studies in the United States.",
-                "In order to be considered for admission, Indian students must submit the following documents: Official transcripts from all secondary and post-secondary institutions attended, Proof of English language proficiency (i.e. TOEFL, IELTS, etc.), Letters of recommendation, An essay or statement of purpose, A résumé",
+                "In order to be considered for admission, Indian students must submit the following documents:<br> 1. Official transcripts from all secondary and post-secondary institutions attended<br> 2. Proof of English language proficiency (i.e. TOEFL, IELTS, etc.)<br> 3. Letters of recommendation<br> 4. An essay or statement of purpose<br> 5. A résumé",
                 "In addition, Indian students must also provide proof of financial resources to cover the cost of study for the duration of their stay in the United States.",
                 "All documents must be translated into English, and must be authenticated and notarized. Applicants may also be required to submit additional documents, depending on their individual circumstances.",
             ]

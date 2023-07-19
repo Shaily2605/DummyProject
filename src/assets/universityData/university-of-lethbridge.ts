@@ -155,12 +155,8 @@ export const universityoflethbridge = {
                 "English language proficiency test report (if applicable)",
                 "Financial documentation",
                 "Letter of intent",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, applicants may be required to submit additional supporting documents such as references, CVs and portfolios.</p> <p>There is an online application system for international applicants, which can be accessed on the university website. The application fee for international applicants is $150 CAD.</p> <p>The University of Lethbridge also offers an International Student Scholarship program. Students from India are eligible to apply for these scholarships and can find more information on the university's website.</p>"
+            ],
+            "heading": "<p>In addition, applicants may be required to submit additional supporting documents such as references, CVs and portfolios.</p> <p>There is an online application system for international applicants, which can be accessed on the university website. The application fee for international applicants is $150 CAD.</p> <p>The University of Lethbridge also offers an International Student Scholarship program. Students from India are eligible to apply for these scholarships and can find more information on the university's website.</p>"
         },
         {
 

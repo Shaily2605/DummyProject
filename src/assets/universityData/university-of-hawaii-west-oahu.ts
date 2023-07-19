@@ -134,12 +134,8 @@ export const universityofhawaiiwestoahu = {
                 "Copy of passport",
                 "Documentation of immunization and health insurance",
                 "Non-refundable $50 application fee"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, UHWO may require additional documentation or personal statements in order to complete the admissions process.</p>"
+            ],
+            "heading": "<p>In addition, UHWO may require additional documentation or personal statements in order to complete the admissions process.</p>"
         },
         {
             "type": "list-bollet",

@@ -132,8 +132,8 @@ export const universityofhighlandsandislands = {
                 "Submit an English language test score, such as IELTS, TOEFL, or PTE, as required by the university. ",
                 "Submit a copy of their passport and any other relevant documents requested by the university. ",
                 "Wait to receive a decision on their application. ",
-                "Once the student has submitted their application and all the required documents, they will receive an acknowledgement email. They will then be contacted by the university regarding their application."
-            ]
+            ],
+            "heading": "<p>Once the student has submitted their application and all the required documents, they will receive an acknowledgement email. They will then be contacted by the university regarding their application.</p>"
         },
         {
 

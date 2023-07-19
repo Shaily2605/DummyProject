@@ -190,8 +190,8 @@ export const universityofcentraloklahoma = {
                 "Submit a copy of the student’s passport and visa.",
                 "Submit a completed health form.",
                 "Submit a completed affidavit of support.",
-                "In addition, all international applicants must also meet all of the general admissions requirements of the University of Central Oklahoma. This includes a minimum GPA, as well as any other requirements specified by the university."
-            ]
+            ],
+            "heading": "<p>In addition, all international applicants must also meet all of the general admissions requirements of the University of Central Oklahoma. This includes a minimum GPA, as well as any other requirements specified by the university.</p>"
         },
         {
 

@@ -174,8 +174,8 @@ export const tourouniversitynevada = {
                 "Submit a copy of the student’s passport and visa. ",
                 "Submit the application fee. ",
                 "Submit other supporting documents as requested by the university. ",
-                "Once all the documents have been received and reviewed, Touro University Nevada will issue an admission decision."
-            ]
+            ],
+            "heading": "<p>Once all the documents have been received and reviewed, Touro University Nevada will issue an admission decision.</p>"
         },
         {
 

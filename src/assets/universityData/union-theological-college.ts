@@ -149,21 +149,8 @@ export const uniontheologicalcollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "International students, including Indian students, are eligible to take admission at Union Theological College (Belfast),Northern Ireland,UK, provided they meet the following criteria: ",
-            "textBelowInfo": "Applicants must have achieved, at a minimum, the following qualifications:",
             "data": [
-                "High School Diploma,",
-                "A-Levels, ",
-                "Indian Standard XII (Higher Secondary),",
-                "IB Diploma, ",
-                "Indian School Certificate, ",
-                "Foundation Diploma."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": " ",
-            "data": [
+                "Applicants must have achieved, at a minimum, the following qualifications:<br>1. High School Diploma<br> 2. A-Levels <br> 3. Indian Standard XII (Higher Secondary) <br> 4. IB Diploma<br> 5. Indian School Certificate<br> 6. Foundation Diploma.",
                 "Applicants must also provide evidence of English language proficiency. This can be provided through IELTS (International English Language Testing System) or TOEFL (Test of English as a Foreign Language) scores.",
                 "Applicants must also provide evidence of financial means to pay for their studies. This can be provided through bank statements or other financial documents."
             ]

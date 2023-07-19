@@ -142,8 +142,8 @@ export const unicampuslampeter = {
                 "Have valid immigration permission to study in the UK (if applicable).",
                 "Meet the university’s entry requirements for the chosen course (this varies depending on the course). ",
                 "Provide two references (academic or professional). ",
-                "For more information, please visit the University’s website here: https://www.uwtsd.ac.uk/international/entry-requirements/indian-students/"
-            ]
+            ],
+            "heading": "<p>For more information, please visit the University’s website here: https://www.uwtsd.ac.uk/international/entry-requirements/indian-students/</p>"
         },
         {
             "type": "list-bollet",

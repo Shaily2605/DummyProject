@@ -104,12 +104,8 @@ export const universityofcalifornialosangeles = {
                 "Capital Improvement Fee: $114",
                 "Professional Degree Supplemental Tuition: $4,670",
                 "Total Graduate & Professional Tuition & Fees: $25,825",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For exact information regarding fees for each course, please visit the UCLA Registrar's website for the most up-to-date information:</p> <p>https://registrar.ucla.edu/Fees-and-Tuition</p>"
+            ],
+            "heading": "<p>For exact information regarding fees for each course, please visit the UCLA Registrar's website for the most up-to-date information:</p> <p>https://registrar.ucla.edu/Fees-and-Tuition</p>"
         },
         {
             type: "meta",
@@ -161,8 +157,8 @@ export const universityofcalifornialosangeles = {
                 "Two letters of recommendation from teachers or counselors. ",
                 "A personal statement or essay. ",
                 "Proof of financial resources.",
-                "Once the application is submitted, students will be notified of the admission decision by the university."
-            ]
+            ],
+            "heading": "<p>Once the application is submitted, students will be notified of the admission decision by the university.</p>"
         },
         {
 

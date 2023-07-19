@@ -166,8 +166,8 @@ export const universityofkentuckykentucky = {
                 "Must meet any additional requirements specified by the academic college, school, or department to which you are applying ",
                 "Must meet any additional requirements specified by the visa office ",
                 "Must demonstrate sufficient financial resources to cover the costs of enrollment at University of Kentucky, including tuition, living expenses, and other miscellaneous costs.",
-                "For international students who wish to apply for undergraduate or graduate study at the University of Kentucky, an international student advisor may be contacted at international@uky.edu."
-            ]
+            ],
+            "heading": "<p>For international students who wish to apply for undergraduate or graduate study at the University of Kentucky, an international student advisor may be contacted at international@uky.edu.</p>"
         },
         {
             "type": "list-bollet",

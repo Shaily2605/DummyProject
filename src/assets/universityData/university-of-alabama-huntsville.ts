@@ -244,9 +244,9 @@ export const universityofalabamahuntsville = {
                 "Application Fee: A non-refundable application fee of $50 for undergraduate applicants and $60 for graduate applicants must be paid at the time of application.",
                 "Financial Documentation: International students are required to provide proof of financial ability in order to obtain an I-20 form to obtain a student visa.",
                 "A copy of a valid passport. ",
-                "Submission of the application for admission. ",
-                "For more information, please visit the University of Alabama-Huntsville's website at: http://www.uah.edu/international/admissions."
-            ]
+                "Submission of the application for admission. "
+            ],
+            "heading": "<p>For more information, please visit the University of Alabama-Huntsville's website at: http://www.uah.edu/international/admissions.</p>"
         },
         {
             "type": "list-bollet",

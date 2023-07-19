@@ -219,9 +219,9 @@ export const unitedstatessportsacademy = {
                 "Submit a 500-word essay outlining the applicant’s educational and career goals. ",
                 "Submit a non-refundable application fee. ",
                 "Successfully complete an on-campus or online interview. ",
-                "Provide proof of financial support for the duration of their studies. ",
-                "Once all of the above criteria have been met, students may be considered for admission to the United States Sports Academy."
-            ]
+                "Provide proof of financial support for the duration of their studies. "
+            ],
+            "heading": "<p>Once all of the above criteria have been met, students may be considered for admission to the United States Sports Academy.</p>"
         },
         {
             "type": "list-bollet",

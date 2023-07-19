@@ -115,9 +115,9 @@ export const toccoafallscollege = {
                 "Parking Fee - $25/semester",
                 "Residence Hall Damage Deposit - $200",
                 "Student Activity Fee - $50/semester",
-                "Transcript Fee - $10",
-                "For more information, please visit the official website."
-            ]
+                "Transcript Fee - $10"
+            ],
+            "heading": "<p>For more information, please visit the official website.</p>"
         },
         {
             type: "meta",

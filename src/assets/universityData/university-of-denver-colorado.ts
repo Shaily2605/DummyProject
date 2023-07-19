@@ -190,12 +190,8 @@ export const universityofdenvercolorado = {
                 "<b>Letters of Recommendation:</b> Two letters of recommendation from academic sources, such as faculty members or school administrators, are required.",
                 "<b>Statement of Purpose:</b> A 500-word statement of purpose describing the applicant’s academic and professional goals.",
                 "<b>Application Fee:</b> A $75 USD non-refundable application fee must be submitted.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above materials, students from India may be required to submit additional documentation in support of their application. This could include a copy of their passport, a financial statement, or a visa.</p> <p>For more information, applicants should visit the University of Denver's website for international applicants.</p>"
+            ],
+            "heading": "<p>In addition to the above materials, students from India may be required to submit additional documentation in support of their application. This could include a copy of their passport, a financial statement, or a visa.</p> <p>For more information, applicants should visit the University of Denver's website for international applicants.</p>"
         },
         {
 

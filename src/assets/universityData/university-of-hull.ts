@@ -118,12 +118,8 @@ export const universityofhull = {
                 "Medicine (MD) - Tuition fees for 2020/21 are £11,500 per year for UK and EU students. ",
                 "Nursing (MSc) - Tuition fees for 2020/21 are £11,500 per year for UK and EU students. ",
                 "Physics (MSc) - Tuition fees for 2020/21 are £11,500 per year for UK and EU students. ",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For further information about the fee structure for each course, please visit the University of Hull website.</p>"
+            ],
+            "heading": "<p>For further information about the fee structure for each course, please visit the University of Hull website.</p>"
         },
         {
             type: "meta",

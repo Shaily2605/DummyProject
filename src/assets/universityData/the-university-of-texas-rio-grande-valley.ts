@@ -168,9 +168,9 @@ export const theuniversityoftexasriograndevalley = {
             "info": "Graduate Programs:",
             "data": [
                 "In-State Tuition: $4,907 per semester",
-                "Out-of-State Tuition: $8,734 per semester",
-                "For more information on the fee structure, please visit the university's website at www.utrgv.edu.",
-            ]
+                "Out-of-State Tuition: $8,734 per semester"
+            ],
+            "heading": "<p>For more information on the fee structure, please visit the university's website at www.utrgv.edu.</p>"
         },
         {
             type: "meta",
@@ -210,7 +210,7 @@ export const theuniversityoftexasriograndevalley = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

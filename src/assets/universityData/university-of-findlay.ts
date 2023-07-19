@@ -196,12 +196,8 @@ export const universityoffindlay = {
                 "Completed Declaration and Certification of Finances form",
                 "Copy of visa (if applicable)",
                 "$50 application fee",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all documents have been received and reviewed, the Admissions Office will contact the student with a decision.</p>"
+            ],
+            "heading": "<p>Once all documents have been received and reviewed, the Admissions Office will contact the student with a decision.</p>"
         },
         {
             "type": "list-bollet",

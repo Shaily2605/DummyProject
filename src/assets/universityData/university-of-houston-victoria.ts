@@ -171,7 +171,7 @@ export const universityofhoustonvictoria = {
             "data": [
                 "Visit the University of Houston-Victoria website to view the admission requirements and application process.",
                 "Fill out the online application form and submit it with the required documents.",
-                "Submit the following documents: Official transcripts from all previously attended universities, Official TOEFL/IELTS scores (if applicable), Official financial documents demonstrating a minimum of two years of financial support, Copy of passport, Copy of visa (if applicable), Statement of purpose, Two letters of recommendation",
+                "Submit the following documents:<br> 1. Official transcripts from all previously attended universities<br> 2. Official TOEFL/IELTS scores (if applicable)<br> 3. Official financial documents demonstrating a minimum of two years of financial support<br> 4. Copy of passport<br> 5. Copy of visa (if applicable)<br> 6. Statement of purpose<br> 7. Two letters of recommendation",
                 "Pay the application fee.",
                 "Wait for the admission decision.",
             ]

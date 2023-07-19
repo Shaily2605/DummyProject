@@ -178,8 +178,8 @@ export const universalcollegeofmedicalsciencesnepal = {
                 "The student must have a valid passport and must have obtained a student visa to study in Nepal. ",
                 "The student must have a valid medical fitness certificate. ",
                 "The student must have obtained a No-Objection Certificate (NOC) from their respective state government.",
-                "Note: UCMS also offers scholarships to Indian students."
-            ]
+            ],
+            "heading": "<p>Note: UCMS also offers scholarships to Indian students.</p>"
         },
         {
             "type": "list-bollet",

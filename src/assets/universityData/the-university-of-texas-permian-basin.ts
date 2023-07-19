@@ -153,12 +153,8 @@ export const theuniversityoftexaspermianbasin = {
                 "Financial Documentation",
                 "Completed Immunization Record",
                 "Copy of Passport"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must demonstrate adequate financial support to cover tuition and living expenses during their stay in the United States. UTPB also requires international students to purchase health insurance through the University-sponsored health insurance plan.</p> <p>For more information, please visit the UTPB website: https://www.utpb.edu/admissions/international-students</p>"
+            ],
+            "heading": "<p>In addition, international students must demonstrate adequate financial support to cover tuition and living expenses during their stay in the United States. UTPB also requires international students to purchase health insurance through the University-sponsored health insurance plan.</p> <p>For more information, please visit the UTPB website: https://www.utpb.edu/admissions/international-students</p>"
         },
         {
             "type": "list-bollet",
@@ -172,12 +168,8 @@ export const theuniversityoftexaspermianbasin = {
                 "Copy of passport",
                 "Required immunization records",
                 "Copy of visa (if applicable)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above, students must also submit a nonrefundable application fee of $50, and must submit a signed and notarized affidavit of support. Applicants must also meet the minimum admission requirements, which vary depending on the specific degree program.</p> <p>Applicants from India must also submit a credit evaluation from an approved agency, as well as an official course-by-course evaluation of their foreign transcripts.</p> <p>If you have further questions about the application process, please contact the Office of Admissions and Recruitment at UTPB.</p>"
+            ],
+            "heading": "<p>In addition to the above, students must also submit a nonrefundable application fee of $50, and must submit a signed and notarized affidavit of support. Applicants must also meet the minimum admission requirements, which vary depending on the specific degree program.</p> <p>Applicants from India must also submit a credit evaluation from an approved agency, as well as an official course-by-course evaluation of their foreign transcripts.</p> <p>If you have further questions about the application process, please contact the Office of Admissions and Recruitment at UTPB.</p>"
         },
         {
 

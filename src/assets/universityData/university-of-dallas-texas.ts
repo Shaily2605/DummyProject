@@ -166,8 +166,8 @@ export const universityofdallastexas = {
                 "Must submit a copy of passport",
                 "Must submit all required application documents",
                 "Must provide proof of sufficient funds to cover tuition, fees, and living expenses for the duration of the program.",
-                "For further information, please contact the university's International Admissions Office."
-            ]
+            ],
+            "heading": "<p>For further information, please contact the university's International Admissions Office.</p>"
         },
         {
             "type": "list-bollet",

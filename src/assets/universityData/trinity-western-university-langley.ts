@@ -185,8 +185,8 @@ export const trinitywesternuniversitylangley = {
                 "Submit a personal essay",
                 "Submit a resume",
                 "Submit official transcripts from all post-secondary institutions attended",
-                "Applicants must also meet the requirements of the Canadian Embassy in India, including a valid Canadian study permit."
-            ]
+            ],
+            "heading": "<p>Applicants must also meet the requirements of the Canadian Embassy in India, including a valid Canadian study permit.</p>"
         },
         {
             "type": "list-bollet",

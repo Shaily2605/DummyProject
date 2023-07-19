@@ -165,8 +165,8 @@ export const universityofcentralflorida = {
                 "You must submit official test scores from either the GRE or GMAT.",
                 "You must demonstrate English proficiency by submitting official TOEFL or IELTS scores.",
                 "You may need to submit additional documents, such as a statement of purpose, letters of recommendation, or a resume.",
-                "You can find more information about admission requirements on the UCF website."
-            ]
+            ],
+            "heading": "<p>You can find more information about admission requirements on the UCF website.</p>"
         },
         {
             "type": "list-bollet",
@@ -178,8 +178,8 @@ export const universityofcentralflorida = {
                 "Submit test scores. Applicants must submit official test scores from a standardized test, such as the TOEFL, IELTS, or SAT/ACT.",
                 "Submit financial documents. Applicants must submit documents demonstrating their ability to pay all tuition and fees associated with the program.",
                 "Obtain a student visa. After admission, applicants must obtain a student visa in order to study in the United States.",
-                "For more information, please visit the UCF International Admissions website."
-            ]
+            ],
+            "heading": "<p>For more information, please visit the UCF International Admissions website.</p>"
         },
         {
 

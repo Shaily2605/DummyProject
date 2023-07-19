@@ -153,7 +153,11 @@ export const theuniversityoftulsa = {
             "data": [
                 "A copy of the student’s passport",
                 "Proof of financial support",
-            ]
+                "An affidavit of support (if applicable)",
+                "Evidence of health insurance coverage",
+                "Evidence of immunization records",
+            ],
+            "heading": "<p><For more information, please visit the University of Tulsa's website: http://utulsa.edu/admissions/international-admissions//p>"
         },
         {
             "type": "list-bollet",
@@ -165,8 +169,8 @@ export const theuniversityoftulsa = {
                 "Submit official TOEFL or IELTS scores. This is required for all international applicants who did not complete their secondary education in the United States.",
                 "Submit financial documents. This includes evidence of ability to pay for tuition, fees, and living expenses.",
                 "Submit a completed Declaration and Certification of Finances form. This form is available on the University’s website.",
-                "After submitting the application and all the required documents, international students from India should contact the University’s Office of International Admissions for further instructions. The University of Tulsa may require additional documentation, such as a copy of the student’s passport, before making an admission decision."
-            ]
+            ],
+            "heading": "<p>After submitting the application and all the required documents, international students from India should contact the University’s Office of International Admissions for further instructions. The University of Tulsa may require additional documentation, such as a copy of the student’s passport, before making an admission decision.</p>"
         },
         {
 

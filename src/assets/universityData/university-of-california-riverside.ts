@@ -152,12 +152,8 @@ export const universityofcaliforniariverside = {
                 "Resume ",
                 "Portfolio if applicable",
                 "Financial documents for international students"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once you have these documents ready, you can begin the application process. The University of California, Riverside offers both undergraduate and graduate programs. The international student application portal can be accessed on the university website. After you create an account and fill out the online application form, you can submit the required documents and complete the application process.</p> <p>In addition to the standard application requirements, applicants from India must also submit a financial statement and proof of financial resources. This is to demonstrate that they have the financial means to support their studies in the United States.</p> <p>It is important for international students to meet all the admission requirements and deadlines. The university will review all applications and documents, and students will be notified of their admission status.</p>"
+            ],
+            "heading": "<p>Once you have these documents ready, you can begin the application process. The University of California, Riverside offers both undergraduate and graduate programs. The international student application portal can be accessed on the university website. After you create an account and fill out the online application form, you can submit the required documents and complete the application process.</p> <p>In addition to the standard application requirements, applicants from India must also submit a financial statement and proof of financial resources. This is to demonstrate that they have the financial means to support their studies in the United States.</p> <p>It is important for international students to meet all the admission requirements and deadlines. The university will review all applications and documents, and students will be notified of their admission status.</p>"
         },
         {
 

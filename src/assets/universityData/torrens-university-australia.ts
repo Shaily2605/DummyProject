@@ -171,8 +171,8 @@ export const torrensuniversityaustralia = {
                 "Have successfully completed a recognized higher education qualification, or",
                 "Have a minimum of 12 months of relevant work experience, or",
                 "Successfully completed an English language proficiency test (IELTS, TOEFL, PTE Academic) and achieved the required scores.",
-                "In addition to the eligibility criteria mentioned above, applicants must also meet the specific entry requirements of the program they are applying for. These requirements may include a minimum grade point average, portfolios and/or interviews."
-            ]
+            ],
+            "heading": "<p>In addition to the eligibility criteria mentioned above, applicants must also meet the specific entry requirements of the program they are applying for. These requirements may include a minimum grade point average, portfolios and/or interviews.</p>"
         },
         {
             "type": "list-bollet",

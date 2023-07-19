@@ -114,8 +114,8 @@ export const universityoflouisville = {
                 "<b>Financial Documentation:</b> Must provide proof of financial support for the duration of the program. ",
                 "<b>Standardized Tests Requirement:</b> Must provide valid SAT/ACT scores. ",
                 "<b>Program-Specific Requirements:</b> Must satisfy any additional requirements related to the particular program of study. ",
-                "For more information, please visit the University of Louisville's website: https://admissions.louisville.edu/international/apply.html."
-            ]
+            ],
+            "heading": "<p>For more information, please visit the University of Louisville's website: https://admissions.louisville.edu/international/apply.html.</p>"
         },
         {
             "type": "list-bollet",

@@ -154,12 +154,8 @@ export const universitycollegeofthenorth = {
                 "Copy of passport",
                 "Letter of intent",
                 "Letters of recommendation (if applicable)",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The college will review all documents and decide if the applicant is eligible for admission. Applicants may be asked to provide additional information or documents before their admission is confirmed.</p> <p>Finally, successful applicants will receive an official letter of acceptance from the college. This letter will include instructions on how to apply for a student visa and other information necessary to begin the process of attending University College of the North.</p>"
+            ],
+            "heading": "<p>The college will review all documents and decide if the applicant is eligible for admission. Applicants may be asked to provide additional information or documents before their admission is confirmed.</p> <p>Finally, successful applicants will receive an official letter of acceptance from the college. This letter will include instructions on how to apply for a student visa and other information necessary to begin the process of attending University College of the North.</p>"
         },
         {
 

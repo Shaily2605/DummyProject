@@ -146,7 +146,9 @@ export const universityofarkansasatpinebluff = {
                 "Pass a medical examination and provide proof of medical insurance. ",
                 "Submit a copy of their passport. ",
                 "Obtain an F-1 student visa from the U.S. Embassy or Consulate.",
-            ]
+                "Meet the admission requirements of the University. "
+            ],
+            "heading": "<p>International students admitted to UAPB may be eligible for financial assistance. However, they will need to meet additional eligibility requirements and apply for financial aid separately.</p>"
         },
         {
             "type": "list-bollet",

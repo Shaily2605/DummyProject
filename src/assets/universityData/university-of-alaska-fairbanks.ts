@@ -159,8 +159,8 @@ export const universityofalaskafairbanks = {
                 "Hold a Bachelor's degree or equivalent from a regionally accredited institution.",
                 "Have a minimum cumulative Grade Point Average (GPA) of 2.0 on a 4.0 scale.",
                 "Submit official transcripts from all institutions attended.",
-                "Many programs may have additional requirements such as letters of recommendation, essays, and/or interviews. Please refer to the specific program’s website for more information."
-            ]
+            ],
+            "heading": "<p>Many programs may have additional requirements such as letters of recommendation, essays, and/or interviews. Please refer to the specific program’s website for more information.</p>"
         },
         {
             "type": "list-bollet",

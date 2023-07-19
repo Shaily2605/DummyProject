@@ -158,8 +158,8 @@ export const universityofarkansasfortsmith = {
                 "Demonstrate English language proficiency (TOEFL, IELTS, etc.)",
                 "Submit all required documents (transcripts, financial documents, etc.)",
                 "Have any additional requirements as specified by the university",
-                "Additionally, international students must provide evidence of sufficient financial resources for their first year of study. For more information, please visit the school's website."
-            ]
+            ],
+            "heading": "<p>Additionally, international students must provide evidence of sufficient financial resources for their first year of study. For more information, please visit the school's website.</p>"
         },
         {
             "type": "list-bollet",

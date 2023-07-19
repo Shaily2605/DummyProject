@@ -150,8 +150,8 @@ export const universityofarkansasatlittlerock = {
                 "Proof of financial support",
                 "Copy of passport",
                 "Completed Declaration and Certification of Finances form",
-                "Additional documentation may be required depending on the student's academic background or the program of study. Please consult the UALR Admissions website for more information."
-            ]
+            ],
+            "heading": "<p>Additional documentation may be required depending on the student's academic background or the program of study. Please consult the UALR Admissions website for more information.</p>"
         },
         {
 

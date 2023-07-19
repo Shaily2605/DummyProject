@@ -181,7 +181,7 @@ export const universityofdubuqueiowa = {
             "info": "In order to be eligible for admission to the University of Dubuque, Iowa, USA as an international student from India, you must meet the following criteria:",
             "data": [
                 "You must have completed a full secondary school curriculum in India with a minimum grade point average (GPA) of 2.00 or equivalent.",
-                "You must demonstrate a proficiency in English by submitting a TOEFL or IELTS score, or through a Duolingo English Test (DET) score. The minimum requirements are as follows: TOEFL: iBT – 61,IELTS: 5.5, DET: 100",
+                "You must demonstrate a proficiency in English by submitting a TOEFL or IELTS score, or through a Duolingo English Test (DET) score. The minimum requirements are as follows:<br> a. TOEFL: iBT – 61<br> b. IELTS: 5.5<br> c. DET: 100",
                 "You must submit an official transcript that shows all courses taken and all grades received in secondary school.",
                 "You must submit a copy of your passport.",
                 "You must demonstrate financial resources to cover the costs associated with attendance at the University of Dubuque.",

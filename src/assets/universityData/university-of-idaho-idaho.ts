@@ -188,8 +188,8 @@ export const universityofidahoidaho = {
                 "<b>English proficiency:</b> International students must demonstrate English proficiency by submitting a TOEFL, IELTS, or Duolingo English Test (DET) score.",
                 "<b>Financial documentation:</b> All international students must provide documentation of financial support for their first year of studies.",
                 "<b>Visa requirements:</b> All international students must obtain a student visa (F-1 or J-1) before beginning their studies at the University of Idaho.",
-                "For more detailed information, please visit the International Student Admissions website at https://www.uidaho.edu/admissions/international-students."
-            ]
+            ],
+            "heading": "<p>For more detailed information, please visit the International Student Admissions website at https://www.uidaho.edu/admissions/international-students.</p>"
         },
         {
             "type": "list-bollet",

@@ -140,8 +140,8 @@ export const universityofarkansasarkansas = {
                 "Submit a statement of purpose.",
                 "Submit a copy of passport.",
                 "Submit all required documents to the Office of International Admissions.",
-                "Once all of the necessary documents have been submitted, the Office of International Admissions will review the application and make a decision regarding admission."
-            ]
+            ],
+            "heading": "<p>Once all of the necessary documents have been submitted, the Office of International Admissions will review the application and make a decision regarding admission.</p>"
         },
         {
 

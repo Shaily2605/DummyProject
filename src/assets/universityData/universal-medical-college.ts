@@ -196,8 +196,8 @@ export const universalmedicalcollege = {
                 "Evidence of English language proficiency",
                 "A copy of the student's visa (if applicable)",
                 "A letter of recommendation from a medical professional or professor",
-                "Once the application is received, the college will review the student's credentials and may request additional information or documents. The student may also be required to attend an interview with a college representative. If the student is accepted, the college will provide an offer letter and the student will be required to submit the necessary fees and documents to secure their admission."
-            ]
+            ],
+            "heading": "<p>Once the application is received, the college will review the student's credentials and may request additional information or documents. The student may also be required to attend an interview with a college representative. If the student is accepted, the college will provide an offer letter and the student will be required to submit the necessary fees and documents to secure their admission.</p>"
         },
         {
 

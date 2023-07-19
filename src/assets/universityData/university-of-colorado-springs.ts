@@ -90,12 +90,8 @@ export const universityofcoloradosprings = {
                 "Colorado Resident: $10,678 per semester",
                 "Non-Resident: $19,342 per semester",
                 "International Student: $21,771 per semester",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to tuition and fees, there are other costs associated with attending UCCS, such as housing and meals, books and supplies, transportation, and personal expenses.You can get more detailed information about these costs at the UCCS website.</p>"
+            ],
+            "heading": "<p>In addition to tuition and fees, there are other costs associated with attending UCCS, such as housing and meals, books and supplies, transportation, and personal expenses.You can get more detailed information about these costs at the UCCS website.</p>"
         },
         {
             type: "meta",

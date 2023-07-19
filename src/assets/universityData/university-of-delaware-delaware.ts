@@ -82,12 +82,8 @@ export const universityofdelawaredelaware = {
                 "Tuition: $34,530 ",
                 "Fees: $2,092 ",
                 "Total: $36,622"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, the University of Delaware offers a number of scholarships and grants that can help reduce the cost of tuition. You can find more information about these on the University of Delaware's website.</p>"
+            ],
+            "heading": "<p>Additionally, the University of Delaware offers a number of scholarships and grants that can help reduce the cost of tuition. You can find more information about these on the University of Delaware's website.</p>"
         },
         {
             type: "meta",
@@ -154,12 +150,8 @@ export const universityofdelawaredelaware = {
                 "Certified copies of bank statements and/or other financial documents",
                 "Copy of passport",
                 "Certification of Finances form"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the required documents are submitted, the Graduate Admissions Office will review the application and make a decision.</p>"
+            ],
+            "heading": "<p>Once all the required documents are submitted, the Graduate Admissions Office will review the application and make a decision.</p>"
         },
         {
 

@@ -169,8 +169,8 @@ export const universityofhartford = {
                 "A completed Declaration and Certification of Finances form",
                 "Evidence of health insurance coverage",
                 "Any required essays or letters of recommendation",
-                "Additionally, international students may be required to participate in an interview with a university representative. It is recommended that applicants begin the application process at least six months in advance of the desired entry date."
-            ]
+            ],
+            "heading": "<p>Additionally, international students may be required to participate in an interview with a university representative. It is recommended that applicants begin the application process at least six months in advance of the desired entry date.</p>"
         },
         {
 

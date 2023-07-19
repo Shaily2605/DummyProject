@@ -175,9 +175,9 @@ export const theuniversityofwesternaustralia = {
                 "IELTS – 6.5 or equivalent",
                 "TOEFL – 79 or equivalent",
                 "PTE – 65 or equivalent",
-                "CAE – 176 or equivalent",
-                "Additionally, Indian students must demonstrate their English language proficiency through an approved English language program."
-            ]
+                "CAE – 176 or equivalent"
+            ],
+            "heading": "<p>Additionally, Indian students must demonstrate their English language proficiency through an approved English language program.</p>"
         },
         {
             "type": "list-bollet",
