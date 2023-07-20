@@ -154,10 +154,9 @@ export const universityofmanitoba = {
                 "A copy of valid passport",
                 "Letters of recommendation",
                 "Statement of purpose",
-                "Resume",
-                "Any additional documents that may be required for the course/program applied for",
-                "In addition, applicants must also pay the applicable application fee."
-            ]
+                "Resume"
+            ],
+            "heading": "<p>Any additional documents that may be required for the course/program applied for</p> <p>In addition, applicants must also pay the applicable application fee.</p>"
         },
         {
 

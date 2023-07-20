@@ -156,8 +156,8 @@ export const universityofmichiganmichigan = {
                 "Submit a copy of your passport and proof of financial resources.",
                 "Submit two letters of recommendation from professors or mentors.",
                 "Submit a non-refundable application fee.",
-                "Once the application is reviewed, the University of Michigan will contact the applicant if further information or documents are required."
-            ]
+            ],
+            "heading": "<p>Once the application is reviewed, the University of Michigan will contact the applicant if further information or documents are required.</p>"
         },
         {
 

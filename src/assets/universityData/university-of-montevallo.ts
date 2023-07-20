@@ -154,12 +154,8 @@ export const universityofmontevallo = {
                 "Official financial documents to show proof of ability to cover the cost of attendance.",
                 "Resume or Curriculum Vitae (CV).",
                 "A statement of purpose and/or personal statement. ",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>International students must also meet the minimum English proficiency requirements as outlined on the Admissions website. This is typically a minimum score of 500 (paper-based), 173 (computer-based), or 61 (internet-based) on the TOEFL.</p> <p>International students must also have sufficient financial resources to cover the cost of attendance at the University of Montevallo. The cost of attendance includes tuition and fees, living expenses, books, and other related expenses. A proof of available funds must be provided in order to be granted admission.</p>"
+            ],
+            "heading": "<p>International students must also meet the minimum English proficiency requirements as outlined on the Admissions website. This is typically a minimum score of 500 (paper-based), 173 (computer-based), or 61 (internet-based) on the TOEFL.</p> <p>International students must also have sufficient financial resources to cover the cost of attendance at the University of Montevallo. The cost of attendance includes tuition and fees, living expenses, books, and other related expenses. A proof of available funds must be provided in order to be granted admission.</p>"
         },
         {
             "type": "list-bollet",

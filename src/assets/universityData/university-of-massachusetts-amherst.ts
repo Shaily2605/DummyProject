@@ -89,12 +89,8 @@ export const universityofmassachusettsamherst = {
                 "In-State Tuition (9 credits): $10,256",
                 "Out-of-State Tuition (9 credits): $24,403",
                 "Room & Board (on-campus): $13,722"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on the courses offered and their respective tuition fees, please visit the UMass Amherst website: https://www.umass.edu/sfs/tuition-and-fees.</p>"
+            ],
+            "heading": "<p>For more information on the courses offered and their respective tuition fees, please visit the UMass Amherst website: https://www.umass.edu/sfs/tuition-and-fees.</p>"
         },
         {
             type: "meta",

@@ -168,8 +168,8 @@ export const universityofmainefarmington = {
                 "International applicants whose native language is not English must demonstrate English language proficiency by submitting official scores from the Test of English as a Foreign Language (TOEFL). The minimum TOEFL score is 500 for the paper-based test, 173 for the computer-based test, or 61 for the internet-based test.",
                 "The University of Maine at Farmington requires a non-refundable $50 application fee. All application fees are payable by credit card, check, or money order.",
                 "Applicants must also submit official transcripts from all secondary and post-secondary institutions attended, as well as a copy of the student’s passport. Additionally, all international students must submit evidence of financial support for their study in the United States.",
-                "For more information about admission to the University of Maine at Farmington, please visit their website.",
-            ]
+            ],
+            "heading": "<p>For more information about admission to the University of Maine at Farmington, please visit their website.</p>"
         },
         {
             "type": "list-bollet",
@@ -185,8 +185,8 @@ export const universityofmainefarmington = {
                 "A copy of the student's passport.",
                 "Bank statement showing proof of sufficient funds to cover tuition and living expenses.",
                 "An application fee of $65.",
-                "Once all the required documents have been received and reviewed, the Admissions Office will make a decision regarding admission."
-            ]
+            ],
+            "heading": "<p>Once all the required documents have been received and reviewed, the Admissions Office will make a decision regarding admission.</p>"
         },
         {
 

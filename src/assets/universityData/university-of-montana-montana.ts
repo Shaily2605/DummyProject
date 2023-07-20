@@ -151,8 +151,8 @@ export const universityofmontanamontana = {
                 "Two letters of recommendation",
                 "Statement of purpose",
                 "Resume or CV",
-                "International students must also submit a copy of their visa and passport."
-            ]
+            ],
+            "heading": "<p>International students must also submit a copy of their visa and passport.</p>"
         },
         {
             "type": "list-bollet",

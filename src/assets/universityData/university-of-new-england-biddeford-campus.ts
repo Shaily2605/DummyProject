@@ -139,9 +139,9 @@ export const universityofnewenglandbiddefordcampus = {
                 "Must possess a high school diploma or equivalent from a recognized secondary school. ",
                 "Must have achieved a minimum grade point average of 2.5 or higher on a 4.0 scale. ",
                 "Must have achieved a minimum score of 500 on the Test of English as a Foreign Language (TOEFL) or a 6.5 on the International English Language Testing System (IELTS). ",
-                "Must submit a completed application package, which includes the following: Transcripts from previously attended institutions, Proof of English language proficiency, Evidence of financial resources, Evidence of medical insurance coverage, A copy of their passport, An application fee ",
-                "Applicants who do not meet the eligibility criteria or who submit incomplete or incorrect applications may be denied admission."
-            ]
+                "Must submit a completed application package, which includes the following:<br> 1. Transcripts from previously attended institutions<br> 2. Proof of English language proficiency<br> 3. Evidence of financial resources<br> 4. Evidence of medical insurance coverage<br> 5. A copy of their passport<br> 6. An application fee ",
+            ],
+            "heading": "<p>Applicants who do not meet the eligibility criteria or who submit incomplete or incorrect applications may be denied admission.</p>"
         },
         {
             "type": "list-bollet",

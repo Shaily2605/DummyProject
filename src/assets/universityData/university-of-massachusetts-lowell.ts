@@ -136,8 +136,8 @@ export const universityofmassachusettslowell = {
             "data": [
                 "TOEFL: 79 (internet-based)",
                 "IELTS: 6.0",
-                "In addition, all international applicants are required to submit a financial statement that demonstrates that they have sufficient resources to pay for tuition and living expenses while attending the University of Massachusetts Lowell. Finally, all international applicants must also be proficient in English."
-            ]
+            ],
+            "heading": "<p>In addition, all international applicants are required to submit a financial statement that demonstrates that they have sufficient resources to pay for tuition and living expenses while attending the University of Massachusetts Lowell. Finally, all international applicants must also be proficient in English.</p>"
         },
         {
             "type": "list-bollet",

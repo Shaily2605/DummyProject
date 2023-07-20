@@ -139,7 +139,7 @@ export const universityofmobilealabama = {
             "info": "In order to be eligible to apply for admission to the University of Mobile (UMobile), Alabama, USA, Indian students must meet the following requirements:",
             "data": [
                 "<b>Academic Qualifications:</b> Applicants must provide evidence of successful completion of 12 years of recognized education or its equivalent. The applicants must have obtained a minimum grade point average of 2.75 (on a 4.0 scale) in the secondary school program or its equivalent.",
-                "<b>English Proficiency:</b> All applicants must demonstrate English proficiency by submitting either TOEFL or IELTS scores. The minimum required scores for admission are: TOEFL: 79(internet - based), IELTS: 6.5",
+                "<b>English Proficiency:</b> All applicants must demonstrate English proficiency by submitting either TOEFL or IELTS scores. The minimum required scores for admission are:<br> 1. TOEFL: 79(internet - based)<br> 2. IELTS: 6.5",
                 "<b>Financial Resources:</b> All international students must provide proof of sufficient financial resources to cover educational and living expenses for the duration of their studies in the U.S.",
                 "<b>Transfer Students:</b> Transfer students must meet all the requirements for admission.They must also provide evidence of good academic standing from the previous institution attended.",
                 "<b>Additional Requirements:</b> Applicants must also meet all other requirements for admission as outlined on the University of Mobile website.",

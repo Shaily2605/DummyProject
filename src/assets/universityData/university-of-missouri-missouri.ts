@@ -162,8 +162,8 @@ export const universityofmissourimissouri = {
                 "Submit a completed Affidavit of Support.",
                 "Submit a completed Certificate of Eligibility for Nonimmigrant Student Status (Form I-20).",
                 "Submit an international student application fee.",
-                "Once all of the above documents have been submitted, the University of Missouri will review the application and make a decision. If the student is accepted, they will be issued an I-20 form and will need to complete the visa application process."
-            ]
+            ],
+            "heading": "<p>Once all of the above documents have been submitted, the University of Missouri will review the application and make a decision. If the student is accepted, they will be issued an I-20 form and will need to complete the visa application process.</p>"
         },
         {
 

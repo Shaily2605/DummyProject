@@ -247,14 +247,14 @@ export const universityofmaineatfortkent = {
             "title": "Eligibility Requirements",
             "info": "The University of Maine at Fort Kent welcomes students from India and other countries around the world! International students must meet the following eligibility criteria for admission to the University:",
             "data": [
-                "High School Graduation: You must have graduated from a secondary school, or have a High School Equivalency Diploma (GED).",
-                "English Proficiency: If English is not your native language, you must demonstrate English proficiency by submitting an official TOEFL or IELTS score. The minimum TOEFL score required is 61 (iBT), or 500 (PBT); the minimum IELTS score required is 6.0.",
-                "Financial Documentation: You must provide an official bank statement showing that you have enough money to cover the cost of tuition and living expenses for the duration of your program.",
-                "Valid Passport: You must have a valid passport to be eligible for a student visa.",
-                "Academic Transcripts: You must submit official transcripts from the last school attended to be eligible for admission.",
-                "Visa: International students must obtain a visa to study in the United States. The type of visa will depend on the length and type of program.",
-                "If you meet the above criteria and would like to apply to UMFK, please visit the Admissions website for more information."
-            ]
+                "<b>High School Graduation:</b> You must have graduated from a secondary school, or have a High School Equivalency Diploma (GED).",
+                "<b>English Proficiency:</b> If English is not your native language, you must demonstrate English proficiency by submitting an official TOEFL or IELTS score. The minimum TOEFL score required is 61 (iBT), or 500 (PBT); the minimum IELTS score required is 6.0.",
+                "<b>Financial Documentation:</b> You must provide an official bank statement showing that you have enough money to cover the cost of tuition and living expenses for the duration of your program.",
+                "<b>Valid Passport:</b> You must have a valid passport to be eligible for a student visa.",
+                "<b>Academic Transcripts:</b> You must submit official transcripts from the last school attended to be eligible for admission.",
+                "<b>Visa:</b> International students must obtain a visa to study in the United States. The type of visa will depend on the length and type of program.",
+            ],
+            "heading": "<p>If you meet the above criteria and would like to apply to UMFK, please visit the Admissions website for more information.</p>"
         },
         {
             "type": "list-bollet",
@@ -272,8 +272,8 @@ export const universityofmaineatfortkent = {
                 "Submit two letters of recommendation.",
                 "Submit official transcripts from all post-secondary institutions attended.",
                 "Submit a Non-refundable application fee of $50 USD.",
-                "For more information, please visit the University of Maine at Fort Kent website: https://www.umfk.edu/admissions/international-admissions/"
-            ]
+            ],
+            "heading": "<p>For more information, please visit the University of Maine at Fort Kent website: https://www.umfk.edu/admissions/international-admissions/</p>"
         },
         {
 

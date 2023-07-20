@@ -201,8 +201,8 @@ export const universityofmountunion = {
                 "Submit an official copy of your transcript and diploma from your college in India.",
                 "Pay the non-refundable application fee.",
                 "Submit financial documents that verify that you can afford the tuition and living expenses for studying in the US.",
-                "After submitting all the required documents, your application will be reviewed by the admissions office and you will be notified of their decision."
-            ]
+            ],
+            "heading": "<p>After submitting all the required documents, your application will be reviewed by the admissions office and you will be notified of their decision.</p>"
         },
         {
 

@@ -107,12 +107,8 @@ export const universityofmainemaine = {
             "data": [
                 "1-11 credits: $1,044.50/credit",
                 "12+ credits: $12,534/semester",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The University of Maine also offers a range of online courses, which have different tuition fees. For more information, please visit the University of Maine's website.</p>"
+            ],
+            "heading": "<p>The University of Maine also offers a range of online courses, which have different tuition fees. For more information, please visit the University of Maine's website.</p>"
         },
         {
             type: "meta",
@@ -150,8 +146,8 @@ export const universityofmainemaine = {
                 "Submit a signed affidavit of support and/or bank statement.",
                 "Submit evidence of English language proficiency (TOEFL, IELTS, PTE or equivalent).",
                 "Submit a copy of your passport.",
-                "International students are also eligible for a number of scholarships and grants offered by the university, including the UMaine Global Excellence Scholarship."
-            ]
+            ],
+            "heading": "<p>International students are also eligible for a number of scholarships and grants offered by the university, including the UMaine Global Excellence Scholarship.</p>"
         },
         {
             "type": "list-bollet",

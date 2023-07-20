@@ -125,12 +125,8 @@ export const universityofmichiganflint = {
                 "Graduate Out-of-State Tuition & Fees - $31,973",
                 "Doctoral In-State Tuition & Fees - $18,638",
                 "Doctoral Out-of-State Tuition & Fees - $37,142",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additional fees may apply.</p>"
+            ],
+            "heading": "<p>Additional fees may apply.</p>"
         },
         {
             type: "meta",
@@ -162,12 +158,12 @@ export const universityofmichiganflint = {
             "data": [
                 "A bachelor’s degree or equivalent from a regionally accredited college or university",
                 "A minimum cumulative grade point average of 2.50 on a 4.00 scale or equivalent",
-                "Submission of the following documents: Official transcripts, Two letters of recommendation, Statement of purpose, Test scores from the TOEFL, IELTS, or PTE",
+                "Submission of the following documents:<br> 1. Official transcripts<br> 2. Two letters of recommendation<br> 3. Statement of purpose<br> 4. Test scores from the TOEFL, IELTS, or PTE",
                 "Meeting all other requirements for admission as a graduate student, including any supplemental requirements for individual programs."
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

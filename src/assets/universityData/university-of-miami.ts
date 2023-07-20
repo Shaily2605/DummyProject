@@ -181,12 +181,8 @@ export const universityofmiami = {
                 "A copy of the student’s passport.",
                 "A supplemental essay.",
                 "A nonrefundable application fee of $50.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Indian students will need to submit financial documents to demonstrate their ability to pay for their education. These documents may include bank statements and/or an affidavit of support.</p> <p>For more information on the application process, please visit the University of Miami website.</p>"
+            ],
+            "heading": "<p>In addition, Indian students will need to submit financial documents to demonstrate their ability to pay for their education. These documents may include bank statements and/or an affidavit of support.</p> <p>For more information on the application process, please visit the University of Miami website.</p>"
         },
         {
 

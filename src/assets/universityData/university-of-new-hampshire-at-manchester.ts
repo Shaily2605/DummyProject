@@ -137,12 +137,8 @@ export const universityofnewhampshireatmanchester = {
                 "Proof of English proficiency (TOEFL, IELTS, or PTE)",
                 "Financial statement",
                 "Copy of passport",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, all applicants must meet UNHM's minimum academic requirements. For international applicants, the minimum GPA is 2.8 or higher, and the minimum SAT/ACT score is 1050/21.</p> <p>If you have any questions about the admission process, please contact UNHM's Office of Admissions.</p>"
+            ],
+            "heading": "<p>Additionally, all applicants must meet UNHM's minimum academic requirements. For international applicants, the minimum GPA is 2.8 or higher, and the minimum SAT/ACT score is 1050/21.</p> <p>If you have any questions about the admission process, please contact UNHM's Office of Admissions.</p>"
         },
         {
             "type": "list-bollet",

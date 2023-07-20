@@ -162,7 +162,7 @@ export const universityofmarylandbaltimorecounty = {
             "data": [
                 "Submit a complete online application and all required documents.",
                 "Submit official transcripts and proof of degree conferral (if applicable) from all post-secondary institutions attended.",
-                "Demonstrate English language proficiency by submitting one of the following: TOEFL(Test of English as a Foreign Language), IELTS(International English Language Testing System), PTE(Pearson Test of English), SAT or ACT",
+                "Demonstrate English language proficiency by submitting one of the following:<br> 1. TOEFL(Test of English as a Foreign Language)<br> 2. IELTS(International English Language Testing System)<br> 3. PTE(Pearson Test of English)<br> 4. SAT or ACT",
                 "Submit proof of financial resources in the form of a bank statement and/or financial affidavit.",
                 "Submit a copy of your passport.",
                 "Pay the non-refundable application fee."

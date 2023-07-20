@@ -85,12 +85,8 @@ export const universityofmississippimississippi = {
                 "Engineering and Applied Sciences",
                 "Nursing",
                 "Pharmacy"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for the undergraduate courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the undergraduate courses is around $5,967 per semester for in-state residents and $16,052 per semester for out-of-state residents.</p>"
+            ],
+            "heading": "<p>The fee structure for the undergraduate courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the undergraduate courses is around $5,967 per semester for in-state residents and $16,052 per semester for out-of-state residents.</p>"
         },
         {
             "type": "list-bollet",
@@ -105,12 +101,8 @@ export const universityofmississippimississippi = {
                 "Medicine",
                 "Nursing",
                 "Pharmacy"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for the graduate courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the graduate courses is around $7,721 per semester for in-state residents and $17,955 per semester for out-of-state residents.</p>"
+            ],
+            "heading": "<p>The fee structure for the graduate courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the graduate courses is around $7,721 per semester for in-state residents and $17,955 per semester for out-of-state residents.</p>"
         },
         {
             "type": "list-bollet",
@@ -121,12 +113,8 @@ export const universityofmississippimississippi = {
                 "Medicine",
                 "Nursing",
                 "Pharmacy"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for the professional courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the professional courses is around $18,000 per semester.</p>"
+            ],
+            "heading": "<p>The fee structure for the professional courses varies according to the program and the number of credit hours taken. Generally, the tuition fee for the professional courses is around $18,000 per semester.</p>"
         },
         {
             type: "meta",

@@ -352,11 +352,11 @@ export const universityofnebraskakearney = {
             "info": "In order to be eligible for admission to the University of Nebraska Kearney, an Indian student must meet the general admission requirements for international students, which include:",
             "data": [
                 "An official high school transcript with a minimum overall GPA of 2.50 on a 4.00 scale",
-                "Proof of English proficiency through one of the following: TOEFL: minimum score of 550 (paper-based) or 79 (internet-based), IELTS: minimum score of 6.0",
+                "Proof of English proficiency through one of the following:<br> 1. TOEFL: minimum score of 550 (paper-based) or 79 (internet-based)<br> 2. IELTS: minimum score of 6.0",
                 "Documentation of financial support",
                 "Completed application form with required fee",
-                "In addition, Indian students must also demonstrate that they have sufficient funds to cover the cost of their studies in the United States. This may include tuition, fees, books, living expenses, and travel costs."
-            ]
+            ],
+            "heading": "<p>In addition, Indian students must also demonstrate that they have sufficient funds to cover the cost of their studies in the United States. This may include tuition, fees, books, living expenses, and travel costs.</p>"
         },
         {
             "type": "list-bollet",

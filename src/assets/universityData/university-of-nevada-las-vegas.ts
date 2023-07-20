@@ -163,12 +163,8 @@ export const universityofnevadalasvegas = {
                 "A personal statement",
                 "A letter of recommendation",
                 "Financial documents (proof of funding)",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above, international students must also provide proof of an F-1 visa or other acceptable immigration documents.</p> <p>It is important to note that applications are reviewed on a rolling basis, and students are encouraged to submit their materials as soon as possible.</p>"
+            ],
+            "heading": "<p>In addition to the above, international students must also provide proof of an F-1 visa or other acceptable immigration documents.</p> <p>It is important to note that applications are reviewed on a rolling basis, and students are encouraged to submit their materials as soon as possible.</p>"
         },
         {
 
