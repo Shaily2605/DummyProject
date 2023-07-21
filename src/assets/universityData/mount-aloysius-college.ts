@@ -151,12 +151,8 @@ export const mountaloysiuscollege = {
                 "You must meet specific immunization requirements",
                 "You must provide a completed Declaration of Finances form",
                 "You must submit a completed application for admission, including a nonrefundable application fee"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information about the admission process for international students, please visit the Mount Aloysius College website.</p>"
+            ],
+            "heading": "<p>For more information about the admission process for international students, please visit the Mount Aloysius College website.</p>"
         },
         {
             "type": "list-bollet",

@@ -133,12 +133,8 @@ export const newmexicoveteransupwardbound = {
                 "Proof of eligibility for the program (e.g. veteran status, etc.)",
                 "A copy of the applicant's most recent tax return",
                 "Two letters of reference from an educator, employer, or other professional"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all required documents have been submitted, applicants will be contacted by an NMVUB admissions counselor to discuss their individual needs and goals. After the admissions counselor reviews the application, they will provide an admission decision. If accepted, the student will then be required to complete any additional paperwork and documentation required to enroll in the program.</p>"
+            ],
+            "heading": "<p>Once all required documents have been submitted, applicants will be contacted by an NMVUB admissions counselor to discuss their individual needs and goals. After the admissions counselor reviews the application, they will provide an admission decision. If accepted, the student will then be required to complete any additional paperwork and documentation required to enroll in the program.</p>"
         },
         {
 

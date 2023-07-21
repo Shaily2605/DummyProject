@@ -68,11 +68,7 @@ export const universityofnewmexicolosalamos = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: ""
-        // },
+      
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -154,8 +150,8 @@ export const universityofnewmexicolosalamos = {
                 "Copy of visa ",
                 "Statement of Purpose ",
                 "Letters of Recommendation ",
-                "Additionally, international students must also submit a $50 application fee. After all of the documents have been submitted, the students must complete the online International Student Data Form. After the form has been completed, the students must schedule an interview with the university’s International Student Services Office. Once the interview has been completed, the students will be notified of their admission status."
-            ]
+            ],
+            "heading": "<p>Additionally, international students must also submit a $50 application fee. After all of the documents have been submitted, the students must complete the online International Student Data Form. After the form has been completed, the students must schedule an interview with the university’s International Student Services Office. Once the interview has been completed, the students will be notified of their admission status.</p>"
         },
         {
 

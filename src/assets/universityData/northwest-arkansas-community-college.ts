@@ -194,12 +194,8 @@ export const northwestarkansascommunitycollege = {
                 "<b>Copy of Passport:</b> All Indian students must submit a copy of their valid passport.",
                 "<b>Copy of Visa:</b> All Indian students must submit a copy of their valid visa.",
                 "<b>Transfer Evaluation:</b> If applicable, students must submit a transfer evaluation report from an approved credential evaluation agency."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the required documents are submitted, NWACC will review the application and make an admission decision. If admitted, the student will be required to submit additional documents to obtain a student visa.</p>"
+            ],
+            "heading": "<p>Once all the required documents are submitted, NWACC will review the application and make an admission decision. If admitted, the student will be required to submit additional documents to obtain a student visa.</p>"
         },
         {
             "type": "list-bollet",

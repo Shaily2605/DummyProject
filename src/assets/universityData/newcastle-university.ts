@@ -303,12 +303,8 @@ export const newcastleuniversity = {
                 "Provide a personal statement.  ",
                 "Pay the application fee.    ",
                 "Receive a decision from the university. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on the application process, please visit the Newcastle University website at https://www.ncl.ac.uk/study/international/how-to-apply/</p>"
+            ],
+            "heading": "<p>For more information on the application process, please visit the Newcastle University website at https://www.ncl.ac.uk/study/international/how-to-apply/</p>"
         },
         {
 

@@ -146,14 +146,10 @@ export const nationalparkcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>The National Park College in Hot Springs, Arkansas, USA, offers programs for both international and domestic students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For international students to qualify for admission, they must:",
+            "title": "Eligibility Requirement",
+            "info": "The National Park College in Hot Springs, Arkansas, USA, offers programs for both international and domestic students.",
+            "textBelowInfo": "For international students to qualify for admission, they must:",
             "data": [
                 "Have a minimum grade point average of 2.0",
                 "Provide proof of English proficiency (TOEFL, IELTS, or SAT scores)",
@@ -166,12 +162,8 @@ export const nationalparkcollege = {
                 "Sign a Release of Information Form",
                 "Schedule a meeting with an international student advisor",
                 "Attend an interview with the college admissions office "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The college also offers special programs for Indian students, including the Global Indian Student Initiative and the Indian Student Exchange Program. More information on these programs can be found on the college's website.</p>"
+            ],
+            "heading": "<p>The college also offers special programs for Indian students, including the Global Indian Student Initiative and the Indian Student Exchange Program. More information on these programs can be found on the college's website.</p>"
         },
         {
             "type": "list-bollet",

@@ -69,14 +69,10 @@ export const universityofnewhavenconnecticut = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of the courses offered by University of New Haven, Connecticut, USA and their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is the list of the courses offered by University of New Haven, Connecticut, USA and their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Science in Accounting: $48,750",
                 "Bachelor of Science in Business Administration: $48,750",
@@ -89,8 +85,8 @@ export const universityofnewhavenconnecticut = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $41,250",
                 "Master of Science in Accounting: $41,250",
@@ -140,7 +136,7 @@ export const universityofnewhavenconnecticut = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

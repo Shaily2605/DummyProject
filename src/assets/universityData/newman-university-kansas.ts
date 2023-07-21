@@ -102,12 +102,8 @@ export const newmanuniversitykansas = {
             "data": [
                 "Doctor of Physical Therapy",
                 "Doctor of Psychology"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The tuition for undergraduate programs is $387 per credit hour for Kansas residents and $460 per credit hour for out-of-state students. The tuition for graduate programs is $425 per credit hour for Kansas residents and $500 per credit hour for out-of-state students. The tuition for the Doctor of Physical Therapy program is $1,077 per credit hour and the tuition for the Doctor of Psychology program is $847 per credit hour.</p> <p>Additional fees may apply, including an application fee, a registration fee, a graduation fee, and an information technology fee.</p>"
+            ],
+            "heading": "<p>The tuition for undergraduate programs is $387 per credit hour for Kansas residents and $460 per credit hour for out-of-state students. The tuition for graduate programs is $425 per credit hour for Kansas residents and $500 per credit hour for out-of-state students. The tuition for the Doctor of Physical Therapy program is $1,077 per credit hour and the tuition for the Doctor of Psychology program is $847 per credit hour.</p> <p>Additional fees may apply, including an application fee, a registration fee, a graduation fee, and an information technology fee.</p>"
         },
         {
             type: "meta",

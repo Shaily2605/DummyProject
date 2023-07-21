@@ -73,14 +73,10 @@ export const universityofnorthcarolinawilmington = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Carolina Wilmington offers a variety of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Carolina Wilmington offers a variety of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting",
                 "Biology",

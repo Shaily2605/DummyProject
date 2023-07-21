@@ -70,14 +70,10 @@ export const universityofnorthcarolinaatpembroke = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of North Carolina at Pembroke offers over 50 undergraduate and graduate programs. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "University of North Carolina at Pembroke offers over 50 undergraduate and graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting ",
                 "Biology ",
@@ -117,16 +113,8 @@ export const universityofnorthcarolinaatpembroke = {
             "data": [
                 "In-state tuition and fees: $5,711 ",
                 "Out-of-state tuition and fees: $11,717 ",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "For more information on fee structure, please visit the following link: ",
-                "https://www.uncp.edu/tuition-and-fees",
-            ]
+            ],
+            "heading": "<p>For more information on fee structure, please visit the following link:<br> https://www.uncp.edu/tuition-and-fees</p>"
         },
         {
             type: "meta",

@@ -146,12 +146,8 @@ export const multnomahuniversity = {
                 "A minimum of two letters of recommendation.",
                 "A statement of purpose outlining the student’s educational and career goals.",
                 "Any additional documents requested by the university. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>After submitting the required documents, Indian students must wait for an admissions decision. If accepted, they will receive an I-20 form and instructions on how to apply for the F-1 student visa.</p>"
+            ],
+            "heading": "<p>After submitting the required documents, Indian students must wait for an admissions decision. If accepted, they will receive an I-20 form and instructions on how to apply for the F-1 student visa.</p>"
         },
         {
             type: "meta",

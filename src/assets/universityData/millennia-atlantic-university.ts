@@ -95,12 +95,8 @@ export const millenniaatlanticuniversity = {
                 "Doctor of Health Care Administration",
                 "Doctor of Information Technology",
                 "Doctor of Psychology"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fees for each program vary according to the number of credits required and the type of program. The estimated cost for a Bachelor's degree program is $9,918, while the estimated cost for a Master's degree program is $17,000. The estimated cost for a Doctoral degree program is $25,000.</p> <p>Additionally, the university also offers postgraduate certificates with an estimated cost of $5,500.</p>"
+            ],
+            "heading": "<p>The fees for each program vary according to the number of credits required and the type of program. The estimated cost for a Bachelor's degree program is $9,918, while the estimated cost for a Master's degree program is $17,000. The estimated cost for a Doctoral degree program is $25,000.</p> <p>Additionally, the university also offers postgraduate certificates with an estimated cost of $5,500.</p>"
         },
         {
             type: "meta",

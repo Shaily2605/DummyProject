@@ -172,12 +172,8 @@ export const newmexicomilitaryinstitute = {
                 "A personal statement or essay.",
                 "A non-refundable application fee of $50.",
                 "Proof of financial resources to cover the cost of tuition and living expenses."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the documents are submitted, the admission committee of the New Mexico Military Institute will review the application and make a decision. If the application is accepted, the applicant will receive an acceptance letter and further instructions regarding the process of enrolling at the institute.</p>"
+            ],
+            "heading": "<p>Once all the documents are submitted, the admission committee of the New Mexico Military Institute will review the application and make a decision. If the application is accepted, the applicant will receive an acceptance letter and further instructions regarding the process of enrolling at the institute.</p>"
         },
         {
 

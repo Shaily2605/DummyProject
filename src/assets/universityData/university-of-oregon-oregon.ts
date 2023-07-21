@@ -80,14 +80,10 @@ export const universityoforegonoregon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Oregon offers a wide range of graduate and undergraduate degree programs. Below are the courses with their respective fee structures as of Fall 2020. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Oregon offers a wide range of graduate and undergraduate degree programs. Below are the courses with their respective fee structures as of Fall 2020. ",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting :				                    $13,818",
                 "Anthropology :				                $13,818",
@@ -110,8 +106,8 @@ export const universityoforegonoregon = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting :				                     $17,719",
                 "Anthropology :				                 $17,719",
@@ -167,8 +163,8 @@ export const universityoforegonoregon = {
                 "Proof of health insurance.",
                 "A valid passport.",
                 "All international applicants must submit official transcripts from all colleges and universities attended.",
-                "It is important to note that each program may have additional requirements and/or criteria for admission. Please visit the website for each program for more specific information."
-            ]
+            ],
+            "heading": "<p>It is important to note that each program may have additional requirements and/or criteria for admission. Please visit the website for each program for more specific information.</p>"
         },
         {
             "type": "list-bollet",

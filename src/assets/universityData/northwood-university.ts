@@ -165,12 +165,8 @@ export const northwooduniversity = {
             "data": [
                 "A cumulative grade point average (CGPA) of 2.50 or higher on a 4.00 scale.",
                 "A minimum score of 550 on the Test of English as a Foreign Language (TOEFL) or 6.5 on the International English Language Testing System (IELTS)."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the Northwood University website: https://www.northwood.edu/admissions/international-students/</p>"
+            ],
+            "heading": "<p>For more information, please visit the Northwood University website: https://www.northwood.edu/admissions/international-students/</p>"
         },
         {
             "type": "list-bollet",

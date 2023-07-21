@@ -79,14 +79,10 @@ export const universityofnorthdakota = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Dakota offers a variety of degree and certificate programs. The following is a list of the courses offered at the University of North Dakota and their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Dakota offers a variety of degree and certificate programs. The following is a list of the courses offered at the University of North Dakota and their corresponding fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $8,430 per semester",
                 "Business Administration: $8,430 per semester",
@@ -101,8 +97,8 @@ export const universityofnorthdakota = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting: $9,300 per semester",
                 "Business Administration: $9,300 per semester",

@@ -78,12 +78,8 @@ export const northeasttexascommunitycollege = {
                 "Health Sciences",
                 "Industrial and Continuing Education",
                 "Social Sciences"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for each course varies depending on the program and the student's residency status. For detailed information on the fee structure for each course, please visit the college's official website: https://www.ntcc.edu/admissions/pay-for-college/tuition-and-fees/index.html</p>"
+            ],
+            "heading": "<p>The fee structure for each course varies depending on the program and the student's residency status. For detailed information on the fee structure for each course, please visit the college's official website: https://www.ntcc.edu/admissions/pay-for-college/tuition-and-fees/index.html</p>"
         },
         {
             type: "meta",

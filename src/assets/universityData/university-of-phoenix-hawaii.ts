@@ -71,14 +71,10 @@ export const universityofphoenixhawaii = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Phoenix, Hawaii Campus offers a variety of undergraduate and graduate degree programs and certificates.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Phoenix, Hawaii Campus offers a variety of undergraduate and graduate degree programs and certificates.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Associate of Arts in Business",
                 "Associate of Arts in Criminal Justice",
@@ -96,8 +92,8 @@ export const universityofphoenixhawaii = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration (MBA)",
                 "Master of Education (M.Ed.)",
@@ -107,8 +103,8 @@ export const universityofphoenixhawaii = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Certificate in Business",
                 "Certificate in Human Resources",
@@ -118,8 +114,8 @@ export const universityofphoenixhawaii = {
         },
         {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "Tuition fees for undergraduate programs at the University of Phoenix, Hawaii Campus range from $420 - $470 per credit hour depending on the degree program. Tuition for graduate programs range from $510 - $570 per credit hour depending on the degree program. Additional fees may apply."
             ]
@@ -162,7 +158,7 @@ export const universityofphoenixhawaii = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

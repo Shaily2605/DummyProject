@@ -68,14 +68,10 @@ export const universityofnorthcarolinaatchapelhill = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Arts & Sciences: $16,851 per year",
                 "Business: $21,029 per year",
@@ -89,8 +85,8 @@ export const universityofnorthcarolinaatchapelhill = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Arts & Sciences: $19,353 per year",
                 "Business: $24,735 per year",
@@ -131,7 +127,7 @@ export const universityofnorthcarolinaatchapelhill = {
             "info": "Undergraduate Admission Requirements",
             "data": [
                 "High school transcript: Official transcripts from all secondary schools attended must be sent directly to the Admissions Office.",
-                "Standardized test scores: SAT or ACT scores (with or without writing): SAT/ACT scores are required for all first-year applicants., SAT subject tests: SAT subject tests are not required for admission, but may be used to meet the proficiency requirements for placement in certain courses.",
+                "Standardized test scores: SAT or ACT scores (with or without writing):<br> - SAT/ACT scores are required for all first-year applicants.<br> - SAT subject tests: SAT subject tests are not required for admission, but may be used to meet the proficiency requirements for placement in certain courses.",
                 "Application: All applicants must submit the Common Application, Coalition Application, or the UNC-specific application.",
                 "Essays: All applicants must submit one essay, either the Common Application essay or the UNC-specific essay.",
                 "Letters of recommendation: Two letters of recommendation are required for all applicants.",
@@ -140,7 +136,7 @@ export const universityofnorthcarolinaatchapelhill = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

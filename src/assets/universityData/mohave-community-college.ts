@@ -71,11 +71,9 @@ export const mohavecommunitycollege = {
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "Mohave Community College offers over 200 degree and certificate programs. You can find the detailed list of courses and fees on its website:",
-                "https://www.mohave.edu/academics/programs-and-classes/course-catalog ",
+                "Mohave Community College offers over 200 degree and certificate programs. You can find the detailed list of courses and fees on its website:<br>https://www.mohave.edu/academics/programs-and-classes/course-catalog ",
                 "The fees vary depending on the program and the student's residency status. Tuition fees for in-state students start at $86 per credit hour, while out-of-state students pay $270 per credit hour. Additional fees may apply, like student activity fees and technology fees.",
-                "To get more information on the fees, please visit the college's Financial Aid page:",
-                "https://www.mohave.edu/financial-aid/tuition-and-fees"
+                "To get more information on the fees, please visit the college's Financial Aid page:<br> https://www.mohave.edu/financial-aid/tuition-and-fees"
             ]
         },
         {
@@ -131,8 +129,10 @@ export const mohavecommunitycollege = {
                 "Submit immunization records. ",
                 "Submit a completed MCC Student Health Insurance Application. ",
                 "Submit a completed I-20 application form.",
-                "Pay the $100 international student application fee."
-            ]
+                "Pay the $100 international student application fee.",
+                "Submit a completed International Student Transfer Verification form (if applicable)."
+            ],
+            "heading": "Once all the necessary documents have been submitted, international students from India will be required to attend an an international student orientation session before they can begin their studies."
         },
         {
             type: "meta",

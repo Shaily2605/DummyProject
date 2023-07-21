@@ -67,14 +67,10 @@ export const universityofphoenixarizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Associate of Arts in Business: $530 per credit",
                 "Associate of Arts in Psychology: $530 per credit",
@@ -89,8 +85,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $1166 per credit",
                 "Master of Science in Nursing: $1289 per credit",
@@ -100,8 +96,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctorate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctorate Programs:",
             "data": [
                 "Doctor of Business Administration: $1480 per credit",
                 "Doctor of Nursing Practice: $1328 per credit",
@@ -109,8 +105,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Certificate in Business: $530 per credit",
                 "Certificate in Information Technology: $530 per credit",
@@ -153,8 +149,8 @@ export const universityofphoenixarizona = {
                 "Must provide evidence of health insurance coverage.",
                 "Must provide a valid passport.",
                 "Must provide a Certificate of Eligibility for Nonimmigrant Student Status (Form I-20 or DS-2019) issued by the University of Phoenix.",
-                "More information on the University of Phoenix's admissions process and requirements for international students can be found on the University's website."
-            ]
+            ],
+            "heading": "<p>More information on the University of Phoenix's admissions process and requirements for international students can be found on the University's website.</p>"
         },
         {
             "type": "list-bollet",

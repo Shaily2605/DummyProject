@@ -70,14 +70,10 @@ export const universityofnorthcarolinagreensboro = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Carolina at Greensboro offers more than 100 undergraduate, graduate and doctoral degree programs. Below is a list of some of the popular undergraduate programs along with their approximate tuition and fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Carolina at Greensboro offers more than 100 undergraduate, graduate and doctoral degree programs. Below is a list of some of the popular undergraduate programs along with their approximate tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Business Administration: $3,744/semester",
                 "Psychology: $3,744/semester",
@@ -103,8 +99,8 @@ export const universityofnorthcarolinagreensboro = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": " ",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Arts in Education: $5,521/semester",
                 "Master of Science in Nursing: $5,521/semester",
@@ -120,8 +116,8 @@ export const universityofnorthcarolinagreensboro = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs:",
             "data": [
                 "Doctor of Philosophy in Education: $6,828/semester",
                 "Doctor of Philosophy in Nursing: $6,828/semester",
@@ -172,8 +168,8 @@ export const universityofnorthcarolinagreensboro = {
                 "Immunization records and proof of health insurance coverage.",
                 "Nonrefundable application fee.",
                 "Transfer students must also submit official transcripts from all colleges or universities attended.",
-                "For more information, please visit the University of North Carolina Greensboro Admissions page: https://admissions.uncg.edu/international/"
-            ]
+            ],
+            "heading": "<p>For more information, please visit the University of North Carolina Greensboro Admissions page: https://admissions.uncg.edu/international/</p>"
         },
         {
             "type": "list-bollet",

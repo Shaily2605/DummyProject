@@ -137,8 +137,8 @@ export const mountwestcommunityandtechnicalcollege = {
             "info": "",
             "data": [
                 "Tuition at Mountwest Community & Technical College is based on a per-credit-hour rate. Tuition for in-state students is $199/credit hour, and tuition for out-of-state students is $299/credit hour. In addition to tuition, students may also be responsible for other fees, including technology fees, lab fees, and program-specific fees. All fees are subject to change without notice. ",
-                "Financial aid is available in the form of grants, scholarships, and loans. For more information, please visit the Financial Aid page on the college website."
-            ]
+            ],
+            "heading": "<p>Financial aid is available in the form of grants, scholarships, and loans. For more information, please visit the Financial Aid page on the college website.</p>"
         },
         {
             type: "meta",

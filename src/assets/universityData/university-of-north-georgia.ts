@@ -69,14 +69,10 @@ export const universityofnorthgeorgia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Georgia offers a range of undergraduate and graduate degree programs, as well as certificates and professional development opportunities. The following is a list of the most popular undergraduate and graduate degree programs offered at the University of North Georgia, along with estimated tuition and fees for each program:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Georgia offers a range of undergraduate and graduate degree programs, as well as certificates and professional development opportunities. The following is a list of the most popular undergraduate and graduate degree programs offered at the University of North Georgia, along with estimated tuition and fees for each program:",
+            "textBelowInfo": "<b>Undergraduate Degrees: </b>",
             "data": [
                 "Bachelor of Science in Business Administration: $7,748",
                 "Bachelor of Science in Computer Science: $11,788",
@@ -88,8 +84,8 @@ export const universityofnorthgeorgia = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees:",
             "data": [
                 "Master of Business Administration: $15,498",
                 "Master of Science in Computer Science: $14,050",

@@ -139,7 +139,7 @@ export const montserratcollegeofartmaine = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirement",
             "info": "",
             "data": [

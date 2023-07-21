@@ -70,14 +70,10 @@ export const universityofnorthtexasatdallas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Texas at Dallas offers a variety of undergraduate and graduate programs across multiple disciplines. Below is a list of the available courses with their associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "UNDERGRADUATE PROGRAMS",
-            "info": "Accounting:",
+            "title": "Courses and Fees",
+            "info": "<p>The University of North Texas at Dallas offers a variety of undergraduate and graduate programs across multiple disciplines. Below is a list of the available courses with their associated tuition and fees.</p><br> <p>UNDERGRADUATE PROGRAMS</p>",
+            "textBelowInfo": "<b>Accounting: </b>",
             "data": [
                 "TUITION: $2,328.00/per credit hour",
                 "FEES: $12.00/per credit hour",

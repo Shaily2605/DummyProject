@@ -118,12 +118,8 @@ export const newrivercommunityandtechnicalcollege = {
                 "Emergency Medical Services - $170 per credit hour",
                 "Fire Science - $170 per credit hour",
                 "Paralegal Studies - $170 per credit hour"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Tuition and fees for all courses are subject to change. For more information about tuition and fees, please contact the New River Community and Technical College Raleigh County Campus directly.</p>"
+            ],
+            "heading": "<p>Tuition and fees for all courses are subject to change. For more information about tuition and fees, please contact the New River Community and Technical College Raleigh County Campus directly.</p>"
         },
         {
             type: "meta",

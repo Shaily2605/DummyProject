@@ -68,14 +68,10 @@ export const occidentalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Occidental College offers a variety of courses, both undergraduate and graduate, with different fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Courses (per semester):',
-            "info": "",
+            "title": 'Courses and Fees',
+            "info": "Occidental College offers a variety of courses, both undergraduate and graduate, with different fees.",
+            "textBelowInfo": "<b>Undergraduate Courses (per semester):</b>",
             "data": [
                 "Tuition: $45,800",
                 "Room & Board: $14,190",
@@ -85,19 +81,15 @@ export const occidentalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Courses (per semester):',
-            "info": "",
+            "title": '',
+            "info": "Graduate Courses (per semester):",
             "data": [
                 "Tuition: $19,664",
                 "Room & Board: $14,190",
                 "Books & Supplies: $1,000",
                 "Total: $34,854"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information about the courses offered by Occidental College, please visit their official website.</p>"
+            ],
+            "heading": "<p>For more information about the courses offered by Occidental College, please visit their official website.</p>"
         },
         {
             type: "meta",
@@ -147,12 +139,8 @@ export const occidentalcollege = {
                 "Statement of purpose",
                 "Proof of financial support",
                 "Copy of passport"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, applicants must also submit an International Student Certification of Finances form, along with evidence of their financial ability to pay for tuition and living expenses. All documents should be sent directly to the Office of Admission in either electronic or paper form.</p>"
+            ],
+            "heading": "<p>In addition, applicants must also submit an International Student Certification of Finances form, along with evidence of their financial ability to pay for tuition and living expenses. All documents should be sent directly to the Office of Admission in either electronic or paper form.</p>"
         },
         {
 

@@ -145,12 +145,8 @@ export const northwestregionalcollegederrylondonderry = {
                 "An applicant with relevant work experience and/or mature student status ",
                 "A minimum of a Level 3 Certificate in Preparation for Higher Education ",
                 "A minimum of a Level 2 Certificate in Access to Higher Education"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Applicants who do not meet the academic entry requirements may still be considered on the basis of their professional qualifications, experience and/or a portfolio of work.</p> <p>The College also accepts applications from mature students who do not meet the academic requirements but have relevant work experience or qualifications.</p>"
+            ],
+            "heading": "<p>Applicants who do not meet the academic entry requirements may still be considered on the basis of their professional qualifications, experience and/or a portfolio of work.</p> <p>The College also accepts applications from mature students who do not meet the academic requirements but have relevant work experience or qualifications.</p>"
         },
         {
             "type": "list-bollet",

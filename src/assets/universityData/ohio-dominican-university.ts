@@ -71,14 +71,10 @@ export const ohiodominicanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Dominican University offers more than 50 undergraduate and graduate degrees and certificates, including a Doctor of Pharmacy degree. Below is a listing of the university's degree programs with the approximate cost per credit hour.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Ohio Dominican University offers more than 50 undergraduate and graduate degrees and certificates, including a Doctor of Pharmacy degree. Below is a listing of the university's degree programs with the approximate cost per credit hour.",
+            "textBelowInfo": "Undergraduate Programs:",
             "data": [
                 "Bachelor of Arts - $565 per credit hour",
                 "Bachelor of Science - $565 per credit hour",
@@ -136,12 +132,8 @@ export const ohiodominicanuniversity = {
                 "Applicants must submit a copy of their passport and visa.",
                 "Applicants must submit proof of health insurance coverage.",
                 "Applicants must submit two letters of recommendation from current or former teachers or employers."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, Ohio Dominican University requires that all international students attend a mandatory orientation prior to the start of their first semester. This orientation is designed to inform students about the university and its resources, as well as the laws that apply to their status as international students.</p>"
+            ],
+            "heading": "<p>Additionally, Ohio Dominican University requires that all international students attend a mandatory orientation prior to the start of their first semester. This orientation is designed to inform students about the university and its resources, as well as the laws that apply to their status as international students.</p>"
         },
         {
             "type": "list-bollet",
@@ -155,12 +147,8 @@ export const ohiodominicanuniversity = {
                 "Copy of valid passport ",
                 "A completed Transfer Credit Evaluation Form, if applicable ",
                 "An official high school ranking report (if available)."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to these documents, students must also submit a non-refundable application fee and any additional documents required by the Office of International Admissions.</p>"
+            ],
+            "heading": "<p>In addition to these documents, students must also submit a non-refundable application fee and any additional documents required by the Office of International Admissions.</p>"
         },
         {
 

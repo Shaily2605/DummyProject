@@ -149,12 +149,8 @@ export const northernregionalcollegeballymoney = {
                 "Performing Arts ",
                 "Sport & Exercise Science ",
                 "Travel & Tourism"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure varies depending on the course and level of study. For further information on the fee structure, please contact the college directly.</p>"
+            ],
+            "heading": "<p>The fee structure varies depending on the course and level of study. For further information on the fee structure, please contact the college directly.</p>"
         },
         {
             type: "meta",
@@ -189,12 +185,8 @@ export const northernregionalcollegeballymoney = {
                 "You must have the equivalent of a UK secondary school qualification ",
                 "You must have achieved a minimum of 5 GCSEs (or equivalent) at grade C or above, including English and Mathematics ",
                 "You must be 18 years of age or above.   ",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You may also be required to complete an interview and/or an assessment/test.</p> <p>For more information, please visit the college's website: https://www.nrc.ac.uk/international/</p>"
+            ],
+            "heading": "<p>You may also be required to complete an interview and/or an assessment/test.</p> <p>For more information, please visit the college's website: https://www.nrc.ac.uk/international/</p>"
         },
         {
             "type": "list-bollet",

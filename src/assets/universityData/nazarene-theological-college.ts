@@ -132,12 +132,8 @@ export const nazarenetheologicalcollege = {
                 "Must submit two letters of reference from persons who can vouch for the applicant’s character and suitability for studies ",
                 "Must provide evidence of financial resources for the duration of their studies ",
                 "Must submit a completed application form including the required supporting documents"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In order to apply for admission, Indian students can submit their applications online through the college's website. The college also offers a range of scholarships and bursaries to eligible international students.</p>"
+            ],
+            "heading": "<p>In order to apply for admission, Indian students can submit their applications online through the college's website. The college also offers a range of scholarships and bursaries to eligible international students.</p>"
         },
         {
             "type": "list-bollet",

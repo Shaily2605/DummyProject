@@ -163,12 +163,8 @@ export const northwestcollegewyoming = {
                 "Provide a copy of passport  ",
                 "Complete the online application  ",
                 "Pay the non-refundable application fee  "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, you may visit the college's website: https://www.nwc.edu/admissions/international-students/.</p>"
+            ],
+            "heading": "<p>For more information, you may visit the college's website: https://www.nwc.edu/admissions/international-students/.</p>"
         },
         {
             "type": "list-bollet",
@@ -184,12 +180,8 @@ export const northwestcollegewyoming = {
                 "A completed Declaration and Certification of Finances Form.",
                 "Completed Vaccination Form.",
                 "Copy of visa or residence permit, if applicable."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more detailed information on the application process, please visit the official website of Northwest College.</p>"
+            ],
+            "heading": "<p>For more detailed information on the application process, please visit the official website of Northwest College.</p>"
         },
         {
 

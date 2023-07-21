@@ -143,12 +143,8 @@ export const nbcccorporateofficefredericton = {
                 "Proof of financial capability",
                 "Two letters of recommendation",
                 "Application fee"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the application and all the necessary documents are submitted, the NBCC office will review the application and decide on the admission of the student.</p>"
+            ],
+            "heading": "<p>Once the application and all the necessary documents are submitted, the NBCC office will review the application and decide on the admission of the student.</p>"
         },
         {
 

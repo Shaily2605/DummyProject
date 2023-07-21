@@ -103,12 +103,8 @@ export const mooretheologicalcollege = {
                 "Master of Arts (2 year) - $17,550 per year ",
                 "Doctor of Ministry (3 year) - $20,850 per year ",
                 "Doctor of Theology (3 year) - $20,850 per year"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fees for all courses listed above are subject to change without notice.</p>"
+            ],
+            "heading": "<p>The fees for all courses listed above are subject to change without notice.</p>"
         },
         {
             type: "meta",

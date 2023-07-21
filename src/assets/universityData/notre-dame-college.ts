@@ -72,14 +72,10 @@ export const notredamecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Notre Dame College offers a variety of undergraduate and graduate programs to their students. Below is a list of all the courses offered by the college along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Notre Dame College offers a variety of undergraduate and graduate programs to their students. Below is a list of all the courses offered by the college along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Arts & Sciences: $24,750 per year",
                 "Business: $26,000 per year",
@@ -135,8 +131,8 @@ export const notredamecollege = {
                 "Students must demonstrate financial resources to cover tuition, fees and living expenses.",
                 "Students must submit a complete application package including transcripts, a statement of purpose, letters of recommendation, and a completed application form.",
                 "Students must have an F-1 visa issued by the U.S. Department of State.",
-                "For more information, please visit the Notre Dame College website."
-            ]
+            ],
+            "heading": "<p>For more information, please visit the Notre Dame College website.</p>"
         },
         {
             "type": "text",

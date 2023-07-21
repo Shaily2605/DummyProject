@@ -171,8 +171,8 @@ export const northidahocollege = {
                 "<b>Apply online:</b> Students should then apply online through the college's online application portal. This portal is available in both English and Spanish.",
                 "<b>Submit required documents: </b>Students will need to submit their official transcripts, test scores, and any other required documents.",
                 "<b>Submit the application fee: </b>Finally, students will need to submit the application fee which is $25 for international students.",
-                "Once the college has received all the required documents and the application fee, the student's admission application will be processed and they will be notified of the outcome."
-            ]
+            ],
+            "heading": "<p>Once the college has received all the required documents and the application fee, the student's admission application will be processed and they will be notified of the outcome.</p>"
         },
         {
 

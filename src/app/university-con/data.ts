@@ -450,6 +450,7 @@ import * as vancouverislanduniversity from '../../assets/universityData/vancouve
 import * as victoriauniversitysydney from '../../assets/universityData/victoria-university-sydney'
 import * as victoriauniversity from '../../assets/universityData/victoria-university'
 
+//****************1159 started****************
 import * as millenniaatlanticuniversity from '../../assets/universityData/millennia-atlantic-university'
 import * as millersvilleuniversitypennsylvania from '../../assets/universityData/millersville-university-pennsylvania'
 import * as milliganuniversitytennessee from '../../assets/universityData/milligan-university-tennessee'

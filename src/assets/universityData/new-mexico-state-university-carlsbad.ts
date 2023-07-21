@@ -151,12 +151,8 @@ export const newmexicostateuniversitycarlsbad = {
                 "A completed Statement of Intent.",
                 "A completed Transfer Student Release Form (for transfer students only).",
                 "Any additional documents required by the program of study."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>These documents can be sent to the NMSU-C Office of Admissions, PO Box 30001, MSC 3400, Carlsbad, NM 88220. The Office of Admissions should be contacted to confirm all required documents have been received.</p>"
+            ],
+            "heading": "<p>These documents can be sent to the NMSU-C Office of Admissions, PO Box 30001, MSC 3400, Carlsbad, NM 88220. The Office of Admissions should be contacted to confirm all required documents have been received.</p>"
         },
         {
 

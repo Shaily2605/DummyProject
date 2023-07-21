@@ -97,8 +97,8 @@ export const northwestregionalcollegelimavady = {
             "info": "Fee Structure:",
             "data": [
                 "The fees for courses vary depending on the type of course and the level of study. The fees are typically lower for part-time courses. The college can provide information on the fees and funding available for each course.",
-                "For more information and specific fees, contact the college directly."
-            ]
+            ],
+            "heading": "<p>For more information and specific fees, contact the college directly.</p>"
         },
         {
             type: "meta",

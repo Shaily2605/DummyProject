@@ -159,12 +159,8 @@ export const muhlenbergcollege = {
                 "Submit a completed Common Application or the Coalition Application with the Muhlenberg College Member Questionnaire ",
                 "Submit official transcripts from all secondary schools attended",
                 "Submit official scores from the Test of English as a Foreign Language (TOEFL), International English Language Testing System (IELTS), or Duolingo English Test (DET). "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must provide a financial guarantee that demonstrates the ability to pay for tuition, room, board, books and other expenses.</p>"
+            ],
+            "heading": "<p>In addition, international students must provide a financial guarantee that demonstrates the ability to pay for tuition, room, board, books and other expenses.</p>"
         },
         {
             "type": "text",

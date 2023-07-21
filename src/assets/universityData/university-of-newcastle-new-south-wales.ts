@@ -69,18 +69,13 @@ export const universityofnewcastlenewsouthwales = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "You can find the details of courses offered by the University of Newcastle, New South Wales, Australia and its fee structure on the University website.",
             "data": [
-                "You can access the following link to find the relevant information: https://www.newcastle.edu.au/study/courses-and-programs/international-students",
-                "You can also access the following link to find the fees for international students: https://www.newcastle.edu.au/study/international-students/fees-and-costs",
+                "You can access the following link to find the relevant information:<br> https://www.newcastle.edu.au/study/courses-and-programs/international-students",
+                "You can also access the following link to find the fees for international students:<br> https://www.newcastle.edu.au/study/international-students/fees-and-costs",
             ]
         },
         {

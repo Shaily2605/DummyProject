@@ -101,14 +101,10 @@ export const nationalparalegalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>The National Paralegal College, Inc., offers an online law degree program and many other courses to students in the United States and around the world. The college is accredited by the Distance Education Accrediting Commission (DEAC).</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible to apply for admission to National Paralegal College, Inc., you must meet the following criteria:",
+            "title": "Eligibility Requirement",
+            "info": "The National Paralegal College, Inc., offers an online law degree program and many other courses to students in the United States and around the world. The college is accredited by the Distance Education Accrediting Commission (DEAC).",
+            "textBelowInfo": "To be eligible to apply for admission to National Paralegal College, Inc., you must meet the following criteria:",
             "data": [
                 "You must be at least 18 years of age",
                 "You must have a high school diploma/GED or equivalent",
@@ -130,12 +126,8 @@ export const nationalparalegalcollege = {
                 "You must provide a letter of recommendation from an academic institution or employer",
                 "You must provide a copy of your birth certificate or other government-issued identification",
                 "You must provide evidence of a criminal background check from your home country "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>If you meet all of the above criteria, you can apply for admission to National Paralegal College, Inc.</p>"
+            ],
+            "heading": "<p>If you meet all of the above criteria, you can apply for admission to National Paralegal College, Inc.</p>"
         },
         {
             "type": "list-bollet",

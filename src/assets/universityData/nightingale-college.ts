@@ -154,12 +154,8 @@ export const nightingalecollege = {
                 "Must provide proof of health insurance coverage. ",
                 "Must provide a valid passport. ",
                 "Must complete the Nightingale College application for admission and submit all required supplemental documents."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on the eligibility criteria for admission to Nightingale College, please visit the college's website.</p>"
+            ],
+            "heading": "<p>For more information on the eligibility criteria for admission to Nightingale College, please visit the college's website.</p>"
         },
         {
             "type": "list-bollet",

@@ -188,7 +188,7 @@ export const neoshocountycommunitycollege = {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "Students from India must complete the Neosho County Community College (NCCC) International Admissions Application. The application is available on the college’s website.",
-            "textBelowInfo": "<b>In addition to completing the application, students must provide the following documents:</b>",
+            "textBelowInfo": "In addition to completing the application, students must provide the following documents:",
             "data": [
                 "Official transcripts from secondary school and/or previous college/university",
                 "Official TOEFL or IELTS scores",
@@ -197,12 +197,8 @@ export const neoshocountycommunitycollege = {
                 "Financial documents",
                 "Completed NCCC Declaration and Certification of Finances form",
                 "Completed NCCC International Student Data Form"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the application and all required documents have been received, the NCCC International Admissions Office will review the application and make a decision. The applicant will be notified of the decision in writing.</p>"
+            ],
+            "heading": "<p>Once the application and all required documents have been received, the NCCC International Admissions Office will review the application and make a decision. The applicant will be notified of the decision in writing.</p>"
         },
         {
 

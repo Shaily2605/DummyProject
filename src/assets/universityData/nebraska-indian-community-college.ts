@@ -100,12 +100,8 @@ export const nebraskaindiancommunitycollege = {
                 "Certificate in Health Information Technology",
                 "Certificate in Natural Resources Management",
                 "Certificate in Tribal Studies"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The cost of tuition and fees for the 2018-19 academic year at the Nebraska Indian Community College is $2,400 per semester for full-time students and $150 per credit hour for part-time students. In addition, there are additional fees of $200 for technology, student activity, and Student Government Association fees.</p>"
+            ],
+            "heading": "<p>The cost of tuition and fees for the 2018-19 academic year at the Nebraska Indian Community College is $2,400 per semester for full-time students and $150 per credit hour for part-time students. In addition, there are additional fees of $200 for technology, student activity, and Student Government Association fees.</p>"
         },
         {
             type: "meta",

@@ -155,12 +155,8 @@ export const northwestcollegeofartanddesign = {
                 "Submit official test scores from accepted tests such as the TOEFL, IELTS, or PTE ",
                 "Provide a copy of a valid passport ",
                 "Submit a completed Transfer Student Information Form for any transfer credits"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>It is recommended that international students apply for admission at least 6 months in advance of their preferred start date.</p>"
+            ],
+            "heading": "<p>It is recommended that international students apply for admission at least 6 months in advance of their preferred start date.</p>"
         },
         {
             "type": "list-bollet",

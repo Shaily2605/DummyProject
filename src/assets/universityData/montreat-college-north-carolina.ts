@@ -151,12 +151,8 @@ export const montreatcollegenorthcarolina = {
                 "A copy of the student’s passport.",
                 "A completed F-1 Visa application.",
                 "A letter of recommendation from a teacher or other professional."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the documents have been submitted, students will receive a notification from the College’s Office of International Admissions about their admission status.</p>"
+            ],
+            "heading": "<p>Once all the documents have been submitted, students will receive a notification from the College’s Office of International Admissions about their admission status.</p>"
         },
         {
             type: "meta",

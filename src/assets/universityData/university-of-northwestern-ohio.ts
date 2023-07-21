@@ -70,14 +70,10 @@ export const universityofnorthwesternohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Northwestern Ohio (UNOH) offers a variety of courses, both on-campus and online, in areas such as business, technology, and health sciences. Here is a list of some of the courses offered at UNOH and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Northwestern Ohio (UNOH) offers a variety of courses, both on-campus and online, in areas such as business, technology, and health sciences. Here is a list of some of the courses offered at UNOH and their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting: $365 per credit hour",
                 "Agriculture: $365 per credit hour",
@@ -92,8 +88,8 @@ export const universityofnorthwesternohio = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses: ",
             "data": [
                 "Accounting: $390 per credit hour",
                 "Business Administration: $390 per credit hour",
@@ -104,8 +100,8 @@ export const universityofnorthwesternohio = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Courses: ",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Courses: ",
             "data": [
                 "Doctor of Business Administration: $615 per credit hour",
                 "Doctor of Health Services Administration: $615 per credit hour",
@@ -143,9 +139,9 @@ export const universityofnorthwesternohio = {
                 "High School Diploma or equivalent",
                 "A minimum 2.5 GPA on a 4.0 scale",
                 "Official high school or college transcripts",
-                "Proof of English language proficiency (TOEFL, IELTS, etc.)",
-                "Applicants must also submit a completed application form and the required application fee."
-            ]
+                "Proof of English language proficiency (TOEFL, IELTS, etc.)"
+            ],
+            "heading": "<p>Applicants must also submit a completed application form and the required application fee.</p>"
         },
         {
             "type": "list-bollet",

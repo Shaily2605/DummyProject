@@ -189,12 +189,8 @@ export const moravianuniversitypennsylvania = {
                 "<b>Academic Requirements: </b> <br>Indian students must meet the minimum academic requirements to be considered for admission. These requirements vary depending on the program. Generally, students must have completed 12 years of school education, with a minimum grade of 60% in the last two years of study.",
                 "<b>English Proficiency Requirements: </b> <br>Applicants must demonstrate English proficiency by taking one of the approved English language tests. This includes the TOEFL iBT, IELTS, PTE Academic, and Duolingo English Test. The minimum required scores vary by program.",
                 "<b>Other Requirements: </b> <br> Applicants must submit their transcripts, standardized test scores (if applicable), a completed application form, and a non-refundable application fee."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the Moravian University website.</p>"
+            ],
+            "heading": "<p>For more information, please visit the Moravian University website.</p>"
         },
         {
             "type": "list-bollet",

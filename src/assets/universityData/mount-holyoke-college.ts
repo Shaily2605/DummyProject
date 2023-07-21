@@ -170,12 +170,8 @@ export const mountholyokecollege = {
                 "Submit a letter of recommendation ",
                 "Submit a personal essay ",
                 "Submit a resume or CV (optional)",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must submit a copy of their passport, proof of financial support, and an English proficiency score (such as TOEFL, IELTS, or Duolingo).</p>"
+            ],
+            "heading": "<p>In addition, international students must submit a copy of their passport, proof of financial support, and an English proficiency score (such as TOEFL, IELTS, or Duolingo).</p>"
         },
         {
             "type": "text",

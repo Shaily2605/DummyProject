@@ -153,12 +153,8 @@ export const northernlakescollege = {
                 "The student must provide proof of financial stability, such as a bank statement.",
                 "The student must provide a letter of recommendation from a previous teacher or professor.",
                 "The student must provide a copy of their birth certificate and other documents, as required by the college."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that these are only general eligibility criteria, and the college may have additional requirements.</p>"
+            ],
+            "heading": "<p>Please note that these are only general eligibility criteria, and the college may have additional requirements.</p>"
         },
         {
             "type": "list-bollet",
