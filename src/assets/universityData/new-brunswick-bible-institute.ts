@@ -125,12 +125,8 @@ export const newbrunswickbibleinstitute = {
                 "Completing an interview with an admissions advisor.",
                 "Participating in a short assessment of academic skills.",
                 "Meeting the minimum grade point average requirement."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, students must be recommended for admission by a pastor or church leader, and must provide proof of English proficiency if English is not their first language.</p>"
+            ],
+            "heading": "<p>In addition, students must be recommended for admission by a pastor or church leader, and must provide proof of English proficiency if English is not their first language.</p>"
         },
         {
             "type": "list-bollet",

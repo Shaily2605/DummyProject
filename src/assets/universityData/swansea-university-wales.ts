@@ -132,8 +132,8 @@ export const swanseauniversitywales = {
                 "English language proficiency equivalent to IELTS 6.5 or equivalent.",
                 "Satisfaction of any additional entry requirements of the course they are applying for.",
                 "Satisfaction of visa requirements of UK.",
-                "Applicants must also have the necessary financial resources to cover their tuition fees and living expenses during their studies."
-            ]
+            ],
+            "heading": "<p>Applicants must also have the necessary financial resources to cover their tuition fees and living expenses during their studies.</p>"
         },
         {
             "type": "text",

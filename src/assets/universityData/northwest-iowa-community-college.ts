@@ -134,12 +134,8 @@ export const northwestiowacommunitycollege = {
                 "<b>Submit additional documents:</b> Applicants may be required to submit additional documents such as letters of recommendation, proof of English proficiency, and financial documents.",
                 "<b>Submit an international student application:</b> Applicants must submit an international student application along with their application. This includes providing information about their visa and other relevant documents.",
                 "<b>Attend an interview:</b> Applicants may be required to attend an interview with an admissions counselor."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the above steps are completed, applicants will be notified of their admission status.</p>"
+            ],
+            "heading": "<p>Once all the above steps are completed, applicants will be notified of their admission status.</p>"
         },
         {
 

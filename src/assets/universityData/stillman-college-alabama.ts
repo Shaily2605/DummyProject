@@ -109,14 +109,10 @@ export const stillmancollegealabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "Bachelor of Arts",
+            "title": "Courses and Fees",
+            "info": "Undergraduate Programs",
+            "textBelowInfo": "<b>Bachelor of Arts</b>",
             "data": [
                 "Accounting",
                 "Accounting/Business Administration",
@@ -217,8 +213,8 @@ export const stillmancollegealabama = {
                 "Copy of passport",
                 "Copy of valid visa",
                 "Non-refundable application fee of $55 US dollars.",
-                "Please visit their website for more information: http://www.stillman.edu/admission/international-students/"
-            ]
+            ],
+            "heading": "<p>Please visit their website for more information: http://www.stillman.edu/admission/international-students/</p>"
         },
         {
             "type": "list-bollet",

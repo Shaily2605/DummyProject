@@ -73,13 +73,14 @@ export const ohiouniversity = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio University offers more than 250 undergraduate and graduate programs across 11 colleges and schools. Below is the list of undergraduate and graduate programs offered at Ohio University and their respective fee structure.</p>"
+            title: '',
+            data: "<p></p>"
         },
         {
             "type": "list-bollet",
-            "title": '',
-            "info": "UNDERGRADUATE PROGRAMS",
+            "title": 'Courses and Fees',
+            "info": "Ohio University offers more than 250 undergraduate and graduate programs across 11 colleges and schools. Below is the list of undergraduate and graduate programs offered at Ohio University and their respective fee structure.",
+            "textBelowInfo": "<b> UNDERGRADUATE PROGRAMS </b>",
             "data": [
                 "Bachelor of Arts in Economics: $11,900 per semester",
                 "Bachelor of Science in Computer Science: $14,400 per semester",
@@ -158,12 +159,8 @@ export const ohiouniversity = {
                 "Submit proof of financial support. This will include a bank statement showing that you have the necessary funds to cover the cost of tuition, fees, and living expenses for the duration of your studies.",
                 "Submit a copy of your passport.",
                 "Pay the non-refundable application fee."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once you have submitted all the required materials, your application will be reviewed for admission. If you are admitted, you will receive an I-20 form and will be able to begin the process of obtaining the necessary visa to study in the US.</p>"
+            ],
+            "heading": "<p>Once you have submitted all the required materials, your application will be reviewed for admission. If you are admitted, you will receive an I-20 form and will be able to begin the process of obtaining the necessary visa to study in the US.</p>"
         },
         {
 

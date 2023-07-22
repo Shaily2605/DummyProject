@@ -65,14 +65,10 @@ export const ohiowesleyanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Wesleyan University offers over 90 majors, minors, and special programs. The fee structure for each program varies depending on the program, as well as the number of credit hours taken.</p><br> <p><b>Below is a list of some of the majors and minors offered at Ohio Wesleyan University, along with their associated fees: </b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "",
+            "title": 'Courses and Fees',
+            "info": "Ohio Wesleyan University offers over 90 majors, minors, and special programs. The fee structure for each program varies depending on the program, as well as the number of credit hours taken.",
+            "textBelowInfo": "Below is a list of some of the majors and minors offered at Ohio Wesleyan University, along with their associated fees:",
             "data": [
                 "Accounting: $15,400 per semester",
                 "Business Administration: $14,400 per semester",

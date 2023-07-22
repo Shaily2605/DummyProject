@@ -70,14 +70,10 @@ export const nunavutarcticcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nunavut Arctic College (NAC) offers a range of courses with varying fees depending on the program and the length of study. Below is a breakdown of the fees for different courses offered at NAC:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs: ",
+            "title": 'Courses and Fees',
+            "info": "Nunavut Arctic College (NAC) offers a range of courses with varying fees depending on the program and the length of study. Below is a breakdown of the fees for different courses offered at NAC:",
+            "textBelowInfo": "<b>Certificate Programs:</b> ",
             "data": [
                 "Business Administration - $7,500",
                 "Community Health Care Worker - $7,500",
@@ -110,12 +106,8 @@ export const nunavutarcticcollege = {
             "info": "Master's Degree Programs:",
             "data": [
                 "Master of Education in Nunavut Studies - $20,000"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to tuition fees, students will also have to pay for textbooks and other materials required for the program. Students may also have to pay other fees such as registration and student activity fees.</p>"
+            ],
+            "heading": "<p>In addition to tuition fees, students will also have to pay for textbooks and other materials required for the program. Students may also have to pay other fees such as registration and student activity fees.</p>"
         },
         {
             type: "meta",
@@ -167,12 +159,8 @@ export const nunavutarcticcollege = {
                 "A personal statement  ",
                 "Two letters of recommendation  ",
                 "Other documents as requested by the admissions office "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the documents have been submitted, the college will review the application and decide whether to offer admission to the student.</p>"
+            ],
+            "heading": "<p>Once all the documents have been submitted, the college will review the application and decide whether to offer admission to the student.</p>"
         },
         {
 

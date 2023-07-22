@@ -70,14 +70,10 @@ export const pennsylvaniacollegeofartanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Pennsylvania College of Art & Design offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The Pennsylvania College of Art & Design offers the following courses:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Fine Arts in Animation",
                 "Bachelor of Fine Arts in Communications Design",
@@ -86,8 +82,8 @@ export const pennsylvaniacollegeofartanddesign = {
                 "Bachelor of Fine Arts in Industrial Design",
                 "Bachelor of Fine Arts in Photography",
                 "Bachelor of Fine Arts in Visual Studies",
-                "The tuition for the undergraduate programs is $26,400 per academic year. This fee includes tuition, fees, and housing."
-            ]
+            ],
+            "heading": "<p>The tuition for the undergraduate programs is $26,400 per academic year. This fee includes tuition, fees, and housing.</p>"
         },
         {
             "type": "list-bollet",
@@ -96,9 +92,9 @@ export const pennsylvaniacollegeofartanddesign = {
             "data": [
                 "Master of Fine Arts in Communications Design",
                 "Master of Fine Arts in Illustration",
-                "Master of Fine Arts in Visual Studies",
-                "The tuition for the graduate programs is $31,500 per academic year. This fee includes tuition, fees, and housing."
-            ]
+                "Master of Fine Arts in Visual Studies"
+            ],
+            "heading": "<p>The tuition for the graduate programs is $31,500 per academic year. This fee includes tuition, fees, and housing.</p><br> <p>Additional fees may include an application fee, student health insurance, and books and supplies.</p>"
         },
         {
             type: "meta",

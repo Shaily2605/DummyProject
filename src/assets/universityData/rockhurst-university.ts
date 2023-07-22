@@ -79,14 +79,10 @@ export const rockhurstuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Rockhurst University undergraduate tuition and fees for the 2021-2022 academic year are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Tuition:",
+            "title": "Courses and Fees",
+            "info": "The Rockhurst University undergraduate tuition and fees for the 2021-2022 academic year are as follows:",
+            "textBelowInfo": "<b>Tuition:</b>",
             "data": [
                 "Full-time student: $33,170",
                 "Part-time student: $1,075 per credit hour"
@@ -99,12 +95,8 @@ export const rockhurstuniversity = {
             "data": [
                 "Full-time student: $1,100",
                 "Part-time student: $100 per credit hour"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additional fees may also apply to specific courses, such as laboratory fees, technology fees, and course fees.</p>"
+            ],
+            "hwading": "<p>Additional fees may also apply to specific courses, such as laboratory fees, technology fees, and course fees.</p>"
         },
         {
             "type": "list-bollet",
@@ -170,12 +162,8 @@ export const rockhurstuniversity = {
                 "A resume or curriculum vitae.",
                 "A personal statement outlining academic and career goals.",
                 "Official scores from the Graduate Management Admissions Test (GMAT) or Graduate Record Examinations (GRE)."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, students must have completed at least a four-year bachelor's degree from a regionally accredited institution or have earned an equivalent degree from an international institution.</p>"
+            ],
+            "heading": "<p>Additionally, students must have completed at least a four-year bachelor's degree from a regionally accredited institution or have earned an equivalent degree from an international institution.</p>"
         },
         {
             "type": "list-bollet",

@@ -114,8 +114,8 @@ export const universityofphoenixhawaii = {
         },
         {
             "type": "text",
-            "title": "Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "Tuition fees for undergraduate programs at the University of Phoenix, Hawaii Campus range from $420 - $470 per credit hour depending on the degree program. Tuition for graduate programs range from $510 - $570 per credit hour depending on the degree program. Additional fees may apply."
             ]

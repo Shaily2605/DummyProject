@@ -84,12 +84,8 @@ export const mountallisonuniversity = {
                 "Music",
                 "Science",
                 "Social Sciences"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The approximate tuition fee for undergraduate courses for the 2020-2021 academic year is CAD$17,845 per semester. This includes all tuition, fees, and related charges. The tuition fee may vary depending on the program and the number of credits taken.</p> <p>The university also offers some graduate-level courses at an additional cost. The approximate tuition fee for graduate courses for the 2020-2021 academic year is CAD$19,250 per semester, including all tuition, fees, and related charges. The tuition fee may vary depending on the program and the number of credits taken.</p> <p>Additional fees may also apply, including a one-time application fee, compulsory health insurance plan fees, and residence fees.</p> <p>For more detailed information on tuition and fees, please visit the university’s website.</p>"
+            ],
+            "heading": "<p>The approximate tuition fee for undergraduate courses for the 2020-2021 academic year is CAD$17,845 per semester. This includes all tuition, fees, and related charges. The tuition fee may vary depending on the program and the number of credits taken.</p> <p>The university also offers some graduate-level courses at an additional cost. The approximate tuition fee for graduate courses for the 2020-2021 academic year is CAD$19,250 per semester, including all tuition, fees, and related charges. The tuition fee may vary depending on the program and the number of credits taken.</p> <p>Additional fees may also apply, including a one-time application fee, compulsory health insurance plan fees, and residence fees.</p> <p>For more detailed information on tuition and fees, please visit the university’s website.</p>"
         },
         {
             type: "meta",
@@ -141,12 +137,8 @@ export const mountallisonuniversity = {
                 "A personal statement or essay that outlines your academic and career goals.",
                 "Proof of financial support (e.g. bank statements or a letter from a sponsor).",
                 "An application fee."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>It is also important to note that international students must be able to demonstrate that they meet the Canadian visa requirements in order to be eligible for admission to Mount Allison University.</p>"
+            ],
+            "heading": "<p>It is also important to note that international students must be able to demonstrate that they meet the Canadian visa requirements in order to be eligible for admission to Mount Allison University.</p>"
         },
         {
             type: "meta",

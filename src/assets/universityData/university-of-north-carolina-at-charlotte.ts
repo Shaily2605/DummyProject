@@ -68,11 +68,6 @@ export const universityofnorthcarolinaatcharlotte = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -88,12 +83,8 @@ export const universityofnorthcarolinaatcharlotte = {
                 "Civil Engineering: $11,042",
                 "Communications: $10,767",
                 "Economics: $10,767"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For a complete list of undergraduate and graduate degree programs and their associated tuition and fees, please visit the university's website.</p>"
+            ],
+            "heading": "<p>For a complete list of undergraduate and graduate degree programs and their associated tuition and fees, please visit the university's website.</p>"
         },
         {
             type: "meta",
@@ -144,7 +135,6 @@ export const universityofnorthcarolinaatcharlotte = {
                 "Have a minimum of 18 academic units (or equivalent) in high school."
             ],
             "heading": "<p>Furthermore, applicants must also demonstrate financial ability to cover the cost of attendance, including living expenses.</p>"
-
         },
         {
             "type": "text",

@@ -78,14 +78,10 @@ export const universityofnortherncolorado = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Northern Colorado offers a wide range of undergraduate, graduate, and doctoral degree programs. The following is a list of all the courses offered at the University of Northern Colorado and their associated fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degree Programs ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Northern Colorado offers a wide range of undergraduate, graduate, and doctoral degree programs. The following is a list of all the courses offered at the University of Northern Colorado and their associated fee structures.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs</b>",
             "data": [
                 "Accounting (B.S.) - $13,014",
                 "Architectural Engineering - $13,014",
@@ -121,8 +117,8 @@ export const universityofnortherncolorado = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degree Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degree Programs",
             "data": [
                 "Accounting (M.S.) - $18,820",
                 "Art Education (M.A.) - $18,820",
@@ -149,8 +145,8 @@ export const universityofnortherncolorado = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs",
             "data": [
                 "Educational Leadership (Ed.D.) - $21,664",
                 "Gerontology (Ph.D.) - $21,664",

@@ -72,14 +72,10 @@ export const prescottcollegearizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Prescott College offers a variety of degree programs, certificates, and non-degree programs in the fields of education, environmental studies, humanities, and social sciences. Below is a list of all the programs offered, along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Prescott College offers a variety of degree programs, certificates, and non-degree programs in the fields of education, environmental studies, humanities, and social sciences. Below is a list of all the programs offered, along with their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Education: $20,820 per year",
                 "Bachelor of Arts in Environmental Studies: $21,400 per year  ",
@@ -150,14 +146,14 @@ export const prescottcollegearizona = {
                 "Official academic transcripts",
                 "English proficiency scores",
                 "Financial documents",
-                "Passport"
+                "Passport",
+                "Residency/Immigration documents"
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Residency/Immigration documents",
-            "textBelowInfo": "International students must demonstrate English proficiency by submitting one of the following:",
+            "info": "International students must demonstrate English proficiency by submitting one of the following:",
             "data": [
                 "TOEFL: minimum score of 500 (paper-based) or 61 (internet-based)",
                 "IELTS: minimum score of 5.5",
@@ -166,12 +162,8 @@ export const prescottcollegearizona = {
                 "Cambridge English: Advanced (CAE): minimum score of 169",
                 "Eiken: minimum grade of Pre-1",
                 "Duolingo: minimum score of 105"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must provide proof of financial resources (bank statements, sponsor letters, etc.) demonstrating the ability to pay all tuition, fees, and living expenses while attending Prescott College.</p> <p>International students must also provide evidence of valid immigration status in the United States. U.S. visa holders must provide a copy of their visa and I-20 form. Permanent resident card holders must provide a copy of their green card.</p>"
+            ],
+            "heading": "<p>In addition, international students must provide proof of financial resources (bank statements, sponsor letters, etc.) demonstrating the ability to pay all tuition, fees, and living expenses while attending Prescott College.</p> <p>International students must also provide evidence of valid immigration status in the United States. U.S. visa holders must provide a copy of their visa and I-20 form. Permanent resident card holders must provide a copy of their green card.</p>"
         },
         {
             "type": "list-bollet",

@@ -128,12 +128,8 @@ export const providenceuniversity = {
                 "A statement of faith",
                 "A non-refundable application fee of $150 CAD",
                 "Proof of financial support showing sufficient funds for tuition, living expenses, and travel costs for the duration of the student’s studies."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must meet the established academic requirements for the program they wish to pursue. For undergraduate programs, students must have a minimum high school average of 70%. For graduate programs, students must have a minimum cumulative GPA of 2.7 from their post-secondary institution.</p> <p>For more details about the admission process, please refer to the university's website.</p>"
+            ],
+            "heading": "<p>In addition, international students must meet the established academic requirements for the program they wish to pursue. For undergraduate programs, students must have a minimum high school average of 70%. For graduate programs, students must have a minimum cumulative GPA of 2.7 from their post-secondary institution.</p> <p>For more details about the admission process, please refer to the university's website.</p>"
         },
         {
             "type": "list-bollet",
@@ -146,12 +142,8 @@ export const providenceuniversity = {
                 "<b>Submit Additional Documents:</b> Students should submit additional documents such as a Statement of Faith, a CV or resume, a personal essay, and letters of recommendation to the university.",
                 "<b>Pay the Application Fee:</b> Students should pay the application fee, which is $50 for domestic students and $75 for international students.",
                 "<b>Submit Visa Application:</b> Once admitted, international students should apply for a student visa from the Canadian government."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>After following these steps, students should be able to apply for admission at Providence University College & Theological Seminary (Otterburne), Manitoba, Canada.</p>"
+            ],
+            "heading": "<p>After following these steps, students should be able to apply for admission at Providence University College & Theological Seminary (Otterburne), Manitoba, Canada.</p>"
         },
         {
 

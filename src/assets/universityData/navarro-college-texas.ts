@@ -145,14 +145,9 @@ export const navarrocollegetexas = {
                 "A copy of the student's passport for visa purposes.",
                 "A completed International Student Form.",
                 "An official evaluation of foreign credentials by an approved evaluation agency.",
-                "For more information, please visit the Navarro College International Student page: https://www.navarrocollege.edu/admissions/international-students/"
-            ]
+            ],
+            "heading": "<p>For more information, please visit the Navarro College International Student page: https://www.navarrocollege.edu/admissions/international-students/</p>"
         },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "How to Apply ?",

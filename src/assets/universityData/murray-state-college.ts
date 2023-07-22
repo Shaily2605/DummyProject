@@ -161,12 +161,8 @@ export const murraystatecollege = {
                 "Submit a signed statement of intent to comply with all laws and regulations of the United States",
                 "Submit a non-refundable application fee of $50 USD ",
                 "Submit a $100 USD admission deposit "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>If you have any questions regarding the admission process, please contact the International Student Office at (580) 387-7145 or international@mscok.edu.</p>"
+            ],
+            "heading": "<p>If you have any questions regarding the admission process, please contact the International Student Office at (580) 387-7145 or international@mscok.edu.</p>"
         },
         {
             "type": "list-bollet",

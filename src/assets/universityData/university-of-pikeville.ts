@@ -150,8 +150,8 @@ export const universityofpikeville = {
                 "Submit a resume or CV outlining all extracurricular activities and achievements",
                 "Submit an official financial statement showing sufficient funds to cover tuition, living, and travel expenses",
                 "Submit proof of health insurance",
-                "Once the application is received, it will be reviewed by the Admission Committee. If all the required documents are accepted, the student will receive an offer of admission."
-            ]
+            ],
+            "heading": "<p>Once the application is received, it will be reviewed by the Admission Committee. If all the required documents are accepted, the student will receive an offer of admission.</p>"
         },
         {
 

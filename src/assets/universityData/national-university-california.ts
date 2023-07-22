@@ -164,12 +164,8 @@ export const nationaluniversitycalifornia = {
                 "Submit additional documents such as financial statements, transcripts, and other supporting documents as required by the school",
                 "Obtain a Student Visa (F-1) to study in the United States",
                 "Have the necessary financial resources to cover tuition and living expenses while studying in the US"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that the admission requirements may vary depending on the program and degree level. It is best to check with the admissions office at National University for more information.</p>"
+            ],
+            "heading": "<p>Please note that the admission requirements may vary depending on the program and degree level. It is best to check with the admissions office at National University for more information.</p>"
         },
         {
             "type": "list-bollet",

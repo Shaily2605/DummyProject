@@ -110,12 +110,8 @@ export const northwesternoklahomastateuniversity = {
                 "Educational Leadership: $8,500",
                 "Nursing: $8,500",
                 "School Counseling: $8,500"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Fees are subject to change without notice.</p>"
+            ],
+            "heading": "<p>Fees are subject to change without notice.</p>"
         },
         {
             type: "meta",

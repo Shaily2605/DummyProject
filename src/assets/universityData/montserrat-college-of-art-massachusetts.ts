@@ -143,7 +143,7 @@ export const montserratcollegeofartmassachusetts = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirement",
             "info": "",
             "data": [

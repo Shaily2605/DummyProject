@@ -72,14 +72,10 @@ export const pacificrimchristianuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pacific Rim Christian University offers the following courses with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Pacific Rim Christian University offers the following courses with the corresponding fee structure:",
+            "textBelowInfo": "Undergraduate Programs:",
             "data": [
                 "Bachelor of Arts in Christian Ministry - $9,000 per semester",
                 "Bachelor of Arts in Christian Counseling - $9,000 per semester",
@@ -144,18 +140,24 @@ export const pacificrimchristianuniversity = {
                 "<b>English proficiency:</b> Indian students must demonstrate English proficiency by submitting official TOEFL or IELTS scores. The minimum required score for TOEFL is 550 (paper-based) or 80 (internet-based). For IELTS, the minimum required score is 6.5.",
                 "<b>Financial Support:</b> Indian students must demonstrate that they have sufficient financial resources to cover the cost of studying at Pacific Rim Christian University. This includes tuition, fees, room and board, and other living expenses.",
                 "<b>Immigration:</b> Indian students must have the necessary immigration documents to study in the United States, such as an F-1 student visa.",
-                "If you meet all of these requirements, you can apply for admission to Pacific Rim Christian University. Good luck!"
-            ]
+            ],
+            "heading": "<p>If you meet all of these requirements, you can apply for admission to Pacific Rim Christian University. Good luck!</p>"
         },
         {
             "type": "list-bollet",
             "title": "How to Apply ?",
-            "info": "",
+            "info": "Students from India who wish to apply for admission at Pacific Rim Christian University in Hawaii, USA, must first meet the university's admission criteria. All applicants must have completed a minimum of 12 years of formal schooling and must submit official transcripts of their academic records. Applicants must also demonstrate proficiency in English by providing a TOEFL score of at least 550 (paper-based) or 213 (computer-based).",
+            "textBelowInfo": "In addition to the above, applicants must submit the following documents for admission consideration:",
             "data": [
-                "Students from India who wish to apply for admission at Pacific Rim Christian University in Hawaii, USA, must first meet the university's admission criteria. All applicants must have completed a minimum of 12 years of formal schooling and must submit official transcripts of their academic records. Applicants must also demonstrate proficiency in English by providing a TOEFL score of at least 550 (paper-based) or 213 (computer-based).",
-                "In addition to the above, applicants must submit the following documents for admission consideration: Completed application form, Official transcripts from the last three years of study, Two letters of reference from a teacher, professor or employer, A personal essay describing the applicant's educational and professional goals, A copy of a valid passport, Proof of financial support, Official TOEFL score (if applicable)",
-                "Once the application and all supporting documents have been received and reviewed, the admission committee will make a decision regarding admission."
-            ]
+                "Completed application form",
+                "Official transcripts from the last three years of study",
+                "Two letters of reference from a teacher, professor or employer",
+                "A personal essay describing the applicant's educational and professional goals",
+                "A copy of a valid passport",
+                "Proof of financial support",
+                "Official TOEFL score (if applicable)",
+            ],
+            "heading": "<p>Once the application and all supporting documents have been received and reviewed, the admission committee will make a decision regarding admission.</p>"
         },
         {
 

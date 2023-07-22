@@ -70,14 +70,10 @@ export const ohiotechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Technical College offers several career-focused career training programs, including Automotive, Diesel, Collision Repair, Motorsports, Welding, HVAC, and Marine. Each of these programs has specific tuition, fees, and course requirements. The following is a list of all the courses offered at Ohio Technical College along with their associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Automotive:",
+            "title": 'Courses and Fees',
+            "info": "Ohio Technical College offers several career-focused career training programs, including Automotive, Diesel, Collision Repair, Motorsports, Welding, HVAC, and Marine. Each of these programs has specific tuition, fees, and course requirements. The following is a list of all the courses offered at Ohio Technical College along with their associated tuition and fees.",
+            "textBelowInfo": "<b>Automotive: </b>",
             "data": [
                 "Automotive Technology – $17,620 tuition, $1,436 fees",
                 "Automotive Maintenance and Light Repair – $14,500 tuition, $1,436 fees",

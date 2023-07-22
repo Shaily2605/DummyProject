@@ -85,8 +85,8 @@ export const universityofnewhavenconnecticut = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $41,250",
                 "Master of Science in Accounting: $41,250",

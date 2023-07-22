@@ -71,7 +71,7 @@ export const universityofnorthalabamaalabama = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of North Alabama offers a wide variety of undergraduate and graduate programs. The tuition fees for each program varies and the following is the list of courses offered with their respective tuition fees:",
-            "textBelowInfo": "<b>Undergraduate Programs</b>",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting: $16,550",
                 "Art: $15,900",

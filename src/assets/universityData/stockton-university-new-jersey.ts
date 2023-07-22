@@ -80,14 +80,10 @@ export const stocktonuniversitynewjersey = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stockton University offers more than 65 undergraduate and graduate programs in six schools:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "School of Arts & Humanities",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Stockton University offers more than 65 undergraduate and graduate programs in six schools:",
+            "textBelowInfo": "<b>School of Arts & Humanities</b>",
             "data": [
                 "Art",
                 "Dance",
@@ -101,8 +97,8 @@ export const stocktonuniversitynewjersey = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Business",
-            "info": " ",
+            "title": "",
+            "info": "School of Business",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -116,8 +112,8 @@ export const stocktonuniversitynewjersey = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Education",
-            "info": " ",
+            "title": "",
+            "info": "School of Education",
             "data": [
                 "Early Childhood Education",
                 "Educational Leadership & Administration",
@@ -128,8 +124,8 @@ export const stocktonuniversitynewjersey = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Health Sciences & Professional Studies",
-            "info": " ",
+            "title": "",
+            "info": "School of Health Sciences & Professional Studies",
             "data": [
                 "Athletic Training",
                 "Communication Sciences & Disorders",
@@ -144,8 +140,8 @@ export const stocktonuniversitynewjersey = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Natural Sciences & Mathematics",
-            "info": " ",
+            "title": "",
+            "info": "School of Natural Sciences & Mathematics",
             "data": [
                 "Biology",
                 "Chemistry",
@@ -157,8 +153,8 @@ export const stocktonuniversitynewjersey = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Social & Behavioral Sciences",
-            "info": " ",
+            "title": "",
+            "info": "School of Social & Behavioral Sciences",
             "data": [
                 "Criminal Justice",
                 "Legal Studies",
@@ -224,8 +220,8 @@ export const stocktonuniversitynewjersey = {
                 "Submit a financial statement showing sufficient funds to pay for tuition, fees, and living expenses; ",
                 "Have an F-1 visa or equivalent, if the student is planning to stay in the U.S. for more than one academic year;",
                 "Have transferred any academic credits from a college or university outside of the United States, if applicable. ",
-                "For more detailed information, prospective Indian students should contact the International Student Services Office."
-            ]
+            ],
+            "heading": "<p>For more detailed information, prospective Indian students should contact the International Student Services Office.</p>"
         },
         {
             "type": "list-bollet",
@@ -238,8 +234,8 @@ export const stocktonuniversitynewjersey = {
                 "Submit the required documents such as official transcripts, recommendation letters, and test scores.",
                 "Pay the application fee and submit the application.",
                 "Wait for the admission decision.",
-                "In addition, students from India must obtain a student visa in order to study at Stockton University. The university website provides information about the visa application process."
-            ]
+            ],
+            "heading": "<p>In addition, students from India must obtain a student visa in order to study at Stockton University. The university website provides information about the visa application process.</p>"
         },
         {
 

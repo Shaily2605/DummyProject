@@ -70,7 +70,11 @@ export const universityofphoenixarizona = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.",
+<<<<<<< HEAD
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
+=======
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
+>>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
             "data": [
                 "Associate of Arts in Business: $530 per credit",
                 "Associate of Arts in Psychology: $530 per credit",
@@ -149,8 +153,8 @@ export const universityofphoenixarizona = {
                 "Must provide evidence of health insurance coverage.",
                 "Must provide a valid passport.",
                 "Must provide a Certificate of Eligibility for Nonimmigrant Student Status (Form I-20 or DS-2019) issued by the University of Phoenix.",
-                "More information on the University of Phoenix's admissions process and requirements for international students can be found on the University's website."
-            ]
+            ],
+            "heading": "<p>More information on the University of Phoenix's admissions process and requirements for international students can be found on the University's website.</p>"
         },
         {
             "type": "list-bollet",

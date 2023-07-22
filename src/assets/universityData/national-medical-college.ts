@@ -137,12 +137,8 @@ export const nationalmedicalcollege = {
                 "Submit a medical certificate of good health and fitness.",
                 "Submit a copy of the immunization record.",
                 "Provide additional documents, such as work experience certificates, if applicable."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Finally, applicants must attend an interview with the college's admissions committee.</p>"
+            ],
+            "heading": "<p>Finally, applicants must attend an interview with the college's admissions committee.</p>"
         },
         {
 

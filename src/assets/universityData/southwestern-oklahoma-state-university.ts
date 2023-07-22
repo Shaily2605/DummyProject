@@ -133,8 +133,8 @@ export const southwesternoklahomastateuniversity = {
                 "<b>English proficiency:</b> SWOSU requires proof of English language proficiency, such as TOEFL, IELTS, or PTE scores.",
                 "<b>Financial documentation:</b> Applicants must submit proof of sufficient financial support for their studies in the U.S., such as a bank statement or a letter of sponsorship.",
                 "<b>Immigration documents:</b> Indian students must have a valid visa and a valid passport.",
-                "For more information about the admission process for international students, please visit the SWOSU website."
-            ]
+            ],
+            "heading": "<p>For more information about the admission process for international students, please visit the SWOSU website.</p>"
         },
         {
             "type": "list-bollet",

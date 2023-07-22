@@ -127,8 +127,8 @@ export const stevenstheinstituteofbusinessandarts = {
                 "Submission of the application and payment of the application fee",
                 "Official scores from the ACT or SAT (if applicable)",
                 "Demonstration of English proficiency (if applicable)",
-                "In addition to the above requirements, international students must demonstrate their financial ability to cover the costs of their education."
-            ]
+            ],
+            "heading": "<p>In addition to the above requirements, international students must demonstrate their financial ability to cover the costs of their education.</p>"
         },
         {
             "type": "list-bollet",

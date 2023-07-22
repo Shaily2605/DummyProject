@@ -144,12 +144,8 @@ export const ohiovalleyuniversitywestvirginia = {
                 "Submit two letters of recommendation",
                 "Provide proof of health insurance",
                 "Complete an interview with an admissions counselor"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, all international students must maintain full-time status and comply with all visa regulations. Students must also maintain a minimum GPA of 2.0 and make satisfactory academic progress in order to maintain their visa status and remain enrolled in the university.</p>"
+            ],
+            "heading": "<p>Additionally, all international students must maintain full-time status and comply with all visa regulations. Students must also maintain a minimum GPA of 2.0 and make satisfactory academic progress in order to maintain their visa status and remain enrolled in the university.</p>"
         },
         {
             "type": "list-bollet",

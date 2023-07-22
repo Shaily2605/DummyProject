@@ -195,8 +195,8 @@ export const paceuniversitynewyork = {
                 "<b>English Proficiency:</b> All international applicants whose native language is not English must submit official scores from TOEFL, IELTS, or PTE Academic. The minimum score requirement is 79 for TOEFL, 6.5 for IELTS, and 53 for PTE Academic.",
                 "<b>Financial Documentation:</b> All international applicants must demonstrate that they have sufficient funds to cover tuition, living expenses, and other costs associated with enrolling at Pace University. To do this, applicants must submit an official bank statement showing sufficient funds for one year's worth of tuition and expenses.",
                 "<b>Visa Documentation:</b> All international students must submit a valid passport and other documentation required by the United States government to secure a student visa.",
-                "In addition to the above requirements, all applicants must complete the required application form, submit all official documents, and pay the application fee."
-            ]
+            ],
+            "heading": "<p>In addition to the above requirements, all applicants must complete the required application form, submit all official documents, and pay the application fee.</p>"
         },
         {
             "type": "list-bollet",

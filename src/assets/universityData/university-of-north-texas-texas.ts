@@ -74,8 +74,8 @@ export const universityofnorthtexastexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Undergraduate Programs:",
             "data": [
                 "Accounting Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
@@ -87,8 +87,8 @@ export const universityofnorthtexastexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accountin Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
@@ -100,8 +100,8 @@ export const universityofnorthtexastexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs:",
             "data": [
                 "Accounting Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
@@ -109,12 +109,8 @@ export const universityofnorthtexastexas = {
                 "Communication Studies Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Computer Science Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Counseling Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more detailed information about the fee structure and programs offered by the University of North Texas, please visit their official website: https://www.unt.edu/programs/tuition/</p>"
+            ],
+            "heading": "<p>For more detailed information about the fee structure and programs offered by the University of North Texas, please visit their official website: https://www.unt.edu/programs/tuition/</p>"
         },
         {
             type: "meta",

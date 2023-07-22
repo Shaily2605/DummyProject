@@ -162,8 +162,8 @@ export const stfrancisxavieruniversity = {
                 "Supplementary application form for international applicants (if applicable)",
                 "A personal statement",
                 "A non-refundable application fee of CAD$100",
-                "In addition, some programs require additional documents or tests. For example, the Business Administration program requires a GMAT score and a portfolio, while the Nursing program requires the CASPer test. It is advisable to check the admission requirements of the specific program you are interested in before submitting your application."
-            ]
+            ],
+            "heading": "<p>In addition, some programs require additional documents or tests. For example, the Business Administration program requires a GMAT score and a portfolio, while the Nursing program requires the CASPer test. It is advisable to check the admission requirements of the specific program you are interested in before submitting your application.</p>"
         },
         {
             "type": "list-bollet",

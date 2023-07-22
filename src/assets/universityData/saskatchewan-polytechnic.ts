@@ -66,14 +66,10 @@ export const saskatchewanpolytechnic = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Saskatchewan Polytechnic offers more than 130 full-time programs in the areas of applied arts and sciences, business and information technology, health and human services, natural resources and the environment, and trades and technology. The following are the courses offered along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Applied Arts and Sciences:",
+            "title": "Courses and Fees",
+            "info": "Saskatchewan Polytechnic offers more than 130 full-time programs in the areas of applied arts and sciences, business and information technology, health and human services, natural resources and the environment, and trades and technology. The following are the courses offered along with the fee structure:",
+            "textBelowInfo": "<b>Applied Arts and Sciences: </b>",
             "data": [
                 "Business Administration – $1,449.50",
                 "Child and Youth Care – $7,050.00",
@@ -167,12 +163,8 @@ export const saskatchewanpolytechnic = {
                 "Pay the tuition fees in full prior to the start of each semester",
                 "Provide a copy of the student’s valid passport",
                 "Provide proof of adequate financial resources to cover living expenses during the period of study in Canada. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that meeting the minimum requirements does not guarantee admission. Applications are assessed on an individual basis.</p> <p>For more information about admission requirements, please visit the Saskatchewan Polytechnic website.</p>"
+            ],
+            "heading": "<p>Please note that meeting the minimum requirements does not guarantee admission. Applications are assessed on an individual basis.</p> <p>For more information about admission requirements, please visit the Saskatchewan Polytechnic website.</p>"
         },
         {
             "type": "list-bollet",

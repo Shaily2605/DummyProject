@@ -155,12 +155,8 @@ export const northernillinoisuniversity = {
                 "A completed Certificate of Finances form",
                 "A completed Declaration and Certification of Finances form",
                 "A completed International Student Data Sheet"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the official website of Northern Illinois University: https://www.niu.edu/admissions/international/index.shtml</p>"
+            ],
+            "heading": "<p>For more information, please visit the official website of Northern Illinois University: https://www.niu.edu/admissions/international/index.shtml</p>"
         },
         {
             "type": "list-bollet",

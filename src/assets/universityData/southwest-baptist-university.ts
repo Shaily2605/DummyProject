@@ -127,8 +127,8 @@ export const southwestbaptistuniversity = {
                 "A personal statement outlining their academic and career goals.",
                 "Two letters of recommendation.",
                 "A non-refundable application fee.",
-                "In addition, Indian students must arrange a visa interview with the US embassy or consulate in their home country."
-            ]
+            ],
+            "heading": "<p>In addition, Indian students must arrange a visa interview with the US embassy or consulate in their home country.</p>"
         },
         {
 

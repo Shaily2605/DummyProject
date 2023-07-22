@@ -189,12 +189,8 @@ export const nebraskamethodistcollege = {
                 "Payment of the $25 application fee.",
                 "Submission of proof of qualified health insurance.",
                 "Payment of the $500 deposit, which is applied to the student's tuition and fees."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the student has met all of the requirements, the College will review the application and make a decision about admission. If the student is accepted, NMC will issue an I-20 form, which is required for the student to obtain a student visa.</p>"
+            ],
+            "heading": "<p>Once the student has met all of the requirements, the College will review the application and make a decision about admission. If the student is accepted, NMC will issue an I-20 form, which is required for the student to obtain a student visa.</p>"
         },
         {
 

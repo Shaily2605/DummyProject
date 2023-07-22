@@ -68,14 +68,10 @@ export const southbankinstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses with fee structure at Southbank Institute of Technology, Queensland, Australia:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Courses",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses with fee structure at Southbank Institute of Technology, Queensland, Australia:",
+            "textBelowInfo": "<b>Diploma Courses</b>",
             "data": [
                 "Diploma of Business: $13,000",
                 "Diploma of Early Childhood Education and Care: $11,000",
@@ -148,8 +144,8 @@ export const southbankinstituteoftechnology = {
                 "Must meet the English Language Proficiency requirements set by the institute",
                 "Must provide the required academic transcripts and other documents",
                 "Must meet the additional requirements of the particular course chosen",
-                "In some cases, additional requirements may apply. It is best to contact the institute for more information about specific course requirements."
-            ]
+            ],
+            "heading": "<p>In some cases, additional requirements may apply. It is best to contact the institute for more information about specific course requirements.</p>"
         },
         {
             "type": "list-bollet",

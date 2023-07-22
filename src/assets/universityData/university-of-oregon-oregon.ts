@@ -163,8 +163,8 @@ export const universityoforegonoregon = {
                 "Proof of health insurance.",
                 "A valid passport.",
                 "All international applicants must submit official transcripts from all colleges and universities attended.",
-                "It is important to note that each program may have additional requirements and/or criteria for admission. Please visit the website for each program for more specific information."
-            ]
+            ],
+            "heading": "<p>It is important to note that each program may have additional requirements and/or criteria for admission. Please visit the website for each program for more specific information.</p>"
         },
         {
             "type": "list-bollet",

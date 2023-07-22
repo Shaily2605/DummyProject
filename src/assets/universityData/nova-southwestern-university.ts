@@ -113,8 +113,8 @@ export const novasouthwesternuniversity = {
                 "<b>English language proficiency:</b> Indian students must demonstrate proficiency in the English language. This can be demonstrated by submitting either a TOEFL or IELTS score.",
                 "<b>Financial stability:</b> All international students must provide financial documents that demonstrate their ability to cover tuition, fees, and other educational expenses.",
                 "<b>Visa requirements:</b> All international students must obtain an F-1 student visa to study at Nova Southeastern University.",
-                "In addition, students must also submit official transcripts and letters of recommendation, as well as a statement of purpose and other required documents. Please refer to the university's website for more information."
-            ]
+            ],
+            "heading": "<p>In addition, students must also submit official transcripts and letters of recommendation, as well as a statement of purpose and other required documents. Please refer to the university's website for more information.</p>"
         },
         {
             "type": "list-bollet",

@@ -67,7 +67,7 @@ export const strayeruniversitymississippi = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
             "data": [

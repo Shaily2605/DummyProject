@@ -139,12 +139,8 @@ export const northcentraluniversity = {
                 "A copy of your valid passport",
                 "Financial documents",
                 "Any other documents that are required by the program you are applying to."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that the University reserves the right to request additional documents as per the need of the admission process.</p> <p>For more information, please visit North Central University's website: https://www.northcentral.edu/admission-and-aid/international-students-admission.html</p>"
+            ],
+            "heading": "<p>Please note that the University reserves the right to request additional documents as per the need of the admission process.</p> <p>For more information, please visit North Central University's website: https://www.northcentral.edu/admission-and-aid/international-students-admission.html</p>"
         },
         {
             "type": "list-bollet",
@@ -157,12 +153,8 @@ export const northcentraluniversity = {
                 "An official TOEFL score of at least 80 (or the equivalent IELTS score of 6.0)",
                 "Copy of passport",
                 "Completed International Student Declaration of Finances Form"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the application and required documents are received, North Central University will review the application and contact the applicant to let them know if they have been accepted.</p>"
+            ],
+            "heading": "<p>Once the application and required documents are received, North Central University will review the application and contact the applicant to let them know if they have been accepted.</p>"
         },
         {
 

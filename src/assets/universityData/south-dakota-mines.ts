@@ -187,8 +187,8 @@ export const southdakotamines = {
                 "Submit a copy of the student’s passport and visa (if applicable).",
                 "Submit documentation of sufficient financial resources to cover the cost of attendance.",
                 "Submit other documents as requested by South Dakota Mines.",
-                "Once accepted, students will also need to obtain an F-1 visa. For more information on the visa application process, please visit the US Embassy India website."
-            ]
+            ],
+            "heading": "<p>Once accepted, students will also need to obtain an F-1 visa. For more information on the visa application process, please visit the US Embassy India website.</p>"
         },
         {
 

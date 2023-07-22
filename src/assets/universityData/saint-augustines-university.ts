@@ -81,14 +81,10 @@ export const saintaugustinesuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Saint Augustine's University offers a variety of degree-seeking and non-degree-seeking programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Degree-Seeking Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Saint Augustine's University offers a variety of degree-seeking and non-degree-seeking programs.",
+            "textBelowInfo": "<b>Degree-Seeking Programs </b>",
             "data": [
                 "Associate of Arts  Tuition & Fees: $6,750 per semester",
                 "Bachelor of Arts  Tuition & Fees: $9,875 per semester",
@@ -99,8 +95,8 @@ export const saintaugustinesuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Non-Degree-Seeking Programs",
-            "info": "",
+            "title": "",
+            "info": "Non-Degree-Seeking Programs",
             "data": [
                 "Non-Degree-Seeking Certificate Programs  Tuition & Fees: $500 per course",
                 "Non-Degree-Seeking Coursework  Tuition & Fees: $500 per course"
@@ -154,12 +150,8 @@ export const saintaugustinesuniversity = {
                 "Submit required documents such as transcripts, test scores, letters of recommendation, and a personal statement.",
                 "Pay the application fee.",
                 "Monitor the status of the application online."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, students from India must also meet the university’s English language proficiency standards. This includes submitting valid TOEFL/IELTS scores, or taking the university’s English placement test.</p> <p>For more information about the application process, please refer to the university’s website.</p>"
+            ],
+            "heading": "<p>In addition, students from India must also meet the university’s English language proficiency standards. This includes submitting valid TOEFL/IELTS scores, or taking the university’s English placement test.</p> <p>For more information about the application process, please refer to the university’s website.</p>"
         },
         {
 

@@ -139,8 +139,8 @@ export const rrcpolytechsteinbachcampus = {
                 "Payment of the applicable tuition and other applicable fees.",
                 "Obtaining a valid study permit from Immigration, Refugees and Citizenship Canada (IRCC).",
                 "Submission of any additional documents that might be required by the college.",
-                "Once all the requirements have been met, the student can submit their application package to the college for consideration."
-            ]
+            ],
+            "heading": "<p>Once all the requirements have been met, the student can submit their application package to the college for consideration.</p>"
         },
         {
 

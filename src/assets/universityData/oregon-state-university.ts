@@ -108,12 +108,8 @@ export const oregonstateuniversity = {
                 "Electrical Engineering (M.S.): $18,360 - $26,400 per year ",
                 "Psychology (M.S.): $18,360 - $26,400 per year ",
                 "Public Health (M.P.H.): $19,935 - $22,755 per year ",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more detailed information, please visit the official website of Oregon State University: https://catalog.oregonstate.edu/tuition-fees/</p>"
+            ],
+            "heading": "<p>For more detailed information, please visit the official website of Oregon State University: https://catalog.oregonstate.edu/tuition-fees/</p>"
         },
         {
             type: "meta",

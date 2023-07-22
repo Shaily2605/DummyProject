@@ -69,14 +69,10 @@ export const seminolestatecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Seminole State College offers many courses in a variety of fields, including Associate of Arts, Associate of Science and Associate of Applied Science degrees, as well as many certificate programs. Below is a list of courses and the associated tuition and fees for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts:",
+            "title": "Courses and Fees",
+            "info": "Seminole State College offers many courses in a variety of fields, including Associate of Arts, Associate of Science and Associate of Applied Science degrees, as well as many certificate programs. Below is a list of courses and the associated tuition and fees for each program.",
+            "textBelowInfo": "<b>Associate of Arts:</b>",
             "data": [
                 "Tuition: $159.50 per credit hour",
                 "Fees: $5.50 per credit hour "
@@ -133,14 +129,10 @@ export const seminolestatecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The eligibility criteria for Indian students to take admission at Seminole State College (SSC), Oklahoma, USA, depends on the type of program they are seeking to pursue.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For Degree Program:",
+            "title": "Eligibility Requirements",
+            "info": "The eligibility criteria for Indian students to take admission at Seminole State College (SSC), Oklahoma, USA, depends on the type of program they are seeking to pursue.",
+            "textBelowInfo": "<b>For Degree Program: </b>",
             "data": [
                 "Applicants must have a valid high school diploma or equivalent and official transcripts.",
                 "Applicants must also have a minimum 2.0 GPA (Grade Point Average).",
@@ -155,12 +147,8 @@ export const seminolestatecollege = {
                 "Applicants must have a valid high school diploma or equivalent and official transcripts.",
                 "Applicants must have a minimum 2.0 GPA (Grade Point Average).",
                 "Applicants must submit proof of English language proficiency."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above, applicants may also be required to submit additional supporting documents such as financial documents, passport, visa and other relevant documents.</p>"
+            ],
+            "heading": "<p>In addition to the above, applicants may also be required to submit additional supporting documents such as financial documents, passport, visa and other relevant documents.</p>"
         },
         {
             "type": "list-bollet",

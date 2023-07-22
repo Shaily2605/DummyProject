@@ -84,14 +84,10 @@ export const stetsonuniversityflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stetson University offers a variety of courses across a range of disciplines. The following is a list of courses offered by the university and the associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Stetson University offers a variety of courses across a range of disciplines. The following is a list of courses offered by the university and the associated fee structure.",
+            "textBelowInfo": "Undergraduate Courses:",
             "data": [
                 "Accounting: $24,712",
                 "Actuarial Science: $24,712",
@@ -210,8 +206,8 @@ export const stetsonuniversityflorida = {
                 "<b>Submit additional documents:</b> Applicants must submit additional documents such as an essay or letter of recommendation.",
                 "<b>Submit the application fee:</b> Applicants must submit a non-refundable application fee of $50.",
                 "<b>Submit the financial documents:</b> International students must submit financial documents to demonstrate that they can cover the cost of tuition and living expenses.",
-                "For more information on the admissions process, applicants are encouraged to visit Stetson University’s International Admissions page."
-            ]
+            ],
+            "heading": "<p>For more information on the admissions process, applicants are encouraged to visit Stetson University’s International Admissions page.</p>"
         },
         {
 

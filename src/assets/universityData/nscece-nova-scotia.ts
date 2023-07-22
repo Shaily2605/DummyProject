@@ -71,14 +71,10 @@ export const nscecenovascotia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>NSCECE offers many courses. The fee structure for each course varies depending on the type of program. Here is a list of some of the courses and their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Diploma Programs",
+            "title": 'Courses and Fees',
+            "info": "NSCECE offers many courses. The fee structure for each course varies depending on the type of program. Here is a list of some of the courses and their corresponding fees:",
+            "textBelowInfo": "<b>Diploma Programs</b>",
             "data": [
                 "Early Childhood Education: $8,900",
                 "Child and Youth Care: $9,500",

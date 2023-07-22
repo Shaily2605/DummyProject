@@ -137,7 +137,8 @@ export const nashuacommunitycollege = {
                 "Download the international student application form, which can be found on the website.  ",
                 "Fill out the form and submit it along with the required documents.",
                 "Pay the international student application fee.",
-                "Submit all required documents, including but not limited to:<br> a. Proof of English language proficiency (TOEFL/IELTS score report)<br> b. Official transcripts from all post-secondary institutions attended<br> c. Copy of passport<br> d. Bank statement of financial support<br> e. Statement of intent",
+                "Submit all required documents, including but not limited to:<br> a. Proof of English language proficiency (TOEFL/IELTS score report)<br> b. Official transcripts from all post-secondary institutions attended<br> c. Copy of passport<br> d. Bank statement of financial support<br> e. Statement of intent<br> f. Application for a student visa",
+                "Wait for the college to review your application and notify you of your admission status."
             ]
         },
         {

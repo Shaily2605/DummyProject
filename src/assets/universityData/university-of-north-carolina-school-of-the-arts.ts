@@ -168,7 +168,10 @@ export const universityofnorthcarolinaschoolofthearts = {
                 "Applicants must submit a portfolio or audition video (depending on the program of study).",
             ],
             "heading": "<p>Note: The University of North Carolina School of the Arts may also require applicants to participate in an interview.</p>"
+<<<<<<< HEAD
 
+=======
+>>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
         },
         {
             "type": "list-bollet",

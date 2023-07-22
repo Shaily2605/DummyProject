@@ -67,14 +67,10 @@ export const rutgersuniversitynewarkcampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Rutgers University-Newark campus offers a variety of courses across its Undergraduate, Graduate and Professional programs. The course fee structure varies for each program, and may be subject to change.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Rutgers University-Newark campus offers a variety of courses across its Undergraduate, Graduate and Professional programs. The course fee structure varies for each program, and may be subject to change.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts",
                 "Bachelor of Science ",
@@ -89,8 +85,8 @@ export const rutgersuniversitynewarkcampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Arts ",
                 "Master of Science ",
@@ -107,8 +103,8 @@ export const rutgersuniversitynewarkcampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Programs",
-            "info": "",
+            "title": "",
+            "info": "Professional Programs",
             "data": [
                 "Doctor of Jurisprudence ",
                 "Doctor of Philosophy ",
@@ -122,12 +118,8 @@ export const rutgersuniversitynewarkcampus = {
                 "Doctor of Pharmacy ",
                 "Doctor of Veterinary Medicine",
                 "Doctor of Veterinary Science"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on tuition and fees for each program, students should visit the Rutgers University-Newark website.</p>"
+            ],
+            "heading": "<p>For more information on tuition and fees for each program, students should visit the Rutgers University-Newark website.</p>"
         },
         {
             type: "meta",

@@ -98,12 +98,8 @@ export const nevadastatecollege = {
                 "<b>Master of Science in Nursing:</b> $233.50/credit hour for Nevada residents, $479.75/credit hour for non-residents",
                 "<b>Master of Arts in English:</b> $205.15/credit hour for Nevada residents, $451.40/credit hour for non-residents",
                 "<b>Master of Arts in Criminal Justice:</b> $205.15/credit hour for Nevada residents, $451.40/credit hour for non-residents"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For a full list of courses offered at Nevada State College and their associated tuition rates, please visit the school's website at www.nsc.edu.</p>"
+            ],
+            "heading": "<p>For a full list of courses offered at Nevada State College and their associated tuition rates, please visit the school's website at www.nsc.edu.</p>"
         },
         {
             type: "meta",
@@ -158,12 +154,8 @@ export const nevadastatecollege = {
                 "Letters of recommendation",
                 "A copy of the passport",
                 "Proof of financial resources (bank statement, family income statement, etc.)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all of the required documents have been received, the college's admissions office will review the application and make a decision regarding admission.</p> <p>It is important to note that the college may also require additional documents or materials for international students. Therefore, it is important to communicate with the admissions office directly to ensure all necessary documents have been provided.</p>"
+            ],
+            "heading": "<p>Once all of the required documents have been received, the college's admissions office will review the application and make a decision regarding admission.</p> <p>It is important to note that the college may also require additional documents or materials for international students. Therefore, it is important to communicate with the admissions office directly to ensure all necessary documents have been provided.</p>"
         },
         {
 

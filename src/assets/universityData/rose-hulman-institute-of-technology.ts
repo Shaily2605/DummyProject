@@ -78,13 +78,14 @@ export const rosehulmaninstituteoftechnology = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are the courses offered by Rose-Hulman Institute of Technology,Indiana,USA along with their fee structure:</p>"
+            title: '',
+            data: "<p></p>"
         },
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The following are the courses offered by Rose-Hulman Institute of Technology,Indiana,USA along with their fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Chemical Engineering: Tuition and Fees - $51,869",
                 "Civil Engineering: Tuition and Fees - $51,869",
@@ -145,8 +146,8 @@ export const rosehulmaninstituteoftechnology = {
                 "Demonstrate a strong level of English language proficiency.",
                 "Submit a completed application form and all required application documents.",
                 "Submit a nonrefundable deposit of $500 to secure a place in the class.",
-                "In addition, applicants must also meet Rose-Hulman’s minimum academic requirements. These include at least a 3.0 GPA (on a 4.0 scale) in their secondary school program and a minimum score of 25 on the ACT or 1140 on the SAT. Applicants must also have taken the necessary math and science classes to be considered for admission."
-            ]
+            ],
+            "heading": "<p>In addition, applicants must also meet Rose-Hulman’s minimum academic requirements. These include at least a 3.0 GPA (on a 4.0 scale) in their secondary school program and a minimum score of 25 on the ACT or 1140 on the SAT. Applicants must also have taken the necessary math and science classes to be considered for admission.</p>"
         },
         {
             "type": "list-bollet",

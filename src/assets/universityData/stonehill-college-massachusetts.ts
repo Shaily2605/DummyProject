@@ -167,8 +167,8 @@ export const stonehillcollegemassachusetts = {
                 "Request two letters of recommendation. It is preferred that one of these letters be from a teacher or counselor.",
                 "Submit a personal statement that explains the student’s background, academic interests, and career goals.",
                 "Submit a nonrefundable application fee.",
-                "Once all of the required documents have been submitted and reviewed, Stonehill College will make an admissions decision."
-            ]
+            ],
+            "heading": "<p>Once all of the required documents have been submitted and reviewed, Stonehill College will make an admissions decision.</p>"
         },
         {
 

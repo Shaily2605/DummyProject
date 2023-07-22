@@ -66,14 +66,10 @@ export const saintcloudstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is a list of all the courses offered at St. Cloud State University, Minnesota, USA, with the associated tuition fee:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is a list of all the courses offered at St. Cloud State University, Minnesota, USA, with the associated tuition fee:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $7,954",
                 "Biochemistry: $7,954",
@@ -97,8 +93,8 @@ export const saintcloudstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting: $9,531",
                 "Business Administration: $9,531",
@@ -162,12 +158,8 @@ export const saintcloudstateuniversity = {
                 "<b>Submit financial documents:</b> Students should submit financial documents such as bank statements, scholarship letters, or other forms of financial aid to demonstrate they can cover the cost of tuition, fees, and living expenses.",
                 "<b>Submit passport documents:</b> Students should submit a copy of their passport and immigration documents.",
                 "<b>Submit additional documents:</b> Students may be required to submit additional documents such as letters of recommendation, personal statement, or a resume."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the documents are submitted, Saint Cloud State University will review the application and make an admission decision within 6-8 weeks.</p>"
+            ],
+            "heading": "<p>Once all the documents are submitted, Saint Cloud State University will review the application and make an admission decision within 6-8 weeks.</p>"
         },
         {
 

@@ -68,14 +68,10 @@ export const saintanselmcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are the courses offered at Saint Anselm College in New Hampshire, USA, along with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The following are the courses offered at Saint Anselm College in New Hampshire, USA, along with the corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts in English: $42,540 per year",
                 "Bachelor of Arts in History: $42,540 per year",
@@ -93,8 +89,8 @@ export const saintanselmcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Arts in Education: $36,000 per year",
                 "Master of Business Administration: $32,000 per year",

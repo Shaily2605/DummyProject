@@ -71,14 +71,10 @@ export const oklahomawesleyanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oklahoma Wesleyan University offers a variety of undergraduate and graduate programs. The following is a list of the offered courses, along with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Oklahoma Wesleyan University offers a variety of undergraduate and graduate programs. The following is a list of the offered courses, along with the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business Administration: $420 per credit hour",
                 "Computer Science: $420 per credit hour",

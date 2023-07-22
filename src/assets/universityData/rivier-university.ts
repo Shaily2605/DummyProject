@@ -138,12 +138,8 @@ export const rivieruniversity = {
                 "Submit a copy of a valid passport",
                 "Submit a completed Declaration and Certification of Finances",
                 "Submit a completed Certificate of Eligibility (I-20 or DS-2019)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, qualified international students must meet the same criteria as domestic students to be considered for scholarships and financial aid.</p>"
+            ],
+            "heading": "<p>In addition, qualified international students must meet the same criteria as domestic students to be considered for scholarships and financial aid.</p>"
         },
         {
             "type": "list-bollet",

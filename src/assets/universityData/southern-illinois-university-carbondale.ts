@@ -67,14 +67,10 @@ export const southernillinoisuniversitycarbondale = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Southern Illinois University Carbondale offers more than 200 undergraduate and graduate degree programs. The tuition fee for each program is different and depends on the program.</p> <p>The university charges tuition on a per-credit hour basis. The tuition fees for undergraduate, graduate, and doctoral courses are given below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The Southern Illinois University Carbondale offers more than 200 undergraduate and graduate degree programs. The tuition fee for each program is different and depends on the program.</p> <p>The university charges tuition on a per-credit hour basis. The tuition fees for undergraduate, graduate, and doctoral courses are given below:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "In-State Tuition: $400 per credit hour",
                 "Out-of-State Tuition: $919 per credit hour"
@@ -96,12 +92,8 @@ export const southernillinoisuniversitycarbondale = {
             "data": [
                 "In-State Tuition: $1,000 per credit hour",
                 "Out-of-State Tuition: $2,119 per credit hour"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You can check the fee structure of different courses offered by the university on its official website.</p>"
+            ],
+            "heading": "<p>You can check the fee structure of different courses offered by the university on its official website.</p>"
         },
         {
             type: "meta",

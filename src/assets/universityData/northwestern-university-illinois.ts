@@ -79,14 +79,10 @@ export const northwesternuniversityillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Northwestern University offers undergraduate, graduate, and professional degree programs across a variety of disciplines. The courses offered by the university are divided into the following categories: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs:',
-            "info": "",
+            "title": 'Courses and Fees',
+            "info": "The Northwestern University offers undergraduate, graduate, and professional degree programs across a variety of disciplines. The courses offered by the university are divided into the following categories: ",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Arts and Sciences ",
                 "Communication ",
@@ -97,8 +93,8 @@ export const northwesternuniversityillinois = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Programs: ',
-            "info": "",
+            "title": '',
+            "info": "Graduate Programs: ",
             "data": [
                 "Business ",
                 "Education and Social Policy",
@@ -110,20 +106,16 @@ export const northwesternuniversityillinois = {
         },
         {
             "type": "list-bollet",
-            "title": 'Professional Programs:',
-            "info": "",
+            "title": '',
+            "info": "Professional Programs:",
             "data": [
                 "Business ",
                 "Education and Social Policy ",
                 "Law ",
                 "Medicine",
                 "Journalism"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The tuition and fees for Northwestern University vary depending on the program and the student's residency status. For the 2020-2021 academic year, the tuition and fees for undergraduate programs range from $54,319 for in-state students to $76,945 for out-of-state students. For graduate and professional programs, tuition and fees range from $21,600 for the School of Professional Studies to $75,890 for the School of Law. For more information about tuition and fees, please visit the Northwestern University website.</p>"
+            ],
+            "heading": "<p>The tuition and fees for Northwestern University vary depending on the program and the student's residency status. For the 2020-2021 academic year, the tuition and fees for undergraduate programs range from $54,319 for in-state students to $76,945 for out-of-state students. For graduate and professional programs, tuition and fees range from $21,600 for the School of Professional Studies to $75,890 for the School of Law. For more information about tuition and fees, please visit the Northwestern University website.</p>"
         },
         {
             type: "meta",

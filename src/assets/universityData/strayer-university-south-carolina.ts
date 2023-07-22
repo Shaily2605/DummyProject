@@ -160,8 +160,8 @@ export const strayeruniversitysouthcarolina = {
                 "Provide proof of English proficiency. International students are required to submit official English proficiency test scores such as the TOEFL or IELTS.",
                 "Schedule an interview. International students must attend an interview with a representative from the Strayer University Office of International Admissions.",
                 "Submit the application fee. The application fee for international students is $100.",
-                "Once all the required documents have been submitted and the application fee has been paid, the Office of International Admissions will review the application and determine if the student is eligible for admission to Strayer University."
-            ]
+            ],
+            "heading": "<p>Once all the required documents have been submitted and the application fee has been paid, the Office of International Admissions will review the application and determine if the student is eligible for admission to Strayer University.</p>"
         },
         {
 

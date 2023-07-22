@@ -132,8 +132,8 @@ export const southerncaliforniainstituteofarchitecture = {
                 "Submit a copy of your visa (if applicable).",
                 "Send any additional requested documents and materials.",
                 "Pay the application fee.",
-                "Once all the documents are received and reviewed, you will receive a decision from the Admissions Office."
-            ]
+            ],
+            "heading": "<p>Once all the documents are received and reviewed, you will receive a decision from the Admissions Office.</p>"
         },
         {
 

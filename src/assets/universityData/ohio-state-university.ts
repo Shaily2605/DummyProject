@@ -124,12 +124,8 @@ export const ohiostateuniversity = {
                 "All applicants must have a minimum 2.0 GPA or its equivalent in the country in which the secondary school was attended.",
                 "TOEFL (Test of English as a Foreign Language) score of at least 500 (paper-based) or 173 (computer-based). IELTS (International English Language Testing System) score of at least 5.5. ",
                 "All international students must submit financial documents with their application to demonstrate the availability of funds to support their education and living expenses."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information on ATI’s admission requirements, please visit their website: https://ati.osu.edu/admissions/international-students</p>"
+            ],
+            "heading": "<p>For more information on ATI’s admission requirements, please visit their website: https://ati.osu.edu/admissions/international-students</p>"
         },
         {
             "type": "list-bollet",
@@ -157,12 +153,8 @@ export const ohiostateuniversity = {
                 "Submit a completed ATI International Student Housing Contract form.",
                 "Submit a completed ATI International Student Orientation form.",
                 "Submit a completed ATI International Student Transfer Form."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Applicants should also be aware that additional documents may be requested during the admission process. Please refer to the ATI website for the most up-to-date information on the application process and requirements.</p>"
+            ],
+            "heading": "<p>Applicants should also be aware that additional documents may be requested during the admission process. Please refer to the ATI website for the most up-to-date information on the application process and requirements.</p>"
         },
         {
 

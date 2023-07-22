@@ -74,8 +74,7 @@ export const southernwesleyanuniversity = {
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "Southern Wesleyan University offers over 80 areas of study. You can view the complete list of courses and fee structures at the following link:",
-                "https://www.swu.edu/academics/programs-majors-minors/"
+                "Southern Wesleyan University offers over 80 areas of study. You can view the complete list of courses and fee structures at the following link:<br> https://www.swu.edu/academics/programs-majors-minors/"
             ]
         },
         {
@@ -136,8 +135,8 @@ export const southernwesleyanuniversity = {
                 "Submit a statement of financial support verifying the ability to pay for the cost of attendance for one academic year.",
                 "Submit a completed immunization form.",
                 "Pay the $50 non-refundable application fee.",
-                "For further information, students may contact the Office of International Admissions at Southern Wesleyan University."
-            ]
+            ],
+            "heading": "<p>For further information, students may contact the Office of International Admissions at Southern Wesleyan University.</p>"
         },
         {
 

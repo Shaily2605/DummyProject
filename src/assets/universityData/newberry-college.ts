@@ -87,12 +87,8 @@ export const newberrycollege = {
                 "Room (double occupancy): $1,800  ",
                 "Board (meal plan): $1,728 ",
                 "Total: $17,592"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>*Fees are subject to change without notice.</p>"
+            ],
+            "heading": "<p>*Fees are subject to change without notice.</p>"
         },
         {
             type: "meta",
@@ -118,14 +114,9 @@ export const newberrycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Newberry College is a selective, independent, co-educational liberal arts college that is open to applications from Indian students. The college does not require an SAT or ACT score for admission, but there are other criteria that applicants must meet in order to be eligible for admission.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "General Requirements:",
+            "title": "Eligibility Requirement",
+            "info": "Newberry College is a selective, independent, co-educational liberal arts college that is open to applications from Indian students. The college does not require an SAT or ACT score for admission, but there are other criteria that applicants must meet in order to be eligible for admission.",
             "data": [
                 "Applicants must have a high school diploma or equivalent.",
                 "Applicants must submit official transcripts from all secondary and post-secondary institutions.",
@@ -152,12 +143,8 @@ export const newberrycollege = {
                 "Submit a personal statement or essay.",
                 "Submit a copy of a valid passport.",
                 "Submit immunization records."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all of the required documents have been submitted, applicants will be contacted by the college's Office of Admissions with a decision.</p>"
+            ],
+            "heading": "<p>Once all of the required documents have been submitted, applicants will be contacted by the college's Office of Admissions with a decision.</p>"
         },
         {
 

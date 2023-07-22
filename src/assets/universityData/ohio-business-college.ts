@@ -68,14 +68,10 @@ export const ohiobusinesscollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Business College offers diplomas, certificates, and associate degrees in various business and healthcare fields.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Diploma Programs:",
+            "title": 'Courses and Fees',
+            "info": "Ohio Business College offers diplomas, certificates, and associate degrees in various business and healthcare fields.",
+            "textBelowInfo": "<b>Diploma Programs: </b>",
             "data": [
                 "Accounting/Bookkeeping: $14,995",
                 "Administrative Assistant: $14,995 ",
@@ -141,8 +137,8 @@ export const ohiobusinesscollege = {
                 "Documentation of successful completion of at least two years of secondary school where English is the primary language of instruction",
                 "Documentation of successful completion of at least two years of college-level English composition courses at an accredited college or university",
                 "A letter of recommendation from an English professor attesting to the student’s English proficiency",
-                "All international students must also provide proof of sufficient funds to cover their tuition and living expenses for the duration of their program."
-            ]
+            ],
+            "heading": "<p>All international students must also provide proof of sufficient funds to cover their tuition and living expenses for the duration of their program.</p>"
         },
         {
             "type": "list-bollet",

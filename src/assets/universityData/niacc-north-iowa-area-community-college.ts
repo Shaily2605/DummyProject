@@ -122,12 +122,8 @@ export const niaccnorthiowaareacommunitycollege = {
                 "Have a record of good conduct and behavior in their home country. ",
                 "Obtain a student visa, if necessary, by submitting an I-20 form and related documents to the nearest U.S. Embassy or Consulate in India. ",
                 "Submit proof of health insurance coverage."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Students who meet these criteria will be considered for admission to NIACC.</p>"
+            ],
+            "heading": "<p>Students who meet these criteria will be considered for admission to NIACC.</p>"
         },
         {
             "type": "list-bollet",

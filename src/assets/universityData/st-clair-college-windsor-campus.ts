@@ -158,8 +158,8 @@ export const stclaircollegewindsorcampus = {
                 "Provide proof of financial support ",
                 "Have valid student authorization if applicable ",
                 "Meet any other program-specific requirements ",
-                "For more information, you can contact the college directly."
-            ]
+            ],
+            "heading": "<p>For more information, you can contact the college directly.</p>"
         },
         {
             "type": "list-bollet",

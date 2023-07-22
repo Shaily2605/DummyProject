@@ -78,7 +78,11 @@ export const universityofnotredameindiana = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Notre Dame offers a variety of graduate and undergraduate courses. Please find below the list of courses offered with their associated fees.",
+<<<<<<< HEAD
             "textBelowInfo": "<b>Undergraduate Courses:</b>",
+=======
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
+>>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
             "data": [
                 "Aerospace Engineering (B.S.): $53,717",
                 "Accounting (B.S.B.A.): $52,717",
@@ -109,7 +113,11 @@ export const universityofnotredameindiana = {
         {
             "type": "list-bollet",
             "title": "",
+<<<<<<< HEAD
             "info": "Graduate Courses:",
+=======
+            "info": "Graduate Courses: ",
+>>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
             "data": [
                 "Accounting (M.S.B.A.): $54,718",
                 "Aerospace Engineering (M.S.): $54,718",

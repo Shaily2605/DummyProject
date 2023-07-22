@@ -70,14 +70,10 @@ export const pennsylvaniacollegeofhealthsciences = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pennsylvania College of Health Sciences offers a variety of degree programs. Below is a list of undergraduate and graduate degree programs offered by the college along with their associated tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degrees",
+            "title": "Courses and Fees",
+            "info": "Pennsylvania College of Health Sciences offers a variety of degree programs. Below is a list of undergraduate and graduate degree programs offered by the college along with their associated tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Associate of Science in Nursing: $14,520",
                 "Bachelor of Science in Nursing: $18,360 ",
@@ -168,14 +164,10 @@ export const pennsylvaniacollegeofhealthsciences = {
             ]
         },
         {
-            type: 'text',
-            title: 'How to Apply ?',
-            data: "<p>International students from India can apply for admission to Pennsylvania College of Health Sciences online. Candidates must complete the online application form and submit the required documents.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Required documents include:",
+            "title": "How to Apply ?",
+            "info": "International students from India can apply for admission to Pennsylvania College of Health Sciences online. Candidates must complete the online application form and submit the required documents.",
+            "textBelowInfo": "Required documents include:",
             "data": [
                 "Official transcripts/mark sheets in English",
                 "Passport",
@@ -185,8 +177,8 @@ export const pennsylvaniacollegeofhealthsciences = {
                 "A personal statement",
                 "Letters of recommendation",
                 "Completed application",
-                "In addition, students must pay a non-refundable application fee. Once all documents have been received and evaluated, the College will contact the student to notify them of their admission status."
-            ]
+            ],
+            "heading": "<p>In addition, students must pay a non-refundable application fee. Once all documents have been received and evaluated, the College will contact the student to notify them of their admission status.</p>"
         },
         {
 

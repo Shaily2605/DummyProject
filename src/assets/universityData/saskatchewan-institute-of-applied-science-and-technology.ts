@@ -126,11 +126,11 @@ export const saskatchewaninstituteofappliedscienceandtechnology = {
         {
             "type": "list-bollet",
             "title": "Fee Structure",
-            "info": "SIAST Palliser tuition fees range from $7,000 to $13,000 per year depending on the program selected. Additional fees for books, supplies, and other associated costs will be incurred.",
+            "info": "",
             "data": [
-                "For more information on fees and payment options, please visit the SIAST website: ",
-                "https://www.siast.sk.ca/programs-courses/tuition-fees-payment-options"
-            ]
+                "SIAST Palliser tuition fees range from $7,000 to $13,000 per year depending on the program selected. Additional fees for books, supplies, and other associated costs will be incurred."
+            ],
+            "heading": "<p>For more information on fees and payment options, please visit the SIAST website:</p> <br> <p>https://www.siast.sk.ca/programs-courses/tuition-fees-payment-options</p>"
         },
         {
             type: "meta",

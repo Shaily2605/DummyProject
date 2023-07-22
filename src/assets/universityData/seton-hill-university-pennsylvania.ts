@@ -69,14 +69,10 @@ export const setonhilluniversitypennsylvania = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Seton Hill University offers the following degree programs and their corresponding tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs:",
+            "title": "Courses and Fees",
+            "info": "Seton Hill University offers the following degree programs and their corresponding tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs:</b>",
             "data": [
                 "Bachelor of Arts (BA) - $44,000",
                 "Bachelor of Science (BS) - $44,000 ",
@@ -155,8 +151,8 @@ export const setonhilluniversitypennsylvania = {
                 "Submit a 500-word essay.",
                 "Submit a resume or CV.",
                 "Have a bachelor's degree from a recognized institution.",
-                "In addition, applicants may be required to submit additional documents such as a statement of purpose, portfolio, or other materials. Please contact the admissions office at Seton Hill University for more information on the specific requirements for each program."
-            ]
+            ],
+            "heading": "<p>In addition, applicants may be required to submit additional documents such as a statement of purpose, portfolio, or other materials. Please contact the admissions office at Seton Hill University for more information on the specific requirements for each program.</p>"
         },
         {
             "type": "list-bollet",

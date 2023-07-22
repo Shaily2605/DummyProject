@@ -81,12 +81,8 @@ export const northwestregionalcollegenorthernireland = {
                 "Level 5 courses - £1,595 per year",
                 "Level 6 courses - £2,195 per year",
                 "Level 7 courses - £2,695 per year"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The college also offers a range of short courses, which range in price depending on the course and the duration of the course. The college also offers a range of Higher Education courses, which range in price depending on the course and the duration of the course.</p>"
+            ],
+            "heading": "<p>The college also offers a range of short courses, which range in price depending on the course and the duration of the course. The college also offers a range of Higher Education courses, which range in price depending on the course and the duration of the course.</p>"
         },
         {
             type: "meta",

@@ -170,8 +170,8 @@ export const saintjosephabbeyandseminarycollege = {
                 "Submit a statement of purpose describing why the student wishes to attend Saint Joseph Abbey and Seminary College.",
                 "Submit an essay describing the student's goals and ambitions.",
                 "Pay the non-refundable application fee. ",
-                "Once all of these steps have been completed, the student's application will be reviewed by the Admissions Office. If accepted, the student will be issued an I-20 form and further instructions on how to complete the visa application process."
-            ]
+            ],
+            "heading": "<p>Once all of these steps have been completed, the student's application will be reviewed by the Admissions Office. If accepted, the student will be issued an I-20 form and further instructions on how to complete the visa application process.</p>"
         },
         {
 

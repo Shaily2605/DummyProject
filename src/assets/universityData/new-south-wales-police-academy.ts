@@ -93,12 +93,8 @@ export const newsouthwalespoliceacademy = {
                 "Police Crisis Negotiation",
                 "Police Computer Forensics",
                 "Police Negotiation and Conflict Resolution"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fees for each course vary depending on the length and content of the course. Please contact the New South Wales Police Academy directly for information on the specific fees for each course.</p>"
+            ],
+            "heading": "<p>The fees for each course vary depending on the length and content of the course. Please contact the New South Wales Police Academy directly for information on the specific fees for each course.</p>"
         },
         {
             type: "meta",

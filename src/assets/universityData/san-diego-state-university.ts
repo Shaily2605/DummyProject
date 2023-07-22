@@ -125,12 +125,8 @@ export const sandiegostateuniversity = {
                 "Submitting official SAT or ACT scores",
                 "Submitting two letters of recommendation",
                 "Having a minimum grade point average (GPA) of 3.2"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above requirements, Indian students must provide proof of financial support in order to obtain an I-20 form from the SDSU International Student Center. The proof of financial support must include a bank statement and/or a letter from a sponsor. The bank statement must show that the student has the financial resources to cover tuition, fees, living expenses, and other costs for one year of study.</p> <p>For more information, please visit the SDSU Admissions website.</p>"
+            ],
+            "heading": "<p>In addition to the above requirements, Indian students must provide proof of financial support in order to obtain an I-20 form from the SDSU International Student Center. The proof of financial support must include a bank statement and/or a letter from a sponsor. The bank statement must show that the student has the financial resources to cover tuition, fees, living expenses, and other costs for one year of study.</p> <p>For more information, please visit the SDSU Admissions website.</p>"
         },
         {
             "type": "list-bollet",
@@ -144,12 +140,8 @@ export const sandiegostateuniversity = {
                 "Financial documents (proof of financial ability to pay tuition fees)",
                 "Copy of passport ",
                 "Other documents as required by the university"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>After submitting all the required documents, applicants must then submit the application fee and wait for the university to review the application and make a decision. If accepted, applicants must then apply for a student visa and complete other necessary steps in order to attend the university.</p>"
+            ],
+            "heading": "<p>After submitting all the required documents, applicants must then submit the application fee and wait for the university to review the application and make a decision. If accepted, applicants must then apply for a student visa and complete other necessary steps in order to attend the university.</p>"
         },
         {
 

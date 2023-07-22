@@ -70,14 +70,10 @@ export const tafenswnowra = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>TAFE NSW Nowra offers a range of courses in the following areas:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Business and Management",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "TAFE NSW Nowra offers a range of courses in the following areas:",
+            "textBelowInfo": "<b>Business and Management </b>",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -88,8 +84,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Creative",
-            "info": "",
+            "title": "",
+            "info": "Creative",
             "data": [
                 "Animation",
                 "Design",
@@ -100,8 +96,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Education",
-            "info": "",
+            "title": "",
+            "info": "Education",
             "data": [
                 "Early Childhood Education",
                 "Youth Work"
@@ -109,8 +105,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Engineering and Trades",
-            "info": "",
+            "title": "",
+            "info": "Engineering and Trades",
             "data": [
                 "Automotive",
                 "Electrical",
@@ -122,8 +118,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Health and Community Services",
-            "info": "",
+            "title": "",
+            "info": "Health and Community Services",
             "data": [
                 "Allied Health",
                 "Aged Care",
@@ -134,8 +130,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Hospitality and Tourism",
-            "info": "",
+            "title": "",
+            "info": "Hospitality and Tourism",
             "data": [
                 "Events Management",
                 "Hospitality",
@@ -144,8 +140,8 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Information Technology",
-            "info": "",
+            "title": "",
+            "info": "Information Technology",
             "data": [
                 "Computer Science",
                 "Cyber Security",
@@ -155,18 +151,14 @@ export const tafenswnowra = {
         },
         {
             "type": "list-bollet",
-            "title": "Science and Environment",
-            "info": "",
+            "title": "",
+            "info": "Science and Environment",
             "data": [
                 "Agriculture",
                 "Animal Care",
                 "Conservation and Land Management"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for each course varies depending on the type of qualification and the duration of the course. You can find the fee structure for each course on the TAFE NSW website.</p>"
+            ],
+            "heading": "<p>The fee structure for each course varies depending on the type of qualification and the duration of the course. You can find the fee structure for each course on the TAFE NSW website.</p>"
         },
         {
             type: "meta",

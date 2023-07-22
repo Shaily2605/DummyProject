@@ -163,8 +163,8 @@ export const tafequeenslandacaciaridgecampus = {
                 "<b>Entry Requirements:</b> Students must have completed the equivalent of an Australian Year 12 Certificate in India or have a relevant Certificate IV, Diploma, or Advanced Diploma qualification. They must also provide evidence of their English language proficiency, such as the IELTS or TOEFL test scores.",
                 "<b>Documents Required:</b> Students must provide their academic transcripts, evidence of identity, evidence of financial capacity, and a statement of purpose. They must also provide a valid visa and any other documents required by TAFE Queensland Acacia Ridge Campus.",
                 "<b>Application:</b> Students must submit their application online through the TAFE Queensland website. They must also pay the application fee and submit all required documents before the deadline.",
-                "Once the application is received, it will be assessed by the college and a decision will be made on whether the student can proceed with their enrolment."
-            ]
+            ],
+            "heading": "<p>Once the application is received, it will be assessed by the college and a decision will be made on whether the student can proceed with their enrolment.</p>"
         },
         {
 

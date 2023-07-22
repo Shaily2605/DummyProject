@@ -132,8 +132,8 @@ export const ramapocollegeofnewjersey = {
                 "Submit proof of English language proficiency, either by submitting a TOEFL or IELTS score or by taking the Ramapo College Online English Proficiency Exam.",
                 "Submit a financial certification form and provide documentation of financial resources sufficient to cover the cost of tuition, fees, and living expenses for the duration of the program.",
                 "Submit a copy of passport with valid visa, if applicable.",
-                "If all the requirements are met and your application is accepted, you will receive an I-20 form from Ramapo College. You are then required to apply for a student visa at the U.S. Embassy or Consulate."
-            ]
+            ],
+            "heading": "<p>If all the requirements are met and your application is accepted, you will receive an I-20 form from Ramapo College. You are then required to apply for a student visa at the U.S. Embassy or Consulate.</p>"
         },
         {
             "type": "list-bollet",

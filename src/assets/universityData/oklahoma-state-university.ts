@@ -83,13 +83,14 @@ export const oklahomastateuniversity = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oklahoma State University offers a wide variety of undergraduate and graduate degree programs. Below is a list of all the courses offered by the university along with their respective fees.</p>"
+            title: '',
+            data: "<p></p>"
         },
         {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Oklahoma State University offers a wide variety of undergraduate and graduate degree programs. Below is a list of all the courses offered by the university along with their respective fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting – $5,824 per semester",
                 "Aerospace Engineering – $5,824 per semester",

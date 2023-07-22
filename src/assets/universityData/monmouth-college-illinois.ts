@@ -91,12 +91,8 @@ export const monmouthcollegeillinois = {
                 "Room & Board: $11,250",
                 "Fees: $1,430",
                 "Total: $49,844"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Financial aid is available to those who qualify.</p>"
+            ],
+            "heading": "<p>Financial aid is available to those who qualify.</p>"
         },
         {
             type: "meta",
@@ -122,14 +118,10 @@ export const monmouthcollegeillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>The admission requirements for international students vary depending on the type of degree program you are applying for.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Admissions:",
+            "title": "Eligibility Requirement",
+            "info": "The admission requirements for international students vary depending on the type of degree program you are applying for.",
+            "textBelowInfo": "<b>Undergraduate Admissions:</b>",
             "data": [
                 "Completed Application for Admission",
                 "Official secondary school transcripts (or equivalent)",

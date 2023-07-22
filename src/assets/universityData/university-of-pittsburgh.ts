@@ -78,14 +78,10 @@ export const universityofpittsburgh = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Pittsburgh offers a wide range of courses and degree programs. Each course or program is associated with a set of fees and tuition costs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate tuition fees (2020-2021):",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Pittsburgh offers a wide range of courses and degree programs. Each course or program is associated with a set of fees and tuition costs.",
+            "textBelowInfo": "<b>Undergraduate tuition fees (2020-2021): </b>",
             "data": [
                 "Pennsylvania resident: $18,664",
                 "Non-Pennsylvania resident: $33,744",
@@ -93,8 +89,8 @@ export const universityofpittsburgh = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate tuition fees (2020-2021):",
-            "info": "",
+            "title": "",
+            "info": "Graduate tuition fees (2020-2021):",
             "data": [
                 "Pennsylvania resident: $25,744",
                 "Non-Pennsylvania resident: $40,824",
@@ -102,8 +98,8 @@ export const universityofpittsburgh = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional tuition fees (2020-2021):",
-            "info": "",
+            "title": "",
+            "info": "Professional tuition fees (2020-2021):",
             "data": [
                 "Law School: $51,190",
                 "School of Medicine: $58,250",

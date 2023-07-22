@@ -78,14 +78,10 @@ export const schoolofvisualarts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>School of Visual Arts offers a variety of degree programs, certificates and continuing education courses. The following is a list of courses offered at the School of Visual Arts, New York, USA, along with their respective fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "School of Visual Arts offers a variety of degree programs, certificates and continuing education courses. The following is a list of courses offered at the School of Visual Arts, New York, USA, along with their respective fees:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "BFA Computer Art: $44,220",
                 "BFA Animation: $44,220",
@@ -100,8 +96,8 @@ export const schoolofvisualarts = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "MFA Computer Art: $50,890",
                 "MFA Animation: $50,890",
@@ -120,8 +116,8 @@ export const schoolofvisualarts = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Computer Arts Certificate: $13,500",
                 "Computer Animation Certificate: $13,500",
@@ -135,8 +131,8 @@ export const schoolofvisualarts = {
         },
         {
             "type": "list-bollet",
-            "title": "Continuing Education: ",
-            "info": "",
+            "title": " ",
+            "info": "Continuing Education:",
             "data": [
                 "Digital Photography: $300–$425",
                 "Drawing & Painting: $300–$425",
@@ -191,15 +187,8 @@ export const schoolofvisualarts = {
                 "Provide proof of health insurance;",
                 "Have a valid I-20 form; and",
                 "Pay the SEVIS I-901 fee."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "In addition to meeting the above criteria, international students must also provide a complete application package. This includes an application form, application fee, transcripts, portfolio (where applicable), and a statement of purpose."
-            ]
+            ],
+            "heading": "<p>In addition to meeting the above criteria, international students must also provide a complete application package. This includes an application form, application fee, transcripts, portfolio (where applicable), and a statement of purpose.</p>"
         },
         {
             "type": "text",

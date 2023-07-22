@@ -179,8 +179,8 @@ export const tennesseestateuniversity = {
                 "Statement of purpose",
                 "Letters of recommendation",
                 "Any additional documents required by the university",
-                "Once the application and all required documents have been submitted, an admissions counselor will review the application and contact the student with any additional questions or requirements. The student will then be notified of their admission status."
-            ]
+            ],
+            "heading": "<p>Once the application and all required documents have been submitted, an admissions counselor will review the application and contact the student with any additional questions or requirements. The student will then be notified of their admission status.</p>"
         },
         {
 

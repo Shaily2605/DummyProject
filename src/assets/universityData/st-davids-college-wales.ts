@@ -115,9 +115,9 @@ export const stdavidscollegewales = {
                 "Pass in 10+2 from a recognised Indian Board  ",
                 "Equivalency Certificate from Association of Indian Universities (AIU) ",
                 "Evidence of financial means to support your studies",
-                "A valid student visa",
-                "You can find more information about the admissions process and application requirements on the college's website."
-            ]
+                "A valid student visa"
+            ],
+            "heading": "<p>You can find more information about the admissions process and application requirements on the college's website.</p>"
         },
         {
             "type": "list-bollet",

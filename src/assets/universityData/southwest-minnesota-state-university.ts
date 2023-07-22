@@ -165,12 +165,8 @@ export const southwestminnesotastateuniversity = {
                 "Graduate tuition: $436 per credit hour",
                 "Online tuition: $415 per credit hour",
                 "Additional fees may apply."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the Southwest Minnesota State University website.</p>"
+            ],
+            "heading": "<p>For more information, please visit the Southwest Minnesota State University website.</p>"
         },
         {
             type: "meta",

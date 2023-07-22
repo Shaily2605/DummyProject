@@ -67,14 +67,10 @@ export const pueblocommunitycollegecolorado = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pueblo Community College offers more than 100 degree and certificate programs in various fields of study. The fee structure varies depending on the program and the student's residency status. Below is a list of some of the degree and certificate programs offered by Pueblo Community College, along with their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts:",
+            "title": "Courses and Fees",
+            "info": "Pueblo Community College offers more than 100 degree and certificate programs in various fields of study. The fee structure varies depending on the program and the student's residency status. Below is a list of some of the degree and certificate programs offered by Pueblo Community College, along with their associated fees.",
+            "textBelowInfo": "<b>Associate of Arts:</b>",
             "data": [
                 "In-State Residents: $120 per credit hour",
                 "Out-of-State Residents: $220 per credit hour"
@@ -114,12 +110,8 @@ export const pueblocommunitycollegecolorado = {
             "data": [
                 "In-State Residents: $120 per credit hour",
                 "Out-of-State Residents: $220 per credit hour"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Tuition for online courses is the same as for on-campus courses. In addition to tuition, students must also pay a technology fee of $25 per course and a registration fee of $35. There is also a $10 late fee per course for payments made after the due date.</p>"
+            ],
+            "heading": "<p>Tuition for online courses is the same as for on-campus courses. In addition to tuition, students must also pay a technology fee of $25 per course and a registration fee of $35. There is also a $10 late fee per course for payments made after the due date.</p>"
         },
         {
             type: "meta",

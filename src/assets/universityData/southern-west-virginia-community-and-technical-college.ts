@@ -143,8 +143,8 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
                 "Provide a valid passport and visa.",
                 "Complete a physical examination and provide proof of immunization records.",
                 "Provide a statement of purpose outlining the reasons for wanting to attend Southern West Virginia Community & Technical College. ",
-                "If you have any further questions or need assistance with the application process, please contact the International Student Services Office at SWVCTC."
-            ]
+            ],
+            "heading": "<p>If you have any further questions or need assistance with the application process, please contact the International Student Services Office at SWVCTC.</p>"
         },
         {
             "type": "list-bollet",

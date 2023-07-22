@@ -164,12 +164,8 @@ export const ohiochristianuniversity = {
                 "Submit evidence of health insurance.",
                 "Participate in an entrance interview with the Office of International Admissions.",
                 "Sign the Statement of Understanding and Agreement. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all of the required documents and forms have been submitted, the Office of International Admissions will review the application and, if approved, the student will receive an admission letter. Upon receiving the admission letter, the student can then apply for an F1 student visa at the local U.S. embassy or consulate.</p>"
+            ],
+            "heading": "<p>Once all of the required documents and forms have been submitted, the Office of International Admissions will review the application and, if approved, the student will receive an admission letter. Upon receiving the admission letter, the student can then apply for an F1 student visa at the local U.S. embassy or consulate.</p>"
         },
         {
 

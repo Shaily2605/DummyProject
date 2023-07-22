@@ -136,12 +136,8 @@ export const newmancollegeireland = {
                 "You must have achieved the minimum entry requirements for the programme you are applying for ",
                 "You must have a valid passport from an accepted country ",
                 "You must be able to demonstrate that you have sufficient funds to support yourself during your studies. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>If you meet the above criteria, you can apply for a place at Newman College. You will need to submit an application form and provide the necessary documentation to support your application.</p>"
+            ],
+            "heading": "<p>If you meet the above criteria, you can apply for a place at Newman College. You will need to submit an application form and provide the necessary documentation to support your application.</p>"
         },
         {
             "type": "list-bollet",

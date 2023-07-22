@@ -136,15 +136,8 @@ export const ocaduniversity = {
                 "Must have the appropriate visa requirements for studying in Canada.",
                 "Must have proof of English language proficiency if English is not the applicant’s primary language. ",
                 "International students who have completed a secondary school education outside of Canada must have their transcripts and documents evaluated for equivalence to the Ontario Secondary School Diploma. OCAD University requires an evaluation from World Education Services (WES) or International Credential Assessment Service (ICAS)."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Note:",
-            "data": [
-                "OCAD University reserves the right to ask for additional documents or information to assess the applicant's eligibility."
-            ]
+            ],
+            "heading": "<p>Note: OCAD University reserves the right to ask for additional documents or information to assess the applicant's eligibility.</p>"
         },
         {
             "type": "list-bollet",
@@ -161,7 +154,8 @@ export const ocaduniversity = {
                 "Submit two letters of recommendation.",
                 "Submit proof of financial resources to support your studies.",
                 "Attend an interview, if required."
-            ]
+            ],
+            "heading": "<p>Once all the documents have been submitted, the admission committee will review your application and accept or reject your admission application.</p>"
         },
         {
 

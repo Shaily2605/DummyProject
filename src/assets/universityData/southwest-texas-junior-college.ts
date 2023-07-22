@@ -161,12 +161,8 @@ export const southwesttexasjuniorcollege = {
                 "Copy of passport",
                 "Proof of immunization against measles, mumps, and rubella",
                 "Proof of health insurance"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, students may be required to attend an interview and/or submit additional documents in order to complete the admission process. Please contact the International Student Services Office for more information.</p> <p>Please note that international students are not eligible for federal financial aid.</p>"
+            ],
+            "heading": "<p>In addition, students may be required to attend an interview and/or submit additional documents in order to complete the admission process. Please contact the International Student Services Office for more information.</p> <p>Please note that international students are not eligible for federal financial aid.</p>"
         },
         {
             "type": "list-bollet",

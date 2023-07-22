@@ -158,7 +158,6 @@ export const texarkanacollegetexas = {
                 "Proof of financial support",
                 "TOEFL/IELTS scores",
                 "Any other documents required by the college",
-
                 "Submit the following documents with the application form:<br>1. Copy of passport<br> 2. Statement of Purpose<br> 3. Official transcripts/mark sheets of all the academic qualifications<br> 4. Proof of financial support<br> 5. TOEFL/IELTS scores<br> 6. Any other documents required by the college",
                 "Pay the non-refundable application and processing fees.",
                 "After submitting all the documents, wait for the admission decision from the college.",

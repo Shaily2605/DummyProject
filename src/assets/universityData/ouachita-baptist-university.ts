@@ -174,8 +174,8 @@ export const ouachitabaptistuniversity = {
                 "Submit a completed financial affidavit and supporting documents.",
                 "Submit proof of health insurance.",
                 "Wait for the admissions decision.",
-                "Students should also be aware that additional requirements may apply, such as submitting letters of recommendation or a personal statement. Once the admissions decision has been made, the student may need to apply for an F-1 student visa.",
-            ]
+            ],
+            "heading": "<p>Students should also be aware that additional requirements may apply, such as submitting letters of recommendation or a personal statement. Once the admissions decision has been made, the student may need to apply for an F-1 student visa.</p>"
         },
         {
 

@@ -197,12 +197,8 @@ export const morrisoninstituteoftechnology = {
                 "Submission of two letters of recommendation.",
                 "Proof of English language proficiency, such as a TOEFL, IELTS, or Duolingo score.",
                 "Submission of a financial statement demonstrating the ability to pay for tuition and living expenses."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all of the required documents have been submitted, students will have to wait for a decision from the university. If accepted, they will then need to apply for a student visa in order to study in the United States.</p>"
+            ],
+            "heading": "<p>Once all of the required documents have been submitted, students will have to wait for a decision from the university. If accepted, they will then need to apply for a student visa in order to study in the United States.</p>"
         },
         {
             type: "meta",

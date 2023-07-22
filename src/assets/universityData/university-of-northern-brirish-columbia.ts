@@ -71,14 +71,10 @@ export const universityofnorthernbririshcolumbia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Northern British Columbia (UNBC) offers a range of undergraduate and graduate programs. The fee structure for each program is available on the university’s website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Northern British Columbia (UNBC) offers a range of undergraduate and graduate programs. The fee structure for each program is available on the university’s website.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "UNBC offers a variety of undergraduate programs.",
                 "Tuition fees vary according to the program, the number of credits taken, and the student’s residency status. For example, the tuition fee for a full-time student in the Bachelor of Science (BSc) program is $7,053.00 per term for a Canadian student and $9,620.00 per term for an international student.",
@@ -86,8 +82,8 @@ export const universityofnorthernbririshcolumbia = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "UNBC offers a wide range of graduate programs. Tuition fees for graduate programs vary according to the program, the number of credits taken, and the student’s residency status. For example, the tuition fee for a full-time student in the Master of Science (MSc) program is $4,619.00 per term for a Canadian student and $6,945.00 per term for an international student.",
                 "For more information on tuition fees for individual programs, please visit the UNBC website.",

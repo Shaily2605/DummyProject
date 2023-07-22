@@ -72,14 +72,10 @@ export const universityofnorthfloridaflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Florida offers more than 80 undergraduate degree programs and more than 40 graduate degree programs. Below is a list of the undergraduate degrees with their associated annual tuition rates. Note that these rates do not include additional fees, such as program-specific fees, technology fees, and other university fees. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degree Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Florida offers more than 80 undergraduate degree programs and more than 40 graduate degree programs. Below is a list of the undergraduate degrees with their associated annual tuition rates. Note that these rates do not include additional fees, such as program-specific fees, technology fees, and other university fees.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Accounting: $5,564",
                 "Art: $5,564",
@@ -157,10 +153,10 @@ export const universityofnorthfloridaflorida = {
             "info": "To apply for admission at the University of North Florida, students from India must submit the following documents:",
             "data": [
                 "<b>Application:</b> Students must complete and submit the online application for admission.",
-                "<b>Official Documents:</b> The following official documents must be submitted to the university: Official transcripts from all previously attended schools, Official score reports for the TOEFL or IELTS (if applicable), Official secondary school test scores or equivalent exams, Financial documents demonstrating the ability to pay for the tuition, fees, and living expenses",
-                "<b>Supporting Documents:</b> The following documents may also be required by the university: Statement of Purpose, Letters of Recommendation, Resume/CV, Portfolio, Personal essay",
-                "Once these documents are submitted, the student will then be considered for admission to the University of North Florida."
-            ]
+                "<b>Official Documents:</b> The following official documents must be submitted to the university:<br> a. Official transcripts from all previously attended schools<br> b. Official score reports for the TOEFL or IELTS (if applicable)<br> c. Official secondary school test scores or equivalent exams<br> d. Financial documents demonstrating the ability to pay for the tuition, fees, and living expenses",
+                "<b>Supporting Documents:</b> The following documents may also be required by the university:<br> a. Statement of Purpose<br> b. Letters of Recommendation<br> c. Resume/CV<br> d. Portfolio<br> e. Personal essay",
+            ],
+            "heading": "<p>Once these documents are submitted, the student will then be considered for admission to the University of North Florida.</p>"
         },
         {
 

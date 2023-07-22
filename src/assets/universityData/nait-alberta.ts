@@ -154,7 +154,7 @@ export const naitalberta = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Eligibility Requirement",
             "info": "",
             "data": [
@@ -170,12 +170,8 @@ export const naitalberta = {
                 "An official academic transcript",
                 "Proof of financial support",
                 "A valid study permit"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>If all the requirements are met, students can apply online through the NAIT website. The application process involves submitting the required documents, completing the online application form, and paying a non-refundable application fee.</p> <p>Once the application is received, NAIT will assess it and send an admissions letter if the student is accepted. The student then needs to pay the tuition fee and complete the immigration process.</p>"
+            ],
+            "heading": "<p>If all the requirements are met, students can apply online through the NAIT website. The application process involves submitting the required documents, completing the online application form, and paying a non-refundable application fee.</p> <p>Once the application is received, NAIT will assess it and send an admissions letter if the student is accepted. The student then needs to pay the tuition fee and complete the immigration process.</p>"
         },
         {
             type: "meta",

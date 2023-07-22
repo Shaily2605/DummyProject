@@ -132,12 +132,8 @@ export const millersvilleuniversitypennsylvania = {
                 "Statement of Purpose",
                 "Proof of Financial Support",
                 "Copy of Passport"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You must meet the minimum requirements for admission, which include a high school diploma and a minimum grade point average of 3.0. International students are also required to demonstrate English proficiency by submitting either TOEFL or IELTS scores.</p> <p>For more information, please visit the Millersville University website.</p>"
+            ],
+            "heading": "<p>You must meet the minimum requirements for admission, which include a high school diploma and a minimum grade point average of 3.0. International students are also required to demonstrate English proficiency by submitting either TOEFL or IELTS scores.</p> <p>For more information, please visit the Millersville University website.</p>"
         },
         {
             "type": "list-bollet",

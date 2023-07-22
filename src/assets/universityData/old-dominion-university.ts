@@ -72,13 +72,14 @@ export const olddominionuniversity = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p><b>Undergraduate Tuition & Fees </b></p>"
+            title: '',
+            data: "<p><b> </b></p>"
         },
         {
             "type": "list-bollet",
-            "title": '',
-            "info": "Fall/Spring, Per Semester",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate Tuition & Fees",
+            "textBelowInfo": "<b>Fall/Spring, Per Semester </b>",
             "data": [
                 "Undergraduate Tuition:	$9,604",
                 "Undergraduate Comprehensive Fee:	$1,096",
@@ -119,12 +120,8 @@ export const olddominionuniversity = {
                 "Lab Fee:	Varies by course",
                 "Music Fee:	Varies by course",
                 "Theatre Fee:	Varies by course"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the official website of Old Dominion University:</p> <p>https://www.odu.edu/admissions/tuition/undergraduate-tuition-and-fees</p>"
+            ],
+            "heading": "<p>For more information, please visit the official website of Old Dominion University:</p> <p>https://www.odu.edu/admissions/tuition/undergraduate-tuition-and-fees</p>"
         },
         {
             type: "meta",
