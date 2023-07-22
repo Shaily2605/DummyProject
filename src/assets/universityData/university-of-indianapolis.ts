@@ -67,14 +67,10 @@ export const universityofindianapolis = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of all the courses offered by University of Indianapolis, Indiana, USA along with their respective fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Below is the list of all the courses offered by University of Indianapolis, Indiana, USA along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Accounting: $18,402.00 per semester",
                 "Bachelor of Science in Business Administration: $18,402.00 per semester",
@@ -102,12 +98,10 @@ export const universityofindianapolis = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Tuition & Fees",
-            "data": [
-                "Undergraduate tuition for Illinois residents is $359 per credit hour, and for non-residents is $735 per credit hour. Graduate tuition for Illinois residents is $504 per credit hour, and for non-residents is $1,009 per credit hour. In addition to tuition, students may have to pay fees, including a mandatory student fee, technology fee, and other course fees."
-            ]
+            "data": "<p>Undergraduate tuition for Illinois residents is $359 per credit hour, and for non-residents is $735 per credit hour. Graduate tuition for Illinois residents is $504 per credit hour, and for non-residents is $1,009 per credit hour. In addition to tuition, students may have to pay fees, including a mandatory student fee, technology fee, and other course fees.</p>"
         },
         {
             type: "meta",

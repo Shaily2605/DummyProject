@@ -80,14 +80,10 @@ export const universityofalaskafairbanks = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Alaska Fairbanks offers numerous courses across various disciplines. Below is a list of all the courses offered by the university with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs ",
+            "title": "Courses and Fees",
+            "info": "The University of Alaska Fairbanks offers numerous courses across various disciplines. Below is a list of all the courses offered by the university with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business Administration - $16,220",
                 "Computer Science - $17,060",

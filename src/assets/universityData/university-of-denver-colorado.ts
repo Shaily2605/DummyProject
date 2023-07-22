@@ -74,14 +74,10 @@ export const universityofdenvercolorado = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Denver offers a variety of undergraduate, graduate, and doctoral degrees. The following is a list of all the courses offered by the University of Denver, along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Denver offers a variety of undergraduate, graduate, and doctoral degrees. The following is a list of all the courses offered by the University of Denver, along with their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting  -  $8,500 per semester",
                 "Anthropology  -  $8,500 per semester",

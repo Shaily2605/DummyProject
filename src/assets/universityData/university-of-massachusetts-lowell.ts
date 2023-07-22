@@ -68,14 +68,10 @@ export const universityofmassachusettslowell = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses offered by University of Massachusetts Lowell with their corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses offered by University of Massachusetts Lowell with their corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Science in Computer Science – Tuition Fee: $13,848 per year ",
                 "Bachelor of Science in Engineering – Tuition Fee: $14,319 per year ",
@@ -91,8 +87,8 @@ export const universityofmassachusettslowell = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Science in Computer Science – Tuition Fee: $15,948 per year ",
                 "Master of Science in Engineering – Tuition Fee: $18,444 per year ",

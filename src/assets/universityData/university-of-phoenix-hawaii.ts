@@ -113,7 +113,7 @@ export const universityofphoenixhawaii = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [

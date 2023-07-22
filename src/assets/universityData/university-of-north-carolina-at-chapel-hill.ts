@@ -70,8 +70,8 @@ export const universityofnorthcarolinaatchapelhill = {
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
-            "info": "The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:",
-            "textBelowInfo": "<b>Undergraduate Courses </b>",
+            "info": "Undergraduate Courses",
+            "textBelowInfo": "<b>The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:</b>",
             "data": [
                 "Arts & Sciences: $16,851 per year",
                 "Business: $21,029 per year",

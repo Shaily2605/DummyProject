@@ -68,14 +68,10 @@ export const universityofmichiganflint = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Michigan-Flint offers a wide range of undergraduate, graduate, and doctoral programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Michigan-Flint offers a wide range of undergraduate, graduate, and doctoral programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting",
                 "Anthropology",

@@ -73,14 +73,10 @@ export const universityofmobilealabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mobile offers the following courses and associated tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Mobile offers the following courses and associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts in Communication Arts: $31,000",
                 "Bachelor of Arts in Criminal Justice: $31,000",

@@ -68,14 +68,10 @@ export const universityofdivinityvictoria = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Divinity offers a range of courses, each with its own fee structure. Below is a list of the courses offered and the associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The University of Divinity offers a range of courses, each with its own fee structure. Below is a list of the courses offered and the associated fees.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Arts (Theology and Ministry): $44,550",
                 "Bachelor of Arts (Theology): $44,550",

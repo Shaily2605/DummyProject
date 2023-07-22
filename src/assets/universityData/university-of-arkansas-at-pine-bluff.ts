@@ -79,14 +79,10 @@ export const universityofarkansasatpinebluff = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas at Pine Bluff offers a range of undergraduate and graduate degrees. Below is a list of degrees and the associated tuition fees for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas at Pine Bluff offers a range of undergraduate and graduate degrees. Below is a list of degrees and the associated tuition fees for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Business Administration - $8,955 per semester",
                 "Bachelor of Science in Computer Science - $8,955 per semester",

@@ -71,14 +71,10 @@ export const universityofdaytonohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Dayton offers a variety of undergraduate, graduate and professional programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Dayton offers a variety of undergraduate, graduate and professional programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accountancy",
                 "Allied Health Sciences",

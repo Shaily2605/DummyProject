@@ -68,14 +68,10 @@ export const universityofcaliforniariverside = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California, Riverside offers over 80 Undergraduate, Graduate, and Professional degrees. The tuition and fees for each program vary.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of California, Riverside offers over 80 Undergraduate, Graduate, and Professional degrees. The tuition and fees for each program vary.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Tuition and Fees: $13,661/quarter",
                 "Non-Resident Supplemental Tuition: $282/quarter",

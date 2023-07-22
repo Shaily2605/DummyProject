@@ -72,14 +72,10 @@ export const universityofnewenglandnewsouthwales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of New England, New South Wales offers a wide range of courses in various disciplines. Below is a list of some of the courses and the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of New England, New South Wales offers a wide range of courses in various disciplines. Below is a list of some of the courses and the corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate</b>",
             "data": [
                 "Bachelor of Arts (Honours): $37,640",
                 "Bachelor of Business: $34,920",
@@ -90,8 +86,8 @@ export const universityofnewenglandnewsouthwales = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate",
             "data": [
                 "Graduate Certificate in Business Administration: $9,100",
                 "Graduate Diploma in Business Administration: $17,400",

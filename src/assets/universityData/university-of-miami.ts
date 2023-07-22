@@ -78,14 +78,10 @@ export const universityofmiami = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Miami offers a wide range of courses and programs. Below is a list of courses with fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Miami offers a wide range of courses and programs. Below is a list of courses with fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts/Bachelor of Science: $1,575 per credit hour",
                 "Bachelor of Business Administration: $1,645 per credit hour",
@@ -96,8 +92,8 @@ export const universityofmiami = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Science: $1,817 per credit hour",
                 "Master of Business Administration: $2,098 per credit hour",
@@ -120,8 +116,8 @@ export const universityofmiami = {
         },
         {
             "type": "list-bollet",
-            "title": "Other Programs",
-            "info": "",
+            "title": "",
+            "info": "Other Programs",
             "data": [
                 "Summer Session: $498 per credit hour",
                 "Professional Development and Courses: $375 – $750 per credit hour",

@@ -69,14 +69,10 @@ export const universityofdetroitmercy = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Detroit Mercy offers the following courses for undergraduate and graduate students:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programmes:",
+            "title": "Courses and Fees",
+            "info": "University of Detroit Mercy offers the following courses for undergraduate and graduate students:",
+            "textBelowInfo": "<b>Undergraduate Programmes:</b>",
             "data": [
                 "Business: Accounting, Finance, Human Resources Management, International Business, Management, Marketing",
                 "Arts & Sciences: Biology, Chemistry, Communication & Theatre Arts, Computer Science, English, History, Mathematics, Philosophy, Physics, Psychology",

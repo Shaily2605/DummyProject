@@ -69,14 +69,10 @@ export const universityoflaverne = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of the University of La Verne's undergraduate tuition and fees for the 2020-2021 academic year:</p>"
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Tuition:",
+            "type": 'list-bollet',
+            "title": 'Courses and Fees',
+            "info": "<p>The following is a list of the University of La Verne's undergraduate tuition and fees for the 2020-2021 academic year:</p>",
+            "textBelowInfo": "<b>Tuition:</b>",
             "data": [
                 "Undergraduate: $43,220",
                 "Graduate: $20,128",

@@ -74,14 +74,10 @@ export const universityofjamestown = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Jamestown, North Dakota, USA offers undergraduate, graduate, and certificate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Jamestown, North Dakota, USA offers undergraduate, graduate, and certificate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting",
                 "Art",
@@ -383,7 +379,7 @@ export const universityofjamestown = {
             "title": "",
             "info": "Hostel Facilities",
             "data": [
-              "The University of Jamestown does not have any hostel facilities on campus or in the nearby area. However, there are a number of hostels located in the nearby city of Fargo."
+                "The University of Jamestown does not have any hostel facilities on campus or in the nearby area. However, there are a number of hostels located in the nearby city of Fargo."
             ]
         },
         {

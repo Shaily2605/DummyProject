@@ -68,14 +68,10 @@ export const universityofillinoisspringfield = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Illinois Springfield offers over 45 undergraduate degree programs and over 20 graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Illinois Springfield offers over 45 undergraduate degree programs and over 20 graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting",
                 "Business Administration",

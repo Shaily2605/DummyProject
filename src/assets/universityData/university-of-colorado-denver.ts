@@ -70,14 +70,10 @@ export const universityofcoloradodenver = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Colorado Denver offers a range of undergraduate and graduate programs. The following is a list of the tuition and fees for each program. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Colorado Denver offers a range of undergraduate and graduate programs. The following is a list of the tuition and fees for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business: $11,908 - $21,964 ",
                 "Engineering and Applied Science: $12,841 - $24,223 ",

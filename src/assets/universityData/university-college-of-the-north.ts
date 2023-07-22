@@ -67,14 +67,9 @@ export const universitycollegeofthenorth = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University College of the North offers the following courses with fees as mentioned.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "University College of the North offers the following courses with fees as mentioned.",
             "data": [
                 "Bachelor of Arts: $5,853.20 ",
                 "Bachelor of Science: $5,853.20 ",

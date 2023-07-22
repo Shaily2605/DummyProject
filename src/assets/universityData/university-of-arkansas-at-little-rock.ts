@@ -66,14 +66,10 @@ export const universityofarkansasatlittlerock = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas at Little Rock offers a variety of courses to its students. The following is a list of courses offered at the university with the associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas at Little Rock offers a variety of courses to its students. The following is a list of courses offered at the university with the associated fees:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $13,818",
                 "Business Administration: $14,254",
@@ -341,7 +337,7 @@ export const universityofarkansasatlittlerock = {
             "title": "",
             "info": "Hostel Facilities",
             "data": [
-               "The University of Arkansas at Little Rock does not offer any hostel facilities on-campus or off-campus. However, there are a variety of hostel facilities located in the city of Little Rock. These hostel facilities offer a variety of amenities and services, including Wi-Fi, laundry facilities, and communal kitchens."
+                "The University of Arkansas at Little Rock does not offer any hostel facilities on-campus or off-campus. However, there are a variety of hostel facilities located in the city of Little Rock. These hostel facilities offer a variety of amenities and services, including Wi-Fi, laundry facilities, and communal kitchens."
             ]
         },
         {

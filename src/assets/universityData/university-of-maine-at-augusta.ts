@@ -71,14 +71,10 @@ export const universityofmaineataugusta = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Maine at Augusta offers a variety of courses. Below is a list of courses with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Maine at Augusta offers a variety of courses. Below is a list of courses with their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Accounting: $11,772",
                 "Bachelor of Science in Business Administration: $11,772",

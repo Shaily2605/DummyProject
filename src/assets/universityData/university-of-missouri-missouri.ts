@@ -73,14 +73,10 @@ export const universityofmissourimissouri = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Missouri offers more than 300 degree programs, including bachelor's, master's, doctoral, and professional programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Missouri offers more than 300 degree programs, including bachelor's, master's, doctoral, and professional programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $306 per credit hour ",
                 "Nursing: $415 per credit hour ",
@@ -96,8 +92,8 @@ export const universityofmissourimissouri = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Business Administration: $532 per credit hour ",
                 "Education: $434 per credit hour ",

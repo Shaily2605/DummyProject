@@ -78,14 +78,10 @@ export const universityofhoustonvictoria = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Houston-Victoria offers the following courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Houston-Victoria offers the following courses.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Business Administration",
                 "Bachelor of Science in Accounting",

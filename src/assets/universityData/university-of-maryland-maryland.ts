@@ -72,14 +72,10 @@ export const universityofmarylandmaryland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate",
-            "info": "The University of Maryland offers more than 80 undergraduate degree programs at the College Park campus, divided among the following colleges and schools:",
+            "title": "Courses and Fees",
+            "info": "Undergraduate",
+            "textBelowInfo": "<b>The University of Maryland offers more than 80 undergraduate degree programs at the College Park campus, divided among the following colleges and schools:</b>",
             "data": [
                 "College of Agriculture and Natural Resources",
                 "College of Arts & Humanities",

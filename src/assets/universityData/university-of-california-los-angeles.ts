@@ -71,14 +71,10 @@ export const universityofcalifornialosangeles = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The tuition and fees for the University of California, Los Angeles (UCLA) vary by program. The following are the estimated tuition and fees for the 2019-2020 academic year:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition & Fees:",
+            "title": "Courses and Fees",
+            "info": "The tuition and fees for the University of California, Los Angeles (UCLA) vary by program. The following are the estimated tuition and fees for the 2019-2020 academic year:",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees:</b>",
             "data": [
                 "Tuition: $13,226",
                 "Non-resident Tuition: $29,754",
@@ -327,8 +323,8 @@ export const universityofcalifornialosangeles = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation: </b> <br>University of California, Los Angeles offers on-campus accommodation for both undergraduate and graduate students. Undergraduate housing is available in the following residence halls: Dykstra Hall, De Neve Plaza, Hedrick Summit, Hitch Suites, Rieber Hall, Sproul Hall, and Veitch Court. Graduate housing is offered in the Weyburn Terrace Apartments and the Dykstra Hall graduate apartments.",
-               "<b>Off-Campus Accommodation: </b> <br>University of California, Los Angeles has a number of off-campus housing options for students. Apartments and houses are available for rent in the surrounding area, and the university has an apartment-finding service to help students locate the best option for their needs. Additionally, the university operates a number of hostels in the area, offering dormitory-style accommodations at a fraction of the cost of traditional housing."
+                "<b>On-Campus Accommodation: </b> <br>University of California, Los Angeles offers on-campus accommodation for both undergraduate and graduate students. Undergraduate housing is available in the following residence halls: Dykstra Hall, De Neve Plaza, Hedrick Summit, Hitch Suites, Rieber Hall, Sproul Hall, and Veitch Court. Graduate housing is offered in the Weyburn Terrace Apartments and the Dykstra Hall graduate apartments.",
+                "<b>Off-Campus Accommodation: </b> <br>University of California, Los Angeles has a number of off-campus housing options for students. Apartments and houses are available for rent in the surrounding area, and the university has an apartment-finding service to help students locate the best option for their needs. Additionally, the university operates a number of hostels in the area, offering dormitory-style accommodations at a fraction of the cost of traditional housing."
             ]
         },
         {

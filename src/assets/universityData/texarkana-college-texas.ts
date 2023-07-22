@@ -145,6 +145,19 @@ export const texarkanacollegetexas = {
                 "Select ‘International Student Admissions’ from the menu.",
                 "Download and complete the International Student Admission Application form.",
                 "Submit the completed form along with all the required documents to the Office of International Admissions at Texarkana College.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Submit the following documents with the application form:",
+            "data": [
+                "Copy of passport",
+                "Statement of Purpose",
+                "Official transcripts/mark sheets of all the academic qualifications",
+                "Proof of financial support",
+                "TOEFL/IELTS scores",
+                "Any other documents required by the college",
                 "Submit the following documents with the application form:<br>1. Copy of passport<br> 2. Statement of Purpose<br> 3. Official transcripts/mark sheets of all the academic qualifications<br> 4. Proof of financial support<br> 5. TOEFL/IELTS scores<br> 6. Any other documents required by the college",
                 "Pay the non-refundable application and processing fees.",
                 "After submitting all the documents, wait for the admission decision from the college.",

@@ -70,14 +70,10 @@ export const universityofidahoidaho = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Idaho offers a wide range of courses across its various departments and colleges. Below is a list of courses with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Idaho offers a wide range of courses across its various departments and colleges. Below is a list of courses with their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $5,266 per semester",
                 "Agricultural & Biosystems Engineering: $5,266 per semester",

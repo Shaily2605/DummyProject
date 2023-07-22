@@ -68,15 +68,10 @@ export const universityofnebraskakearney = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate",
-            "info": "1. Accounting",
-            "textBelowInfo": "Tuition & Fees:",
+            "title": "Courses and Fees",
+            "info": "Undergraduate",
+            "textBelowInfo": "<p><b>1. Accounting</b></p><p>Tuition & Fees:</p>",
             "data": [
                 "Nebraska Resident: $246.75 per credit hour",
                 "Non-Resident: $603.75 per credit hour",

@@ -1086,7 +1086,6 @@ import * as texasaandmuniversitytexas from '../../assets/universityData/texas-aa
 import * as texasaandmuniversitycentraltexas from '../../assets/universityData/texas-aandm-university-central-texas'
 import * as texasaandmuniversitycommerce from '../../assets/universityData/texas-aandm-university-commerce'
 import * as texasaandmuniversitycorpuschristi from '../../assets/universityData/texas-aandm-university-corpus-christi'
-import * as texasaandmuniversitysanantonio from '../../assets/universityData/texas-aandm-university-san-antonio'
 import * as texaschristianuniversity from '../../assets/universityData/texas-christian-university'
 import * as texascollegetexas from '../../assets/universityData/texas-college-texas'
 import * as texaslutheranuniversity from '../../assets/universityData/texas-lutheran-university'
@@ -1243,6 +1242,8 @@ import * as universityofcaliforniasandiego from '../../assets/universityData/uni
 import * as universityofcalifornialosangeles from '../../assets/universityData/university-of-california-los-angeles'
 import * as universityofcaliforniariverside from '../../assets/universityData/university-of-california-riverside'
 import * as universityofcaliforniasantabarbara from '../../assets/universityData/university-of-california-santa-barbara'
+
+
 import * as universityofcanberracollegeuccollege from '../../assets/universityData/university-of-canberra-college-uc-college'
 import * as universityofcanberraaustralian from '../../assets/universityData/university-of-canberra-australian'
 import * as universityofcentralarkansas from '../../assets/universityData/university-of-central-arkansas'
@@ -2449,7 +2450,6 @@ export {
     texasaandmuniversitycentraltexas,
     texasaandmuniversitycommerce,
     texasaandmuniversitycorpuschristi,
-    texasaandmuniversitysanantonio,
     texaschristianuniversity,
     texascollegetexas,
     texaslutheranuniversity,
@@ -2725,6 +2725,6 @@ export {
     universityofphoenixhawaii,
     universityofpikeville,
     universityofpittsburgh,
-    
+
 
 }

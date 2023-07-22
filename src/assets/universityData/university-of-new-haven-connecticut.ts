@@ -72,7 +72,7 @@ export const universityofnewhavenconnecticut = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Below is the list of the courses offered by University of New Haven, Connecticut, USA and their respective fee structure:",
-            "textBelowInfo": "<b>Undergraduate Programs: </b>",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Accounting: $48,750",
                 "Bachelor of Science in Business Administration: $48,750",

@@ -71,14 +71,10 @@ export const universalmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Universal Medical College, Bangladesh offers a wide range of courses. Below is a list of the courses with fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "1. MBBS (Bachelor of Medicine and Bachelor of Surgery):",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Universal Medical College, Bangladesh offers a wide range of courses. Below is a list of the courses with fee structure:",
+            "textBelowInfo": "<b>1. MBBS (Bachelor of Medicine and Bachelor of Surgery):</b>",
             "data": [
                 "Duration: 5 years",
                 "Tuition Fee: ",
@@ -92,8 +88,8 @@ export const universalmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "2. BDS (Bachelor of Dental Surgery):",
-            "info": "",
+            "title": "",
+            "info": "2. BDS (Bachelor of Dental Surgery):",
             "data": [
                 "Duration: 4 years",
                 "Tuition Fee:",
@@ -106,8 +102,8 @@ export const universalmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "3. BSc in Nursing:",
-            "info": "",
+            "title": "",
+            "info": "3. BSc in Nursing:",
             "data": [
                 "Duration: 4 years",
                 "Tuition Fee:",
@@ -120,8 +116,8 @@ export const universalmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "4. BSc in Medical Imaging Technology:",
-            "info": "",
+            "title": "",
+            "info": "4. BSc in Medical Imaging Technology:",
             "data": [
                 "Duration: 4 years",
                 "Tuition Fee:",
@@ -134,8 +130,8 @@ export const universalmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "5. BSc in Medical Laboratory Technology:",
-            "info": "",
+            "title": "",
+            "info": "5. BSc in Medical Laboratory Technology:",
             "data": [
                 "Duration: 4 years",
                 "Tuition Fee:",

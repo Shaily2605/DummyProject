@@ -83,7 +83,7 @@ export const universityofpennsylvania = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Pennsylvania offers a wide range of undergraduate and graduate programs. The following is a list of the courses and their associated fee structure:",
-            "textBelowInfo": "<b>Undergraduate Programs: </b>",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in English – $1,297 per credit",
                 "Bachelor of Science in Computer Science – $1,297 per credit",

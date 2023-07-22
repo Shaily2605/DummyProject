@@ -78,14 +78,10 @@ export const universityofmontanamontana = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Montana offers a wide range of courses in various fields. The fee structure for these courses varies based on the type of course and the semester. Below is the estimated fee structure of various courses offered by the university.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "University of Montana offers a wide range of courses in various fields. The fee structure for these courses varies based on the type of course and the semester. Below is the estimated fee structure of various courses offered by the university.",
+            "textBelowInfo": "<b>Undergraduate:</b>",
             "data": [
                 "Tuition Fees: $10,117 per semester",
                 "Student Fees: $1,788 per semester",

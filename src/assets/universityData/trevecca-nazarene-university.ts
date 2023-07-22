@@ -71,14 +71,10 @@ export const treveccanazareneuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trevecca Nazarene University, Tennessee, USA offers a variety of courses with fees. Below is a list of courses with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "<p>Trevecca Nazarene University, Tennessee, USA offers a variety of courses with fees. Below is a list of courses with their corresponding fees:</p>",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts in Christian Ministries (Tuition and Fees: $30,120)",
                 "Bachelor of Science in Nursing (Tuition and Fees: $31,820)",

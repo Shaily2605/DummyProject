@@ -331,12 +331,9 @@ export const tridenttechnicalcollege = {
             "data": [
                 "<b>On-Campus Accommodation: </b> <br>Trident Technical College does not provide any on-campus accommodation or hostel facilities for students.",
                 "<b>Off-Campus Accommodation: </b> <br>Trident Technical College does not have any official partner accommodation. However, there are a variety of off-campus accommodation options available in the surrounding area. These include hotels, bed and breakfasts, apartments, and rental homes."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The college website has a list of local hotels, apartments, and rental homes available to students. The list can be found here: https://www.tridenttech.edu/admissions/tuition-fees/local-accommodations.htm</p> <p>The college also has a partnership with Hostelworld, the world’s leading hostel-booking platform, which offers a wide selection of hostels in the area. For more information, please visit: https://www.hostelworld.com/trident-technical-college-south-carolina</p>"
+            ],
+            "heading": "<p>The college website has a list of local hotels, apartments, and rental homes available to students. The list can be found here: https://www.tridenttech.edu/admissions/tuition-fees/local-accommodations.htm</p> <p>The college also has a partnership with Hostelworld, the world’s leading hostel-booking platform, which offers a wide selection of hostels in the area. For more information, please visit: https://www.hostelworld.com/trident-technical-college-south-carolina</p>"
+
         },
         {
             type: "meta",

@@ -338,7 +338,7 @@ export const universityofcanberraaustralian = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "ON-CAMPUS ACCOMMODATION",
+            "info": "On-Campus Accommodation",
             "textBelowInfo": "<b>University of Canberra Village:</b> <br>University of Canberra Village is the on-campus student accommodation. It is located just minutes from the University of Canberra campus and provides several room types for students. These include:",
             "data": [
                 "Studio apartments",
@@ -353,7 +353,7 @@ export const universityofcanberraaustralian = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "OFF-CAMPUS ACCOMMODATION",
+            "info": "Off-Campus Accommodation",
             "textBelowInfo": "There are a variety of off-campus student accommodation options in the area surrounding the University of Canberra. These include:",
             "data": [
                 "Private rental apartments/houses",

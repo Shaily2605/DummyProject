@@ -68,11 +68,6 @@ export const universityofnorthalabamaalabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of North Alabama offers a wide variety of undergraduate and graduate programs. The tuition fees for each program varies and the following is the list of courses offered with their respective tuition fees:",
@@ -136,8 +131,8 @@ export const universityofnorthalabamaalabama = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "info": "Indian students are eligible to take admission at the University of North Alabama, provided they meet all of the university’s admission requirements. To be eligible for admission, applicants must hold a high school diploma or equivalent from a regionally accredited institution, or have successfully completed a recognized international curriculum. Applicants must also have a cumulative GPA of 2.0 or higher on a 4.0 scale.",
-            "textBelowInfo": "In addition to the basic eligibility requirements, applicants must submit the following documents:",
+            "info": "",
+            "textBelowInfo": "<p>Indian students are eligible to take admission at the University of North Alabama, provided they meet all of the university’s admission requirements. To be eligible for admission, applicants must hold a high school diploma or equivalent from a regionally accredited institution, or have successfully completed a recognized international curriculum. Applicants must also have a cumulative GPA of 2.0 or higher on a 4.0 scale.</p><p><b>In addition to the basic eligibility requirements, applicants must submit the following documents:</b></p>",
             "data": [
                 "Academic transcripts or mark sheets",
                 "Curriculum Vitae (CV)",
@@ -152,7 +147,7 @@ export const universityofnorthalabamaalabama = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "step-list",
             "title": "How to Apply ?",
             "info": "",
             "data": [

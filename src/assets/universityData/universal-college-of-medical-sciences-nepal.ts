@@ -69,14 +69,10 @@ export const universalcollegeofmedicalsciencesnepal = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are the courses offered by Universal College Of Medical Sciences, Nepal along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "1. Bachelor of Medicine and Bachelor of Surgery (MBBS):",
-            "info": "Fee Structure:",
+            "title": "Courses and Fees",
+            "info": "The following are the courses offered by Universal College Of Medical Sciences, Nepal along with their respective fee structure:",
+            "textBelowInfo": "<p><b>1. Bachelor of Medicine and Bachelor of Surgery (MBBS):</b></p><p><b>Fee Structure:</b></p>",
             "data": [
                 "Admission Fee: NPR 20,000",
                 "Tuition Fee: NPR 18,00,000",
@@ -85,8 +81,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "2. Bachelor of Nursing:",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "2. Bachelor of Nursing:",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 20,000",
                 "Tuition Fee: NPR 4,50,000",
@@ -95,8 +92,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "3. Bachelor of Science in Physiotherapy:",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "3. Bachelor of Science in Physiotherapy:",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 15,000",
                 "Tuition Fee: NPR 3,50,000",
@@ -105,8 +103,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "4. Bachelor of Science in Clinical Laboratory Technology:",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "4. Bachelor of Science in Clinical Laboratory Technology:",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 15,000",
                 "Tuition Fee: NPR 2,00,000",
@@ -115,8 +114,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "5. Bachelor of Science in Dental Hygiene:",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "5. Bachelor of Science in Dental Hygiene:",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 15,000",
                 "Tuition Fee: NPR 3,50,000",
@@ -125,8 +125,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "6. Bachelor of Science in Radiography and Imaging Technology:",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "6. Bachelor of Science in Radiography and Imaging Technology:",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 15,000",
                 "Tuition Fee: NPR 2,50,000",
@@ -135,8 +136,9 @@ export const universalcollegeofmedicalsciencesnepal = {
         },
         {
             "type": "list-bollet",
-            "title": "7. Bachelor of Science in Optometry: ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "7. Bachelor of Science in Optometry: ",
+            "textabelowInfo": "<b>Fee Structure:</b>",
             "data": [
                 "Admission Fee: NPR 15,000",
                 "Tuition Fee: NPR 2,50,000",

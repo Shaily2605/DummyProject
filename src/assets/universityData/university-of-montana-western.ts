@@ -66,14 +66,10 @@ export const universityofmontanawestern = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Montana Western offers the following courses with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Montana Western offers the following courses with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Business Administration - $27,298",
                 "Environmental Science - $26,816",
@@ -91,8 +87,8 @@ export const universityofmontanawestern = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees",
             "data": [
                 "Master of Education - $31,770",
                 "Master of Business Administration - $40,030",
