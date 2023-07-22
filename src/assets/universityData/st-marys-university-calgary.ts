@@ -119,14 +119,10 @@ export const stmarysuniversitycalgary = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>St. Mary's University Calgary offers a variety of programs to international students.</p> <p>To be eligible for admission to a program of study, international students must meet the following requirements:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Eligibility Requirements",
+            "info": "St. Mary's University Calgary offers a variety of programs to international students.",
+            "textBelowInfo": "To be eligible for admission to a program of study, international students must meet the following requirements:",
             "data": [
                 "Have a minimum academic standing equivalent to the requirements for admission to a Canadian university or college. ",
                 "Have a minimum English language proficiency level equivalent to IELTS 6.0 with no band less than 5.5, or TOEFL IBT: 80, or CAEL: 60. ",
@@ -135,12 +131,8 @@ export const stmarysuniversitycalgary = {
                 "Be in good standing with any school or college previously attended. ",
                 "Meet the specific requirements for the program to which the student has applied. ",
                 "Provide proof of any other documents requested by St. Mary’s University. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Please note that meeting the minimum requirements does not guarantee admission. All applications are subject to review and approval by the Admissions Office.</p> <p>For more information on St. Mary's University Calgary, please visit their website at http://www.stmu.ca/admissions.</p>"
+            ],
+            "heading": "<p>Please note that meeting the minimum requirements does not guarantee admission. All applications are subject to review and approval by the Admissions Office.</p> <p>For more information on St. Mary's University Calgary, please visit their website at http://www.stmu.ca/admissions.</p>"
         },
         {
             "type": "list-bollet",
@@ -155,8 +147,8 @@ export const stmarysuniversitycalgary = {
                 "Two letters of recommendation",
                 "Resume",
                 "Any other documents required by the University",
-                "Once all the required documents are submitted, the University will review the application and decide whether to grant admission."
-            ]
+            ],
+            "heading": "<p>Once all the required documents are submitted, the University will review the application and decide whether to grant admission.</p>"
         },
         {
 

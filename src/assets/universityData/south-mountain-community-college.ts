@@ -71,14 +71,10 @@ export const southmountaincommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South Mountain Community College offers a variety of courses, ranging from certificate and associate degrees to transfer and career programs. The following is the list of courses offered along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs:",
+            "title": "Courses and Fees",
+            "info": "South Mountain Community College offers a variety of courses, ranging from certificate and associate degrees to transfer and career programs. The following is the list of courses offered along with the fee structure:",
+            "textBelowInfo": "<b>Certificate Programs:</b>",
             "data": [
                 "Accounting Clerk: $7,380",
                 "Business Office Systems & Support: $7,380",
@@ -197,8 +193,8 @@ export const southmountaincommunitycollege = {
                 "Proof of financial support, such as a bank statement or sponsor letter.",
                 "Copy of the student's passport.",
                 "Any other documents that the college may require. ",
-                "Applicants should submit their documents as soon as possible, as it may take up to 8 weeks for the college to review an application. It is also advised to contact the college's International Student Office to double check on the status of the application."
-            ]
+            ],
+            "heading": "<p>Applicants should submit their documents as soon as possible, as it may take up to 8 weeks for the college to review an application. It is also advised to contact the college's International Student Office to double check on the status of the application.</p>"
         },
         {
 

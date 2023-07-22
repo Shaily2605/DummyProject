@@ -163,8 +163,8 @@ export const stbrendanshawcollege = {
                 "Have a valid student visa",
                 "Provide a satisfactory health assessment",
                 "Have appropriate financial resources to cover tuition fees and living expenses.",
-                "It is important to note that St Brendan-Shaw College also requires all international students to have proper health insurance coverage during their studies."
-            ]
+            ],
+            "heading": "<p>It is important to note that St Brendan-Shaw College also requires all international students to have proper health insurance coverage during their studies.</p>"
         },
         {
             "type": "text",

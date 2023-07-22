@@ -67,11 +67,6 @@ export const tafequeenslandqueensland = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -142,12 +137,8 @@ export const tafequeenslandqueensland = {
                 "You must have a valid visa",
                 "You must demonstrate English language proficiency ",
                 "You must meet the specific academic and other entry requirements for the course you are applying for.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once you have met the above requirements, you can apply for admission to TAFE Queensland. You can apply online by submitting an application form, which can be found on their website. You will need to provide your contact information, educational history, and other relevant documents and information. Once your application is received, it will be assessed and a decision will be made on whether to accept your application.</p> <p>If your application is successful, you will receive an offer letter of admission and an electronic Confirmation of Enrolment (eCoE). You can use this to apply for a student visa to Australia.</p> <p>Once you have been accepted and have obtained your student visa, you will be able to enrol in the course you have chosen.</p>"
+            ],
+            "heading": "<p>Once you have met the above requirements, you can apply for admission to TAFE Queensland. You can apply online by submitting an application form, which can be found on their website. You will need to provide your contact information, educational history, and other relevant documents and information. Once your application is received, it will be assessed and a decision will be made on whether to accept your application.</p> <p>If your application is successful, you will receive an offer letter of admission and an electronic Confirmation of Enrolment (eCoE). You can use this to apply for a student visa to Australia.</p> <p>Once you have been accepted and have obtained your student visa, you will be able to enrol in the course you have chosen.</p>"
         },
         {
 

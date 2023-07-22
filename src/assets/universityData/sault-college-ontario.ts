@@ -88,8 +88,8 @@ export const saultcollegeontario = {
                 "Personal Support Worker: $2,640",
                 "Veterinary Technician: $3,440",
                 "Welding Techniques: $3,440",
-                "In addition to the full-time programs, Sault College also offers a wide range of part-time programs and courses. For detailed information about these programs, you can visit the official website of Sault College."
-            ]
+            ],
+            "heading": "<p>In addition to the full-time programs, Sault College also offers a wide range of part-time programs and courses. For detailed information about these programs, you can visit the official website of Sault College.</p>"
         },
         {
             type: "meta",

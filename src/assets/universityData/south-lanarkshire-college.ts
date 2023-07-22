@@ -70,14 +70,10 @@ export const southlanarkshirecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South Lanarkshire College offers a range of courses in a variety of disciplines. The college's full-time courses are available for learners aged 16 and over, with some exceptions for certain courses.</p> <p>The college offers a variety of different types of courses, including academic qualifications such as HNCs, HNDs, and Access to Higher Education programmes, as well as vocational qualifications such as SVQs, NVQs and Apprenticeships.</p> <p>The fees for full-time courses depend on the level of the course and whether the student is a UK/EU or international student. UK/EU students may be eligible for student funding, while international students must pay full fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "The full-time course fees for UK/EU students are as follows: ",
+            "title": "Courses and Fees",
+            "info": "South Lanarkshire College offers a range of courses in a variety of disciplines. The college's full-time courses are available for learners aged 16 and over, with some exceptions for certain courses.</p> <p>The college offers a variety of different types of courses, including academic qualifications such as HNCs, HNDs, and Access to Higher Education programmes, as well as vocational qualifications such as SVQs, NVQs and Apprenticeships.</p> <p>The fees for full-time courses depend on the level of the course and whether the student is a UK/EU or international student. UK/EU students may be eligible for student funding, while international students must pay full fees.",
+            "textBelowInfo": "The full-time course fees for UK/EU students are as follows: ",
             "data": [
                 "Access to Higher Education - £1,100",
                 "HNC/HND - £2,000",
@@ -96,12 +92,8 @@ export const southlanarkshirecollege = {
                 "SVQ/NVQ Level 2 - £3,400",
                 "SVQ/NVQ Level 3 - £5,100",
                 "Apprenticeships - £3,500"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the South Lanarkshire College website.</p>"
+            ],
+            "heading": "<p>For more information, please visit the South Lanarkshire College website.</p>"
         },
         {
             type: "meta",

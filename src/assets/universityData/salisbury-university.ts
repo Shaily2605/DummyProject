@@ -72,14 +72,10 @@ export const salisburyuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is a list of all degree programs offered by Salisbury University, Maryland, USA, along with their corresponding tuition fees for the 2021-2022 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Below is a list of all degree programs offered by Salisbury University, Maryland, USA, along with their corresponding tuition fees for the 2021-2022 academic year.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting - $11,812",
                 "Anthropology - $11,812",
@@ -206,12 +202,8 @@ export const salisburyuniversity = {
                 "English language proficiency test scores ",
                 "Financial documents to demonstrate that the student can afford to pay for tuition, living expenses and other related costs",
                 "Copy of valid passport"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Additionally, Indian students must meet the university’s minimum academic requirements. This includes a high school diploma and a minimum grade point average of 2.75 or higher.</p> <p>For more information, please visit Salisbury University’s website: https://www.salisbury.edu/admissions/international-admissions/international-requirements.html</p>"
+            ],
+            "heading": "<p>Additionally, Indian students must meet the university’s minimum academic requirements. This includes a high school diploma and a minimum grade point average of 2.75 or higher.</p> <p>For more information, please visit Salisbury University’s website: https://www.salisbury.edu/admissions/international-admissions/international-requirements.html</p>"
         },
         {
             "type": "list-bollet",

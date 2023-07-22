@@ -204,8 +204,8 @@ export const saintjosephscollegeofmaine = {
                 "Bank statement or financial affidavit",
                 "Personal statement or essay",
                 "Letter of recommendation",
-                "Once the application is submitted, the Admissions Office will review the application and contact the applicant if additional documents are needed. If approved, the applicant will receive an I-20 from the college. The final step is to submit the I-20 to the nearest US Embassy or Consulate to obtain the F-1 student visa."
-            ]
+            ],
+            "heading": "<p>Once the application is submitted, the Admissions Office will review the application and contact the applicant if additional documents are needed. If approved, the applicant will receive an I-20 from the college. The final step is to submit the I-20 to the nearest US Embassy or Consulate to obtain the F-1 student visa.</p>"
         },
         {
 

@@ -77,14 +77,10 @@ export const sanfranciscostateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>SFSU offers a wide range of undergraduate and graduate degree programs. Each program is listed below, along with the estimated cost for a full-time student taking 12-18 units per semester.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "SFSU offers a wide range of undergraduate and graduate degree programs. Each program is listed below, along with the estimated cost for a full-time student taking 12-18 units per semester.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $7,014",
                 "Anthropology: $7,014 ",
@@ -123,8 +119,8 @@ export const sanfranciscostateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting: $7,835 ",
                 "Anthropology: $7,835 ",
@@ -206,12 +202,8 @@ export const sanfranciscostateuniversity = {
                 "A minimum overall grade point average of 3.0 on a 4.0 scale",
                 "A minimum grade of B in all major academic subjects",
                 "Official documentation of English language proficiency"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Indian students must provide official transcripts, letters of recommendation, and a personal statement to be considered for admission.</p>"
+            ],
+            "heading": "<p>In addition, Indian students must provide official transcripts, letters of recommendation, and a personal statement to be considered for admission.</p>"
         },
         {
             "type": "list-bollet",

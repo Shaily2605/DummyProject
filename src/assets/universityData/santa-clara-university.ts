@@ -73,14 +73,10 @@ export const santaclarauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Santa Clara University offers a range of undergraduate, graduate and doctoral degree programs. Below is a list of the courses with their associated tuition fees: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "The Santa Clara University offers a range of undergraduate, graduate and doctoral degree programs. Below is a list of the courses with their associated tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "B.A. in Business - $53,500 ",
                 "B.A. in Communication - $53,500 ",
@@ -164,8 +160,8 @@ export const santaclarauniversity = {
                 "Demonstrate English language proficiency",
                 "Have a minimum cumulative grade point average (GPA) of 3.0 on a 4.0 scale ",
                 "Meet the financial requirements for international students",
-                "Please note that international students may be asked to complete additional requirements. For more detailed information, please visit the Santa Clara University website."
-            ]
+            ],
+            "heading": "<p>Please note that international students may be asked to complete additional requirements. For more detailed information, please visit the Santa Clara University website.</p>"
         },
         {
             "type": "list-bollet",

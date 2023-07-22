@@ -130,12 +130,8 @@ export const royalmilitarycollegeofcanada = {
                 "Indian students must have completed the equivalent of a Canadian Grade 12 in their academic studies.",
                 "Indian students must meet the RMC language requirements by submitting proof of English proficiency. ",
                 "Indian students must also meet the RMC medical requirements. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, applicants must be between 16 and 25 years of age and must meet the Canadian Forces physical fitness standards.</p> <p>Applicants must also submit a detailed application package that includes all the required documents, such as academic transcripts, letters of recommendation, and a statement of intent.</p> <p>For more information, please visit the RMC website.</p>"
+            ],
+            "heading": "<p>In addition, applicants must be between 16 and 25 years of age and must meet the Canadian Forces physical fitness standards.</p> <p>Applicants must also submit a detailed application package that includes all the required documents, such as academic transcripts, letters of recommendation, and a statement of intent.</p> <p>For more information, please visit the RMC website.</p>"
         },
         {
             "type": "list-bollet",

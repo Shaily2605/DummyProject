@@ -181,8 +181,8 @@ export const springfieldcollegemassachusetts = {
                 "Submit two letters of recommendation from faculty or professionals who can speak to your academic or professional achievements.",
                 "Submit a financial statement detailing the estimated cost of attendance and the sources of funding available.",
                 "Pay the non-refundable application fee.",
-                "For more information on Springfield College's application procedures for international students, please visit the college website."
-            ]
+            ],
+            "heading": "<p>For more information on Springfield College's application procedures for international students, please visit the college website.</p>"
         },
         {
 

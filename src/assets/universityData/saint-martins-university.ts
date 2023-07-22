@@ -68,14 +68,10 @@ export const saintmartinsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>The following is a list of the undergraduate and graduate programs offered by Saint Martin's University in Washington, USA, and their associated tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The following is a list of the undergraduate and graduate programs offered by Saint Martin's University in Washington, USA, and their associated tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting - $35,800",
                 "Art - $35,800",

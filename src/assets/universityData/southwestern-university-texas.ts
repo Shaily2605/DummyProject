@@ -144,12 +144,8 @@ export const southwesternuniversitytexas = {
                 "Letters of recommendation",
                 "A personal statement or essay",
                 "SAT or ACT scores (not required for transfer students)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must submit evidence of health insurance coverage. Southwestern University requires all international students to have health insurance coverage.</p>"
+            ],
+            "heading": "<p>In addition, international students must submit evidence of health insurance coverage. Southwestern University requires all international students to have health insurance coverage.</p>"
         },
         {
             "type": "list-bollet",

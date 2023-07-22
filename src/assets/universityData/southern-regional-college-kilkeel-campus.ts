@@ -121,8 +121,8 @@ export const southernregionalcollegekilkeelcampus = {
             "data": [
                 "The fees for the full-time and part-time courses vary based on the course. The tuition fee for Access to Social Sciences, Computing and IT, Construction and Built Environment, Engineering, Hair and Beauty, Hospitality and Catering, Maritime and Logistics, Performing and Production Arts, Public Services, Sport, and Science courses are £4,250 per year. For Access Health and Social Care and Business courses, the tuition fee is £3,500 per year. ",
                 "For part-time courses, the tuition fee varies from course to course. The fee ranges from £200-£795 per year.",
-                "For further information, please visit the website of Southern Regional College: https://www.src.ac.uk/"
-            ]
+            ],
+            "heading": "<p>For further information, please visit the website of Southern Regional College: https://www.src.ac.uk/</p>"
         },
         {
             type: "meta",
@@ -154,9 +154,7 @@ export const southernregionalcollegekilkeelcampus = {
             "data": [
                 "You must be at least 18 years old.",
                 "You must have a good command of English; this can be demonstrated through an IELTS score of 5.5 or higher.",
-                "You must have either:",
-                "Completed secondary school in India with a minimum of 50% marks in all subjects and a score of 50% in English; or",
-                "Completed a higher education qualification in India, with a minimum of 50% marks in all subjects and a score of 50% in English.",
+                "You must have either:<br> A. Completed secondary school in India with a minimum of 50% marks in all subjects and a score of 50% in English; or<br> B. Completed a higher education qualification in India, with a minimum of 50% marks in all subjects and a score of 50% in English.",
                 "You must have sufficient funds to cover the costs of tuition fees and living expenses for the duration of your stay in Ireland."
             ]
         },

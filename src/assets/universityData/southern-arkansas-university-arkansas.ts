@@ -175,8 +175,8 @@ export const southernarkansasuniversityarkansas = {
                 "Submit a completed SAU International Student Application for Admission.",
                 "Submit a notarized copy of the Declaration and Signature page of the I-20 form.",
                 "Submit a non-refundable US $50.00 application fee.",
-                "Once these criteria are met, you will receive an I-20 form and a letter of acceptance from the SAU Office of Admissions."
-            ]
+            ],
+            "heading": "<p>Once these criteria are met, you will receive an I-20 form and a letter of acceptance from the SAU Office of Admissions.</p>"
         },
         {
             "type": "list-bollet",

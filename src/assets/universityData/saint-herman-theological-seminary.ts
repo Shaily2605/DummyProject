@@ -123,8 +123,8 @@ export const sainthermantheologicalseminary = {
                 "Demonstrate English proficiency, either through TOEFL scores or an interview with the Admissions Committee.",
                 "Submit proof of financial resources for the duration of the program.",
                 "Submit a copy of a valid passport.",
-                "International applicants who are accepted to the seminary must also apply for a student visa from the U.S. Embassy or Consulate in their home country."
-            ]
+            ],
+            "heading": "<p>International applicants who are accepted to the seminary must also apply for a student visa from the U.S. Embassy or Consulate in their home country.</p>"
         },
         {
             "type": "text",

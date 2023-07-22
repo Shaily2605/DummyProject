@@ -69,14 +69,10 @@ export const southcarolinastateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The South Carolina State University offers a variety of undergraduate and graduate degree programs. The following is a list of the available courses, along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "UNDERGRADUATE PROGRAMS",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The South Carolina State University offers a variety of undergraduate and graduate degree programs. The following is a list of the available courses, along with their fee structure:",
+            "textBelowInfo": "<b>UNDERGRADUATE PROGRAMS </b>",
             "data": [
                 "Accounting - $360 per credit hour",
                 "Business Administration - $360 per credit hour",
@@ -95,8 +91,8 @@ export const southcarolinastateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "GRADUATE PROGRAMS",
-            "info": "",
+            "title": "",
+            "info": "GRADUATE PROGRAMS",
             "data": [
                 "Business Administration - $500 per credit hour",
                 "Education - $500 per credit hour",
@@ -158,12 +154,8 @@ export const southcarolinastateuniversity = {
                 "A valid U.S. visa",
                 "Proof of health insurance",
                 "Any additional documents requested by the Office of Admissions"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please visit the website of SCSU international admissions for Indian students at: https://www.scsu.edu/admissions/applying/international-applicants.aspx</p>"
+            ],
+            "heading": "<p>For more information, please visit the website of SCSU international admissions for Indian students at: https://www.scsu.edu/admissions/applying/international-applicants.aspx</p>"
         },
         {
             "type": "list-bollet",

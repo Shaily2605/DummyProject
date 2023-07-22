@@ -96,12 +96,8 @@ export const southwesternindianpolytechnicinstitute = {
                 "Graduation Fee: $50",
                 "Student Activity Fee: $15",
                 "Technology Fee: $20"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>All fees are subject to change without prior notice.</p>"
+            ],
+            "heading": "<p>All fees are subject to change without prior notice.</p>"
         },
         {
             type: "meta",

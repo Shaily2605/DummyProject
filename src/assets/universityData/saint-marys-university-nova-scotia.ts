@@ -70,14 +70,10 @@ export const saintmarysuniversitynovascotia = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Below is the list of courses offered at Saint Mary’s University, Nova Scotia, Canada along with the fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses offered at Saint Mary’s University, Nova Scotia, Canada along with the fee structure.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Arts/Science/Commerce - $10,900/year",
                 "Business Administration - $12,400/year",
@@ -90,8 +86,8 @@ export const saintmarysuniversitynovascotia = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "MBA - $17,900/year",
                 "Masters in Computer Science - $14,400/year",
@@ -141,8 +137,8 @@ export const saintmarysuniversitynovascotia = {
             "data": [
                 "Completed Bachelor’s degree from an accredited Indian university with a minimum CGPA of 2.5 on a 4.0 scale.",
                 "English Language Test Score: IELTS: 6.5 overall with no band less than 6.0; TOEFL: 90 (internet-based) with no individual score less than 20.",
-                "In addition to these requirements, you may also need to provide additional documents such as a personal statement, resume, and letters of recommendation. Please refer to the university’s website for the full list of requirements and documents."
-            ]
+            ],
+            "heading": "<p>In addition to these requirements, you may also need to provide additional documents such as a personal statement, resume, and letters of recommendation. Please refer to the university’s website for the full list of requirements and documents.</p>"
         },
         {
             "type": "list-bollet",

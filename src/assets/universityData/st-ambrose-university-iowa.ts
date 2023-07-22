@@ -146,8 +146,8 @@ export const stambroseuniversityiowa = {
                 "A completed application ",
                 "SAT or ACT scores (if applicable) ",
                 "Any additional documentation requested by the Office of Admissions  ",
-                "In addition, international students are required to submit proof of sufficient funds to cover all expenses while studying at St. Ambrose University."
-            ]
+            ],
+            "heading": "<p>In addition, international students are required to submit proof of sufficient funds to cover all expenses while studying at St. Ambrose University.</p>"
         },
         {
             "type": "list-bollet",

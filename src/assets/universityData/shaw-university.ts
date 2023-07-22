@@ -70,14 +70,10 @@ export const shawuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Shaw University offers a wide range of undergraduate and graduate programs in the fields of Arts & Sciences, Business & Entrepreneurship, Education and Social Work. The following is the list of courses offered by the university and their respective fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Shaw University offers a wide range of undergraduate and graduate programs in the fields of Arts & Sciences, Business & Entrepreneurship, Education and Social Work. The following is the list of courses offered by the university and their respective fees:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts in English: $5,920 per semester",
                 "Bachelor of Arts in History: $5,920 per semester",
@@ -140,12 +136,8 @@ export const shawuniversity = {
                 "Must demonstrate English proficiency through an approved testing agency",
                 "Must submit an official transcript from their previous school",
                 "Must have a minimum cumulative Grade Point Average of 2.5 on a 4.0 scale"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Indian students may be required to submit additional documents such as financial statements, letter of recommendation, and/or an essay. The university also requires a minimum TOEFL score of 550 (paper-based) or 213 (computer-based) or 79 (internet-based).</p>"
+            ],
+            "heading": "<p>In addition, Indian students may be required to submit additional documents such as financial statements, letter of recommendation, and/or an essay. The university also requires a minimum TOEFL score of 550 (paper-based) or 213 (computer-based) or 79 (internet-based).</p>"
         },
         {
             "type": "list-bollet",

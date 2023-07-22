@@ -102,12 +102,8 @@ export const seattlepacificuniversity = {
                 "Student fees: $138 per credit hour",
                 "Books and supplies: $1,000",
                 "Total: Varies, depending on the number of credit hours taken"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information about tuition and fees, please visit the University's website.</p>"
+            ],
+            "heading": "<p>For more information about tuition and fees, please visit the University's website.</p>"
         },
         {
             type: "meta",
@@ -143,8 +139,8 @@ export const seattlepacificuniversity = {
                 "<b>English Proficiency:</b> All applicants must demonstrate English proficiency by submitting an official TOEFL, IELTS, or PTE Academic score report.",
                 "<b>Financial Documentation:</b> International applicants must submit financial documentation that demonstrates they can meet the cost of attendance.",
                 "<b>Visa Documentation:</b> All international students must obtain a student visa, and must submit all necessary documents to obtain the visa.",
-                "<b>Note:</b> Seattle Pacific University does not require SAT or ACT scores for international students.",
-            ]
+            ],
+            "heading": "<p><b>Note:</b> Seattle Pacific University does not require SAT or ACT scores for international students.</p>"
         },
         {
             "type": "list-bollet",
@@ -159,8 +155,8 @@ export const seattlepacificuniversity = {
                 "Financial documentation ",
                 "A completed Certificate of Finances form ",
                 "Supporting documents, such as a passport and visa ",
-                "Once the application is submitted and all supporting materials are received, the university will review the application and make an admission decision."
-            ]
+            ],
+            "heading": "<p>Once the application is submitted and all supporting materials are received, the university will review the application and make an admission decision.</p>"
         },
         {
 

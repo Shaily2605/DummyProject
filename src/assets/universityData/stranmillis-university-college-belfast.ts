@@ -137,8 +137,8 @@ export const stranmillisuniversitycollegebelfast = {
                 "Relevant work experience ",
                 "A personal statement",
                 "References",
-                "In addition, international students must provide evidence of immigration status, a valid passport and proof of financial resources to cover the tuition fees and living expenses. The College also requires a criminal record disclosure or equivalent evidence from applicants' home countries."
-            ]
+            ],
+            "heading": "<p>In addition, international students must provide evidence of immigration status, a valid passport and proof of financial resources to cover the tuition fees and living expenses. The College also requires a criminal record disclosure or equivalent evidence from applicants' home countries.</p>"
         },
         {
             "type": "text",

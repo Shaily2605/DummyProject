@@ -69,14 +69,10 @@ export const royalaustralianandnewzealandcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Royal Australian and New Zealand College of Ophthalmologists, New South Wales, Australia offers the following courses with their respective fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Fellowship Program:",
+            "title": "Courses and Fees",
+            "info": "The Royal Australian and New Zealand College of Ophthalmologists, New South Wales, Australia offers the following courses with their respective fee structure: ",
+            "textBelowInfo": "<b>1. Fellowship Program:</b>",
             "data": [
                 "Basic Fee: $5,850",
                 "Exam Fee: $1,200",
@@ -184,12 +180,8 @@ export const royalaustralianandnewzealandcollege = {
                 "Arranging an appropriate visa to work in Australia ",
                 "Completing a Professionalism and Ethics course",
                 "Demonstrating an appropriate level of English proficiency "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once all the necessary requirements have been met, the student should submit their application to the college.</p>"
+            ],
+            "heading": "<p>Once all the necessary requirements have been met, the student should submit their application to the college.</p>"
         },
         {
 

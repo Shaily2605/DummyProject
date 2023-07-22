@@ -71,14 +71,10 @@ export const southeasterncommunitycollegeiowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southeastern Community College offers over 70 degree and certificate programs, including:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degree Programs:",
+            "title": "Courses and Fees",
+            "info": "Southeastern Community College offers over 70 degree and certificate programs, including:",
+            "textBelowInfo": "<b>Associate Degree Programs:</b>",
             "data": [
                 "Accounting",
                 "Agriculture",
@@ -142,13 +138,8 @@ export const southeasterncommunitycollegeiowa = {
             "data": [
                 "Per Credit Hour: $235.00",
                 "Minimum Per Semester: $875.00"
-
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to tuition, students may be charged additional fees, including technology fees, program fees, and course fees.</p>"
+            ],
+            "heading": "<p>In addition to tuition, students may be charged additional fees, including technology fees, program fees, and course fees.</p>"
         },
         {
             type: "meta",

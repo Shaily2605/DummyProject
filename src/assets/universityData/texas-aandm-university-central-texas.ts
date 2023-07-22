@@ -71,14 +71,10 @@ export const texasaandmuniversitycentraltexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas A&M University-Central Texas provides a wide range of undergraduate and graduate degrees, certificates and endorsements. The following is a list of all the courses offered at the university and their corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Texas A&M University-Central Texas provides a wide range of undergraduate and graduate degrees, certificates and endorsements. The following is a list of all the courses offered at the university and their corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Degrees:</b>",
             "data": [
                 "Applied Arts & Sciences: Tuition & Fees: $3,033 per semester ",
                 "Business Administration: Tuition & Fees: $3,033 per semester ",
@@ -93,8 +89,8 @@ export const texasaandmuniversitycentraltexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees:",
             "data": [
                 "Applied Arts & Sciences (MAAS): Tuition & Fees: $3,936 per semester ",
                 "Business Administration (MBA): Tuition & Fees: $3,936 per semester ",
@@ -110,8 +106,8 @@ export const texasaandmuniversitycentraltexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificates:",
-            "info": "",
+            "title": "",
+            "info": "Certificates:",
             "data": [
                 "Applied Arts & Sciences: Tuition & Fees: $1,182 per semester ",
                 "Business Administration: Tuition & Fees: $1,182 per semester ",
@@ -126,8 +122,8 @@ export const texasaandmuniversitycentraltexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Endorsements:",
-            "info": "",
+            "title": "",
+            "info": "Endorsements:",
             "data": [
                 "Principal: Tuition & Fees: $1,182 per semester ",
                 "Special Education: Tuition & Fees: $1,182 per semester"

@@ -87,12 +87,8 @@ export const southernregionalcollegearmaghcampus = {
                 "Public Services ",
                 "Science ",
                 "Sports & Fitness"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for each course varies depending on the type of program and the duration of the course. For more information on fees, please visit the Southern Regional College website (www.src.ac.uk) or contact the college directly.</p>"
+            ],
+            "heading": "<p>The fee structure for each course varies depending on the type of program and the duration of the course. For more information on fees, please visit the Southern Regional College website (www.src.ac.uk) or contact the college directly.</p>"
         },
         {
             type: "meta",
@@ -138,12 +134,8 @@ export const southernregionalcollegearmaghcampus = {
                 "6.5 overall (with no individual component below 6.0) for Higher National Certificates/Diplomas ",
                 "6.5 overall (with no individual component below 6.0) for Bachelor Degree Programmes ",
                 "6.5 overall (with no individual component below 6.0) for Postgraduate Programmes. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Applicants must also provide evidence of sufficient funds to support their studies in the UK.</p>"
+            ],
+            "heading": "<p>Applicants must also provide evidence of sufficient funds to support their studies in the UK.</p>"
         },
         {
             "type": "list-bollet",

@@ -68,14 +68,10 @@ export const shoalhavencommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Shoalhaven Community College offers a variety of courses, ranging from Certificate IV to Diploma courses. The courses are conducted in the areas of business, health and community services, hospitality, information technology, and retail. The fee structure for these courses vary depending on the type of course, the length of the course, and the course provider.</p> <p>The following are the courses available at Shoalhaven Community College:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Shoalhaven Community College offers a variety of courses, ranging from Certificate IV to Diploma courses. The courses are conducted in the areas of business, health and community services, hospitality, information technology, and retail. The fee structure for these courses vary depending on the type of course, the length of the course, and the course provider.",
+            "textBelowInfo": "The following are the courses available at Shoalhaven Community College:",
             "data": [
                 "Certificate IV in Business",
                 "Certificate IV in Health and Community Services",
@@ -87,12 +83,8 @@ export const shoalhavencommunitycollege = {
                 "Diploma of Hospitality",
                 "Diploma of Information Technology",
                 "Diploma of Retail"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>The fee structure for these courses vary depending on the course provider and the duration of the course. Generally, the tuition fees range from AUD$5,000 to AUD$10,000. Most of the courses also include additional fees such as resource fees, materials fees and assessment fees. Some courses also require the student to purchase textbooks.</p>"
+            ],
+            "heading": "<p>The fee structure for these courses vary depending on the course provider and the duration of the course. Generally, the tuition fees range from AUD$5,000 to AUD$10,000. Most of the courses also include additional fees such as resource fees, materials fees and assessment fees. Some courses also require the student to purchase textbooks.</p>"
         },
         {
             type: "meta",

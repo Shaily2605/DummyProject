@@ -71,14 +71,10 @@ export const stephenscollegemissouri = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stephens College offers undergraduate and graduate degrees in a variety of fields. The following are the courses offered by the college along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degrees:",
+            "title": "Courses and Fees",
+            "info": "Stephens College offers undergraduate and graduate degrees in a variety of fields. The following are the courses offered by the college along with their fee structure:",
+            "textBelowInfo": "<b>Undergraduate Degrees:</b>",
             "data": [
                 "Bachelor of Arts (BA): $33,750/year",
                 "Bachelor of Science (BS): $33,750/year",
@@ -170,8 +166,8 @@ export const stephenscollegemissouri = {
                 "Copy of financial aid documents (if applicable)",
                 "A Statement of Financial Responsibility",
                 "Two letters of recommendation (for undergraduate applicants only)",
-                "For more information, please visit the official website of Stephens College."
-            ]
+            ],
+            "heading": "<p>For more information, please visit the official website of Stephens College.</p>"
         },
         {
 

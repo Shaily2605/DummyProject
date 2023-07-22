@@ -138,8 +138,8 @@ export const southernschoolofnaturaltherapies = {
                 "The required health insurance coverage ",
                 "Payment of the application fee",
                 "Additional documents may be requested depending on the program being applied for.",
-                "Applicants may also need to complete an interview and/or a placement test. Once all the documents have been submitted and approved, the university will issue a Letter of Offer which will need to be accepted and a Confirmation of Enrolment (CoE) will be issued. This is required to obtain a student visa."
-            ]
+            ],
+            "heading": "<p>Applicants may also need to complete an interview and/or a placement test. Once all the documents have been submitted and approved, the university will issue a Letter of Offer which will need to be accepted and a Confirmation of Enrolment (CoE) will be issued. This is required to obtain a student visa.</p>"
         },
         {
 

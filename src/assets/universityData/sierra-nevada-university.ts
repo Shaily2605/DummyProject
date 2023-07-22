@@ -158,8 +158,8 @@ export const sierranevadauniversity = {
                 "Application fee",
                 "Copy of visa",
                 "Additional documentation may be required for certain programs",
-                "In addition, applicants must meet the academic standards set by SNU."
-            ]
+            ],
+            "heading": "<p>In addition, applicants must meet the academic standards set by SNU.</p>"
         },
         {
             "type": "list-bollet",

@@ -142,8 +142,8 @@ export const southernnewhampshireuniversitymaine = {
                 "Submit a copy of your financial documents, such as bank statements or affidavits indicating your ability to pay the tuition and living costs.",
                 "Submit two letters of recommendation from teachers or employers.",
                 "Submit a 500-word essay outlining your reasons for attending SNHU and your future professional goals.",
-                "Once all the required documents are submitted, the admissions office at SNHU will review the application and make a decision."
-            ]
+            ],
+            "heading": "<p>Once all the required documents are submitted, the admissions office at SNHU will review the application and make a decision.</p>"
         },
         {
 

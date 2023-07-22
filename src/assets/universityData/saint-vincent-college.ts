@@ -67,14 +67,10 @@ export const saintvincentcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Vincent College offers more than 50 undergraduate major and minor academic programs, as well as seven graduate degree programs. The college also offers several pre-professional programs, including pre-law and pre-medicine.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Saint Vincent College offers more than 50 undergraduate major and minor academic programs, as well as seven graduate degree programs. The college also offers several pre-professional programs, including pre-law and pre-medicine.",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Accounting",
                 "Art",
@@ -156,8 +152,8 @@ export const saintvincentcollege = {
                  "Official immunization records.  ",
                  "Visa application forms.  ",
                  "Additional documents, depending on the program to which the student is applying.",
-                 "Once all the required documents have been received and evaluated, the Office of International Student Services will issue a Certificate of Eligibility (Form I-20). The student must present this document to the U.S. Consulate or Embassy in order to be issued a student visa."
-            ]
+            ],
+            "heading": "<p>Once all the required documents have been received and evaluated, the Office of International Student Services will issue a Certificate of Eligibility (Form I-20). The student must present this document to the U.S. Consulate or Embassy in order to be issued a student visa.</p>"
         },
         {
 

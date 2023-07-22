@@ -175,8 +175,8 @@ export const spartanburgcommunitycollege = {
                 "A completed FAFSA form for financial aid.",
                 "A completed immunization form.",
                 "A completed International Student Financial Statement.",
-                "Once the application and necessary documents have been received, the college will review the student’s application and make a decision. If accepted, the student will receive an acceptance package and instructions on how to complete the registration process."
-            ]
+            ],
+            "heading": "<p>Once the application and necessary documents have been received, the college will review the student’s application and make a decision. If accepted, the student will receive an acceptance package and instructions on how to complete the registration process.</p>"
         },
         {
 

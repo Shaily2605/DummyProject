@@ -68,14 +68,10 @@ export const ststephensuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Stephen's University offers the following courses with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Program ",
+            "title": "Courses and Fees",
+            "info": "St. Stephen's University offers the following courses with their corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Program </b>",
             "data": [
                 "Bachelor of Arts (BA): $5,000 per semester",
                 "Bachelor of Science (BSc): $5,000 per semester",
@@ -153,12 +149,8 @@ export const ststephensuniversity = {
                 "Financial documents (if applicable)",
                 "A personal statement",
                 "Two letters of recommendation"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, international students must also submit proof of adequate financial resources to cover tuition, fees, and living expenses for one year of study.</p> <p>The university may also require an interview as part of the admissions process.</p>"
+            ],
+            "heading": "<p>In addition, international students must also submit proof of adequate financial resources to cover tuition, fees, and living expenses for one year of study.</p> <p>The university may also require an interview as part of the admissions process.</p>"
         },
         {
 

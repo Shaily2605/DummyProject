@@ -151,8 +151,8 @@ export const springarboruniversitymichigan = {
                 "An official bank statement demonstrating the student’s ability to pay for tuition, fees and living expenses for the duration of the program.",
                 "An affidavit of support from the student’s sponsor.",
                 "Evidence of English proficiency, if applicable.",
-                "Once these documents are received and reviewed, an official admissions decision will be made. If accepted, international students will be required to submit additional documents before they can receive their I-20 and begin their studies.",
-            ]
+            ],
+            "heading": "<p>Once these documents are received and reviewed, an official admissions decision will be made. If accepted, international students will be required to submit additional documents before they can receive their I-20 and begin their studies.</p>"
         },
         {
 

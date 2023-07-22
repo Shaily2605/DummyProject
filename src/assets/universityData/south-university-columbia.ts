@@ -70,14 +70,10 @@ export const southuniversitycolumbia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South University, Columbia, South Carolina, USA offers a broad range of degree programs that are designed to equip students with the knowledge and skills they need to pursue successful careers. Below is a list of courses offered by the university along with their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "South University, Columbia, South Carolina, USA offers a broad range of degree programs that are designed to equip students with the knowledge and skills they need to pursue successful careers. Below is a list of courses offered by the university along with their corresponding fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Accounting – $539 per credit hour ",
                 "Bachelor of Science in Business Administration – $539 per credit hour ",
@@ -155,8 +151,8 @@ export const southuniversitycolumbia = {
                 "Submit the F-1 visa application and complete the visa interview process.",
                 "Once you have been accepted, make arrangements for housing, transportation, and other necessary arrangements.",
                 "When you arrive in the United States, attend the university’s international student orientation program.",
-                "Following these steps will help you to successfully apply for admission at South University, Columbia, South Carolina, USA."
-            ]
+            ],
+            "heading": "<p>Following these steps will help you to successfully apply for admission at South University, Columbia, South Carolina, USA.</p>"
         },
         {
 
