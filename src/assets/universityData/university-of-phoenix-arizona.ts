@@ -70,11 +70,7 @@ export const universityofphoenixarizona = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.",
-<<<<<<< HEAD
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-=======
-            "textBelowInfo": "<b>Undergraduate Programs: </b>",
->>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
             "data": [
                 "Associate of Arts in Business: $530 per credit",
                 "Associate of Arts in Psychology: $530 per credit",

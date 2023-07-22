@@ -73,11 +73,7 @@ export const universityofnorthcarolinaatpembroke = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "University of North Carolina at Pembroke offers over 50 undergraduate and graduate programs.",
-<<<<<<< HEAD
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-=======
-            "textBelowInfo": "<b>Undergraduate Programs </b>",
->>>>>>> 07420bd1c846054b37b98146235641324cb75ad1
             "data": [
                 "Accounting ",
                 "Biology ",

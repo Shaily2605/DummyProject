@@ -450,6 +450,7 @@ import * as vancouverislanduniversity from '../../assets/universityData/vancouve
 import * as victoriauniversitysydney from '../../assets/universityData/victoria-university-sydney'
 import * as victoriauniversity from '../../assets/universityData/victoria-university'
 
+//****************1159 started****************
 import * as millenniaatlanticuniversity from '../../assets/universityData/millennia-atlantic-university'
 import * as millersvilleuniversitypennsylvania from '../../assets/universityData/millersville-university-pennsylvania'
 import * as milliganuniversitytennessee from '../../assets/universityData/milligan-university-tennessee'
@@ -1085,7 +1086,6 @@ import * as texasaandmuniversitytexas from '../../assets/universityData/texas-aa
 import * as texasaandmuniversitycentraltexas from '../../assets/universityData/texas-aandm-university-central-texas'
 import * as texasaandmuniversitycommerce from '../../assets/universityData/texas-aandm-university-commerce'
 import * as texasaandmuniversitycorpuschristi from '../../assets/universityData/texas-aandm-university-corpus-christi'
-import * as texasaandmuniversitysanantonio from '../../assets/universityData/texas-aandm-university-san-antonio'
 import * as texaschristianuniversity from '../../assets/universityData/texas-christian-university'
 import * as texascollegetexas from '../../assets/universityData/texas-college-texas'
 import * as texaslutheranuniversity from '../../assets/universityData/texas-lutheran-university'
@@ -2450,7 +2450,6 @@ export {
     texasaandmuniversitycentraltexas,
     texasaandmuniversitycommerce,
     texasaandmuniversitycorpuschristi,
-    texasaandmuniversitysanantonio,
     texaschristianuniversity,
     texascollegetexas,
     texaslutheranuniversity,
