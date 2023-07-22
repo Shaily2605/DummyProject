@@ -75,14 +75,10 @@ export const unioncollegekentucky = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Union College offers more than 60 academic programs across four divisions:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Division of Arts and Humanities",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Union College offers more than 60 academic programs across four divisions:",
+            "textBelowInfo": "<b>Division of Arts and Humanities</b>",
             "data": [
                 "Art",
                 "English",
@@ -95,8 +91,8 @@ export const unioncollegekentucky = {
         },
         {
             "type": "list-bollet",
-            "title": "Division of Behavioral and Social Sciences",
-            "info": "",
+            "title": "",
+            "info": "Division of Behavioral and Social Sciences",
             "data": [
                 "Communication",
                 "Economics",
@@ -108,8 +104,8 @@ export const unioncollegekentucky = {
         },
         {
             "type": "list-bollet",
-            "title": "Division of Mathematics, Science and Technology",
-            "info": "",
+            "title": "",
+            "info": "Division of Mathematics, Science and Technology",
             "data": [
                 "Biology",
                 "Chemistry",
@@ -121,8 +117,8 @@ export const unioncollegekentucky = {
         },
         {
             "type": "list-bollet",
-            "title": "Division of Professional Studies",
-            "info": "",
+            "title": "",
+            "info": "Division of Professional Studies",
             "data": [
                 "Business Administration",
                 "Health Administration",

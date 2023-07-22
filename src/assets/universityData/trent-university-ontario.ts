@@ -67,14 +67,10 @@ export const trentuniversityontario = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trent University offers a variety of courses with various fee structures.</p> <p>The following is the list of courses and the respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "<p>Trent University offers a variety of courses with various fee structures.</p> <p>The following is the list of courses and the respective fee structure:</p>",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts: Tuition Fee: $8,300 per semester ",
                 "Bachelor of Science: Tuition Fee: $8,500 per semester ",

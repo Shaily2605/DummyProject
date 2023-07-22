@@ -70,14 +70,10 @@ export const universityofmountolive = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mount Olive in North Carolina offers a variety of undergraduate and graduate courses. The courses available at the University of Mount Olive are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Mount Olive in North Carolina offers a variety of undergraduate and graduate courses. The courses available at the University of Mount Olive are as follows:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Arts in Accounting",
                 "Bachelor of Arts in Business Administration",
@@ -98,8 +94,8 @@ export const universityofmountolive = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Master of Arts in Christian Studies",
                 "Master of Business Administration",

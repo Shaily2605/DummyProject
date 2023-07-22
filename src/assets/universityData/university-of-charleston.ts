@@ -71,14 +71,10 @@ export const universityofcharleston = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Charleston offers the following courses and corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Charleston offers the following courses and corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Business Administration: $455 per credit hour ",
                 "Bachelor of Science in Health Science: $455 per credit hour ",
@@ -92,8 +88,8 @@ export const universityofcharleston = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $635 per credit hour ",
                 "Master of Science in Nursing: $655 per credit hour ",

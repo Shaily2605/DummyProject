@@ -69,14 +69,10 @@ export const universityofmoncton = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Moncton offers an array of undergraduate and graduate programs. Below is a list of the available courses with their respective fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Moncton offers an array of undergraduate and graduate programs. Below is a list of the available courses with their respective fee structure.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts (BA): $5,717.19 per year. ",
                 "Bachelor of Science (BS): $5,946.19 per year. ",
@@ -88,8 +84,8 @@ export const universityofmoncton = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Arts (MA): $4,747.41 per year. ",
                 "Master of Science (MS): $4,747.41 per year. ",

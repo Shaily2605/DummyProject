@@ -77,14 +77,10 @@ export const universityofdubuqueiowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Dubuque offers undergraduate, graduate, and online degrees in the following programs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Dubuque offers undergraduate, graduate, and online degrees in the following programs:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business",
                 "Computer Science & Technology",

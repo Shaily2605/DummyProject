@@ -100,12 +100,10 @@ export const thomascollegemaine = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": " ",
             "info": "Fee Structure",
-            "data": [
-                "The tuition fees for undergraduate programmes at Thomas College are $30,000 per academic year, while the tuition fees for graduate programmes are $30,400 per academic year. In addition, there are other fees such as student activity fees, technology fees, and lab fees that vary depending on the course."
-            ]
+            "data": "<p>The tuition fees for undergraduate programmes at Thomas College are $30,000 per academic year, while the tuition fees for graduate programmes are $30,400 per academic year. In addition, there are other fees such as student activity fees, technology fees, and lab fees that vary depending on the course.</p>"
         },
         {
             type: "meta",

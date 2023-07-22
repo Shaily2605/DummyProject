@@ -70,14 +70,10 @@ export const universityofmassachusettsdartmouth = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is a list of courses offered by the University of Massachusetts Dartmouth in Massachusetts, USA, along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is a list of courses offered by the University of Massachusetts Dartmouth in Massachusetts, USA, along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $29,000 per year",
                 "Business Administration: $29,000 per year",
@@ -94,8 +90,8 @@ export const universityofmassachusettsdartmouth = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Accounting: $32,000 per year",
                 "Business Administration: $32,000 per year",

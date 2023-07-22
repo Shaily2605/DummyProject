@@ -71,14 +71,10 @@ export const universityofmichigandearborn = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Michigan–Dearborn offers a wide range of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Michigan–Dearborn offers a wide range of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Accounting",
                 "Anthropology",
@@ -120,8 +116,8 @@ export const universityofmichigandearborn = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees",
             "data": [
                 "Accounting",
                 "Anthropology",

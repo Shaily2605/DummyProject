@@ -68,14 +68,10 @@ export const universityofnorthalabamaalabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Alabama offers a wide variety of undergraduate and graduate programs. The tuition fees for each program varies and the following is the list of courses offered with their respective tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Alabama offers a wide variety of undergraduate and graduate programs. The tuition fees for each program varies and the following is the list of courses offered with their respective tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting: $16,550",
                 "Art: $15,900",
@@ -98,8 +94,8 @@ export const universityofnorthalabamaalabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting: $18,000",
                 "Business Administration: $18,000",
@@ -135,8 +131,8 @@ export const universityofnorthalabamaalabama = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "info": "Indian students are eligible to take admission at the University of North Alabama, provided they meet all of the university’s admission requirements. To be eligible for admission, applicants must hold a high school diploma or equivalent from a regionally accredited institution, or have successfully completed a recognized international curriculum. Applicants must also have a cumulative GPA of 2.0 or higher on a 4.0 scale.",
-            "textBelowInfo": "In addition to the basic eligibility requirements, applicants must submit the following documents:",
+            "info": "",
+            "textBelowInfo": "<p>Indian students are eligible to take admission at the University of North Alabama, provided they meet all of the university’s admission requirements. To be eligible for admission, applicants must hold a high school diploma or equivalent from a regionally accredited institution, or have successfully completed a recognized international curriculum. Applicants must also have a cumulative GPA of 2.0 or higher on a 4.0 scale.</p><p><b>In addition to the basic eligibility requirements, applicants must submit the following documents:</b></p>",
             "data": [
                 "Academic transcripts or mark sheets",
                 "Curriculum Vitae (CV)",
@@ -151,16 +147,16 @@ export const universityofnorthalabamaalabama = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "step-list",
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                "Step 1: Visit the University of North Alabama website and review the international student admission requirements.",
-                "Step 2: Submit the online application form and pay the application fee.",
-                "Step 3: Gather the required documents such as transcripts, letters of recommendation, passport and visa, and financial documents.",
-                "Step 4: Submit the required documents to the university by mail or by email.",
-                "Step 5: Take and submit the required standardized tests such as the TOEFL or IELTS.",
-                "Step 6: Wait for the university's decision on your admission status.",
+                "<b>Step 1:</b> Visit the University of North Alabama website and review the international student admission requirements.",
+                "<b>Step 2:</b> Submit the online application form and pay the application fee.",
+                "<b>Step 3:</b> Gather the required documents such as transcripts, letters of recommendation, passport and visa, and financial documents.",
+                "<b>Step 4:</b> Submit the required documents to the university by mail or by email.",
+                "<b>Step 5:</b> Take and submit the required standardized tests such as the TOEFL or IELTS.",
+                "<b>Step 6:</b> Wait for the university's decision on your admission status.",
             ]
         },
         {

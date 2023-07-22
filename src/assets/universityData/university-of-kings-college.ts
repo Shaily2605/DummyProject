@@ -68,14 +68,10 @@ export const universityofkingscollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of King's College offers a variety of courses ranging from certificate and diploma programs to undergraduate and graduate degrees.</p>"
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degrees:",
+            "type": 'list-bollet',
+            "title": 'Courses and Fees',
+            "info": "<p>The University of King's College offers a variety of courses ranging from certificate and diploma programs to undergraduate and graduate degrees.</p>",
+            "textBelowInfo": "<b>Undergraduate Degrees:</b>",
             "data": [
                 "Bachelor of Arts",
                 "Bachelor of Journalism",

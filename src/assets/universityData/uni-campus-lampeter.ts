@@ -69,14 +69,10 @@ export const unicampuslampeter = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Uni Campus Lampeter offers a wide range of courses with a variety of fee structures. Below are the details of all the courses available at the Uni Campus Lampeter:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "<p>Uni Campus Lampeter offers a wide range of courses with a variety of fee structures. Below are the details of all the courses available at the Uni Campus Lampeter:</p>",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "BA (Hons) Archaeology: £9,250 per annum",
                 "BA (Hons) Business and Management: £9,250 per annum",

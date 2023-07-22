@@ -70,14 +70,10 @@ export const universityofarkansasformedicalsciences = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas for Medical Sciences offers a variety of courses and programs. Below is a breakdown of the fee structure for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas for Medical Sciences offers a variety of courses and programs. Below is a breakdown of the fee structure for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Tuition & Fees: $10,744 (in-state); $20,824 (out-of-state) ",
                 "Additional Fees: $2,092 (in-state); $2,092 (out-of-state) ",
@@ -334,7 +330,7 @@ export const universityofarkansasformedicalsciences = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br> University of Arkansas for Medical Sciences (UAMS) offers on-campus housing for undergraduate students. The on-campus housing options include Suites, Apartments, and traditional dormitory-style housing. The on-campus housing options provide students with access to a variety of amenities, including access to dining halls, library, health and wellness services, and other student services.",
+                "<b>On-Campus Accommodation </b> <br> University of Arkansas for Medical Sciences (UAMS) offers on-campus housing for undergraduate students. The on-campus housing options include Suites, Apartments, and traditional dormitory-style housing. The on-campus housing options provide students with access to a variety of amenities, including access to dining halls, library, health and wellness services, and other student services.",
                 "<b>Off-Campus Hostel Facilities </b> <br> The University of Arkansas for Medical Sciences does not have any affiliated hostel facilities, however, there are a variety of off-campus housing options available for students. These include student housing complexes, apartment complexes, and other housing options. The University of Arkansas for Medical Sciences also has a variety of off-campus housing services that provide assistance in finding housing near the university. In addition, the university maintains a list of off-campus housing options on its website."
             ]
         },

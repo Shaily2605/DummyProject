@@ -69,14 +69,10 @@ export const universityofholycross = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses offered by the University of Holy Cross, Louisiana, USA, along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses offered by the University of Holy Cross, Louisiana, USA, along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Arts in Accounting - $13,950 per semester",
                 "Bachelor of Arts in Business Administration - $13,950 per semester",
@@ -146,7 +142,7 @@ export const universityofholycross = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-              "For Indian students interested in applying to the University of Holy Cross in Louisiana,USA, the process is similar to that of other international students. The first step is to create an account on the university's admissions portal and fill out the online application. Once the application is submitted, the student should provide official transcripts, recommendations, and other required documents. After the application is reviewed and accepted, the student can begin the visa application process, which includes gaining acceptance to the university and submitting the required documents to the US Embassy or Consulate in India."
+                "For Indian students interested in applying to the University of Holy Cross in Louisiana,USA, the process is similar to that of other international students. The first step is to create an account on the university's admissions portal and fill out the online application. Once the application is submitted, the student should provide official transcripts, recommendations, and other required documents. After the application is reviewed and accepted, the student can begin the visa application process, which includes gaining acceptance to the university and submitting the required documents to the US Embassy or Consulate in India."
             ]
         },
         {

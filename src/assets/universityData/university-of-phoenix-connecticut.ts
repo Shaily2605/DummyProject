@@ -70,14 +70,10 @@ export const universityofphoenixconnecticut = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Phoenix, Connecticut offers a variety of graduate and undergraduate degree and certificate programs. Here is the list of all the courses offered by the university along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Phoenix, Connecticut offers a variety of graduate and undergraduate degree and certificate programs. Here is the list of all the courses offered by the university along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Associate of Arts in Business: $395 per credit hour",
                 "Associate of Arts in General Studies: $395 per credit hour",
@@ -90,8 +86,8 @@ export const universityofphoenixconnecticut = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration (MBA): $510 per credit hour",
                 "Master of Science in Nursing: $510 per credit hour",
@@ -104,8 +100,8 @@ export const universityofphoenixconnecticut = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Accounting Certificate Program: $395 per credit hour",
                 "Business Administration Certificate Program: $395 per credit hour",
@@ -154,7 +150,7 @@ export const universityofphoenixconnecticut = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

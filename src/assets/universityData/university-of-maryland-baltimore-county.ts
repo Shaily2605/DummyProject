@@ -72,14 +72,10 @@ export const universityofmarylandbaltimorecounty = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The tuition and fee structure of University of Maryland, Baltimore County (UMBC) is as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition & Fees:",
+            "title": "Courses and Fees",
+            "info": "The tuition and fee structure of University of Maryland, Baltimore County (UMBC) is as follows:",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees:</b>",
             "data": [
                 "Maryland Residents: $10,123",
                 "Non-Maryland Residents: $27,431",

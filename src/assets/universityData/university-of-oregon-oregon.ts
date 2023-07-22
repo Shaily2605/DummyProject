@@ -80,14 +80,10 @@ export const universityoforegonoregon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Oregon offers a wide range of graduate and undergraduate degree programs. Below are the courses with their respective fee structures as of Fall 2020. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Oregon offers a wide range of graduate and undergraduate degree programs. Below are the courses with their respective fee structures as of Fall 2020. ",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting :				                    $13,818",
                 "Anthropology :				                $13,818",
@@ -110,8 +106,8 @@ export const universityoforegonoregon = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting :				                     $17,719",
                 "Anthropology :				                 $17,719",

@@ -70,14 +70,10 @@ export const universityofnewhampshiremaine = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of New Hampshire offers more than 180 undergraduate, graduate, and professional degree programs, as well as certificate and continuing education programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of New Hampshire offers more than 180 undergraduate, graduate, and professional degree programs, as well as certificate and continuing education programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting ",
                 "Animal Science ",

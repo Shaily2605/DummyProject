@@ -70,14 +70,10 @@ export const universityofarkansascommunitycollegeatbatesville = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Arkansas Community College at Batesville offers a range of courses in various disciplines. The courses and their associated fee structure are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts:",
+            "title": "Courses and Fees",
+            "info": "University of Arkansas Community College at Batesville offers a range of courses in various disciplines. The courses and their associated fee structure are as follows:",
+            "textBelowInfo": "<b>Associate of Arts:</b>",
             "data": [
                 "Tuition & Fees: $2,367.00",
                 "Books & Supplies: $1,386.00",

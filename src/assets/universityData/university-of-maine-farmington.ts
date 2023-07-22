@@ -69,14 +69,10 @@ export const universityofmainefarmington = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Maine at Farmington offers more than 40 majors, minors and certificate programs.</p>"
-        },
-        {
-            "type": "list-bollet",
-            "title": "Majors:",
-            "info": "",
+            "type": 'list-bollet',
+            "title": 'Courses and Fees',
+            "info": "<p>University of Maine at Farmington offers more than 40 majors, minors and certificate programs.</p>",
+            "textBelowInfo": "<b>Majors:</b>",
             "data": [
                 "Accounting",
                 "Anthropology",
@@ -114,11 +110,12 @@ export const universityofmainefarmington = {
                 "Theatre & Dance",
                 "Wildlife & Fisheries Conservation"
             ]
+
         },
         {
             "type": "list-bollet",
-            "title": "Minors:",
-            "info": "",
+            "title": "",
+            "info": "Minors:",
             "data": [
                 "African Studies",
                 "American Sign Language",

@@ -69,13 +69,14 @@ export const universityofbradfordengland = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Bradford offers a range of courses with a variety of fee structures. Below is a list of courses, and the associated fee structure:</p>"
+            title: '',
+            data: "<p></p>"
         },
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Fees: ",
+            "title": "Courses and Fees",
+            "info": "The University of Bradford offers a range of courses with a variety of fee structures. Below is a list of courses, and the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Fees:</b>",
             "data": [
                 "BSc (Hons) Accounting and Finance: £9,250 (per year) ",
                 "BSc (Hons) Business Management: £9,250 (per year)",

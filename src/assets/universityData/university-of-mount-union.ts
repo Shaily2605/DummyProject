@@ -80,14 +80,10 @@ export const universityofmountunion = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mount Union offers a variety of undergraduate and graduate degree programs and certificates. The tuition and fee schedule for the academic year 2020-2021 is as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition and Fees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Mount Union offers a variety of undergraduate and graduate degree programs and certificates. The tuition and fee schedule for the academic year 2020-2021 is as follows:",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees:</b>",
             "data": [
                 "Tuition: $33,100",
                 "Room and Board: $9,780",
@@ -97,8 +93,8 @@ export const universityofmountunion = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition and Fees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Tuition and Fees:",
             "data": [
                 "Tuition: $525 per credit hour",
                 "Technology Fee: $20 per credit hour",
@@ -107,8 +103,8 @@ export const universityofmountunion = {
         },
         {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Undergraduate Degrees:",
             "data": [
                 "Accounting",
                 "Art",
@@ -140,8 +136,8 @@ export const universityofmountunion = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees:",
             "data": [
                 "Business Administration",
                 "Clinical Mental Health Counseling",

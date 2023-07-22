@@ -69,14 +69,10 @@ export const universityofcalgaryalberta = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Calgary offers a wide range of undergraduate and graduate programs, as well as professional degrees. Below is a list of all the courses offered with the associated tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Calgary offers a wide range of undergraduate and graduate programs, as well as professional degrees. Below is a list of all the courses offered with the associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Arts: $6,827 per year",
                 "Science: $6,827 per year",

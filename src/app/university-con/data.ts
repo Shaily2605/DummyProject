@@ -1242,6 +1242,8 @@ import * as universityofcaliforniasandiego from '../../assets/universityData/uni
 import * as universityofcalifornialosangeles from '../../assets/universityData/university-of-california-los-angeles'
 import * as universityofcaliforniariverside from '../../assets/universityData/university-of-california-riverside'
 import * as universityofcaliforniasantabarbara from '../../assets/universityData/university-of-california-santa-barbara'
+
+
 import * as universityofcanberracollegeuccollege from '../../assets/universityData/university-of-canberra-college-uc-college'
 import * as universityofcanberraaustralian from '../../assets/universityData/university-of-canberra-australian'
 import * as universityofcentralarkansas from '../../assets/universityData/university-of-central-arkansas'
@@ -2724,6 +2726,6 @@ export {
     universityofphoenixhawaii,
     universityofpikeville,
     universityofpittsburgh,
-    
+
 
 }

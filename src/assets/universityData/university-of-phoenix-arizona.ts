@@ -67,14 +67,10 @@ export const universityofphoenixarizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Phoenix, Arizona, USA offers a range of Undergraduate, Graduate, Doctorate and Certificate programs. The tuition fees vary depending on the program.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Associate of Arts in Business: $530 per credit",
                 "Associate of Arts in Psychology: $530 per credit",
@@ -89,8 +85,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $1166 per credit",
                 "Master of Science in Nursing: $1289 per credit",
@@ -100,8 +96,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctorate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctorate Programs:",
             "data": [
                 "Doctor of Business Administration: $1480 per credit",
                 "Doctor of Nursing Practice: $1328 per credit",
@@ -109,8 +105,8 @@ export const universityofphoenixarizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Certificate in Business: $530 per credit",
                 "Certificate in Information Technology: $530 per credit",

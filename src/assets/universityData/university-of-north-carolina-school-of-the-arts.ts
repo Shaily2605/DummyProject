@@ -75,14 +75,10 @@ export const universityofnorthcarolinaschoolofthearts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Carolina School of the Arts offers a variety of courses in the fields of music, dance, drama, design and production, film, and animation.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "School of Music: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of North Carolina School of the Arts offers a variety of courses in the fields of music, dance, drama, design and production, film, and animation.",
+            "textBelowInfo": "<b>School of Music:</b>",
             "data": [
                 "Bachelor of Music (BM): $52,914 (in-state) and $54,754 (out-of-state)",
                 "Bachelor of Music Education (BME): $52,914 (in-state) and $54,754 (out-of-state)",
@@ -93,8 +89,8 @@ export const universityofnorthcarolinaschoolofthearts = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Dance:",
-            "info": "",
+            "title": "",
+            "info": "School of Dance:",
             "data": [
                 "Bachelor of Fine Arts (BFA): $52,914 (in-state) and $54,754 (out-of-state)",
                 "Professional Semester: $20,306 (in-state) and $22,146 (out-of-state)",
@@ -102,8 +98,8 @@ export const universityofnorthcarolinaschoolofthearts = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Drama:",
-            "info": "",
+            "title": "",
+            "info": "School of Drama:",
             "data": [
                 "Bachelor of Fine Arts (BFA): $52,914 (in-state) and $54,754 (out-of-state)",
                 "Bachelor of Arts (BA): $34,906 (in-state) and $36,746 (out-of-state)",
@@ -112,24 +108,24 @@ export const universityofnorthcarolinaschoolofthearts = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Design and Production:",
-            "info": "",
+            "title": "",
+            "info": "School of Design and Production:",
             "data": [
                 "Bachelor of Fine Arts (BFA): $52,914 (in-state) and $54,754 (out-of-state)"
             ]
         },
         {
             "type": "list-bollet",
-            "title": "School of Filmmaking:",
-            "info": "",
+            "title": "",
+            "info": "School of Filmmaking:",
             "data": [
                 "Bachelor of Fine Arts (BFA): $52,914 (in-state) and $54,754 (out-of-state)"
             ]
         },
         {
             "type": "list-bollet",
-            "title": "School of Animation and Visual Effects:",
-            "info": "",
+            "title": "",
+            "info": "School of Animation and Visual Effects:",
             "data": [
                 "Bachelor of Fine Arts (BFA): $52,914 (in-state) and $54,754 (out-of-state)"
             ]
@@ -170,12 +166,9 @@ export const universityofnorthcarolinaschoolofthearts = {
                 "Applicants must complete a personal essay.",
                 "Applicants must submit a letter of recommendation from a teacher.",
                 "Applicants must submit a portfolio or audition video (depending on the program of study).",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Note: The University of North Carolina School of the Arts may also require applicants to participate in an interview.</p>"
+            ],
+            "heading": "<p>Note: The University of North Carolina School of the Arts may also require applicants to participate in an interview.</p>"
+
         },
         {
             "type": "list-bollet",

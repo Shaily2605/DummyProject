@@ -142,15 +142,12 @@ export const universityofnorthcarolinaatcharlotte = {
                 "Have a minimum SAT score of 1070 (math and critical reading) or an ACT score of 21.",
                 "Have successfully completed the required college preparatory curriculum (CPC) with grades of C or better.",
                 "Have a minimum of 18 academic units (or equivalent) in high school."
-            ]
+            ],
+            "heading": "<p>Furthermore, applicants must also demonstrate financial ability to cover the cost of attendance, including living expenses.</p>"
+
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>Furthermore, applicants must also demonstrate financial ability to cover the cost of attendance, including living expenses.</p>"
-        },
-        {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

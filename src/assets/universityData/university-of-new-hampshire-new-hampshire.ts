@@ -71,14 +71,10 @@ export const universityofnewhampshirenewhampshire = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of New Hampshire offers a variety of undergraduate and graduate programs. Below is a list of the available courses and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of New Hampshire offers a variety of undergraduate and graduate programs. Below is a list of the available courses and their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting: $485/credit hour",
                 "Biomedical Sciences: $485/credit hour",
@@ -99,8 +95,8 @@ export const universityofnewhampshirenewhampshire = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Accounting: $619/credit hour",
                 "Business Administration: $619/credit hour",

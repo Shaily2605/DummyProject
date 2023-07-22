@@ -71,14 +71,10 @@ export const universityofmanitoba = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Manitoba offers a variety of undergraduate and graduate degree programs. The following is the list of courses available with their corresponding fees structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Manitoba offers a variety of undergraduate and graduate degree programs. The following is the list of courses available with their corresponding fees structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Arts: $5,620.70",
                 "Business Administration: $7,377.20",
@@ -91,8 +87,8 @@ export const universityofmanitoba = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "MBA: $22,451.40",
                 "Master of Science: $7,297.20",

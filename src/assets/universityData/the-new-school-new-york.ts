@@ -146,10 +146,6 @@ export const thenewschoolnewyork = {
                 "Submit proof of English language proficiency (for non-native English speakers)",
             ],
             "heading": "<p>In addition, Indian students may be required to submit additional documents, such as a resume or a portfolio, depending on the program of study.</p> <p>The New School also offers an admissions pathway for international students who may not meet the academic requirements for direct admission. The Pathways Program is designed to help students transition from their current educational system to the American system of higher education. The program can provide academic support, assistance with English language development, and other resources for students who are not yet ready for direct admission.</p>"
-<<<<<<< HEAD
-
-=======
->>>>>>> 8941413039fc1b886b93e806f3448038c5d12db4
         },
         {
             "type": "list-bollet",

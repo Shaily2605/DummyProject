@@ -69,14 +69,10 @@ export const ulsteruniversitymageecampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below are the courses offered by the Ulster University Magee Campus and the associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "<p>Below are the courses offered by the Ulster University Magee Campus and the associated fee structure.</p>",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "BA (Hons) Accounting with Professional Placement  - £9,250",
                 "BSc (Hons) Applied Computing  - £9,250",

@@ -69,14 +69,10 @@ export const universityofalabamahuntsville = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Alabama in Huntsville offers undergraduate, graduate, and doctoral programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "The University of Alabama in Huntsville offers undergraduate, graduate, and doctoral programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting",
                 "Aerospace Engineering",

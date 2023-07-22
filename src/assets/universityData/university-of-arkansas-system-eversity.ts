@@ -72,14 +72,10 @@ export const universityofarkansassystemeversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas System eVersity offers more than 45 undergraduate and graduate degree programs, as well as several certificate programs. Below is a list of the degree programs they offer, along with the associated tuition and fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "UNDERGRADUATE DEGREE PROGRAMS",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas System eVersity offers more than 45 undergraduate and graduate degree programs, as well as several certificate programs. Below is a list of the degree programs they offer, along with the associated tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs</b>",
             "data": [
                 "Associate of Applied Science (AAS): $7,927.00",
                 "Associate of Arts (AA): $7,927.00",
@@ -92,7 +88,7 @@ export const universityofarkansassystemeversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "GRADUATE DEGREE PROGRAMS",
+            "info": "Graduate Degree Programs",
             "data": [
                 "Master of Business Administration (MBA): $11,845.00",
                 "Master of Science in Cybersecurity (MSCS): $10,922.00",
@@ -103,7 +99,7 @@ export const universityofarkansassystemeversity = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "CERTIFICATE PROGRAMS",
+            "info": "Certificate Programs",
             "data": [
                 "Certificate in Business Administration: $3,150.00",
                 "Certificate in Cybersecurity: $3,150.00",

@@ -200,10 +200,7 @@ export const texasaandmuniversitykingsville = {
                 "Copy of passport"
             ],
             "heading": "<p>In addition to these requirements, international applicants must also submit proof of financial resources to cover one year of education and living expenses. The university also requires all international applicants to have health insurance.</p>"
-<<<<<<< HEAD
 
-=======
->>>>>>> 8941413039fc1b886b93e806f3448038c5d12db4
         },
         {
             "type": "list-bollet",

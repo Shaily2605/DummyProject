@@ -81,14 +81,10 @@ export const universityofcentralarkansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Central Arkansas offers a variety of courses and programs. The following is a list of the courses offered and their corresponding fee structure for the 2021-2022 academic year:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate",
+            "title": "Courses and Fees",
+            "info": "The University of Central Arkansas offers a variety of courses and programs. The following is a list of the courses offered and their corresponding fee structure for the 2021-2022 academic year:",
+            "textBelowInfo": "<b>Undergraduate</b>",
             "data": [
                 "Business Administration: $7,815 per semester",
                 "Education: $6,401 per semester",
@@ -332,7 +328,7 @@ export const universityofcentralarkansas = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "University of Central Arkansas offers a variety of accommodation options both on-campus and off-campus. ",
-            "textBelowInfo": "On-campus accommodation options include:",
+            "textBelowInfo": "<b>On-campus accommodation options include:</b>",
             "data": [
                 "<b>University Housing:</b> UCA offers traditional dormitory style accommodation with either single or double bedrooms. Residents can choose from a range of meal plans and have access to a variety of services, such as a laundry facility, a computer lab, and a 24-hour front desk. ",
                 "<b>Apartments:</b> UCA offers several apartments on-campus, ranging in size from 2 to 4 bedrooms. The apartments are fully furnished and include all utilities, a free cable television package, and free internet access. ",
@@ -341,8 +337,7 @@ export const universityofcentralarkansas = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "",
-            "textBelowInfo": "Off-campus accommodation options include:",
+            "info": "Off-campus accommodation options include:",
             "data": [
                 "<b>Hotels and Motels:</b> There are several hotels and motels located in the city of Conway, which is located close to the University of Central Arkansas. ",
                 "<b>Private Homes:</b> There are a variety of private homes and apartments located in the Conway area that are available for rent. ",

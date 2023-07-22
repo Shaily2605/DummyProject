@@ -69,14 +69,10 @@ export const universityofmarylandglobalcampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses offered by University of Maryland Global Campus (UMGC) along with their respective fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses offered by University of Maryland Global Campus (UMGC) along with their respective fee structure.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $252 per credit (in-state) and $535 per credit (out-of-state).",
                 "Business Administration: $252 per credit (in-state) and $535 per credit (out-of-state).",

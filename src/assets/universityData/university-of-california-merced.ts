@@ -68,14 +68,10 @@ export const universityofcaliforniamerced = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California Merced offers undergraduate and graduate degrees in a wide array of fields. The following is a list of the courses offered alongside the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate:",
+            "title": "Courses and Fees",
+            "info": "The University of California Merced offers undergraduate and graduate degrees in a wide array of fields. The following is a list of the courses offered alongside the fee structure:",
+            "textBelowInfo": "<b>Undergraduate:</b>",
             "data": [
                 "Bachelor of Arts in Anthropology: $13,841",
                 "Bachelor of Science in Applied Mathematics: $13,841",
@@ -93,7 +89,7 @@ export const universityofcaliforniamerced = {
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Graduate: ",
+            "info": "Graduate:",
             "data": [
                 "Master of Arts in Anthropology: $16,842 ",
                 "Master of Science in Applied Mathematics: $16,842",

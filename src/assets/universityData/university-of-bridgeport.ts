@@ -69,14 +69,10 @@ export const universityofbridgeport = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Bridgeport offers more than 50 undergraduate and graduate degree programs. The fees for these programs are listed below.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs ",
+            "title": "Courses and Fees",
+            "info": "The University of Bridgeport offers more than 50 undergraduate and graduate degree programs. The fees for these programs are listed below.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business Administration: $20,450 per semester",
                 "Computer Science: $17,400 per semester",

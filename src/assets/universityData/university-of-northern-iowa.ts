@@ -69,14 +69,10 @@ export const universityofnortherniowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Northern Iowa offers a variety of undergraduate, graduate and doctoral degrees. The following are the courses offered by the University with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Northern Iowa offers a variety of undergraduate, graduate and doctoral degrees. The following are the courses offered by the University with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting - $10,092 (In-state), $26,332 (Out-of-State)",
                 "Anthropology - $9,908 (In-state), $25,799 (Out-of-State)",
@@ -100,8 +96,8 @@ export const universityofnortherniowa = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses: ",
             "data": [
                 "Accounting - $10,092 (In-state), $26,332 (Out-of-State)",
                 "Anthropology - $10,092 (In-state), $26,332 (Out-of-State)",

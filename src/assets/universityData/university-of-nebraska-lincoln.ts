@@ -71,14 +71,10 @@ export const universityofnebraskalincoln = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is a list of the undergraduate and graduate courses offered at the University of Nebraska-Lincoln, Nebraska and the corresponding tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate",
+            "title": "Courses and Fees",
+            "info": "Below is a list of the undergraduate and graduate courses offered at the University of Nebraska-Lincoln, Nebraska and the corresponding tuition fees:",
+            "textBelowInfo": "<b>Undergraduate</b>",
             "data": [
                 "Biology - $10,850",
                 "Business Administration - $11,742",

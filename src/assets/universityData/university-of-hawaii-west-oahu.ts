@@ -68,14 +68,10 @@ export const universityofhawaiiwestoahu = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Hawaii - West Oahu offers a variety of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Hawaii - West Oahu offers a variety of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Hawaiian Studies",
                 "Bachelor of Arts in Humanities",

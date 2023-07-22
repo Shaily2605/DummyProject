@@ -74,14 +74,10 @@ export const universityofmontevallo = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Montevallo offers a wide range of courses. Below is a list of the courses, along with their corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Montevallo offers a wide range of courses. Below is a list of the courses, along with their corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $360 per credit hour",
                 "Art: $360 per credit hour",
@@ -104,8 +100,8 @@ export const universityofmontevallo = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting: $360 per credit hour",
                 "Business Administration: $360 per credit hour",

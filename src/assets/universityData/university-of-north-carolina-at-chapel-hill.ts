@@ -68,14 +68,10 @@ export const universityofnorthcarolinaatchapelhill = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Undergraduate Courses",
+            "textBelowInfo": "<b>The University of North Carolina at Chapel Hill offers a wide variety of courses. Below is a list of courses and their associated fees:</b>",
             "data": [
                 "Arts & Sciences: $16,851 per year",
                 "Business: $21,029 per year",
@@ -89,8 +85,8 @@ export const universityofnorthcarolinaatchapelhill = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Arts & Sciences: $19,353 per year",
                 "Business: $24,735 per year",
@@ -140,7 +136,7 @@ export const universityofnorthcarolinaatchapelhill = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
             "data": [

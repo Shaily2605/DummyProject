@@ -71,14 +71,10 @@ export const universityofalabamabirmingham = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Alabama at Birmingham offers numerous courses in various disciplines. Below is the list of courses with their fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses: ",
+            "title": "Courses and Fees",
+            "info": "The University of Alabama at Birmingham offers numerous courses in various disciplines. Below is the list of courses with their fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting - $20,974",
                 "Art - $19,444",

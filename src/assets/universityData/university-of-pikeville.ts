@@ -68,14 +68,10 @@ export const universityofpikeville = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Pikeville provides a number of courses for undergraduate and graduate students. Below is a list of courses with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Pikeville provides a number of courses for undergraduate and graduate students. Below is a list of courses with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: Tuition: $14,580/semester Fees: $1,050/semester",
                 "Biology: Tuition: $14,580/semester Fees: $1,150/semester",
@@ -95,8 +91,8 @@ export const universityofpikeville = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Business Administration: Tuition: $17,925/semester Fees: $1,150/semester",
                 "Education: Tuition: $17,925/semester Fees: $1,150/semester",

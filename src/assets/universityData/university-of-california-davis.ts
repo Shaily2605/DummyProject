@@ -80,14 +80,10 @@ export const universityofcaliforniadavis = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California, Davis offers a wide range of undergraduate and graduate degrees, including many professional degrees. The following is a list of available courses, along with the associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The University of California, Davis offers a wide range of undergraduate and graduate degrees, including many professional degrees. The following is a list of available courses, along with the associated fees:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Agriculture and Environmental Sciences: $13,927 to $18,540 per year",
                 "Biological Sciences: $13,927 to $18,540 per year",
