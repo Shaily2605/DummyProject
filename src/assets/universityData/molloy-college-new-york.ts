@@ -458,15 +458,10 @@ export const molloycollegenewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p><b>On-Campus Accommodation:</b></p>",
-            "textBelowInfo": "Molloy College offers on-campus housing for both undergraduate and graduate students. On-campus housing is available in the residence halls and townhouses located on the Rockville Centre campus. The residence halls provide a variety of rooms, including single, double, triple, and quad occupancy. The townhomes offer two- and four-bedroom apartments.",
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Amenities included in on-campus housing: ",
+            "title": "Hostel",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "<p>Molloy College offers on-campus housing for both undergraduate and graduate students. On-campus housing is available in the residence halls and townhouses located on the Rockville Centre campus. The residence halls provide a variety of rooms, including single, double, triple, and quad occupancy. The townhomes offer two- and four-bedroom apartments.</p> <br> <p><b> Amenities included in on-campus housing: </b></p>",
             "data": [
                 "Furnished bedrooms and living spaces ",
                 "High-speed internet",
@@ -477,14 +472,10 @@ export const molloycollegenewyork = {
             ]
         },
         {
-            type: 'text',
-            title: 'Off-Campus Accommodation:',
-            data: "<p></p>Molloy College also offers off-campus housing for students. Off-campus housing options include apartments, houses, and townhouses.",
-        },
-        {
             "type": "list-bollet",
             "title": "",
-            "info": "Amenities included in off-campus housing:",
+            "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "<p>Molloy College also offers off-campus housing for students. Off-campus housing options include apartments, houses, and townhouses.</p> <br> <p><b>Amenities included in off-campus housing:</p></b>",
             "data": [
                 "Furnished bedrooms and living spaces ",
                 "High-speed internet",

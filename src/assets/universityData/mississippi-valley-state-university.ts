@@ -70,14 +70,10 @@ export const mississippivalleystateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Mississippi Valley State University (MVSU) is a public university offering over 20 undergraduate and six graduate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Mississippi Valley State University (MVSU) is a public university offering over 20 undergraduate and six graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Bachelor of Science in Accounting",
                 "Bachelor of Science in Business Administration",
@@ -100,8 +96,8 @@ export const mississippivalleystateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Science in Education",
                 "Master of Science in Computer Science",
@@ -112,9 +108,9 @@ export const mississippivalleystateuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "type": "text",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "The fee structure varies depending on the program and the number of credits taken. The estimated tuition fee for the undergraduate courses is $6,000 per semester, while the estimated tuition fee for the graduate courses is $6,400 per semester. Other fees like student activity, health service, and technology fees may also apply."
             ]

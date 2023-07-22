@@ -69,14 +69,10 @@ export const millikinuniversityillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: ""
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition & Fees",
-            "info": "Tuition & Fees Per Semester:",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate Tuition & Fees",
+            "textBelowInfo": "Tuition & Fees Per Semester:",
             "data": [
                 "Full-Time (12-18 credit hours) - $17,646",
                 "Part-Time (1-11 credit hours) - $1,062 per credit hour"
@@ -305,14 +301,10 @@ export const millikinuniversityillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p>Millikin University offers a variety of on-campus housing options to its students. On-campus housing is provided in three residence halls, six apartment complexes, and two fraternity houses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "The residence halls at Millikin University include:",
+            "title": "Hostel",
+            "info": "Millikin University offers a variety of on-campus housing options to its students. On-campus housing is provided in three residence halls, six apartment complexes, and two fraternity houses.",
+            "textBelowInfo": "The residence halls at Millikin University include:",
             "data": [
                 "University Hall",
                 "Taft House",

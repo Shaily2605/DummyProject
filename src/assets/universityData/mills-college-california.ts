@@ -307,14 +307,9 @@ export const millscollegecalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p>Mills College offers a variety of accommodation options for its students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Hostel",
+            "info": "Mills College offers a variety of accommodation options for its students.",
             "data": [
                 "<b>On-Campus: </b><br>Mills College offers a variety of on-campus housing options for its students. The on-campus housing options include traditional residence halls, apartments, and suites. The residence halls are equipped with amenities such as study spaces, kitchens, and laundry facilities. The apartments and suites provide more space, privacy, and amenities such as air conditioning and private bathrooms.",
                 "<b>Off-Campus: </b><br>Mills College also provides off-campus housing options for its students. These accommodations are located near the college campus and offer a variety of amenities. These accommodations range from single rooms to fully-furnished apartments. They typically include amenities such as kitchenettes, laundry facilities, and private bathrooms.",

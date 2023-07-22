@@ -70,14 +70,10 @@ export const missouribaptistuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of courses offered at Missouri Baptist University, Missouri, USA, with their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The following is a list of courses offered at Missouri Baptist University, Missouri, USA, with their corresponding fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Business Administration – $675 per credit hour",
                 "Communication – $675 per credit hour",
@@ -93,8 +89,8 @@ export const missouribaptistuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting – $750 per credit hour",
                 "Business Administration – $750 per credit hour",

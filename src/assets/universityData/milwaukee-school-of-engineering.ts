@@ -69,13 +69,14 @@ export const milwaukeeschoolofengineering = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Milwaukee School of Engineering (MSOE) offers more than 40 undergraduate and graduate degree programs in a wide range of disciplines. Students have the option of studying on-campus, online, or through a combination of both.</p> <p>The following is a list of the courses offered at MSOE along with their associated fees:</p>",
+            title: '',
+            data: "<p></p> <p></p>",
         },
         {
             "type": "list-bollet",
-            "title": "Undergraduate Degree Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Milwaukee School of Engineering (MSOE) offers more than 40 undergraduate and graduate degree programs in a wide range of disciplines. Students have the option of studying on-campus, online, or through a combination of both.",
+            "textBelowInfo": "<p>The following is a list of the courses offered at MSOE along with their associated fees:</p> <br> <p><b> Undergraduate Degree Programs</b></p>",
             "data": [
                 "Architecture: $36,220",
                 "Biomedical Engineering: $36,220",
@@ -95,8 +96,8 @@ export const milwaukeeschoolofengineering = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degree Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degree Programs",
             "data": [
                 "Architecture: $37,932",
                 "Biomedical Engineering: $37,932",

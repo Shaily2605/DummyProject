@@ -71,14 +71,10 @@ export const mississippistateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Mississippi State University provides several courses in various disciplines. Students can check the details of the courses and the fee structure through the official website. The following are the details of the courses and the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Mississippi State University provides several courses in various disciplines. Students can check the details of the courses and the fee structure through the official website. The following are the details of the courses and the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "<b>Aerospace Engineering:</b> The total fee for the Aerospace Engineering course is $13,350 per semester.",
                 "<b>Animal and Dairy Science:</b> The total fee for the Animal and Dairy Science course is $8,830 per semester.",
@@ -97,8 +93,8 @@ export const mississippistateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "<b>Aerospace Engineering:</b> The total fee for the Aerospace Engineering course is $14,200 per semester.",
                 "<b>Business Administration:</b> The total fee for the Business Administration course is $10,000 per semester.",

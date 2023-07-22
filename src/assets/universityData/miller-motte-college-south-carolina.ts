@@ -114,14 +114,10 @@ export const millermottecollegesouthcarolina = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Miller-Motte College requires that all international students are proficient in English and demonstrate the required academic and financial qualifications before being granted admission.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission, international students must:",
+            "title": "Eligibility Requirement",
+            "info": "Miller-Motte College requires that all international students are proficient in English and demonstrate the required academic and financial qualifications before being granted admission.",
+            "textBelowInfo": "To be eligible for admission, international students must:",
             "data": [
                 "Have completed a secondary school education with a grade point average of at least 2.0 on a 4.0 scale.",
                 "Submit official transcripts from all secondary and post-secondary schools attended.",
@@ -313,14 +309,10 @@ export const millermottecollegesouthcarolina = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p>Miller-Motte College, South Carolina, USA does not have any on-campus accommodation or hostel facilities. However, there are many off-campus accommodation and hostel options available near the college.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Off-Campus Accommodation: ",
+            "title": "Hostel",
+            "info": "Miller-Motte College, South Carolina, USA does not have any on-campus accommodation or hostel facilities. However, there are many off-campus accommodation and hostel options available near the college.",
+            "textBelowInfo": "<b>Off-Campus Accommodation: </b>",
             "data": [
                 "The Haven at Columbia ",
                 "Candlewood Suites Columbia ",

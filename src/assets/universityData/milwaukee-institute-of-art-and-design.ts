@@ -67,14 +67,10 @@ export const milwaukeeinstituteofartanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The fee structure for the various courses at Milwaukee Institute of Art & Design (MIAD) is as follows:</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "Bachelor of Fine Arts Degree",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The fee structure for the various courses at Milwaukee Institute of Art & Design (MIAD) is as follows:",
+            "textBelowInfo": "<b>Bachelor of Fine Arts Degree </b>",
             "data": [
                 "<b>Full-Time Tuition:</b> $30,500 per year",
                 "<b>Student Activity Fee:</b> $200 per year ",
@@ -86,8 +82,8 @@ export const milwaukeeinstituteofartanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Associate of Fine Arts Degree",
-            "info": "",
+            "title": "",
+            "info": "Associate of Fine Arts Degree",
             "data": [
                 "<b>Full-Time Tuition:</b> $18,000 per year",
                 "<b>Student Activity Fee:</b> $200 per year ",
@@ -111,8 +107,8 @@ export const milwaukeeinstituteofartanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Continuing Studies",
-            "info": "",
+            "title": "",
+            "info": "Continuing Studies",
             "data": [
                 "<b>Credit & Non-Credit Classes:</b> Varies by class",
                 "<b>Workshops:</b> Varies by workshop",

@@ -67,14 +67,10 @@ export const mississippiuniversityforwomen = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Mississippi University for Women offers many different courses for students to choose from. There are a variety of undergraduate and graduate degree programs, as well as certificate and diploma programs. Below is a list of all the courses offered at the university, with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Mississippi University for Women offers many different courses for students to choose from. There are a variety of undergraduate and graduate degree programs, as well as certificate and diploma programs. Below is a list of all the courses offered at the university, with the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Associate of Arts/Science Degree: $2,600 per semester",
                 "Bachelor of Arts/Science Degree: $3,000 per semester",
@@ -90,8 +86,8 @@ export const mississippiuniversityforwomen = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Arts/Science Degree: $4,500 per semester",
                 "Master of Business Administration: $5,000 per semester",
@@ -102,8 +98,8 @@ export const mississippiuniversityforwomen = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate and Diploma Programs",
-            "info": "",
+            "title": "",
+            "info": "Certificate and Diploma Programs",
             "data": [
                 "Certificate Programs: $3,000 per semester",
                 "Diploma Programs: $3,500 per semester"
@@ -324,13 +320,14 @@ export const mississippiuniversityforwomen = {
         },
         {
             type: 'text',
-            title: 'Hostel',
+          
             data: ""
         },
         {
             "type": "list-bollet",
-            "title": "On-Campus Accommodation",
-            "info": "Mississippi University for Women offers on-campus accommodation for students. The university features seven residence halls which include:",
+            "title": 'Hostel',
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "Mississippi University for Women offers on-campus accommodation for students. The university features seven residence halls which include:",
             "data": [
                 "Sampson Hall",
                 "Welty Hall",
@@ -339,28 +336,21 @@ export const mississippiuniversityforwomen = {
                 "Pope Hall",
                 "Fant Hall",
                 "Womack Hall"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Each residence hall is equipped with double occupancy rooms, along with common areas, study spaces, and access to Wi-Fi. Additional amenities vary by residence hall.</p>"
+            ],
+            "heading": "<p>Each residence hall is equipped with double occupancy rooms, along with common areas, study spaces, and access to Wi-Fi. Additional amenities vary by residence hall.</p>"
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Hostels",
-            "info": "For students looking for an off-campus hostel option, there are several hostels within a short driving distance of Mississippi University for Women. Popular hostels include:",
+            "title": "",
+            "info": "Off-Campus Hostels",
+            "textBelowInfo": "For students looking for an off-campus hostel option, there are several hostels within a short driving distance of Mississippi University for Women. Popular hostels include:",
             "data": [
                 "Hi-Ho Hostel (Columbus, MS)",
                 "Hostel Mississippi (Tupelo, MS)",
                 "Oxford Hostel (Oxford, MS)",
                 "The Village Inn (Grenada, MS)"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>These hostels offer a variety of amenities such as free Wi-Fi, laundry facilities, shared kitchens, and common areas. Prices and amenities vary by hostel.</p>"
+            ],
+            "heading": "<p>These hostels offer a variety of amenities such as free Wi-Fi, laundry facilities, shared kitchens, and common areas. Prices and amenities vary by hostel.</p>"
         },
         {
             type: "meta",
