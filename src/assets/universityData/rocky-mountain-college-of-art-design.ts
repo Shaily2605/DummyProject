@@ -202,12 +202,8 @@ export const rockymountaincollegeofartdesign = {
                 "<b>Submit TOEFL scores: </b> <br>Applicants whose native language is not English must submit the results of the TOEFL (Test of English as a Foreign Language) to demonstrate their proficiency in the English language. ",
                 "<b>Submit a copy of passport: </b> <br>Applicants must submit a copy of their passport to demonstrate their identity and eligibility to study in the US. ",
                 "<b>Submit application fee: </b> <br>Applicants must submit the non-refundable application fee. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the applicant has submitted all the required materials, they will receive a decision from the Admissions Office.</p>"
+            ],
+            "heading": "<p>Once the applicant has submitted all the required materials, they will receive a decision from the Admissions Office.</p>"
         },
         {
 

@@ -69,14 +69,10 @@ export const pfeifferuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of all the courses offered by Pfeiffer University, North Carolina, USA, along with their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The following is a list of all the courses offered by Pfeiffer University, North Carolina, USA, along with their corresponding fee structures:",
+            "textBelowInfo": "<b>1. Undergraduate Programs:</b>",
             "data": [
                 "Business Administration - $6,470/semester",
                 "Computer Science - $6,470/semester",
@@ -157,8 +153,8 @@ export const pfeifferuniversity = {
                 "A copy of the permanent residence card ",
                 "A copy of the Dependent Visa ",
                 "A copy of the Employment Authorization Document (EAD) ",
-                "In addition, international students must meet all admission requirements as outlined by the university. This includes meeting the minimum grade point average (GPA) requirements, submitting a personal statement, and providing evidence of English proficiency."
-            ]
+            ],
+            "heading": "<p>In addition, international students must meet all admission requirements as outlined by the university. This includes meeting the minimum grade point average (GPA) requirements, submitting a personal statement, and providing evidence of English proficiency.</p>"
         },
         {
             "type": "list-bollet",
@@ -175,12 +171,8 @@ export const pfeifferuniversity = {
                 "Submit any additional documents required by the university. ",
                 "Pay the application fee. ",
                 "After your application is reviewed and accepted, a letter of acceptance will be sent to you. "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once you have been accepted to the university, you should contact the school's International Student Office to obtain a visa and begin the process of getting an I-20 form.</p>"
+            ],
+            "heading": "<p>Once you have been accepted to the university, you should contact the school's International Student Office to obtain a visa and begin the process of getting an I-20 form.</p>"
         },
         {
 

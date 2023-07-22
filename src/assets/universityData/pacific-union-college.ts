@@ -71,14 +71,10 @@ export const pacificunioncollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pacific Union College offers a variety of degree programs, ranging from associate's degrees to master's degrees. Below is a list of all the courses offered at the college, along with their associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "ASSOCIATE'S DEGREES",
+            "title": 'Courses and Fees',
+            "info": "Pacific Union College offers a variety of degree programs, ranging from associate's degrees to master's degrees. Below is a list of all the courses offered at the college, along with their associated fee structure.",
+            "textBelowInfo": "<b>ASSOCIATE'S DEGREES</b>",
             "data": [
                 "Associate of Arts (AA): $7,685 per semester",
                 "Associate of Science (AS): $7,685 per semester",
@@ -152,12 +148,8 @@ export const pacificunioncollege = {
                 "Submit an immunization record",
                 "Submit an affidavit of financial support from a sponsor (if applicable) ",
                 "Submit a completed Certificate of Eligibility (Form I-20) request form"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Students should also be aware of the English language proficiency requirements, which require all international students whose first language is not English to demonstrate English proficiency.</p>"
+            ],
+            "heading": "<p>Students should also be aware of the English language proficiency requirements, which require all international students whose first language is not English to demonstrate English proficiency.</p>"
         },
         {
             "type": "list-bollet",
@@ -170,8 +162,8 @@ export const pacificunioncollege = {
                 "Submit a personal statement or essay describing why you are interested in attending Pacific Union College.",
                 "Pay the application fee.",
                 "Wait for a response from the admissions office.",
-                "If you have any questions about the application process, you can contact the admissions office directly for assistance."
-            ]
+            ],
+            "heading": "<p>If you have any questions about the application process, you can contact the admissions office directly for assistance.</p>"
         },
         {
 

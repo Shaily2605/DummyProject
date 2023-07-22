@@ -136,12 +136,8 @@ export const rangercollegetexas = {
                 "Proof of English proficiency for international students ",
                 "Proof of financial support for international students",
                 "Payment of a non-refundable application fee "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>For more information, please check the website:</p> <p>https://www.rangercollege.edu/admissions/admission-process/</p>"
+            ],
+            "heading": "<p>For more information, please check the website:</p> <p>https://www.rangercollege.edu/admissions/admission-process/</p>"
         },
         {
             "type": "text",

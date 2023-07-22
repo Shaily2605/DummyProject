@@ -69,14 +69,10 @@ export const parkeruniversitycampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Parker University offers a variety of programs to choose from. Below is a list of the courses offered at Parker University, Texas, USA with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Parker University offers a variety of programs to choose from. Below is a list of the courses offered at Parker University, Texas, USA with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Doctor of Chiropractic: $50,000",
                 "Bachelor of Science in Human Biology: $29,500",
@@ -153,12 +149,8 @@ export const parkeruniversitycampus = {
                 "Send a copy of visa or other immigration documents.",
                 "Pay the tuition and other applicable fees.",
                 "Wait for the acceptance letter.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the student has been accepted, they will need to take further steps in order to secure their visa and other immigration documents. For more information on the visa application process for Parker University Campus, Texas, USA, students should contact the international student office at Parker University Campus.</p>"
+            ],
+            "heading": "<p>Once the student has been accepted, they will need to take further steps in order to secure their visa and other immigration documents. For more information on the visa application process for Parker University Campus, Texas, USA, students should contact the international student office at Parker University Campus.</p>"
         },
         {
 

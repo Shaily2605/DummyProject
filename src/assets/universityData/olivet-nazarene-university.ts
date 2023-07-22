@@ -70,14 +70,10 @@ export const olivetnazareneuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Olivet Nazarene University,Illinois,USA offers various undergraduate, graduate, and doctoral programs. The following is a list of the courses offered and their associated fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Olivet Nazarene University,Illinois,USA offers various undergraduate, graduate, and doctoral programs. The following is a list of the courses offered and their associated fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration (B.A.): $22,535 per academic year",
                 "Computer Science (B.S.): $25,335 per academic year",
@@ -165,8 +161,8 @@ export const olivetnazareneuniversity = {
                 "Submit the required documents such as the official high school transcript, the official TOEFL (Test of English as a Foreign Language) or IELTS (International English Language Testing System) score, and other supporting documents.",
                 "Submit the bank statement of the student or his/her parent/guardian as evidence of financial stability.",
                 "Submit the Visa application form and other related documents for the student visa.",
-                "Please note that the admission process for international students may vary depending on the university. Please contact the Admissions Office of Olivet Nazarene University for more details.",
-            ]
+            ],
+            "heading": "<p>Please note that the admission process for international students may vary depending on the university. Please contact the Admissions Office of Olivet Nazarene University for more details.</p>"
         },
         {
 

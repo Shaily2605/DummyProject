@@ -70,14 +70,10 @@ export const polytechnicuniversityorlandocampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Polytechnic University of Orlando offers a wide range of associate, bachelor's, master's and doctoral degree programs, as well as certificate programs. Below is a list of their degrees and certificates, as well as their associated tuition and fee rates:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degree Programs",
+            "title": "Courses and Fees",
+            "info": "The Polytechnic University of Orlando offers a wide range of associate, bachelor's, master's and doctoral degree programs, as well as certificate programs. Below is a list of their degrees and certificates, as well as their associated tuition and fee rates:",
+            "textBelowInfo": "<b>Associate Degree Programs</b>",
             "data": [
                 "Aviation Technology: $3,839 per semester",
                 "Business Administration: $3,839 per semester",
@@ -168,14 +164,10 @@ export const polytechnicuniversityorlandocampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>All prospective students must meet the minimum admission requirements of the Polytechnic University, Orlando Campus in order to be considered for admission. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "General Requirements:",
+            "title": "Eligibility Requirements",
+            "info": "All prospective students must meet the minimum admission requirements of the Polytechnic University, Orlando Campus in order to be considered for admission. ",
+            "textBelowInfo": "<b>General Requirements:</b>",
             "data": [
                 "A completed application and application fee",
                 "Official academic transcripts from all post-secondary institutions attended",

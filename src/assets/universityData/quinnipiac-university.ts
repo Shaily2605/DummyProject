@@ -70,14 +70,10 @@ export const quinnipiacuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate courses",
-            "info": "1. Bachelor of Arts:",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate courses",
+            "textBelowInfo": "<b>1. Bachelor of Arts:</b>",
             "data": [
                 "General Arts: $48,875 per year",
                 "Digital Media and Design: $48,875 per year",
@@ -169,8 +165,8 @@ export const quinnipiacuniversity = {
                 "Must submit a letter of recommendation ",
                 "Must submit a personal statement",
                 "Must provide evidence of financial resources to cover the estimated cost of attendance.",
-                "In addition, Quinnipiac University considers several other factors when making a decision on admission, such as academic performance, leadership potential and community involvement."
-            ]
+            ],
+            "heading": "<p>In addition, Quinnipiac University considers several other factors when making a decision on admission, such as academic performance, leadership potential and community involvement.</p>"
         },
         {
             "type": "list-bollet",

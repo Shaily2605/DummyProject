@@ -69,14 +69,10 @@ export const orangecoastcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Orange Coast College offers a wide variety of courses, both online and on-campus. Below is a list of the courses offered at Orange Coast College, along with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "On-Campus Courses",
+            "title": 'Courses and Fees',
+            "info": "Orange Coast College offers a wide variety of courses, both online and on-campus. Below is a list of the courses offered at Orange Coast College, along with their corresponding fees:",
+            "textBelowInfo": "On-Campus Courses",
             "data": [
                 "English: $46 per unit",
                 "Mathematics: $46 per unit",
@@ -155,8 +151,8 @@ export const orangecoastcollege = {
                 "Financial Statement of Support (FSS)",
                 "Non-refundable application fee of $50",
                 "Proof of Medical Insurance (for international students).",
-                "You can find more information about admission requirements for international students on OCC's website."
-            ]
+            ],
+            "heading": "<p>You can find more information about admission requirements for international students on OCC's website. </p>"
         },
         {
             "type": "list-bollet",

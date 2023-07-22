@@ -79,14 +79,10 @@ export const pittsburgstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The fees and tuition structure for Pittsburg State University, Kansas, USA, depends on the program of study and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition",
+            "title": "Courses and Fees",
+            "info": "The fees and tuition structure for Pittsburg State University, Kansas, USA, depends on the program of study and the student's residency status.",
+            "textBelowInfo": "<b>Undergraduate Tuition</b>",
             "data": [
                 "Kansas Residents: $5,567 per semester",
                 "Non-Residents: $9,244 per semester"

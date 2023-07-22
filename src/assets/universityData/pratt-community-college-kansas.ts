@@ -125,12 +125,8 @@ export const prattcommunitycollegekansas = {
                 "Proof of financial support for the duration of the program.",
                 "A valid passport and visa. ",
                 "Submission of a completed International Student Application."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, Indian students may be required to submit additional documents, such as a sponsor letter or bank statement, to demonstrate their ability to fund their studies.</p>"
+            ],
+            "heading": "<p>In addition, Indian students may be required to submit additional documents, such as a sponsor letter or bank statement, to demonstrate their ability to fund their studies.</p>"
         },
         {
             "type": "list-bollet",
@@ -144,8 +140,8 @@ export const prattcommunitycollegekansas = {
                 "<b>Financial Documentation:</b> Students must submit financial documentation that shows they have enough funds to support their education and living expenses.",
                 "<b>Bank Statement:</b> Students must submit an original bank statement or a notarized copy of a bank statement that shows they have the necessary funds.",
                 "<b>Supporting Documents:</b> Students must also provide two letters of recommendation, a resume, and a personal statement.",
-                "After submitting all the required documents, students must wait for a decision from the college. It usually takes up to four weeks for a decision to be made. Once the college has reviewed all the documents, they will issue an I-20 form, which is necessary for obtaining a student visa."
-            ]
+            ],
+            "heading": "<p>After submitting all the required documents, students must wait for a decision from the college. It usually takes up to four weeks for a decision to be made. Once the college has reviewed all the documents, they will issue an I-20 form, which is necessary for obtaining a student visa.</p>"
         },
         {
 

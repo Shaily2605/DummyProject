@@ -124,8 +124,8 @@ export const ridleycollegevictoria = {
                 "Financial guarantee from a parent/guardian",
                 "Two letters of recommendation from teachers",
                 "A copy of valid visa for Australia (if applicable)",
-                "For more information, students should contact the Ridley College Admissions Office directly."
-            ]
+            ],
+            "heading": "<p>For more information, students should contact the Ridley College Admissions Office directly.</p>"
         },
         {
             "type": "list-bollet",

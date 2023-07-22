@@ -68,14 +68,10 @@ export const rooseveltuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of the undergraduate and graduate courses provided by Roosevelt University, Illinois, USA, along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The following is a list of the undergraduate and graduate courses provided by Roosevelt University, Illinois, USA, along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts (BA): $36,680",
                 "Bachelor of Science (BS): $36,680      ",
@@ -136,8 +132,8 @@ export const rooseveltuniversity = {
                 "Submit a completed application form.",
                 "Submit proof of English proficiency if English is not the student's native language.",
                 "Submit a completed financial aid application, if applicable.",
-                "Please note that Roosevelt University requires all international students to be fully sponsored by their own government or family for their entire duration of study."
-            ]
+            ],
+            "heading": "<p>Please note that Roosevelt University requires all international students to be fully sponsored by their own government or family for their entire duration of study.</p>"
         },
         {
             "type": "list-bollet",

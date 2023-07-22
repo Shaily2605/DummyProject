@@ -70,14 +70,10 @@ export const presentationcollegesouthdakota = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Presentation College offers the following courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Presentation College offers the following courses.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Nursing",
                 "Bachelor of Science in Radiologic Sciences",
@@ -179,12 +175,8 @@ export const presentationcollegesouthdakota = {
                 "Student Visa ",
                 "Immunization Records ",
                 "International Student Transfer Form, if applicable "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Students may also be required to submit additional documents depending on their individual situations. For more information, please contact the Office of Admissions at Presentation College.</p>"
+            ],
+            "heading": "<p>Students may also be required to submit additional documents depending on their individual situations. For more information, please contact the Office of Admissions at Presentation College.</p>"
         },
         {
             "type": "text",

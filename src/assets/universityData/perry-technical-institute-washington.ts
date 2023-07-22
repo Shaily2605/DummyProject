@@ -67,14 +67,10 @@ export const perrytechnicalinstitutewashington = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Perry Technical Institute offers a variety of diploma and certificate programs. Below is a list of courses and associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Programs:",
+            "title": "Courses and Fees",
+            "info": "Perry Technical Institute offers a variety of diploma and certificate programs. Below is a list of courses and associated fees.",
+            "textBelowInfo": "Diploma Programs:",
             "data": [
                 "Automotive Technology – $11,350",
                 "Aviation Maintenance Technology – $14,800",
@@ -142,8 +138,8 @@ export const perrytechnicalinstitutewashington = {
                 "Submit a valid student visa, if necessary",
                 "Pass a criminal background check",
                 "Complete a health form and provide proof of immunizations",
-                "In addition, each individual program may have additional eligibility requirements. It is important to contact the Admissions Office for more information about the specific program of interest."
-            ]
+            ],
+            "heading": "<p>In addition, each individual program may have additional eligibility requirements. It is important to contact the Admissions Office for more information about the specific program of interest.</p>"
         },
         {
             "type": "list-bollet",

@@ -69,13 +69,14 @@ export const ohiovalleyuniversity = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Valley University offers a wide range of undergraduate majors, minors, and programs. Below is a list of all the courses along with their tuition fees:</p>"
+            title: '',
+            data: "<p></p>"
         },
         {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Ohio Valley University offers a wide range of undergraduate majors, minors, and programs. Below is a list of all the courses along with their tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Business Administration –  $385 per credit hour",
                 "Accounting – $385 per credit hour",

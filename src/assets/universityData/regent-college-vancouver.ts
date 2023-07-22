@@ -69,14 +69,10 @@ export const regentcollegevancouver = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Regent College offers the following courses with the following fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Masters of Theology (MTh):",
+            "title": "Courses and Fees",
+            "info": "Regent College offers the following courses with the following fee structures:",
+            "textBelowInfo": "<b>Masters of Theology (MTh): </b>",
             "data": [
                 "Tuition Fees: $15,500 CAD per year",
                 "Books and Supplies: $500 CAD per year"
@@ -191,8 +187,8 @@ export const regentcollegevancouver = {
                 "Submitting proof of financial resources such as a bank statement or scholarship letter.",
                 "Attending an admissions interview via Skype or in-person.",
                 "Submitting a non-refundable application fee.",
-                "Once these requirements are met, an admissions decision will be made. If accepted, international students will also need to apply for a Canadian student visa."
-            ]
+            ],
+            "heading": "<p>Once these requirements are met, an admissions decision will be made. If accepted, international students will also need to apply for a Canadian student visa.</p>"
         },
         {
 

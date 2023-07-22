@@ -83,14 +83,10 @@ export const paloaltocollegetexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Palo Alto College offers a variety of courses. Below is a list of courses offered at the college along with their fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Arts Degrees",
+            "title": 'Courses and Fees',
+            "info": "Palo Alto College offers a variety of courses. Below is a list of courses offered at the college along with their fee structures:",
+            "textBelowInfo": "<b>Associate of Arts Degrees </b>",
             "data": [
                 "Associate of Arts in Psychology: $2,220",
                 "Associate of Arts in Spanish: $2,220",
@@ -205,12 +201,8 @@ export const paloaltocollegetexas = {
                 "Submit the Certification of Finances form, along with supporting documents.",
                 "Submit a copy of your passport.",
                 "Send your application materials to the college’s Office of International Admissions.",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once your application is complete, you will receive an email with instructions for scheduling a visa interview at the US Embassy or Consulate in India.During the interview, you will need to provide evidence that you have the financial resources to support your studies in the US.After the visa interview, you will receive an I- 20 form.Once you have the I - 20 form, you can apply for the F- 1 student visa.</p> <p>If you have any questions, please contact the Office of International Admissions at Palo Alto College.</p>"
+            ],
+            "heading": "<p>Once your application is complete, you will receive an email with instructions for scheduling a visa interview at the US Embassy or Consulate in India.During the interview, you will need to provide evidence that you have the financial resources to support your studies in the US.After the visa interview, you will receive an I- 20 form.Once you have the I - 20 form, you can apply for the F- 1 student visa.</p> <p>If you have any questions, please contact the Office of International Admissions at Palo Alto College.</p>"
         },
         {
 

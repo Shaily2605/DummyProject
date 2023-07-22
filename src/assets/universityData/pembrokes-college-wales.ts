@@ -65,14 +65,10 @@ export const pembrokescollegewales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pembroke College, Wales, UK offers a wide range of undergraduate and postgraduate courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "Pembroke College, Wales, UK offers a wide range of undergraduate and postgraduate courses.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Ancient World",
                 "Archaeology & Anthropology",
@@ -156,14 +152,10 @@ export const pembrokescollegewales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Pembroke College, Wales, UK welcomes applications from Indian students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Eligibility for Undergraduate Course:",
+            "title": "Eligibility Requirements",
+            "info": "Pembroke College, Wales, UK welcomes applications from Indian students.",
+            "textBelowInfo": "<b>Eligibility for Undergraduate Course:</b>",
             "data": [
                 "Indian students must have completed their 12th grade from a recognized Board and must have obtained a minimum of 60% marks in the 12th grade. ",
                 "Indian students must have taken the UKiset exam and obtained the required score. ",

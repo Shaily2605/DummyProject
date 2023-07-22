@@ -133,8 +133,8 @@ export const pennsylvaniacollegeoftechnology = {
                 "A valid passport",
                 "A completed F-1 Student Visa application",
                 "A Certificate of Eligibility (I-20) from Penn College",
-                "In addition to these basic requirements, Indian students must also provide proof of a valid student visa, proof of immunization status and any other documents required by the U.S. government for international students. Penn College also requires that Indian students have a minimum TOEFL score of 500 (paper version) or 61 (internet version) or a minimum IELTS score of 5.5. A minimum GPA of 2.0 is also required."
-            ]
+            ],
+            "heading": "<p>In addition to these basic requirements, Indian students must also provide proof of a valid student visa, proof of immunization status and any other documents required by the U.S. government for international students. Penn College also requires that Indian students have a minimum TOEFL score of 500 (paper version) or 61 (internet version) or a minimum IELTS score of 5.5. A minimum GPA of 2.0 is also required.</p>"
         },
         {
             "type": "list-bollet",

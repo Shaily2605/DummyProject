@@ -74,14 +74,10 @@ export const okanagancollegekelownacampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Okanagan College offers a wide range of courses across its Kelowna campus. Below is a list of courses with fee structure for the Kelowna Campus.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs",
+            "title": 'Courses and Fees',
+            "info": "Okanagan College offers a wide range of courses across its Kelowna campus. Below is a list of courses with fee structure for the Kelowna Campus.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs</b>",
             "data": [
                 "Bachelor of Arts: $7,800.00/year",
                 "Bachelor of Science: $7,800.00/year",
@@ -185,8 +181,8 @@ export const okanagancollegekelownacampus = {
                 "Applicants must submit proof of sufficient funds to cover tuition fees and living expenses during their stay in Canada. ",
                 "Applicants must be medically fit and should provide a medical certificate issued by a local medical practitioner. ",
                 "Applicants must provide a police clearance certificate from their home country.",
-                "For further information, you can visit the college's official website."
-            ]
+            ],
+            "heading": "<p>For further information, you can visit the college's official website.</p>"
         },
         {
             "type": "list-bollet",

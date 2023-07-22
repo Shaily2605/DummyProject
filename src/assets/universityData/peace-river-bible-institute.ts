@@ -87,12 +87,8 @@ export const peaceriverbibleinstitute = {
                 "Bachelor of Theology – $15,000",
                 "Graduate Diploma in Christian Studies – $7,000",
                 "Certificate in Christian Counselling – $3,000"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Each course has tuition fees, textbooks, online access, and other costs associated with it. For more information, you can contact the institute directly.</p>"
+            ],
+            "heading": "<p>Each course has tuition fees, textbooks, online access, and other costs associated with it. For more information, you can contact the institute directly.</p>"
         },
         {
             type: "meta",

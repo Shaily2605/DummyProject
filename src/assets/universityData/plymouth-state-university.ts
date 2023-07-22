@@ -130,12 +130,8 @@ export const plymouthstateuniversity = {
                 "<b>Copy of Passport:</b> Submit a copy of your passport.",
                 "<b>Additional Documentation:</b> Any additional documentation required by the University may also be required.",
                 "<b>Transfer Students:</b> Transfer students must also provide official transcripts from each college or university attended."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Note: Students from India are required to have a valid student visa in order to study at Plymouth State University.</p>"
+            ],
+            "heading": "<p>Note: Students from India are required to have a valid student visa in order to study at Plymouth State University.</p>"
         },
         {
             "type": "list-bollet",

@@ -68,14 +68,10 @@ export const ontariotechuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ontario Tech University offers a variety of degree programs at both the undergraduate and graduate levels. The fee structure for these programs varies depending on the program, the number of credits taken, and the student’s residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Ontario Tech University offers a variety of degree programs at both the undergraduate and graduate levels. The fee structure for these programs varies depending on the program, the number of credits taken, and the student’s residency status.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts",
                 "Bachelor of Science",
@@ -160,12 +156,8 @@ export const ontariotechuniversity = {
                 "Provide a letter of financial support from a sponsor or sponsor organization ",
                 "Provide proof of immunization records ",
                 "Present documents demonstrating any scholarships or awards "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, students must be in good academic standing and may be required to submit additional documents to the university depending on their program.</p><br> <p>For more information, please visit the Ontario Tech University's International Admissions page.</p>"
+            ],
+            "heading": "<p>In addition, students must be in good academic standing and may be required to submit additional documents to the university depending on their program.</p><br> <p>For more information, please visit the Ontario Tech University's International Admissions page.</p>"
         },
         {
             "type": "list-bollet",

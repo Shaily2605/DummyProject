@@ -75,8 +75,8 @@ export const parisjuniorcollegetexas = {
             "data": [
                 "Paris Junior College in Texas, USA offers a variety of courses to its students. It offers Associate of Arts, Associate of Science, Associate of Applied Science and Technical Certificate programs in areas such as Business Technology, Computer Technology, Health Sciences, Human Services, Manufacturing Technology, Public Safety, among others.",
                 "The fee structure for the courses at Paris Junior College varies depending on the type of program and the number of credits taken. The tuition fee for a traditional course is $132 per credit hour and the tuition fee for an online course is $157 per credit hour. In addition to tuition fees, students may need to pay other fees such as technology fees, lab fees, and course fees.",
-                "For more information on the fee structure, please visit the Paris Junior College website.  "
-            ]
+            ],
+            "heading": "<p>For more information on the fee structure, please visit the Paris Junior College website.</p>"
         },
         {
             type: "meta",
@@ -114,12 +114,8 @@ export const parisjuniorcollegetexas = {
                 "Submit a completed Declaration and Certification of Finances form. ",
                 "Submit a completed copy of the Immunization Form. ",
                 "Submit a completed Application for Admission form."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>It is strongly recommended that international students apply at least three months prior to the semester they intend to attend. For additional information, please visit the PJC International Student Services website.</p>"
+            ],
+            "heading": "<p>It is strongly recommended that international students apply at least three months prior to the semester they intend to attend. For additional information, please visit the PJC International Student Services website.</p>"
         },
         {
             "type": "list-bollet",

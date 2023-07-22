@@ -77,14 +77,10 @@ export const pomonacollegecalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pomona College in Claremont, California offers over 50 undergraduate majors and programs within five divisions.</p> <p>Tuition for the 2020-2021 academic year is $56,930. In addition to tuition, the college charges a comprehensive fee of $2,570 per semester. This fee covers room and board, health services, technology fees, and other educational expenses.</p> <p>Below is a list of the courses offered by Pomona College, along with their respective credit hours and cost per credit hour:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Division of the Arts",
+            "title": "Courses and Fees",
+            "info": "Pomona College in Claremont, California offers over 50 undergraduate majors and programs within five divisions.</p> <p>Tuition for the 2020-2021 academic year is $56,930. In addition to tuition, the college charges a comprehensive fee of $2,570 per semester. This fee covers room and board, health services, technology fees, and other educational expenses.</p> <p>Below is a list of the courses offered by Pomona College, along with their respective credit hours and cost per credit hour:",
+            "textBelowInfo": "<b>Division of the Arts</b>",
             "data": [
                 "Art: 4 credits, $1,428 per credit",
                 "Art History: 4 credits, $1,428 per credit",
@@ -179,12 +175,8 @@ export const pomonacollegecalifornia = {
                 "Mid-year and final grades from senior year",
                 "Essay",
                 "Application fee"
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition to the above, Pomona College also considers other factors such as extracurricular activities, community service, and special talents in the admissions process. Indian students must also demonstrate English proficiency by submitting the Test of English as a Foreign Language (TOEFL) or International English Language Testing System (IELTS) scores.</p>"
+            ],
+            "heading": "<p>In addition to the above, Pomona College also considers other factors such as extracurricular activities, community service, and special talents in the admissions process. Indian students must also demonstrate English proficiency by submitting the Test of English as a Foreign Language (TOEFL) or International English Language Testing System (IELTS) scores.</p>"
         },
         {
             "type": "list-bollet",

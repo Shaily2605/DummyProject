@@ -71,14 +71,10 @@ export const pitzercollegecalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pitzer College offers a wide range of courses across various disciplines. Below is a list of courses offered at the college with their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Pitzer College offers a wide range of courses across various disciplines. Below is a list of courses offered at the college with their corresponding fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting: $4,400",
                 "Anthropology: $4,400",

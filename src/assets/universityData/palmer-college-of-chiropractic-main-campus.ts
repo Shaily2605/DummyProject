@@ -176,8 +176,8 @@ export const palmercollegeofchiropracticmaincampus = {
                 "Submit a copy of your passport photo page.",
                 "Pay the non-refundable application fee.",
                 "If applicable, submit certified copies of any professional licenses or credentials.",
-                "Once all the required documentation has been received, your application will be reviewed for admission."
-            ]
+            ],
+            "heading": "<p>Once all the required documentation has been received, your application will be reviewed for admission.</p>"
         },
         {
 

@@ -125,8 +125,8 @@ export const remingtoncollegegreenspointcampus = {
                 "Provide proof of financial responsibility",
                 "Pass a criminal background check",
                 "Attend a new student orientation",
-                "Additionally, some programs may have additional requirements such as providing a valid visa, taking an entrance exam, or providing additional documents as needed. All applicants should contact the college directly to learn more about the specific requirements for their program of interest."
-            ]
+            ],
+            "heading": "<p>Additionally, some programs may have additional requirements such as providing a valid visa, taking an entrance exam, or providing additional documents as needed. All applicants should contact the college directly to learn more about the specific requirements for their program of interest.</p>"
         },
         {
             "type": "list-bollet",

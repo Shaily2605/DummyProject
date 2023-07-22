@@ -72,45 +72,101 @@ export const oklahomacityuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oklahoma City University offers a variety of undergraduate, graduate and professional programs. The following table lists the available courses along with their respective fee structures.</p>"
-        },
-        {
-            "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
-            "data": [
-                "Program: Bachelor of Arts, Tuition Fee: $32,000",
-                "Program: Bachelor of Science, Tuition Fee: $32,000",
-                "Program: Bachelor of Business Administration, Tuition Fee: $32,000",
-                "Program: Bachelor of Music, Tuition Fee: $36,000",
-                "Program: Bachelor of Science in Nursing, Tuition Fee: $28,500",
-                "Program: Bachelor of Science in Social Work, Tuition Fee: $33,600",
+            "type": "table",
+            "title": "Courses and Fees",
+            "info": "Oklahoma City University offers a variety of undergraduate, graduate and professional programs. The following table lists the available courses along with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
+            "col": [
+                "Program ",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Program ": "Bachelor of Arts",
+                    "Tuition Fee": "$32,000"
+                },
+                {
+                    "Program ": "Bachelor of Science",
+                    "Tuition Fee": "$32,000"
+                },
+                {
+                    "Program ": "Bachelor of Business Administration",
+                    "Tuition Fee": "$32,000"
+                },
+                {
+                    "Program ": "Bachelor of Music",
+                    "Tuition Fee": "$36,000"
+                },
+                {
+                    "Program ": "Bachelor of Science in Nursing",
+                    "Tuition Fee": "$28,500"
+                },
+                {
+                    "Program ": "Bachelor of Science in Social Work",
+                    "Tuition Fee": "$33,600"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Program: Master of Arts, Tuition Fee: $22,500",
-                "Program: Master of Science, Tuition Fee: $22,500",
-                "Program: Master of Business Administration, Tuition Fee: $30,000",
-                "Program: Master of Science in Nursing, Tuition Fee: $24,000",
-                "Program: Master of Science in Social Work, Tuition Fee: $22,500"
+            "col": [
+                "Program ",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Program ": "Master of Arts",
+                    "Tuition Fee": "$22,500"
+                },
+                {
+                    "Program ": "Master of Science",
+                    "Tuition Fee": "$22,500"
+                },
+                {
+                    "Program ": "Master of Business Administration",
+                    "Tuition Fee": "$30,000"
+                },
+                {
+                    "Program ": "Master of Science in Nursing",
+                    "Tuition Fee": "$24,000"
+                },
+                {
+                    "Program ": "Master of Science in Social Work",
+                    "Tuition Fee": "$22,500"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Professional Programs",
-            "data": [
-                "Program: Doctor of Business Administration Tuition Fee: $42,000",
-                "Program: Doctor of Education, Tuition Fee: $44,000",
-                "Program: Doctor of Nursing Practice, Tuition Fee: $41,000",
-                "Program: Doctor of Physical Therapy, Tuition Fee: $44,000",
-                "Program: Doctor of Psychology, Tuition Fee: $44,000"
+            "col": [
+                "Program ",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Program ": "Doctor of Business Administration",
+                    "Tuition Fee": "$42,000"
+                },
+                {
+                    "Program ": "Doctor of Education",
+                    "Tuition Fee": "$44,000"
+                },
+                {
+                    "Program ": "Doctor of Nursing Practice",
+                    "Tuition Fee": "$41,000"
+                },
+                {
+                    "Program ": "Doctor of Physical Therapy",
+                    "Tuition Fee": "$44,000"
+                },
+                {
+                    "Program ": "Doctor of Psychology",
+                    "Tuition Fee": "$44,000"
+                },
             ]
         },
         {

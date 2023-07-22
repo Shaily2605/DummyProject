@@ -68,14 +68,10 @@ export const rockymountaincollegemontana = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rocky Mountain College offers a range of degree programs and courses. Below is a list of the courses offered, along with the associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs ",
+            "title": "Courses and Fees",
+            "info": "Rocky Mountain College offers a range of degree programs and courses. Below is a list of the courses offered, along with the associated fees.",
+            "textBelowInfo": "<b>Undergraduate Programs </b> ",
             "data": [
                 "Bachelor of Arts - $20,450/year ",
                 "Bachelor of Science - $20,450/year",
@@ -144,8 +140,8 @@ export const rockymountaincollegemontana = {
                 "All students must provide proof of English proficiency. ",
                 "International students must provide proof of financial support.  ",
                 "All students must submit a completed application form and the non-refundable application fee. ",
-                "For more information about the admission process for international students, please visit the Admissions Office website at www.rocky.edu/admissions."
-            ]
+            ],
+            "heading": "<p>For more information about the admission process for international students, please visit the Admissions Office website at www.rocky.edu/admissions.</p>"
         },
         {
             "type": "list-bollet",
