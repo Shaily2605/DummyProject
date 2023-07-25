@@ -1363,6 +1363,21 @@ import * as universityofphoenixconnecticut from '../../assets/universityData/uni
 import * as universityofphoenixhawaii from '../../assets/universityData/university-of-phoenix-hawaii'
 import * as universityofpikeville from '../../assets/universityData/university-of-pikeville'
 import * as universityofpittsburgh from '../../assets/universityData/university-of-pittsburgh'
+import * as universityofportlandoregon from '../../assets/universityData/university-of-portland-oregon'
+import * as universityofprinceedwardislandcanada from '../../assets/universityData/university-of-prince-edward-island-canada'
+import * as universityofprovidencemontana from '../../assets/universityData/university-of-providence-montana'
+import * as universityofpugetsound from '../../assets/universityData/university-of-puget-sound'
+import * as universityofredlandscalifornia from '../../assets/universityData/university-of-redlands-california'
+import * as universityofrhodeisland from '../../assets/universityData/university-of-rhode-island'
+import * as universityofrichmondvirginia from '../../assets/universityData/university-of-richmond-virginia'
+import * as universityofriogrande from '../../assets/universityData/university-of-rio-grande'
+import * as universityofsaintfrancis from '../../assets/universityData/university-of-saint-francis'
+import * as universityofsaintjoseph from '../../assets/universityData/university-of-saint-joseph'
+import * as universityofsaintmary from '../../assets/universityData/university-of-saint-mary'
+import * as universityofsalfordengland from '../../assets/universityData/university-of-salford-england'
+import * as universityofsandiegocalifornia from '../../assets/universityData/university-of-san-diego-california'
+import * as universityofsanfrancisco from '../../assets/universityData/university-of-san-francisco'
+import * as universityofsclancaster from '../../assets/universityData/university-of-sc-lancaster'
 
 export {
 
@@ -2725,6 +2740,21 @@ export {
     universityofphoenixhawaii,
     universityofpikeville,
     universityofpittsburgh,
-
+    universityofportlandoregon,
+    universityofprinceedwardislandcanada,
+    universityofprovidencemontana,
+    universityofpugetsound,
+    universityofredlandscalifornia,
+    universityofrhodeisland,
+    universityofrichmondvirginia,
+    universityofriogrande,
+    universityofsaintfrancis,
+    universityofsaintjoseph,
+    universityofsaintmary,
+    universityofsalfordengland,
+    universityofsandiegocalifornia,
+    universityofsanfrancisco,
+    universityofsclancaster,
+    
 
 }

@@ -71,14 +71,10 @@ export const mountstmarysuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount St. Mary's University offers over 60 undergraduate programs and more than 20 graduate programs. The following is a list of all the courses offered with their respective fee structure (in US Dollars):</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Mount St. Mary's University offers over 60 undergraduate programs and more than 20 graduate programs. The following is a list of all the courses offered with their respective fee structure (in US Dollars):",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Biology: $41,340",
                 "Computer Science: $41,340",

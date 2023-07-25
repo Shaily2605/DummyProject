@@ -69,14 +69,10 @@ export const montserratcollegeofartmaine = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Montserrat College of Art offers the following courses and their associated fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Bachelor of Fine Arts:",
+            "title": "Courses and Fees",
+            "info": "Montserrat College of Art offers the following courses and their associated fee structures:",
+            "textBelowInfo": "<b>Bachelor of Fine Arts:</b>",
             "data": [
                 "Tuition & Fees: $21,788",
                 "Room & Board: $14,950",

@@ -68,15 +68,10 @@ export const mureskinstitutewa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Muresk Institute, Western Australia, Australia offers a range of Certificate, Diploma and Bachelor courses in Agriculture, Applied Sciences, Business and Management, Community Services, Engineering, Horticulture and Viticulture, and Information Technology. </p>",
-            textBelowInfo: "The details of courses with their respective fee structure are given below:",
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Courses:",
+            "title": 'Courses and Fees',
+            "info": "Muresk Institute, Western Australia, Australia offers a range of Certificate, Diploma and Bachelor courses in Agriculture, Applied Sciences, Business and Management, Community Services, Engineering, Horticulture and Viticulture, and Information Technology.",
+            "textBelowInfo": "<p>The details of courses with their respective fee structure are given below:</p> <br> <p><b>Certificate Courses:</b></p>",
             "data": [
                 "Certificate II in Agriculture – $2,500",
                 "Certificate II in Horticulture – $2,500",
@@ -314,7 +309,7 @@ export const mureskinstitutewa = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

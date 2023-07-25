@@ -68,14 +68,10 @@ export const muskingumuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Muskingum University offers a variety of courses and programs that meet the needs of students seeking a quality education. The following list contains the courses offered by the university along with their corresponding fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "Muskingum University offers a variety of courses and programs that meet the needs of students seeking a quality education. The following list contains the courses offered by the university along with their corresponding fee structure.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $477/credit",
                 "Art: $477/credit",

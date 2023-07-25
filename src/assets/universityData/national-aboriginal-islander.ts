@@ -70,14 +70,10 @@ export const nationalaboriginalislander = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>NATIONAL ABORIGINAL ISLANDER SKILLS DEVELOPMENT ASSOCIATION (NAISDA)</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "CERTIFICATE I IN TRANSITION EDUCATION",
+            "title": 'Courses and Fees',
+            "info": "NATIONAL ABORIGINAL ISLANDER SKILLS DEVELOPMENT ASSOCIATION (NAISDA)",
+            "textBelowInfo": "<b>CERTIFICATE I IN TRANSITION EDUCATION</b>",
             "data": [
                 "This course is designed to build confidence, self-esteem and employment outcomes for Aboriginal and Torres Strait Islander people. The course will provide a pathway to further education and training qualifications, as well as employment. ",
                 "Course Duration: 8 weeks"

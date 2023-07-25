@@ -71,14 +71,10 @@ export const moravianuniversitypennsylvania = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Moravian College offers a wide range of undergraduate and graduate programs for students to choose from.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Moravian College offers a wide range of undergraduate and graduate programs for students to choose from.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting",
                 "American Sign Language",
@@ -134,13 +130,8 @@ export const moravianuniversitypennsylvania = {
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>The tuition and fees for the academic year 2020-2021 are as follows: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
+            "title": "The tuition and fees for the academic year 2020-2021 are as follows:",
             "info": "Undergraduate Tuition and Fees:",
             "data": [
                 "Full-Time Tuition: $42,000 ",

@@ -65,14 +65,10 @@ export const morehousecollegegeorgia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morehouse College, located in Atlanta, Georgia, offers a wide range of undergraduate and graduate degree programs. Below is a list of the academic programs offered at Morehouse College, along with their associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Morehouse College, located in Atlanta, Georgia, offers a wide range of undergraduate and graduate degree programs. Below is a list of the academic programs offered at Morehouse College, along with their associated tuition and fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "African American Studies: Tuition & Fees: $41,276",
                 "Biology: Tuition & Fees: $41,276",

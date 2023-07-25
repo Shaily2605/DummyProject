@@ -71,14 +71,10 @@ export const morningsideuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morningside University offers a variety of undergraduate and graduate programs in a wide range of disciplines. Below is a list of the courses offered with the corresponding fee structure:</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Morningside University offers a variety of undergraduate and graduate programs in a wide range of disciplines. Below is a list of the courses offered with the corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration - $7,500 per semester",
                 "Accounting - $7,500 per semester",

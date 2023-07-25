@@ -66,13 +66,14 @@ export const morganstateuniversity = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morgan State University offers more than 80 undergraduate, over 40 graduate and professional degrees.</p>",
+            title: '',
+            data: "<p></p>",
         },
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs:",
+            "title": "Courses and Fees",
+            "info": "Morgan State University offers more than 80 undergraduate, over 40 graduate and professional degrees.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs:</b>",
             "data": [
                 "African American Studies: $14,074",
                 "Anthropology: $14,074",

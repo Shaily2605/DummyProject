@@ -68,14 +68,10 @@ export const mountainstatecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mountain State College offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate Degree Programs",
+            "title": 'Courses and Fees',
+            "info": "Mountain State College offers the following courses:",
+            "textBelowInfo": "<b>Associate Degree Programs </b>",
             "data": [
                 "Accounting",
                 "Business Administration",

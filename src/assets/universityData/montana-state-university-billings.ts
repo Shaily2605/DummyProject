@@ -69,14 +69,10 @@ export const montanastateuniversitybillings = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Montana State University Billings offers over 150 academic options at the undergraduate, graduate, and professional levels. Below is a list of the available degree programs and their associated tuition costs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Montana State University Billings offers over 150 academic options at the undergraduate, graduate, and professional levels. Below is a list of the available degree programs and their associated tuition costs:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $5,955 per semester ",
                 "Art: $5,955 per semester ",

@@ -77,14 +77,10 @@ export const mooretheologicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Moore Theological College offers a range of professional courses and qualifications, as well as undergraduate and graduate-level courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Moore Theological College offers a range of professional courses and qualifications, as well as undergraduate and graduate-level courses.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Divinity (3 year) - $23,400 per year ",
                 "Bachelor of Theology (3 year) - $23,400 per year ",
@@ -320,7 +316,7 @@ export const mooretheologicalcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

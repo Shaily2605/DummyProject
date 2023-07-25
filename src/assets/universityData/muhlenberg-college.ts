@@ -68,14 +68,10 @@ export const muhlenbergcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Muhlenberg College offers a variety of undergraduate and graduate programs. Below is a list of the programs offered at Muhlenberg and their associated fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Muhlenberg College offers a variety of undergraduate and graduate programs. Below is a list of the programs offered at Muhlenberg and their associated fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting: $37,490",
                 "Art: $37,490",
@@ -146,14 +142,10 @@ export const muhlenbergcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Muhlenberg College accepts applications from international students who are currently in their final year of secondary school or who have already obtained a secondary school diploma from an accredited school.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission, international students must:",
+            "title": "Eligibility Requirement",
+            "info": "Muhlenberg College accepts applications from international students who are currently in their final year of secondary school or who have already obtained a secondary school diploma from an accredited school.",
+            "textBelowInfo": "To be eligible for admission, international students must:",
             "data": [
                 "Have a minimum overall Grade Point Average (GPA) of 3.0 (on a 4.0 scale)",
                 "Submit a completed Common Application or the Coalition Application with the Muhlenberg College Member Questionnaire ",
@@ -336,9 +328,9 @@ export const muhlenbergcollege = {
             "title": "Hostel",
             "info": "Muhlenberg College provides both on-campus and off-campus housing options. On-campus housing includes residence halls, apartments, and themed living spaces. Off-campus housing includes a variety of apartments and houses near the college.",
             "data": [
-                "<b>On-Campus Housing:</b> Muhlenberg College provides a variety of on-campus housing. All first-year students are required to live on-campus and are assigned to a residence hall, apartment, or themed living space. The college offers traditional residence halls, apartments, and themed living spaces such as gender-inclusive housing, language houses, and honors housing. All residence hall rooms are fully furnished and have a private bathroom.",
-                "<b>Off-Campus Housing:</b> Muhlenberg College also offers off-campus housing options near the college. Off-campus housing options include apartments, townhouses, and houses. The college website also provides a list of off-campus housing options and contact information. ",
-                "<b>Hostel Facilities:</b> Muhlenberg College does not offer hostel facilities on-campus or off-campus. However, there are several hostel facilities located in the nearby cities of Allentown, Bethlehem, and Easton."
+                "<b>On-Campus Housing:</b> <br> Muhlenberg College provides a variety of on-campus housing. All first-year students are required to live on-campus and are assigned to a residence hall, apartment, or themed living space. The college offers traditional residence halls, apartments, and themed living spaces such as gender-inclusive housing, language houses, and honors housing. All residence hall rooms are fully furnished and have a private bathroom.",
+                "<b>Off-Campus Housing:</b> <br> Muhlenberg College also offers off-campus housing options near the college. Off-campus housing options include apartments, townhouses, and houses. The college website also provides a list of off-campus housing options and contact information. ",
+                "<b>Hostel Facilities:</b> <br> Muhlenberg College does not offer hostel facilities on-campus or off-campus. However, there are several hostel facilities located in the nearby cities of Allentown, Bethlehem, and Easton."
             ]
         },
         {

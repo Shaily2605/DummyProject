@@ -69,14 +69,10 @@ export const mountvernonnazareneuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount Vernon Nazarene University offers more than 100 undergraduate and graduate programs that prepare students for success in their chosen fields. The university also offers a variety of certificate programs. The following is a list of all the courses offered at Mount Vernon Nazarene University along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Mount Vernon Nazarene University offers more than 100 undergraduate and graduate programs that prepare students for success in their chosen fields. The university also offers a variety of certificate programs. The following is a list of all the courses offered at Mount Vernon Nazarene University along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business Administration – $670 per credit hour",
                 "English – $670 per credit hour ",
@@ -369,11 +365,11 @@ export const mountvernonnazareneuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [
-              "Mount Vernon Nazarene University does not offer hostel facilities on-campus. However, there are several hostels in the Mount Vernon area that offer low-cost accommodation for students. These hostels are typically clean, safe, and affordable. They offer dorm-style rooms and shared common areas."
+                "Mount Vernon Nazarene University does not offer hostel facilities on-campus. However, there are several hostels in the Mount Vernon area that offer low-cost accommodation for students. These hostels are typically clean, safe, and affordable. They offer dorm-style rooms and shared common areas."
             ]
         },
         {

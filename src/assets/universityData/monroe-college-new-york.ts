@@ -67,14 +67,10 @@ export const monroecollegenewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Monroe College offers a variety of courses across its five academic divisions. The following is a list of courses offered at Monroe College, New York and their associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "School of Business",
+            "title": "Courses and Fees",
+            "info": "Monroe College offers a variety of courses across its five academic divisions. The following is a list of courses offered at Monroe College, New York and their associated fee structure:",
+            "textBelowInfo": "<b>School of Business</b>",
             "data": [
                 "Business Administration - $18,000 per year ",
                 "Accounting - $18,000 per year ",

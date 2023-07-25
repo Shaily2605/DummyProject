@@ -79,14 +79,10 @@ export const montserratcollegeofartmassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Montserrat College of Art offers a variety of degree programs across disciplines, as well as certificate and non-credit professional development courses. Below is a list of the programs offered, along with the associated tuition and fees for the 2019-2020 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Bachelor of Fine Arts (BFA):",
+            "title": "Courses and Fees",
+            "info": "Montserrat College of Art offers a variety of degree programs across disciplines, as well as certificate and non-credit professional development courses. Below is a list of the programs offered, along with the associated tuition and fees for the 2019-2020 academic year.",
+            "textBelowInfo": "<b>Bachelor of Fine Arts (BFA):</b>",
             "data": [
                 "Tuition: $29,450",
                 "Fees: $1,500"

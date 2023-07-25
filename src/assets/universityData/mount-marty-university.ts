@@ -70,14 +70,10 @@ export const mountmartyuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount Marty University offers more than 60 undergraduate and 12 graduate degree programs. All the courses offered by the university along with their fee structure are given below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Mount Marty University offers more than 60 undergraduate and 12 graduate degree programs. All the courses offered by the university along with their fee structure are given below:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting: $15,400 Per Year",
                 "Anthropology: $14,700 Per Year  ",
@@ -108,8 +104,8 @@ export const mountmartyuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Applied Behavior Analysis: $6,762 Per Year",
                 "Business Administration: $6,762 Per Year",

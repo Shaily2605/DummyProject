@@ -69,14 +69,10 @@ export const mountaloysiuscollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount Aloysius College offers a wide range of courses, ranging from undergraduate and graduate programs to short courses and certificates. The following is a list of courses offered by Mount Aloysius College, along with their corresponding fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Mount Aloysius College offers a wide range of courses, ranging from undergraduate and graduate programs to short courses and certificates. The following is a list of courses offered by Mount Aloysius College, along with their corresponding fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "<b>Bachelor of Arts (BA):</b> Total tuition fee for this program is $25,080.",
                 "<b>Bachelor of Science (BS):</b> Total tuition fee for this program is $29,938.",

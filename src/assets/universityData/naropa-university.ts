@@ -67,14 +67,10 @@ export const naropauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Naropa University, Colorado offers a variety of courses. You can find the exact information about the courses and their fee structure below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Naropa University, Colorado offers a variety of courses. You can find the exact information about the courses and their fee structure below:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Arts in Environmental Studies: $540/credit hour",
                 "Bachelor of Arts in Psychology: $540/credit hour",

@@ -71,14 +71,10 @@ export const montanastateuniversitynorthern = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses offered at Montana State University - Northern along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses offered at Montana State University - Northern along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting - $5,947",
                 "Business Administration - $5,947",

@@ -71,14 +71,10 @@ export const morrincollegequebec = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morrin College offers the following courses: </p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "1. Diploma in Business Administration ",
-            "info": "Fee Structure:",
+            "title": 'Courses and Fees',
+            "info": "Morrin College offers the following courses: ",
+            "textBelowInfo": "<p><b>1. Diploma in Business Administration </b></p> <br> <p>Fee Structure:</p>",
             "data": [
                 "Tuition Fee: $15,000",
                 "Books and Supplies: $2,000",
@@ -87,8 +83,9 @@ export const morrincollegequebec = {
         },
         {
             "type": "list-bollet",
-            "title": "2. Diploma in Accounting",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "2. Diploma in Accounting",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: $16,000",
                 "Books and Supplies: $2,000",
@@ -97,8 +94,9 @@ export const morrincollegequebec = {
         },
         {
             "type": "list-bollet",
-            "title": "3. Diploma in Computer Science",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "3. Diploma in Computer Science",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: $17,000",
                 "Books and Supplies: $2,000",
@@ -107,8 +105,9 @@ export const morrincollegequebec = {
         },
         {
             "type": "list-bollet",
-            "title": "4. Diploma in Psychology",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "4. Diploma in Psychology",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: $14,000",
                 "Books and Supplies: $2,000",
@@ -117,8 +116,9 @@ export const morrincollegequebec = {
         },
         {
             "type": "list-bollet",
-            "title": "5. Diploma in Nursing",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "5. Diploma in Nursing",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: $18,000",
                 "Books and Supplies: $2,000",
@@ -127,8 +127,9 @@ export const morrincollegequebec = {
         },
         {
             "type": "list-bollet",
-            "title": "6. Diploma in Education ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "6. Diploma in Education",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: $13,000",
                 "Books and Supplies: $2,000",
@@ -159,14 +160,10 @@ export const morrincollegequebec = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Morrin College in Quebec, Canada does not offer admission to Indian students. It only offers admission to international students who are Canadian citizens or permanent residents of Canada.</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "In order to be eligible for admission to Morrin College, international students must:",
+            "title": "Eligibility Requirement",
+            "info": "Morrin College in Quebec, Canada does not offer admission to Indian students. It only offers admission to international students who are Canadian citizens or permanent residents of Canada.",
+            "textBelowInfo": "In order to be eligible for admission to Morrin College, international students must:",
             "data": [
                 "Be a Canadian citizen or a permanent resident of Canada ",
                 "Be at least 16 years of age ",

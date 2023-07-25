@@ -67,14 +67,10 @@ export const murraystateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Murray State University offers a variety of undergraduate and graduate programs. Below is a list of all the courses offered at Murray State University along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Murray State University offers a variety of undergraduate and graduate programs. Below is a list of all the courses offered at Murray State University along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "<b>Accounting</b> Fee Structure: $8,508 per year",
                 "<b>Agriculture</b> Fee Structure: $8,508 per year",
@@ -165,7 +161,7 @@ export const murraystateuniversity = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-               "Students from India who wish to apply for admission at Murray State University, Kentucky, USA, can do so by visiting the University's website and completing the online application form. The application requires the submission of academic transcripts, test scores, letters of recommendation, and a personal statement. Once the application is complete and all the required documents are submitted, the application will be processed and a decision will be made."
+                "Students from India who wish to apply for admission at Murray State University, Kentucky, USA, can do so by visiting the University's website and completing the online application form. The application requires the submission of academic transcripts, test scores, letters of recommendation, and a personal statement. Once the application is complete and all the required documents are submitted, the application will be processed and a decision will be made."
             ]
         },
         {

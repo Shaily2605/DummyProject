@@ -71,14 +71,10 @@ export const morrisoninstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morrison Institute of Technology offers the following courses with their respective fee structure:</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Computer Science:",
+            "title": "Courses and Fees",
+            "info": "Morrison Institute of Technology offers the following courses with their respective fee structure:",
+            "textBelowInfo": "<b>1. Computer Science:</b>",
             "data": [
                 "Tuition: $11,250",
                 "Fees: $2,000"

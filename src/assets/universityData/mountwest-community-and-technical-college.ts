@@ -69,14 +69,10 @@ export const mountwestcommunityandtechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mountwest Community & Technical College offers a variety of degree, certificate and diploma programs in a range of fields, including:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate Degree Programs:",
+            "title": 'Courses and Fees',
+            "info": "Mountwest Community & Technical College offers a variety of degree, certificate and diploma programs in a range of fields, including:",
+            "textBelowInfo": "<b>Associate Degree Programs:</b>",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -132,7 +128,7 @@ export const mountwestcommunityandtechnicalcollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "",
             "data": [

@@ -71,14 +71,10 @@ export const murdochbusinessschool = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Murdoch Business School offers a variety of courses and programs in the fields of Business, Accounting, Economics, and Information Technology. The following is a list of courses and their associated fees (in Australian dollars):</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Murdoch Business School offers a variety of courses and programs in the fields of Business, Accounting, Economics, and Information Technology. The following is a list of courses and their associated fees (in Australian dollars):",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Business (3 years): $27,000 ",
                 "Bachelor of Business Administration (3 years): $27,000 ",

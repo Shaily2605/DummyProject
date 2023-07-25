@@ -66,14 +66,10 @@ export const multnomahuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Multnomah University offers a range of undergraduate and graduate degree programs. Below is a list of all the courses offered by the university, along with the corresponding fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Multnomah University offers a range of undergraduate and graduate degree programs. Below is a list of all the courses offered by the university, along with the corresponding fee structure.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts (B.A.): $31,400",
                 "Bachelor of Science (B.S.): $31,400",

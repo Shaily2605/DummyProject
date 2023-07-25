@@ -67,14 +67,10 @@ export const mountmercyuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount Mercy University offers a wide range of undergraduate and graduate courses in various fields. The estimated cost of attendance for full-time undergraduate students is around $35,000 per academic year (2020-2021). The cost of attendance includes tuition fees, room and board charges, and other fees. The following is a list of courses offered at Mount Mercy University and the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Mount Mercy University offers a wide range of undergraduate and graduate courses in various fields. The estimated cost of attendance for full-time undergraduate students is around $35,000 per academic year (2020-2021). The cost of attendance includes tuition fees, room and board charges, and other fees. The following is a list of courses offered at Mount Mercy University and the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting - $650 per credit hour",
                 "Biology - $650 per credit hour",

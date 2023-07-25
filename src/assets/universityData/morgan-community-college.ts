@@ -71,14 +71,15 @@ export const morgancommunitycollege = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morgan Community College (MCC) offers a variety of programs and courses to its students. The college has more than 100 academic programs, ranging from certificate and associates degrees, to short-term and long-term courses.</p>",
-            "textBelowInfo": "Below is a list of courses offered by MCC, along with their corresponding fee structures:",
+            title: '',
+            data: "<p></p>",
+            "textBelowInfo": "",
         },
         {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs",
+            "title": "Courses and Fees",
+            "info": "Morgan Community College (MCC) offers a variety of programs and courses to its students. The college has more than 100 academic programs, ranging from certificate and associates degrees, to short-term and long-term courses.",
+            "textBelowInfo": "<p>Below is a list of courses offered by MCC, along with their corresponding fee structures:</p> <p><b>Certificate Programs</b></p>",
             "data": [
                 "Business Management: $3,210",
                 "Computer Information Systems: $3,406 ",
@@ -346,8 +347,8 @@ export const morgancommunitycollege = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>Morgan Community College offers on-campus housing for students in need. The on-campus housing is offered in the form of dormitories, which provide both private and shared rooms. These dorms come with a kitchen and bathrooms, as well as a common room for study and relaxation. All the dorms are equipped with Wi-Fi and a laundry facility.",
-               "<b>Off-Campus Accommodation </b> <br>Morgan Community College has a wide range of off-campus accommodation options available for students. These include private apartments, student residences, and hostels. Private apartments or residences offer the most flexibility, allowing students to choose their own lease length and amenities. Hostels offer a more affordable option, with shared rooms and amenities. Some off-campus options also provide meals and other services."
+                "<b>On-Campus Accommodation </b> <br>Morgan Community College offers on-campus housing for students in need. The on-campus housing is offered in the form of dormitories, which provide both private and shared rooms. These dorms come with a kitchen and bathrooms, as well as a common room for study and relaxation. All the dorms are equipped with Wi-Fi and a laundry facility.",
+                "<b>Off-Campus Accommodation </b> <br>Morgan Community College has a wide range of off-campus accommodation options available for students. These include private apartments, student residences, and hostels. Private apartments or residences offer the most flexibility, allowing students to choose their own lease length and amenities. Hostels offer a more affordable option, with shared rooms and amenities. Some off-campus options also provide meals and other services."
             ]
         },
         {

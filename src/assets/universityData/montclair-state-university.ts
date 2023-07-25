@@ -71,14 +71,10 @@ export const montclairstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Montclair State University offers a wide variety of undergraduate and graduate degree programs. Below is an overview of the undergraduate and graduate degree programs, and the associated fees for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Montclair State University offers a wide variety of undergraduate and graduate degree programs. Below is an overview of the undergraduate and graduate degree programs, and the associated fees for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts (BA): $13,566 per year",
                 "Bachelor of Science (BS): $13,566 per year",

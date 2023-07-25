@@ -68,14 +68,10 @@ export const mountsaintvincentuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mount Saint Vincent University offers a range of undergraduate, graduate, and professional programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Mount Saint Vincent University offers a range of undergraduate, graduate, and professional programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts (BA)",
                 "Bachelor of Science (BSc)",
@@ -89,7 +85,7 @@ export const mountsaintvincentuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure",
             "data": [
@@ -113,7 +109,7 @@ export const mountsaintvincentuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure",
             "data": [

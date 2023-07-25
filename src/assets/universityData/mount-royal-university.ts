@@ -69,14 +69,10 @@ export const mountroyaluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Mount Royal University offers a variety of undergraduate and graduate degree programs. The tuition fees vary depending on the program and the number of credit hours taken.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The Mount Royal University offers a variety of undergraduate and graduate degree programs. The tuition fees vary depending on the program and the number of credit hours taken.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts: $2,295 per 3-credit course",
                 "Bachelor of Business Administration: $2,295 per 3-credit course",

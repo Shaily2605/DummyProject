@@ -82,14 +82,10 @@ export const mountstjosephuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Mount offers a wide variety of graduate and undergraduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "The Mount offers a wide variety of graduate and undergraduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting",
                 "Biology",
@@ -367,8 +363,8 @@ export const mountstjosephuniversity = {
             "title": "Hostel",
             "info": "",
             "data": [
-              "<b>On-Campus Accommodation: </b> <br>Mount St. Joseph University offers on-campus housing for both undergraduate and graduate students. The residence halls offer double, triple and quad rooms with a shared common area, kitchen, and bathroom. The on-campus accommodation is provided by the University and includes amenities like cable, internet access, laundry, and residence life staff.",
-              "<b>Off-Campus Accommodation: </b> <br>For students who wish to live off-campus, there are a variety of options available. These include apartments, townhouses, and condominiums. These options offer students the convenience of living close to campus and the freedom to choose their own living space. There are also a number of hostels and bed and breakfasts in the area that offer affordable and comfortable accommodations."
+                "<b>On-Campus Accommodation: </b> <br>Mount St. Joseph University offers on-campus housing for both undergraduate and graduate students. The residence halls offer double, triple and quad rooms with a shared common area, kitchen, and bathroom. The on-campus accommodation is provided by the University and includes amenities like cable, internet access, laundry, and residence life staff.",
+                "<b>Off-Campus Accommodation: </b> <br>For students who wish to live off-campus, there are a variety of options available. These include apartments, townhouses, and condominiums. These options offer students the convenience of living close to campus and the freedom to choose their own living space. There are also a number of hostels and bed and breakfasts in the area that offer affordable and comfortable accommodations."
             ]
         },
         {

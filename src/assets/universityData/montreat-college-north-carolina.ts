@@ -68,14 +68,10 @@ export const montreatcollegenorthcarolina = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Montreat College offers a variety of courses. Below is a list of the courses and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Montreat College offers a variety of courses. Below is a list of the courses and their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts/Bachelor of Science in Business Administration: $37,500",
                 "Bachelor of Arts/Bachelor of Science in Criminal Justice: $37,500",

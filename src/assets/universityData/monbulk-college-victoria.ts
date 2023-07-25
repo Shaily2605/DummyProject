@@ -70,14 +70,10 @@ export const monbulkcollegevictoria = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Monbulk College offers a range of courses for students from Kindergarten to Year 12. Below is the fee structure for the various courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Kindergarten:",
+            "title": "Courses and Fees",
+            "info": "Monbulk College offers a range of courses for students from Kindergarten to Year 12. Below is the fee structure for the various courses:",
+            "textBelowInfo": "<b>Kindergarten:</b>",
             "data": [
                 "Tuition Fees: $2,520 per term",
                 "Materials and Resources Fees: $220 per term"
@@ -334,7 +330,7 @@ export const monbulkcollegevictoria = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

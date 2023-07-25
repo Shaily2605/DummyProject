@@ -61725,6 +61725,696 @@ const routes: Routes = [
     path: 'university-of-pittsburgh/faq/.',
     component: UniversityConComponent
   },
+
+
+  {
+    path: 'university-of-portland-oregon/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-portland-oregon/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-prince-edward-island-canada/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-prince-edward-island-canada/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-providence-montana/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-providence-montana/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-puget-sound/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-puget-sound/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-redlands-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-redlands-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-rhode-island/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rhode-island/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-richmond-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-richmond-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-rio-grande/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-rio-grande/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-saint-francis/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-francis/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-saint-joseph/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-joseph/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-saint-mary/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-saint-mary/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-salford-england/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-salford-england/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-san-diego-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-diego-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-san-francisco/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-san-francisco/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-sc-lancaster/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-lancaster/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 

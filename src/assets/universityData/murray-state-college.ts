@@ -70,15 +70,10 @@ export const murraystatecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Murray State College offers Associate of Arts and Associate of Science degrees, as well as certificates in a variety of career-oriented fields.</p>",
-            textBelowInfo: "Tuition and fees at Murray State College are dependent on the program and number of credit hours taken. The following are estimated tuition and fees for the 2020-2021 academic year:",
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Tuition and Fees",
+            "title": 'Courses and Fees',
+            "info": "Murray State College offers Associate of Arts and Associate of Science degrees, as well as certificates in a variety of career-oriented fields.",
+            "textBelowInfo": "<p>Tuition and fees at Murray State College are dependent on the program and number of credit hours taken. The following are estimated tuition and fees for the 2020-2021 academic year:</p> <br> <p></b>Undergraduate Tuition and Fees</b></p>",
             "data": [
                 "In-state tuition and fees: $3,076 per year",
                 "Out-of-state tuition and fees: $4,738 per year"

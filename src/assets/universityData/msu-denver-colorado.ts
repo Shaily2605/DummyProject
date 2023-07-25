@@ -70,14 +70,10 @@ export const msudenvercolorado = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>MSU Denver offers undergraduate and graduate programs in a variety of fields. The following is a list of the undergraduate and graduate programs offered with their respective fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "MSU Denver offers undergraduate and graduate programs in a variety of fields. The following is a list of the undergraduate and graduate programs offered with their respective fees.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting: $9,862/semester",
                 "Business Administration: $9,862/semester",

@@ -76,14 +76,10 @@ export const morlingcollegenewsouthwales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Morling College is one of Australia's oldest theological colleges and is located in Macquarie Park, New South Wales. It offers a range of courses from undergraduate and postgraduate qualifications in theology, ministry and Christian studies to professional and vocational courses.</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "Morling College is one of Australia's oldest theological colleges and is located in Macquarie Park, New South Wales. It offers a range of courses from undergraduate and postgraduate qualifications in theology, ministry and Christian studies to professional and vocational courses.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Theology",
                 "Bachelor of Ministry",
@@ -154,14 +150,10 @@ export const morlingcollegenewsouthwales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Morling College is a Christian higher education institution located in Sydney, New South Wales, Australia.</p> <p>The college offers a range of undergraduate and postgraduate programs in theology, ministry, education, counselling and leadership.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "In order to be eligible to apply for admission to Morling College, Indian students must meet the following criteria:",
+            "title": "Eligibility Requirement",
+            "info": "Morling College is a Christian higher education institution located in Sydney, New South Wales, Australia.",
+            "textBelowInfo": "<p>The college offers a range of undergraduate and postgraduate programs in theology, ministry, education, counselling and leadership.</p> <br> <p>In order to be eligible to apply for admission to Morling College, Indian students must meet the following criteria:</p>",
             "data": [
                 "Must have a minimum of an undergraduate degree in any discipline from a recognized university. ",
                 "Must have evidence of English language proficiency (IELTS 6.0 or equivalent). ",

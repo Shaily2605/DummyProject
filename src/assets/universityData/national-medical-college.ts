@@ -106,14 +106,10 @@ export const nationalmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>National Medical College, Nepal is a private college and admission is open to both Nepali and international students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Eligibility criteria for Indian students to take admission in National Medical College, Nepal are as follows:",
+            "title": "Eligibility Requirement",
+            "info": "National Medical College, Nepal is a private college and admission is open to both Nepali and international students.",
+            "textBelowInfo": "Eligibility criteria for Indian students to take admission in National Medical College, Nepal are as follows:",
             "data": [
                 "Indian students must have a minimum of 50% marks in their 10+2 examinations in Physics, Chemistry and Biology. ",
                 "They must have completed their 10+2 from a recognized board in India. ",
