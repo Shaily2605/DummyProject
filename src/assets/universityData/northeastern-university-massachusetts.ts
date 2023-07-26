@@ -71,14 +71,10 @@ export const northeasternuniversitymassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northeastern University has a wide variety of courses and programs available. Below is an overview of the courses and their corresponding tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northeastern University has a wide variety of courses and programs available. Below is an overview of the courses and their corresponding tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $54,742 per year",
                 "Computer Science: $54,742 per year",
@@ -141,14 +137,9 @@ export const northeasternuniversitymassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Northeastern University has specific eligibility criteria for international students, including those from India.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Admission Requirements:",
+            "title": "Eligibility Requirement",
+            "info": "Northeastern University has specific eligibility criteria for international students, including those from India.",
             "data": [
                 "<b>Application Form:</b> Applicants are required to submit an online application form along with all relevant documents.",
                 "<b>Academic Record:</b> Applicants must submit official transcripts of their academic records from all post-secondary institutions attended, with marks in each course and the degree conferred, if applicable.",

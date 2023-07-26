@@ -70,14 +70,10 @@ export const northislandcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Island College (Courtenay) offers a variety of certificate, diploma, post-degree diploma, and degree programs. The following is a list of all the courses offered by the college and their respective fee structure:</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs:",
+            "title": 'Courses and Fees',
+            "info": "North Island College (Courtenay) offers a variety of certificate, diploma, post-degree diploma, and degree programs. The following is a list of all the courses offered by the college and their respective fee structure:",
+            "textBelowInfo": "<b>Certificate Programs:</b>",
             "data": [
                 "Accounting and Payroll Technician: $3,698.50",
                 "Business Administration: $3,698.50",

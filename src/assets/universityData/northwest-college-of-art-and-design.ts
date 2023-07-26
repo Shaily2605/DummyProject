@@ -68,14 +68,10 @@ export const northwestcollegeofartanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest College of Art & Design (NCAD) offers a variety of degree programs and courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northwest College of Art & Design (NCAD) offers a variety of degree programs and courses.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Fine Arts in Visual Communication Design",
                 "Bachelor of Fine Arts in Illustration",

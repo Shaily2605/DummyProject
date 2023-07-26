@@ -70,14 +70,10 @@ export const northwestmissouristateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p><b>Undergraduate Programs</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Accounting",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate Programs",
+            "textBelowInfo": "<b>Accounting </b>",
             "data": [
                 "Tuition: $284.50/credit hour",
                 "Fees: $8.50/credit hour"

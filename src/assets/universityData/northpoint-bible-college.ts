@@ -69,14 +69,10 @@ export const northpointbiblecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northpoint Bible College (NPBC) offers several degree programs that can be completed online, on-campus, or through a hybrid of both. All courses are designed to equip students with a biblical foundation in order to prepare them for Christian ministry and leadership.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs: ',
-            "info": "Bachelor of Arts in Biblical Studies:",
+            "title": 'Courses and Fees',
+            "info": "Northpoint Bible College (NPBC) offers several degree programs that can be completed online, on-campus, or through a hybrid of both. All courses are designed to equip students with a biblical foundation in order to prepare them for Christian ministry and leadership.",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Bachelor of Arts in Biblical Studies:</b></p>",
             "data": [
                 "Tuition: $5,000/semester ",
                 "Fees: $400/semester"

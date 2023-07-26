@@ -69,14 +69,10 @@ export const northlandscollegesaskatchewan = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northlands College offers several programs. The fee structure for each program varies. Below is the list of courses offered with the fee structure for each program:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "Northlands College offers several programs. The fee structure for each program varies. Below is the list of courses offered with the fee structure for each program:",
+            "textBelowInfo": "<b>Certificate Programs</b>",
             "data": [
                 "Business Administration (1 year): $10,000 ",
                 "Carpentry (1 year): $7,000 ",
@@ -330,7 +326,7 @@ export const northlandscollegesaskatchewan = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "",
             "data": [

@@ -71,14 +71,10 @@ export const northscotlandcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Scotland College offers a range of courses in the fields of Accountancy, Business, Computing, Engineering, Hair and Beauty, Hospitality and Tourism, Health and Social Care, and Retail.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Accountancy",
+            "title": 'Courses and Fees',
+            "info": "North Scotland College offers a range of courses in the fields of Accountancy, Business, Computing, Engineering, Hair and Beauty, Hospitality and Tourism, Health and Social Care, and Retail.",
+            "textBelowInfo": "<b>Accountancy</b>",
             "data": [
                 "AAT Level 2 Certificate in Accounting - £1,000",
                 "AAT Level 3 Diploma in Accounting - £1,800",
@@ -374,9 +370,9 @@ export const northscotlandcollege = {
             "title": "Hostel",
             "info": "North Scotland College (NSC) offers a range of both on-campus and off-campus accommodation for full-time students.",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>NSC provides on-campus accommodation at both its campuses in Elgin and Inverness, with the option of shared or single occupancy rooms. All on-campus accommodation is self-catered, with access to shared kitchen and living areas, laundry facilities and Wi-Fi. Rooms are typically equipped with a bed, wardrobe, desk and chair.",
-               "<b>Off-Campus Accommodation </b> <br>If you choose to live off-campus, you will have the option of renting privately or using a student accommodation provider. All private rental accommodation must comply with the Scottish Government’s private sector housing regulations. You can also look for accommodation through NSC’s Student Accommodation Finders service, which helps to match students with the most suitable landlords.",
-               "<b>Hostel Facilities </b> <br>NSC also offers hostel accommodation at its Inverness campus, which is ideal for those who prefer a more budget-friendly option. The hostel provides single, twin and family rooms with shared bathrooms, and is self-catered with access to a shared kitchen. Wi-Fi is also available, and there is a 24-hour reception desk."
+                "<b>On-Campus Accommodation </b> <br>NSC provides on-campus accommodation at both its campuses in Elgin and Inverness, with the option of shared or single occupancy rooms. All on-campus accommodation is self-catered, with access to shared kitchen and living areas, laundry facilities and Wi-Fi. Rooms are typically equipped with a bed, wardrobe, desk and chair.",
+                "<b>Off-Campus Accommodation </b> <br>If you choose to live off-campus, you will have the option of renting privately or using a student accommodation provider. All private rental accommodation must comply with the Scottish Government’s private sector housing regulations. You can also look for accommodation through NSC’s Student Accommodation Finders service, which helps to match students with the most suitable landlords.",
+                "<b>Hostel Facilities </b> <br>NSC also offers hostel accommodation at its Inverness campus, which is ideal for those who prefer a more budget-friendly option. The hostel provides single, twin and family rooms with shared bathrooms, and is self-catered with access to a shared kitchen. Wi-Fi is also available, and there is a 24-hour reception desk."
             ]
         },
         {

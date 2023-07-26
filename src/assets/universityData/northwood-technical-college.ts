@@ -69,14 +69,10 @@ export const northwoodtechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwood Technical College (NTC) in Wisconsin offers an array of programs and courses in the areas of automotive technology, business technology, health and human services, construction, industrial and manufacturing technology, welding, and computer technology.</p> <p><b>Below you will find the list of courses offered and their fee structure:</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Automotive Technology:",
+            "title": 'Courses and Fees',
+            "info": "Northwood Technical College (NTC) in Wisconsin offers an array of programs and courses in the areas of automotive technology, business technology, health and human services, construction, industrial and manufacturing technology, welding, and computer technology.",
+            "textBelowInfo": "<p>Below you will find the list of courses offered and their fee structure:</p> <p><b>Automotive Technology:</b></p>",
             "data": [
                 "Automotive Technology A.A.S. Degree - $5,664",
                 "Automotive Technology Diploma - $3,936",

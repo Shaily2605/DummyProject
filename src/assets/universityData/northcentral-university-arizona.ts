@@ -68,14 +68,10 @@ export const northcentraluniversityarizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northcentral University offers a variety of degree programs at the undergraduate and graduate level, as well as certificate programs. Each program has its own tuition and fees associated with it. Below is a breakdown of the tuition and fees for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Northcentral University offers a variety of degree programs at the undergraduate and graduate level, as well as certificate programs. Each program has its own tuition and fees associated with it. Below is a breakdown of the tuition and fees for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Associate of Arts in Organizational Leadership: $7,800 per quarter",
                 "Bachelor of Science in Business Administration: $9,800 per quarter",

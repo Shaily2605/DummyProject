@@ -69,14 +69,10 @@ export const northernregionalcollegenorthernireland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Regional College (NRC) offers a variety of full-time and part-time courses. All the courses offered by the college can be viewed on the college website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Fee structure for full-time courses',
-            "info": "UK/EU Students:",
+            "title": 'Courses and Fees',
+            "info": "Northern Regional College (NRC) offers a variety of full-time and part-time courses. All the courses offered by the college can be viewed on the college website.",
+            "textBelowInfo": "<p><b>Fee structure for full-time courses</b></p> <p><b>UK/EU Students: </b></p>",
             "data": [
                 "Level 1: £3,745",
                 "Level 2: £3,745  ",

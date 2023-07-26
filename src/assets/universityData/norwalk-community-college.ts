@@ -80,14 +80,10 @@ export const norwalkcommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Norwalk Community College offers over 30 Associate Degree and Certificate programs. Below is a list of the most popular academic programs at NCC along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate in Arts (AA):",
+            "title": 'Courses and Fees',
+            "info": "Norwalk Community College offers over 30 Associate Degree and Certificate programs. Below is a list of the most popular academic programs at NCC along with their associated fees:",
+            "textBelowInfo": "<b>Associate in Arts (AA): </b>",
             "data": [
                 "Tuition: $3,000.00",
                 "Fees: $403."

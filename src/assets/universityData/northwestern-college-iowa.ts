@@ -69,14 +69,10 @@ export const northwesterncollegeiowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwestern College in Orange City, Iowa offers a variety of bachelor's degrees, ranging from Business to Nursing and Education.</p> <p><b>The following is a list of the most popular degree programs offered at Northwestern College:</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Business:",
+            "title": 'Courses and Fees',
+            "info": "Northwestern College in Orange City, Iowa offers a variety of bachelor's degrees, ranging from Business to Nursing and Education.",
+            "textBelowInfo": "<p>The following is a list of the most popular degree programs offered at Northwestern College:</p> <p><b>Business:</b></p>",
             "data": [
                 "Bachelor of Science in Business Administration",
                 "Bachelor of Science in Accounting",

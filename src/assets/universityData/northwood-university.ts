@@ -71,14 +71,10 @@ export const northwooduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwood University, Michigan has several programs available through the DeVos Graduate School of Management, the College of Business and Management, and the College of Arts and Sciences.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "The DeVos Graduate School of Management offers the following graduate programs:",
+            "title": 'Courses and Fees',
+            "info": "Northwood University, Michigan has several programs available through the DeVos Graduate School of Management, the College of Business and Management, and the College of Arts and Sciences.",
+            "textBelowInfo": "The DeVos Graduate School of Management offers the following graduate programs:",
             "data": [
                 "Master of Business Administration",
                 "Master of Science in Executive Leadership",
@@ -114,7 +110,7 @@ export const northwooduniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": '',
             "info": "Fee Structure: ",
             "data": [

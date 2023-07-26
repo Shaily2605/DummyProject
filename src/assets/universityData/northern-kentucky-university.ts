@@ -70,14 +70,10 @@ export const northernkentuckyuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Kentucky University offers a wide range of courses to its students at the undergraduate, graduate, and doctoral levels. Below is the list of courses offered with the associated fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "UNDERGRADUATE COURSES:",
+            "title": 'Courses and Fees',
+            "info": "Northern Kentucky University offers a wide range of courses to its students at the undergraduate, graduate, and doctoral levels. Below is the list of courses offered with the associated fee structures.",
+            "textBelowInfo": "<b>UNDERGRADUATE COURSES: </b>",
             "data": [
                 "Accounting: Fee structure- $393.00 per credit hour",
                 "Anthropology: Fee structure- $393.00 per credit hour",

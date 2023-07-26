@@ -70,14 +70,10 @@ export const northernmichiganuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Northern Michigan University offers a variety of undergraduate and graduate degree programs. The following is a list of the most popular programs offered at NMU, along with the associated tuition rates for the 2020-2021 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "The Northern Michigan University offers a variety of undergraduate and graduate degree programs. The following is a list of the most popular programs offered at NMU, along with the associated tuition rates for the 2020-2021 academic year.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $15,545 ",
                 "Computer Science: $15,545",

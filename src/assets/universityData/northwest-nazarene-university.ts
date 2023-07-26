@@ -71,14 +71,10 @@ export const northwestnazareneuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest Nazarene University offers more than 50 undergraduate majors and programs, as well as a variety of graduate degrees and certificates.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "Northwest Nazarene University offers more than 50 undergraduate majors and programs, as well as a variety of graduate degrees and certificates.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting ",
                 "Biology ",

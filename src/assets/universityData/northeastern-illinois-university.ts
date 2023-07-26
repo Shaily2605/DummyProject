@@ -68,14 +68,10 @@ export const northeasternillinoisuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The courses offered by Northeastern Illinois University and their corresponding fee structure can be found on the university's website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Students:',
-            "info": "Tuition and Fees:",
+            "title": 'Courses and Fees',
+            "info": "The courses offered by Northeastern Illinois University and their corresponding fee structure can be found on the university's website.",
+            "textBelowInfo": "<p><b>Undergraduate Students:</b></p> <p>Tuition and Fees:</p>",
             "data": [
                 "Undergraduate Tuition & Fees (12-18 credit hours): $7,729",
                 "Undergraduate Tuition & Fees (6-11 credit hours): $5,822",
@@ -95,8 +91,9 @@ export const northeasternillinoisuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Students:',
-            "info": "Tuition and Fees:",
+            "title": '',
+            "info": "Graduate Students:",
+            "textBelowInfo": "Tuition and Fees:",
             "data": [
                 "Graduate Tuition & Fees (9-18 credit hours): $8,264",
                 "Graduate Tuition & Fees (6-8 credit hours): $6,112",
@@ -137,14 +134,10 @@ export const northeasternillinoisuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirement',
-            data: "<p>Northeastern Illinois University accepts applications from international students who are looking to pursue undergraduate (bachelors) and graduate (masters) degrees.</p> <p>To apply for admission to Northeastern Illinois University, international applicants must meet the following eligibility requirements:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Admissions Requirements:",
+            "title": "Eligibility Requirement",
+            "info": "Northeastern Illinois University accepts applications from international students who are looking to pursue undergraduate (bachelors) and graduate (masters) degrees.",
+            "textBelowInfo": "<p>To apply for admission to Northeastern Illinois University, international applicants must meet the following eligibility requirements:</p> <p><b>Undergraduate Admissions Requirements:</b></p>",
             "data": [
                 "Must possess a secondary school diploma or equivalent",
                 "Must have a minimum cumulative grade point average (GPA) of 2.5",

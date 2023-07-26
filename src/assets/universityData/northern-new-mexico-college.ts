@@ -70,14 +70,10 @@ export const northernnewmexicocollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern New Mexico College offers a variety of courses to choose from. The courses range from certificates to associate and bachelor's degrees. Below is a list of the courses available at the college and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northern New Mexico College offers a variety of courses to choose from. The courses range from certificates to associate and bachelor's degrees. Below is a list of the courses available at the college and their associated fees:",
+            "textBelowInfo": "<b>Certificate Programs: </b>",
             "data": [
                 "Accounting Certificate: $3,040",
                 "Business Management Certificate: $3,040 ",
@@ -343,8 +339,8 @@ export const northernnewmexicocollege = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>Northern New Mexico College offers on-campus student housing which includes two dormitory buildings and two apartment complexes. The two dormitory buildings are the Residence Hall and the Eagle's Nest. The Residence Hall offers single and double occupancy rooms, a common kitchen, study areas, and laundry facilities. The Eagle's Nest offers fully furnished one and two bedroom apartments, equipped with a kitchen and living area.",
-               "<b>Off-Campus Accommodation </b> <br>Northern New Mexico College does not offer any off-campus hostel facilities. However, there are several affordable housing options in the area. The local apartment complexes provide a variety of living options and amenities, such as on-site laundry, fitness centers, and swimming pools. Additionally, the college maintains a list of local housing options to assist students in finding off-campus housing. The list can be found on the college's website."
+                "<b>On-Campus Accommodation </b> <br>Northern New Mexico College offers on-campus student housing which includes two dormitory buildings and two apartment complexes. The two dormitory buildings are the Residence Hall and the Eagle's Nest. The Residence Hall offers single and double occupancy rooms, a common kitchen, study areas, and laundry facilities. The Eagle's Nest offers fully furnished one and two bedroom apartments, equipped with a kitchen and living area.",
+                "<b>Off-Campus Accommodation </b> <br>Northern New Mexico College does not offer any off-campus hostel facilities. However, there are several affordable housing options in the area. The local apartment complexes provide a variety of living options and amenities, such as on-site laundry, fitness centers, and swimming pools. Additionally, the college maintains a list of local housing options to assist students in finding off-campus housing. The list can be found on the college's website."
             ]
         },
         {

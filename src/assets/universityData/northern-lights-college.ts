@@ -69,14 +69,10 @@ export const northernlightscollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Lights College - Dawson Creek Campus offers a variety of courses and programs. Below is a list of the available courses with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "1. Foundation and University Transfer (CAD$2,000 - 3,000 per semester):",
+            "title": 'Courses and Fees',
+            "info": "Northern Lights College - Dawson Creek Campus offers a variety of courses and programs. Below is a list of the available courses with their respective fee structures:",
+            "textBelowInfo": "<b>1. Foundation and University Transfer (CAD$2,000 - 3,000 per semester):</b>",
             "data": [
                 "English",
                 "Math",

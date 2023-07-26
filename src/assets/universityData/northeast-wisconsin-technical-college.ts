@@ -141,12 +141,8 @@ export const northeastwisconsintechnicalcollege = {
                 "Submit official English language proficiency test scores.",
                 "Submit additional documents required by the college, such as the financial statement of support, affidavit of support, health insurance certificate or additional immunization forms.",
                 "Submit the non-refundable application fee."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Once the admissions office has received all the required documents, the college will review the application and notify the student of the decision.</p>"
+            ],
+            "heading": "<p>Once the admissions office has received all the required documents, the college will review the application and notify the student of the decision.</p>"
         },
         {
 

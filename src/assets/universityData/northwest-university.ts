@@ -66,14 +66,10 @@ export const northwestuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest University offers a variety of undergraduate and graduate degrees in a variety of fields. Below is a list of all the courses available at the University, along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degrees",
+            "title": 'Courses and Fees',
+            "info": "Northwest University offers a variety of undergraduate and graduate degrees in a variety of fields. Below is a list of all the courses available at the University, along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Bachelor of Arts in Business Administration: $36,300",
                 "Bachelor of Arts in Psychology: $37,400",

@@ -72,14 +72,10 @@ export const northernregionalcollegeballymoney = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Northern Regional College - Ballymoney offers a wide range of courses at various levels. The courses are divided into five main categories:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "1. Academic",
+            "title": 'Courses and Fees',
+            "info": "The Northern Regional College - Ballymoney offers a wide range of courses at various levels. The courses are divided into five main categories:",
+            "textBelowInfo": "<b>1. Academic</b>",
             "data": [
                 "A Levels ",
                 "GCSEs ",

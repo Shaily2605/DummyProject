@@ -116,7 +116,7 @@ export const northwestregionalcollegederrylondonderry = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "General Entry Requirements",
-            "textBelowInfo": "For entry onto a full-time undergraduate course students must have:",
+            "textBelowInfo": "<b>For entry onto a full-time undergraduate course students must have:</b>",
             "data": [
                 "A minimum of 5 GCSEs at grade C or above or equivalent qualifications. ",
                 "A minimum of two A-Levels or equivalent qualifications  ",
@@ -155,19 +155,7 @@ export const northwestregionalcollegederrylondonderry = {
             "data": [
                 "International students must meet the same general entry requirements as UK/EU applicants. ",
                 "In addition, international students must demonstrate proficiency in the English language. ",
-                "The College requires international students to hold the following qualifications as evidence of their English language proficiency: "
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
-            "data": [
-                "IELTS: 6.0 overall with 5.5 in each component ",
-                "Cambridge C1 Advanced or C2 Proficiency ",
-                "Pearson Test of English: 55 overall with 51 in each component ",
-                "TOEFL iBT: 80 overall with 20 in each component ",
-                "Trinity ISE: B2 overall with B1 in each component"
+                "The College requires international students to hold the following qualifications as evidence of their English language proficiency:<br>1.IELTS: 6.0 overall with 5.5 in each component<br> 2. Cambridge C1 Advanced or C2 Proficiency<br> 3. Pearson Test of English: 55 overall with 51 in each component<br> 4. TOEFL iBT: 80 overall with 20 in each component<br> 5. Trinity ISE: B2 overall with B1 in each component",
             ]
         },
         {

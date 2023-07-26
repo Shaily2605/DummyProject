@@ -72,14 +72,10 @@ export const northernarizonauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Arizona University offers more than 150 degree programs, including bachelor’s, master’s, doctoral, and certificate programs. You can browse all of the courses offered at NAU online at https://nau.edu/academics/.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Below is a list of some of the popular courses offered by NAU along with their tuition fee:",
+            "title": 'Courses and Fees',
+            "info": "Northern Arizona University offers more than 150 degree programs, including bachelor’s, master’s, doctoral, and certificate programs. You can browse all of the courses offered at NAU online at https://nau.edu/academics/.",
+            "textBelowInfo": "Below is a list of some of the popular courses offered by NAU along with their tuition fee:",
             "data": [
                 "Bachelor of Science in Business Administration: $8,800/semester",
                 "Bachelor of Science in Engineering: $8,700/semester",
@@ -324,7 +320,7 @@ export const northernarizonauniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Hostels",
-            "textBelowInfo":"There are several off-campus hostels located near Northern Arizona University. Some of the most popular hostels include:",
+            "textBelowInfo": "There are several off-campus hostels located near Northern Arizona University. Some of the most popular hostels include:",
             "data": [
                 "<b>Flagstaff Hostel:</b> Located just two miles from NAU, this hostel offers affordable accommodations for travelers.",
                 "<b>Grand Canyon International Hostel:</b> Located in Flagstaff, this hostel is just a 10-minute drive from NAU.",

@@ -70,14 +70,10 @@ export const northumbriauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Northumbria University offers a wide range of undergraduate and postgraduate courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "The Northumbria University offers a wide range of undergraduate and postgraduate courses.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting and Finance",
                 "Architecture",

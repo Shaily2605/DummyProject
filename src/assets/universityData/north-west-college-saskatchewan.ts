@@ -68,14 +68,10 @@ export const northwestcollegesaskatchewan = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North West College, Saskatchewan offers a range of full-time and part-time programs and courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Full Time Programs",
+            "title": 'Courses and Fees',
+            "info": "North West College, Saskatchewan offers a range of full-time and part-time programs and courses.",
+            "textBelowInfo": "<b>Full Time Programs</b>",
             "data": [
                 "Accounting and Payroll Administrator",
                 "Business Administration",
@@ -117,7 +113,7 @@ export const northwestcollegesaskatchewan = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": '',
             "info": "Fee Structure",
             "data": [

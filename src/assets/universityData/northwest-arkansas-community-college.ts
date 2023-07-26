@@ -69,14 +69,10 @@ export const northwestarkansascommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest Arkansas Community College offers a variety of programs and courses in the fields of Accounting, Business Administration, Computer Science, Criminal Justice, Education, Human Services, and more. Below is a list of some of the courses offered by the college, along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Accounting:",
+            "title": 'Courses and Fees',
+            "info": "Northwest Arkansas Community College offers a variety of programs and courses in the fields of Accounting, Business Administration, Computer Science, Criminal Justice, Education, Human Services, and more. Below is a list of some of the courses offered by the college, along with their associated fees:",
+            "textBelowInfo": "<b>Accounting: </b>",
             "data": [
                 "Principles of Accounting I: $85",
                 "Principles of Accounting II: $85",

@@ -70,14 +70,10 @@ export const northwestvistacollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest Vista College (NVC) offers a wide range of courses for its students. The following is the list of courses along with the fee structure for each one of them.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "1. Associate of Arts Degree Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northwest Vista College (NVC) offers a wide range of courses for its students. The following is the list of courses along with the fee structure for each one of them.",
+            "textBelowInfo": "<b>1. Associate of Arts Degree Programs: </b>",
             "data": [
                 "General Studies: $112 per credit hour",
                 "Arts and Humanities: $112 per credit hour",

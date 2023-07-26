@@ -73,14 +73,10 @@ export const northernillinoisuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Illinois University offers over 200 degree programs on its DeKalb, Naperville and Rockford campuses.  Below is the list of courses offered by the university along with the fees associated with them.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "Northern Illinois University offers over 200 degree programs on its DeKalb, Naperville and Rockford campuses.  Below is the list of courses offered by the university along with the fees associated with them.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting - $13,228",
                 "Business Administration - $13,228",

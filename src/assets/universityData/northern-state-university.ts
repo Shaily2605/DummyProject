@@ -71,14 +71,10 @@ export const northernstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern State University in South Dakota offers a variety of courses, both at the undergraduate and graduate levels. The fee structure for each program is detailed on the NSU website:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northern State University in South Dakota offers a variety of courses, both at the undergraduate and graduate levels. The fee structure for each program is detailed on the NSU website:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $7,744/semester",
                 "Computer Science: $7,744/semester",
@@ -145,14 +141,10 @@ export const northernstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Eligibility",
-            data: "<p>Northern State University, South Dakota welcomes international students from around the world to study in the United States.</p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "info": "To be eligible for admission, international students must meet the following requirements:",
+            "info": "Northern State University, South Dakota welcomes international students from around the world to study in the United States.",
+            "textBelowInfo": "To be eligible for admission, international students must meet the following requirements:",
             "data": [
                 "Have a high school diploma or its equivalent.",
                 "Have a minimum TOEFL score of 79, IELTS score of 6.5, or =PTE score of 55.",

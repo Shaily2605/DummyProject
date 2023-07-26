@@ -68,14 +68,10 @@ export const northlandpioneercollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northland Pioneer College offers a variety of courses, ranging from certificate programs to associate degrees. The college also offers a number of non-credit courses for professional development and personal enrichment.</p> <p>The fee structure for each program varies depending on the number of credit hours taken and other fees. Below is a breakdown of the fees for each program:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northland Pioneer College offers a variety of courses, ranging from certificate programs to associate degrees. The college also offers a number of non-credit courses for professional development and personal enrichment.",
+            "textBelowInfo": "<p>The fee structure for each program varies depending on the number of credit hours taken and other fees. Below is a breakdown of the fees for each program:</p> <p><b>Certificate Programs: </b></p>",
             "data": [
                 "Tuition and Fees: $90 per credit hour",
                 "Books and Supplies: $75 per credit hour"

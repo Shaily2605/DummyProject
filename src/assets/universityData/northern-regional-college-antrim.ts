@@ -68,14 +68,10 @@ export const northernregionalcollegeantrim = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Regional College Antrim offers a number of courses in a variety of disciplines. The college has a wide selection of full-time courses and part-time courses, and short courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "FULL TIME COURSES",
+            "title": 'Courses and Fees',
+            "info": "Northern Regional College Antrim offers a number of courses in a variety of disciplines. The college has a wide selection of full-time courses and part-time courses, and short courses.",
+            "textBelowInfo": "<b>FULL TIME COURSES </b>",
             "data": [
                 "Access to Higher Education Diploma <br> Course Fee: £2,800 ",
                 "Accounting and Business <br> Course Fee: £2,800 ",

@@ -71,14 +71,10 @@ export const northwesternconnecticutcommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwestern Connecticut Community College offers a variety of degree and certificate programs. Below is a list of the programs offered, with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate in Arts (AA)",
+            "title": 'Courses and Fees',
+            "info": "Northwestern Connecticut Community College offers a variety of degree and certificate programs. Below is a list of the programs offered, with the corresponding fee structure:",
+            "textBelowInfo": "<b>Associate in Arts (AA) </b>",
             "data": [
                 "Tuition: $148 per credit ",
                 "Fees: $12 per credit"

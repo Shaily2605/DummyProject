@@ -84,14 +84,10 @@ export const northgreenvilleuniversitysouthcarolina = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Greenville University offers more than 90 degree programs, including several associate and bachelor's degrees, as well as master's and doctoral degrees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs (Bachelor's Degree): ",
+            "title": 'Courses and Fees',
+            "info": "North Greenville University offers more than 90 degree programs, including several associate and bachelor's degrees, as well as master's and doctoral degrees.",
+            "textBelowInfo": "<b>Undergraduate Programs (Bachelor's Degree): </b>",
             "data": [
                 "Accounting",
                 "Business Administration",

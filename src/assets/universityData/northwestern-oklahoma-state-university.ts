@@ -69,14 +69,10 @@ export const northwesternoklahomastateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwestern Oklahoma State University (NWOSU) has many programs available to students. Below is a list of the courses offered at NWOSU and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Northwestern Oklahoma State University (NWOSU) has many programs available to students. Below is a list of the courses offered at NWOSU and their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $7,500",
                 "Agriculture: $7,500",

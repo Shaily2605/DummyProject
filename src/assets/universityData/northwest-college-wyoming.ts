@@ -69,14 +69,10 @@ export const northwestcollegewyoming = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northwest College, Wyoming, USA offers over 100 certificate, diploma, and degree programs. The college has three different campus locations: Powell, Cody, and Sheridan.</p>"
-        },
-        {
-            "type": "list-bollet",
-            "title": '',
-            "info": "Fee Structure",
+            "type": "text",
+            "title": 'Courses and Fees',
+            "info": "Northwest College, Wyoming, USA offers over 100 certificate, diploma, and degree programs. The college has three different campus locations: Powell, Cody, and Sheridan.",
+            "textBelowInfo": "<b>Fee Structure</b>",
             "data": [
                 "Tuition and Fees at Northwest College vary depending on the program and the number of credit hours taken."
             ]

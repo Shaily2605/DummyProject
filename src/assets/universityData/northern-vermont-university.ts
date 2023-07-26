@@ -109,14 +109,10 @@ export const northernvermontuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Northern Vermont University - Johnson offers more than 25 majors and minors. The fee structure and courses are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Majors:",
+            "title": 'Courses and Fees',
+            "info": "Northern Vermont University - Johnson offers more than 25 majors and minors. The fee structure and courses are as follows:",
+            "textBelowInfo": "<b>Majors: </b>",
             "data": [
                 "Accounting business",
                 "Art",

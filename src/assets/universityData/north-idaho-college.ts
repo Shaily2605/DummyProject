@@ -72,15 +72,10 @@ export const northidahocollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Idaho College offers a wide range of degree and certificate programs, including Associate of Arts, Associate of Science, Associate of Applied Science, and Certificate of Completion. Fees vary depending on the program, number of credit hours taken, and residency status.</p>",
-            textBelowInfo: "Below is a list of the programs offered by North Idaho College, along with their associated fees:",
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Arts",
+            "title": 'Courses and Fees',
+            "info": "North Idaho College offers a wide range of degree and certificate programs, including Associate of Arts, Associate of Science, Associate of Applied Science, and Certificate of Completion. Fees vary depending on the program, number of credit hours taken, and residency status.",
+            "textBelowInfo": "<p>Below is a list of the programs offered by North Idaho College, along with their associated fees:</p> <p><b>Associate of Arts</b></p>",
             "data": [
                 "<b>Tuition:</b> $104 per credit hour (in-state); $199 per credit hour (out-of-state)",
                 "<b>Fees:</b> $37 per semester (in-state); $60 per semester (out-of-state)"

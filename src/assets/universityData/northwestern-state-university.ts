@@ -97,14 +97,10 @@ export const northwesternstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p><b>Undergraduate Tuition and Fees</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Fall 2019- Spring 2020',
-            "info": "Per Semester",
+            "title": 'Courses and Fees',
+            "info": "Undergraduate Tuition and Fees",
+            "textBelowInfo": "<p><b>Fall 2019- Spring 2020</b></p> <p><b>Per Semester</b></p>",
             "data": [
                 "Tuition: $2,300.00",
                 "Technology Fee: $50.00",
@@ -126,14 +122,10 @@ export const northwesternstateuniversity = {
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p><b>Graduate Tuition and Fees</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Fall 2019- Spring 2020',
-            "info": "Per Semester",
+            "title": 'Graduate Tuition and Fees',
+            "info": "Fall 2019- Spring 2020",
+            "textBelowInfo": "<b>Per Semester</b>",
             "data": [
                 "Tuition: $2,700.00",
                 "Technology Fee: $50.00",
