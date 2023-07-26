@@ -70,14 +70,10 @@ export const newbrunswickcollegeofcraftanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The New Brunswick College of Craft & Design offers a variety of diploma, certificate and special non-credit courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Diploma Programs",
+            "title": 'Courses and Fees',
+            "info": "The New Brunswick College of Craft & Design offers a variety of diploma, certificate and special non-credit courses.",
+            "textBelowInfo": "<b>Diploma Programs</b>",
             "data": [
                 "Professional Craft: Jewellery/Metalsmithing <br> Fee: $8,500",
                 "Professional Craft: Ceramics <br> Fee: $8,500",
@@ -317,7 +313,7 @@ export const newbrunswickcollegeofcraftanddesign = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
@@ -325,7 +321,7 @@ export const newbrunswickcollegeofcraftanddesign = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [

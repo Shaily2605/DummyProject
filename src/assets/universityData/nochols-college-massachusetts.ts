@@ -81,14 +81,10 @@ export const nocholscollegemassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nichols College offers a variety of majors and minors, as well as several concentrations. Below are the undergraduate academic programs at Nichols College and their 2020-2021 tuition rates.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degrees:",
+            "title": 'Courses and Fees',
+            "info": "Nichols College offers a variety of majors and minors, as well as several concentrations. Below are the undergraduate academic programs at Nichols College and their 2020-2021 tuition rates.",
+            "textBelowInfo": "<b>Undergraduate Degrees:</b>",
             "data": [
                 "Business Administration: $19,300/semester",
                 "Accounting: $19,300/semester",
@@ -359,7 +355,7 @@ export const nocholscollegemassachusetts = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

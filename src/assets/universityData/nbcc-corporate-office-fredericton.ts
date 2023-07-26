@@ -313,8 +313,8 @@ export const nbcccorporateofficefredericton = {
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
-                "<b>NBCC Residence </b> <br>The NBCC Residence is located in the heart of Fredericton and offers comfortable, air-conditioned apartments for students, staff and visitors alike. The residence is equipped with a variety of amenities including free Wi-Fi, fully-equipped kitchens, laundry facilities, and a fitness centre.",
-                "<b>University of New Brunswick Residences </b> <br>The University of New Brunswick offers on-campus residence for students and staff. The residence is conveniently located close to the NBCC Corporate Office and offers single and double occupancy rooms, as well as a variety of amenities such as a lounge, game room, and fitness centre."
+                "<b>NBCC Residence </b> The NBCC Residence is located in the heart of Fredericton and offers comfortable, air-conditioned apartments for students, staff and visitors alike. The residence is equipped with a variety of amenities including free Wi-Fi, fully-equipped kitchens, laundry facilities, and a fitness centre.",
+                "<b>University of New Brunswick Residences </b> The University of New Brunswick offers on-campus residence for students and staff. The residence is conveniently located close to the NBCC Corporate Office and offers single and double occupancy rooms, as well as a variety of amenities such as a lounge, game room, and fitness centre."
             ]
         },
         {
@@ -322,8 +322,8 @@ export const nbcccorporateofficefredericton = {
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [
-                "<b>Fredericton Inn </b> <br>The Fredericton Inn is located in the heart of Fredericton and offers comfortable rooms with a variety of amenities including free Wi-Fi and a fitness centre. The hotel is also close to major attractions such as the Fredericton International Airport, the University of New Brunswick, and Odell Park.",
-                "<b>Comfort Inn & Suites </b> <br>The Comfort Inn & Suites is located close to the NBCC Corporate Office and offers a variety of amenities including an indoor pool, fitness centre, and free Wi-Fi. The hotel also offers a complimentary continental breakfast and is close to major attractions such as Odell Park and the University of New Brunswick."
+                "<b>Fredericton Inn </b> The Fredericton Inn is located in the heart of Fredericton and offers comfortable rooms with a variety of amenities including free Wi-Fi and a fitness centre. The hotel is also close to major attractions such as the Fredericton International Airport, the University of New Brunswick, and Odell Park.",
+                "<b>Comfort Inn & Suites </b> The Comfort Inn & Suites is located close to the NBCC Corporate Office and offers a variety of amenities including an indoor pool, fitness centre, and free Wi-Fi. The hotel also offers a complimentary continental breakfast and is close to major attractions such as Odell Park and the University of New Brunswick."
             ]
         },
         {
@@ -331,8 +331,8 @@ export const nbcccorporateofficefredericton = {
             "title": "",
             "info": "Hostel Facilities",
             "data": [
-                "<b>HI Fredericton </b> <br>HI Fredericton is a hostel located in the heart of Fredericton and offers a variety of amenities including free Wi-Fi, a fully-equipped kitchen, and a lounge. The hostel is also close to major attractions such as the University of New Brunswick, Odell Park, and the Fredericton International Airport.",
-                "<b>The Barracks Hostel </b> <br>The Barracks Hostel is located close to the NBCC Corporate Office and offers a variety of amenities including a shared kitchen, lounge, and free Wi-Fi. The hostel is also close to major attractions such as the University of New Brunswick and Odell Park."
+                "<b>HI Fredericton </b> HI Fredericton is a hostel located in the heart of Fredericton and offers a variety of amenities including free Wi-Fi, a fully-equipped kitchen, and a lounge. The hostel is also close to major attractions such as the University of New Brunswick, Odell Park, and the Fredericton International Airport.",
+                "<b>The Barracks Hostel </b> The Barracks Hostel is located close to the NBCC Corporate Office and offers a variety of amenities including a shared kitchen, lounge, and free Wi-Fi. The hostel is also close to major attractions such as the University of New Brunswick and Odell Park."
             ]
         },
         {

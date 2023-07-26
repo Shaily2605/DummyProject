@@ -68,14 +68,10 @@ export const newmexicostateuniversitygrants = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The degree programs offered by New Mexico State University Grants, New Mexico, USA, with their respective fee structures are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The degree programs offered by New Mexico State University Grants, New Mexico, USA, with their respective fee structures are as follows:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts in Sociology: $5,252 per academic year ",
                 "Bachelor of Science in Nursing: $4,655 per academic year ",

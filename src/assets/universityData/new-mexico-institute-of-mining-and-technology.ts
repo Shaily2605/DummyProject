@@ -70,14 +70,10 @@ export const newmexicoinstituteofminingandtechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The New Mexico Institute of Mining and Technology offers over 50 undergraduate and graduate degree programs, including the following:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The New Mexico Institute of Mining and Technology offers over 50 undergraduate and graduate degree programs, including the following:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting",
                 "Applied Mathematics",

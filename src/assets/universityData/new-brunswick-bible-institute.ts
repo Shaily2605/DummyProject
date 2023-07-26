@@ -70,14 +70,10 @@ export const newbrunswickbibleinstitute = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The New Brunswick Bible Institute offers a variety of courses and programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "The fees for each course and program are as follows:",
+            "title": 'Courses and Fees',
+            "info": "The New Brunswick Bible Institute offers a variety of courses and programs.",
+            "textBelowInfo": "The fees for each course and program are as follows:",
             "data": [
                 "Diploma in Biblical Studies: $4,995.00",
                 "Certificate in Biblical Studies: $2,995.00",

@@ -72,14 +72,10 @@ export const nepalgunjmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nepalgunj Medical College (NGMC) offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '1. Bachelor of Medicine and Bachelor of Surgery (MBBS):',
-            "info": "Fee Structure:",
+            "title": 'Courses and Fees',
+            "info": "Nepalgunj Medical College (NGMC) offers the following courses:",
+            "textBelowInfo": "<p><b>1. Bachelor of Medicine and Bachelor of Surgery (MBBS):</b></p> <p>Fee Structure:</p>",
             "data": [
                 "Tuition Fee: USD 3,000 per year",
                 "Hostel Fee: USD 200 per year",
@@ -89,8 +85,9 @@ export const nepalgunjmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": '2. Bachelor of Dental Surgery (BDS):',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "2. Bachelor of Dental Surgery (BDS):",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: USD 2,000 per year",
                 "Hostel Fee: USD 200 per year",
@@ -100,8 +97,9 @@ export const nepalgunjmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": '3. Bachelor of Science in Nursing (BSc Nursing):',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "3. Bachelor of Science in Nursing (BSc Nursing):",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: USD 1,500 per year",
                 "Hostel Fee: USD 200 per year",
@@ -111,8 +109,9 @@ export const nepalgunjmedicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": '4. Bachelor of Science in Public Health (BSc Public Health):',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "4. Bachelor of Science in Public Health (BSc Public Health):",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition Fee: USD 1,500 per year",
                 "Hostel Fee: USD 200 per year",

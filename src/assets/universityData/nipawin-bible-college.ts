@@ -71,14 +71,10 @@ export const nipawinbiblecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nipawin Bible College offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Bachelor of Theology: This is a four-year program that focuses",
+            "title": 'Courses and Fees',
+            "info": "Nipawin Bible College offers the following courses:",
+            "textBelowInfo": "<b>Bachelor of Theology: This is a four-year program that focuses </b>",
             "data": [
                 "Tuition: $7,500 per year",
                 "Room and Board: $3,500 per year",

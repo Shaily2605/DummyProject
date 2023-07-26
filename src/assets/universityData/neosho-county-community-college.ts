@@ -71,14 +71,10 @@ export const neoshocountycommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Neosho County Community College offers a variety of courses in a variety of disciplines, including business, health sciences, manufacturing, engineering, and more. Below is a list of courses offered by the college, along with the associated fees. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Business",
+            "title": 'Courses and Fees',
+            "info": "Neosho County Community College offers a variety of courses in a variety of disciplines, including business, health sciences, manufacturing, engineering, and more. Below is a list of courses offered by the college, along with the associated fees.",
+            "textBelowInfo": "<b>Business</b>",
             "data": [
                 "Accounting (ACC) - $90.00 ",
                 "Business Administration (BUS) - $90.00 ",

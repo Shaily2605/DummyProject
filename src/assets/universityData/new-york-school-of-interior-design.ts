@@ -68,14 +68,10 @@ export const newyorkschoolofinteriordesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The New York School of Interior Design offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "The New York School of Interior Design offers the following courses:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "<b>Bachelor of Fine Arts (BFA) in Interior Design:</b> Tuition cost is $50,710 per year.",
                 "<b>Bachelor of Science (BS) in Interior Design:</b> Tuition cost is $50,710 per year."
@@ -331,10 +327,10 @@ export const newyorkschoolofinteriordesign = {
             "title": "Off-Campus Accommodation",
             "info": "The school provides a list of recommended off-campus housing options. These include:",
             "data": [
-                "NYC Student Housing - An off-campus student housing service that offers both shared and private rooms near the school. ",
-                "The International Student Suites - A furnished residence for international students located close to the school. ",
-                "The Sheridan Suites - A residence located near the school that offers both short-term and long-term housing. ",
-                "Furnished Apartments - Furnished apartments near the school that provide short-term and long-term housing."
+                "<b>NYC Student Housing -</b> An off-campus student housing service that offers both shared and private rooms near the school. ",
+                "<b>The International Student Suites -</b> A furnished residence for international students located close to the school. ",
+                "<b>The Sheridan Suites -</b> A residence located near the school that offers both short-term and long-term housing. ",
+                "<b>Furnished Apartments -</b> Furnished apartments near the school that provide short-term and long-term housing."
             ]
         },
         {
@@ -342,10 +338,10 @@ export const newyorkschoolofinteriordesign = {
             "title": "Hostel Facilities",
             "info": "New York School of Interior Design does not offer hostel facilities. However, there are a number of hostels located near the school, including:",
             "data": [
-                "The Pod 39 Hotel - A hostel located in the heart of Manhattan, near the school.",
-                "Larchmont Hotel - A hostel located close to the school, offering both private and shared rooms. ",
-                "The Jane Hotel - A hostel located in the West Village, near the school. ",
-                "The Bowery House - A hostel located in the heart of Manhattan, near the school."
+                "<b>The Pod 39 Hotel -</b> A hostel located in the heart of Manhattan, near the school.",
+                "<b>Larchmont Hotel -</b> A hostel located close to the school, offering both private and shared rooms. ",
+                "<b>The Jane Hotel -</b> A hostel located in the West Village, near the school. ",
+                "<b>The Bowery House -</b> A hostel located in the heart of Manhattan, near the school."
             ]
         },
         {

@@ -68,14 +68,10 @@ export const newyorkuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>New York University offers a wide range of undergraduate and graduate programs across its 18 schools and colleges. The following list provides an overview of the cost of attendance for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "New York University offers a wide range of undergraduate and graduate programs across its 18 schools and colleges. The following list provides an overview of the cost of attendance for each program.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Liberal Arts and Sciences: $53,000",
                 "Bachelor of Science in Computer Science: $56,000",

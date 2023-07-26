@@ -67,14 +67,10 @@ export const newyorkcollegeofhealthprofessions = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>New York College of Health Professions offers a variety of degree and certificate programs in health and wellness. Below is a list of courses offered with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Degree Programs:",
+            "title": 'Courses and Fees',
+            "info": "New York College of Health Professions offers a variety of degree and certificate programs in health and wellness. Below is a list of courses offered with the associated fee structure:",
+            "textBelowInfo": "<b>Degree Programs:</b>",
             "data": [
                 "Master of Science in Acupuncture and Oriental Medicine: $18,750 per academic year",
                 "Master of Science in Massage Therapy: $17,450 per academic year",

@@ -76,14 +76,10 @@ export const newmexicomilitaryinstitute = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following information is provided by the New Mexico Military Institute:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs',
-            "info": "Associate of Arts Degree Program",
+            "title": 'Courses and Fees',
+            "info": "The following information is provided by the New Mexico Military Institute:",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>Associate of Arts Degree Program</b></p>",
             "data": [
                 "<b>Tuition & Fees:</b> $7,933.90",
                 "<b>Room & Board:</b> $5,531.00",

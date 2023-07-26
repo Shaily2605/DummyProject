@@ -71,14 +71,10 @@ export const newmancollegeireland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Newman College Ireland offers a range of undergraduate and postgraduate courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "Newman College Ireland offers a range of undergraduate and postgraduate courses.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "BA in Business Studies: €7,850 per year",
                 "BSc in Computing: €7,850 per year",

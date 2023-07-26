@@ -70,14 +70,10 @@ export const newberrycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Newberry College offers more than 50 undergraduate majors, minors and concentrations, as well as several pre-professional programs.</p> <p>Below is the fee structure of Newberry College, South Carolina, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Tuition and Fees (Per Semester)*",
+            "title": 'Courses and Fees',
+            "info": "Newberry College offers more than 50 undergraduate majors, minors and concentrations, as well as several pre-professional programs.",
+            "textBelowInfo": "<p>Below is the fee structure of Newberry College, South Carolina, USA:</p> <p><b>Undergraduate Tuition and Fees (Per Semester)*</b></p>",
             "data": [
                 "Tuition (12-18 hrs): $11,664 ",
                 "Tuition (6-11 hrs): $7,776 ",

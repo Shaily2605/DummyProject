@@ -67,14 +67,10 @@ export const newschoolofarchitectureanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>New School of Architecture & Design (NSAD) offers a number of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "New School of Architecture & Design (NSAD) offers a number of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "<b>Bachelor of Architecture (BArch): </b>Tuition: $1,095 per unit",
                 "<b>Bachelor of Science in Architecture (BSArch):</b> Tuition: $1,095 per unit",

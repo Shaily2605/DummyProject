@@ -72,14 +72,10 @@ export const nebraskamethodistcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nebraska Methodist College offers a wide range of degree programs and courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs:",
+            "title": 'Courses and Fees',
+            "info": "Nebraska Methodist College offers a wide range of degree programs and courses.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs:</b>",
             "data": [
                 "Bachelor of Science Degree in Nursing",
                 "Bachelor of Science in Health Care Administration",

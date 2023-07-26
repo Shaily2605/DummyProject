@@ -69,14 +69,10 @@ export const nebraskachristiancollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nebraska Christian College offers several undergraduate and graduate degree programs. The following are the courses offered at Nebraska Christian College along with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Nebraska Christian College offers several undergraduate and graduate degree programs. The following are the courses offered at Nebraska Christian College along with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Biblical Studies: $10,176/yr",
                 "Bachelor of Arts in Education: $10,176/yr",
@@ -141,7 +137,7 @@ export const nebraskachristiancollege = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-               "Students from India who are interested in applying for admission at Nebraska Christian College in Nebraska, USA, should first review the college's website to understand the requirements and application process. They should then contact the college's Admissions Office to request an application form and instructions on how to apply. The Admissions Office will then provide the necessary forms and instructions to complete the application process. Required documents include transcripts, English proficiency test scores, letters of recommendation, financial documents, and a completed application form. Once the application is complete, it should be submitted with the required documents to the college's Admissions Office. After the college reviews the application, they will contact the student with the admission decision."
+                "Students from India who are interested in applying for admission at Nebraska Christian College in Nebraska, USA, should first review the college's website to understand the requirements and application process. They should then contact the college's Admissions Office to request an application form and instructions on how to apply. The Admissions Office will then provide the necessary forms and instructions to complete the application process. Required documents include transcripts, English proficiency test scores, letters of recommendation, financial documents, and a completed application form. Once the application is complete, it should be submitted with the required documents to the college's Admissions Office. After the college reviews the application, they will contact the student with the admission decision."
             ]
         },
         {

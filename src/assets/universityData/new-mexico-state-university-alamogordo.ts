@@ -70,14 +70,10 @@ export const newmexicostateuniversityalamogordo = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are the courses offered by New Mexico State University Alamogordo, New Mexico, USA, along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The following are the courses offered by New Mexico State University Alamogordo, New Mexico, USA, along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Associate of Arts in General Studies: $179.00 per credit hour",
                 "Associate of Applied Science in Business Technology: $179.00 per credit hour",

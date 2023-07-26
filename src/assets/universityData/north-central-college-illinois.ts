@@ -129,7 +129,7 @@ export const northcentralcollegeillinois = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": '',
             "info": "Fee Structure",
             "data": [

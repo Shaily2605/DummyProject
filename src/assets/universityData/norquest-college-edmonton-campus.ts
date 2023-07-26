@@ -134,7 +134,6 @@ export const norquestcollegeedmontoncampus = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "The admission requirements for Indian students at NorQuest College's Edmonton Campus are outlined below.",
-            "textBelowInfo": "Admission Requirements:",
             "data": [
                 "A valid passport",
                 "Proof of completion of secondary school education, or equivalent",

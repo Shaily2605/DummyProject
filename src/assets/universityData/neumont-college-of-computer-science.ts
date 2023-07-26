@@ -70,14 +70,10 @@ export const neumontcollegeofcomputerscience = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Neumont University offers bachelor's and master's degrees in computer science. The tuition fees for the courses are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Bachelor's Degree:",
+            "title": 'Courses and Fees',
+            "info": "Neumont University offers bachelor's and master's degrees in computer science. The tuition fees for the courses are as follows:",
+            "textBelowInfo": "<b>Bachelor's Degree:</b>",
             "data": [
                 "Computer Science: $42,500 per year",
                 "Software Engineering: $42,500 per year",

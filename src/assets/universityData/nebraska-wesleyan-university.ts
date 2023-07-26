@@ -71,14 +71,10 @@ export const nebraskawesleyanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nebraska Wesleyan University has the following courses with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Nebraska Wesleyan University has the following courses with the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Arts and Humanities: $32,020",
                 "Business: $32,020",

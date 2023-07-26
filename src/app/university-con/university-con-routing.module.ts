@@ -62415,6 +62415,1294 @@ const routes: Routes = [
     path: 'university-of-sc-lancaster/faq/.',
     component: UniversityConComponent
   },
+
+
+  {
+    path: 'university-of-sc-union/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sc-union/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-silicon-valley-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-silicon-valley-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-sioux-falls/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-sioux-falls/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-alabama-alabama/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-alabama-alabama/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-aiken/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-aiken/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-beaufort-bluffton-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-salkehatchie/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-salkehatchie/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-north-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-upstate-south-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-south-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-south-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-carolina-sumter/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-carolina-sumter/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-dakota-south-dakota/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-dakota-south-dakota/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-st-petersburg-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-south-florida-florida/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-south-florida-florida/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-southern-california-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-california-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-southern-indiana-indiana/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-indiana-indiana/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-southern-maine-maine/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-maine-maine/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-southern-queensland-queensland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-southern-queensland-queensland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'university-of-st-francis-illinois/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-francis-illinois/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-st-josephs-college-memramcook/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-josephs-college-memramcook/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-st-thomas-minnesota/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-minnesota/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-st-thomas-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-st-thomas-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-technology-sydney/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-technology-sydney/faq/.',
+    component: UniversityConComponent
+  },
+
+
+ {
+    path: 'university-of-tennessee-at-martin/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-at-martin/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-tennessee-southern/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-southern/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-tennessee-tennessee/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-tennessee-tennessee/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-texas-at-arlington/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-arlington/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-texas-at-dallas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-at-dallas/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 

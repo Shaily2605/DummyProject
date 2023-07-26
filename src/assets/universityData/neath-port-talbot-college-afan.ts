@@ -69,14 +69,10 @@ export const neathporttalbotcollegeafan = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Neath Port Talbot College offers a wide range of courses across a variety of subjects. The college offers full-time and part-time courses, apprenticeships and a range of short courses.</p> <p>The courses and their respective fee structures are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Full-Time Courses",
+            "title": 'Courses and Fees',
+            "info": "Neath Port Talbot College offers a wide range of courses across a variety of subjects. The college offers full-time and part-time courses, apprenticeships and a range of short courses.",
+            "textBelowInfo": "<p>The courses and their respective fee structures are as follows:</p> <p><b>Full-Time Courses</b></p>",
             "data": [
                 "Access to Higher Education (Fee: £3,945) ",
                 "Accounting & Finance (Fee: £3,945)",

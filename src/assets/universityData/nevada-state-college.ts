@@ -72,14 +72,10 @@ export const nevadastatecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>There are a wide variety of courses available at Nevada State College. The tuition rate for Nevada State College is $157.25 per credit hour for Nevada residents and $403.50 per credit hour for non-residents.</p> <p>Below is a list of some of the courses offered at Nevada State College and their associated tuition rates:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs:",
+            "title": 'Courses and Fees',
+            "info": "There are a wide variety of courses available at Nevada State College. The tuition rate for Nevada State College is $157.25 per credit hour for Nevada residents and $403.50 per credit hour for non-residents.",
+            "textBelowInfo": "<p>Below is a list of some of the courses offered at Nevada State College and their associated tuition rates:</p> <p><b>Undergraduate Degree Programs:</b></p>",
             "data": [
                 "<b>Bachelor of Arts in English:</b> $157.25/credit hour for Nevada residents, $403.50/credit hour for non-residents",
                 "<b>Bachelor of Science in Biology:</b> $157.25/credit hour for Nevada residents, $403.50/credit hour for non-residents  ",
@@ -137,14 +133,10 @@ export const nevadastatecollege = {
             ]
         },
         {
-            type: 'text',
-            title: 'How to Apply ?',
-            data: "<p>Students from India who wish to apply for admission at Nevada State College in Nevada, USA must first meet the college's general admission requirements. These requirements include having a high school diploma or equivalent, proof of English proficiency, and an application fee.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Once these requirements are met, the student must then submit the following documents to the college:",
+            "title": "How to Apply ?",
+            "info": "Students from India who wish to apply for admission at Nevada State College in Nevada, USA must first meet the college's general admission requirements. These requirements include having a high school diploma or equivalent, proof of English proficiency, and an application fee.",
+            "textBelowInfo": "Once these requirements are met, the student must then submit the following documents to the college:",
             "data": [
                 "A completed application form",
                 "Official transcripts from all primary, secondary, and post-secondary education",

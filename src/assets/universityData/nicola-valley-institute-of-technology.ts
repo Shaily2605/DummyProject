@@ -80,14 +80,10 @@ export const nicolavalleyinstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Nicola Valley Institute of Technology (NVIT) offers a variety of programs and courses at both the undergraduate and graduate levels.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "The Nicola Valley Institute of Technology (NVIT) offers a variety of programs and courses at both the undergraduate and graduate levels.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "<b>Bachelor of Arts in Business Administration </b> Tuition Fee: $6,722 per semester ",
                 "<b>Bachelor of Science in Education </b> Tuition Fee: $6,722 per semester ",

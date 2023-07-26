@@ -69,14 +69,10 @@ export const newmexicostateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>New Mexico State University offers a wide range of undergraduate and graduate degree programs. The tuition and fees for these programs vary depending on the program and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "New Mexico State University offers a wide range of undergraduate and graduate degree programs. The tuition and fees for these programs vary depending on the program and the student's residency status.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts",
                 "Bachelor of Science",

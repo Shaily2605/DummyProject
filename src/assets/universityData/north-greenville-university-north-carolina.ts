@@ -67,14 +67,10 @@ export const northgreenvilleuniversitynorthcarolina = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Greenville University offers a variety of undergraduate and graduate degree programs. The following is a list of the courses offered along with their corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs",
+            "title": 'Courses and Fees',
+            "info": "North Greenville University offers a variety of undergraduate and graduate degree programs. The following is a list of the courses offered along with their corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Bachelor of Arts in Business Administration: $20,890 per year ",
                 "Bachelor of Science in Accounting: $21,140 per year ",

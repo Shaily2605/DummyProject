@@ -69,14 +69,10 @@ export const newmexicostateuniversitycarlsbad = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are all the courses offered at New Mexico State University Carlsbad along with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The following are all the courses offered at New Mexico State University Carlsbad along with the corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Associate of Applied Science in Business Administration - $2,874.50 per semester",
                 "Associate of Applied Science in Computer Networking - $2,874.50 per semester",
@@ -317,14 +313,10 @@ export const newmexicostateuniversitycarlsbad = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: ""
-        },
-        {
             "type": "list-bollet",
-            "title": "On-Campus Accommodation",
-            "info": "New Mexico State University Carlsbad offers on-campus housing for students. The on-campus housing options include: ",
+            "title": 'Hostel',
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "New Mexico State University Carlsbad offers on-campus housing for students. The on-campus housing options include: ",
             "data": [
                 "University Suites – two-bedroom, two-bathroom apartments ",
                 "University Village – one-bedroom and two-bedroom apartments",
@@ -333,8 +325,9 @@ export const newmexicostateuniversitycarlsbad = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Housing",
-            "info": "New Mexico State University Carlsbad also provides off-campus housing options for students. Off-campus housing options include: ",
+            "title": '',
+            "info": "Off-Campus Housing",
+            "textBelowInfo": "New Mexico State University Carlsbad also provides off-campus housing options for students. Off-campus housing options include: ",
             "data": [
                 "Apartments and houses for rent ",
                 "Roommates and sublets ",
@@ -343,8 +336,9 @@ export const newmexicostateuniversitycarlsbad = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostel Facilities",
-            "info": "There are no hostel facilities on-campus at New Mexico State University Carlsbad. However, there are several local hostels in the area that may be a good option for students looking for affordable accommodation. Some of the local hostels include: ",
+            "title": '',
+            "info": "Hostel Facilities",
+            "textBelowInfo": "There are no hostel facilities on-campus at New Mexico State University Carlsbad. However, there are several local hostels in the area that may be a good option for students looking for affordable accommodation. Some of the local hostels include: ",
             "data": [
                 "Carlsbad Hostel ",
                 "The Grand Inn & Suites Carlsbad ",

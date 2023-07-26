@@ -78,14 +78,10 @@ export const newmexicohighlandsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of the courses offered at New Mexico Highlands University, New Mexico, USA, along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs',
-            "info": "Bachelor of Arts:",
+            "title": 'Courses and Fees',
+            "info": "The following is a list of the courses offered at New Mexico Highlands University, New Mexico, USA, along with their fee structure:",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>Bachelor of Arts:</b></p>",
             "data": [
                 "English: $4,214.00",
                 "History: $4,214.00",

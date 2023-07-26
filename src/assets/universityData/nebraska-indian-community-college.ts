@@ -69,14 +69,10 @@ export const nebraskaindiancommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Nebraska Indian Community College offers the following undergraduate and graduate degree and certificate programs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "The Nebraska Indian Community College offers the following undergraduate and graduate degree and certificate programs:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Associate of Arts",
                 "Associate of Applied Science in Early Childhood Education",
@@ -147,7 +143,7 @@ export const nebraskaindiancommunitycollege = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-               "Students from India who wish to apply for admission at Nebraska Indian Community College should first contact the school’s Office of Admissions. Prospective students can apply online at www.nicc.edu. The application process requires the completion of an online application form, submission of official transcripts, proof of English proficiency, and other required documents. Applicants should also submit letters of recommendation, a personal statement, and a resume. Once all documents have been received and approved by the Office of Admissions, the applicant will receive a confirmation email from the school."
+                "Students from India who wish to apply for admission at Nebraska Indian Community College should first contact the school’s Office of Admissions. Prospective students can apply online at www.nicc.edu. The application process requires the completion of an online application form, submission of official transcripts, proof of English proficiency, and other required documents. Applicants should also submit letters of recommendation, a personal statement, and a resume. Once all documents have been received and approved by the Office of Admissions, the applicant will receive a confirmation email from the school."
             ]
         },
         {

@@ -71,14 +71,10 @@ export const newcastleuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Newcastle University offers a wide range of courses, each with its own individual fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Courses',
-            "info": "Accounting and Finance",
+            "title": "Courses and Fees",
+            "info": 'Newcastle University offers a wide range of courses, each with its own individual fee structure.',
+            "textBelowInfo": "<p><b>Undergraduate Courses </b></p> <p><b>Accounting and Finance</b></p>",
             "data": [
                 "Fee for UK/EU students: £9,250 per year",
                 "Fee for international students: £15,900 per year"

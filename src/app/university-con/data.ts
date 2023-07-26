@@ -1378,6 +1378,34 @@ import * as universityofsalfordengland from '../../assets/universityData/univers
 import * as universityofsandiegocalifornia from '../../assets/universityData/university-of-san-diego-california'
 import * as universityofsanfrancisco from '../../assets/universityData/university-of-san-francisco'
 import * as universityofsclancaster from '../../assets/universityData/university-of-sc-lancaster'
+import * as universityofscunion from '../../assets/universityData/university-of-sc-union'
+import * as universityofsiliconvalleycalifornia from '../../assets/universityData/university-of-silicon-valley-california'
+import * as universityofsiouxfalls from '../../assets/universityData/university-of-sioux-falls'
+import * as universityofsouthalabamaalabama from '../../assets/universityData/university-of-south-alabama-alabama'
+import * as universityofsouthcarolinaaiken from '../../assets/universityData/university-of-south-carolina-aiken'
+import * as universityofsouthcarolinabeaufortblufftoncampus from '../../assets/universityData/university-of-south-carolina-beaufort-bluffton-campus'
+import * as universityofsouthcarolinasalkehatchie from '../../assets/universityData/university-of-south-carolina-salkehatchie'
+import * as universityofsouthcarolinaupstatenorthcarolina from '../../assets/universityData/university-of-south-carolina-upstate-north-carolina'
+import * as universityofsouthcarolinaupstatesouthcarolina from '../../assets/universityData/university-of-south-carolina-upstate-south-carolina'
+import * as universityofsouthcarolinasouthcarolina from '../../assets/universityData/university-of-south-carolina-south-carolina'
+import * as universityofsouthcarolinasumter from '../../assets/universityData/university-of-south-carolina-sumter'
+import * as universityofsouthdakotasouthdakota from '../../assets/universityData/university-of-south-dakota-south-dakota'
+import * as universityofsouthfloridastpetersburgcampus from '../../assets/universityData/university-of-south-florida-st-petersburg-campus'
+import * as universityofsouthfloridaflorida from '../../assets/universityData/university-of-south-florida-florida'
+import * as universityofsoutherncaliforniacalifornia from '../../assets/universityData/university-of-southern-california-california'
+import * as universityofsouthernindianaindiana from '../../assets/universityData/university-of-southern-indiana-indiana'
+import * as universityofsouthernmainemaine from '../../assets/universityData/university-of-southern-maine-maine'
+import * as universityofsouthernqueenslandqueensland from '../../assets/universityData/university-of-southern-queensland-queensland'
+import * as universityofstfrancisillinois from '../../assets/universityData/university-of-st-francis-illinois'
+import * as universityofstjosephscollegememramcook from '../../assets/universityData/university-of-st-josephs-college-memramcook'
+import * as universityofstthomasminnesota from '../../assets/universityData/university-of-st-thomas-minnesota'
+import * as universityofstthomastexas from '../../assets/universityData/university-of-st-thomas-texas'
+import * as universityoftechnologysydney from '../../assets/universityData/university-of-technology-sydney'
+import * as universityoftennesseeatmartin from '../../assets/universityData/university-of-tennessee-at-martin'
+import * as universityoftennesseesouthern from '../../assets/universityData/university-of-tennessee-southern'
+import * as universityoftennesseetennessee from '../../assets/universityData/university-of-tennessee-tennessee'
+import * as universityoftexasatarlington from '../../assets/universityData/university-of-texas-at-arlington'
+import * as universityoftexasatdallas from '../../assets/universityData/university-of-texas-at-dallas'
 
 export {
 
@@ -2755,6 +2783,34 @@ export {
     universityofsandiegocalifornia,
     universityofsanfrancisco,
     universityofsclancaster,
+    universityofscunion,
+    universityofsiliconvalleycalifornia,
+    universityofsiouxfalls,
+    universityofsouthalabamaalabama,
+    universityofsouthcarolinaaiken,
+    universityofsouthcarolinabeaufortblufftoncampus,
+    universityofsouthcarolinasalkehatchie,
+    universityofsouthcarolinaupstatenorthcarolina,
+    universityofsouthcarolinaupstatesouthcarolina,
+    universityofsouthcarolinasouthcarolina,
+    universityofsouthcarolinasumter,
+    universityofsouthdakotasouthdakota,
+    universityofsouthfloridastpetersburgcampus,
+    universityofsouthfloridaflorida,
+    universityofsoutherncaliforniacalifornia,
+    universityofsouthernindianaindiana,
+    universityofsouthernmainemaine,
+    universityofsouthernqueenslandqueensland,
+    universityofstfrancisillinois,
+    universityofstjosephscollegememramcook,
+    universityofstthomasminnesota,
+    universityofstthomastexas,
+    universityoftechnologysydney,
+    universityoftennesseeatmartin,
+    universityoftennesseesouthern,
+    universityoftennesseetennessee,
+    universityoftexasatarlington,
+    universityoftexasatdallas,
     
 
 }

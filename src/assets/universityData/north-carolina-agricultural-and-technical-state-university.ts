@@ -68,14 +68,10 @@ export const northcarolinaagriculturalandtechnicalstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Carolina A&T State University offers a variety of undergraduate, graduate, and certificate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "North Carolina A&T State University offers a variety of undergraduate, graduate, and certificate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting",
                 "Agricultural Sciences ",
@@ -372,7 +368,7 @@ export const northcarolinaagriculturalandtechnicalstateuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
             "data": [
@@ -397,7 +393,7 @@ export const northcarolinaagriculturalandtechnicalstateuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation:",
             "data": [
@@ -405,7 +401,7 @@ export const northcarolinaagriculturalandtechnicalstateuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

@@ -70,14 +70,10 @@ export const newyorkfilmacademy = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The New York Film Academy offers a wide range of diploma, certificate, and degree programs, as well as a variety of short-term workshops in filmmaking, acting for film, photography, digital editing, and other related fields.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Diploma Programs",
+            "title": 'Courses and Fees',
+            "info": "The New York Film Academy offers a wide range of diploma, certificate, and degree programs, as well as a variety of short-term workshops in filmmaking, acting for film, photography, digital editing, and other related fields.",
+            "textBelowInfo": "<b>Diploma Programs</b>",
             "data": [
                 "Filmmaking - Tuition: $22,000",
                 "Acting for Film - Tuition: $22,000",

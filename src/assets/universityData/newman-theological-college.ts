@@ -69,14 +69,10 @@ export const newmantheologicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Newman Theological College offers several degree and certificate programs. All of these programs are accredited by the Association of Theological Schools in the United States and Canada (ATS).</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "The following are the programs offered by Newman Theological College and their corresponding fees:",
+            "title": 'Courses and Fees',
+            "info": "Newman Theological College offers several degree and certificate programs. All of these programs are accredited by the Association of Theological Schools in the United States and Canada (ATS).",
+            "textBelowInfo": "The following are the programs offered by Newman Theological College and their corresponding fees:",
             "data": [
                 "Bachelor of Theology (B.Th): $9,300",
                 "Master of Divinity (M.Div): $10,800",

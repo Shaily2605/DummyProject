@@ -65,14 +65,10 @@ export const nhticoncordscommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>NHTI-Concord's Community College offers more than 70 academic programs in a variety of areas such as business, health sciences, technology, and more.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Below is the list of courses with fee structure of NHTI- Concord's Community College, New Hampshire, USA:",
+            "title": 'Courses and Fees',
+            "info": "NHTI-Concord's Community College offers more than 70 academic programs in a variety of areas such as business, health sciences, technology, and more.",
+            "textBelowInfo": "Below is the list of courses with fee structure of NHTI- Concord's Community College, New Hampshire, USA:",
             "data": [
                 "Accounting: $6,551",
                 "Business Administration: $6,551",

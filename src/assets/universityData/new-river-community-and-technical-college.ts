@@ -71,14 +71,10 @@ export const newrivercommunityandtechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>New River Community and Technical College offers various courses in a range of areas, including academics, business and technical, health sciences, public service, and more. Below is a listing of the courses offered at the Raleigh County Campus, along with the corresponding tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Academic Programs",
+            "title": 'Courses and Fees',
+            "info": "New River Community and Technical College offers various courses in a range of areas, including academics, business and technical, health sciences, public service, and more. Below is a listing of the courses offered at the Raleigh County Campus, along with the corresponding tuition and fees.",
+            "textBelowInfo": "<b>Academic Programs</b>",
             "data": [
                 "General Education - $150 per credit hour",
                 "Arts & Humanities - $150 per credit hour",

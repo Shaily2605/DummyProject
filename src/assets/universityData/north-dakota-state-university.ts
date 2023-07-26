@@ -87,14 +87,10 @@ export const northdakotastateuniversity = {
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>Below is a list of the available undergraduate and graduate degree programs offered at North Dakota State University and their respective tuition rates:</p>"
-        },
-        {
             "type": "list-bollet",
             "title": '',
-            "info": "Undergraduate Degree Programs:",
+            "info": "Below is a list of the available undergraduate and graduate degree programs offered at North Dakota State University and their respective tuition rates:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs: </b>",
             "data": [
                 "Accounting and Finance",
                 "Agriculture",

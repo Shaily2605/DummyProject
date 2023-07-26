@@ -70,14 +70,10 @@ export const nationalparkcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The National Park College in Arkansas offers several certificate and degree programs. The following list outlines these programs and their associated tuition costs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "The National Park College in Arkansas offers several certificate and degree programs. The following list outlines these programs and their associated tuition costs:",
+            "textBelowInfo": "<b>Certificate Programs</b>",
             "data": [
                 "Accounting – $2,750",
                 "Business Management – $2,750",

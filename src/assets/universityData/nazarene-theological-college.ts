@@ -69,14 +69,10 @@ export const nazarenetheologicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nazarene Theological College is an evangelical theological college in Queensland, Australia. It offers a range of courses in ministry, theology, and other related fields, as well as professional development programs.</p> <p>Below is the fee structure for all courses offered by Nazarene Theological College:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Nazarene Theological College is an evangelical theological college in Queensland, Australia. It offers a range of courses in ministry, theology, and other related fields, as well as professional development programs.",
+            "textBelowInfo": "<p>Below is the fee structure for all courses offered by Nazarene Theological College:</p> <p><b>Undergraduate Courses</b></p>",
             "data": [
                 "Bachelor of Theology: A$6,250 per semester",
                 "Bachelor of Ministry: A$6,250 per semester  ",

@@ -70,14 +70,10 @@ export const nobelmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nobel Medical College Nepal offers a range of medical courses. The courses with their respective fee structures are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "1. MBBS:",
+            "title": 'Courses and Fees',
+            "info": "Nobel Medical College Nepal offers a range of medical courses. The courses with their respective fee structures are as follows:",
+            "textBelowInfo": "<b>1. MBBS: </b>",
             "data": [
                 "Fee Structure (Per Year):",
                 "Tuition Fee: 4,00,000 NPR",

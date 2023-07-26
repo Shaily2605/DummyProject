@@ -71,14 +71,10 @@ export const northamericanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North American University offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "North American University offers the following courses:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Business Administration (BSBA)	",
                 "Bachelor of Science in Computer Science (BSCS)	",
@@ -111,7 +107,7 @@ export const northamericanuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": '',
             "info": "Fee Structure",
             "data": [

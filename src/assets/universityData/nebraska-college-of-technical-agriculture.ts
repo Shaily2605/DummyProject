@@ -136,7 +136,7 @@ export const nebraskacollegeoftechnicalagriculture = {
                 "You must also submit your test scores, such as the TOEFL or IELTS, along with your application package.",
                 "Once your application package is complete, you can submit it to the college and will receive a notification of admission or rejection.",
                 "Upon receiving acceptance, you must then apply for an F-1 student visa. You will need to provide proof of financial support, a valid passport, and other documents as requested by the college and the U.S. embassy or consulate.",
-                " Once your visa is approved, you will be able to travel to Nebraska and begin your studies at the Nebraska College of Technical Agriculture."
+                "Once your visa is approved, you will be able to travel to Nebraska and begin your studies at the Nebraska College of Technical Agriculture."
             ]
         },
         {

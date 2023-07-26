@@ -68,14 +68,10 @@ export const nepalmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nepal Medical College offers a wide range of undergraduate and postgraduate courses in the field of Medical Science and Technology. The following are the courses offered at Nepal Medical College along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Nepal Medical College offers a wide range of undergraduate and postgraduate courses in the field of Medical Science and Technology. The following are the courses offered at Nepal Medical College along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "MBBS - Rs.10,00,000",
                 "B.Sc. Nursing - Rs.6,00,000",

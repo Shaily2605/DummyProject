@@ -68,14 +68,10 @@ export const newmanuniversitykansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Newman University in Kansas offers undergraduate, graduate, and professional programs. The programs are divided into eight colleges: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Newman University in Kansas offers undergraduate, graduate, and professional programs. The programs are divided into eight colleges:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Arts & Sciences",
                 "Business & Computing",

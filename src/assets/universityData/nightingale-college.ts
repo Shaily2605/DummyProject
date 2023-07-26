@@ -70,14 +70,10 @@ export const nightingalecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nightingale College offers the following degree programs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Science in Nursing:",
+            "title": 'Courses and Fees',
+            "info": "Nightingale College offers the following degree programs:",
+            "textBelowInfo": "<b>Associate of Science in Nursing:</b>",
             "data": [
                 "Tuition: $8,700",
                 "Fees: $1,000",

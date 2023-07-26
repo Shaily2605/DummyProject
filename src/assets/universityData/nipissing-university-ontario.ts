@@ -70,14 +70,10 @@ export const nipissinguniversityontario = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of the courses offered at Nipissing University, Ontario, Canada, along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The following is a list of the courses offered at Nipissing University, Ontario, Canada, along with their fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts: $6,400 per year",
                 "Bachelor of Business Administration: $8,080 per year",
@@ -312,11 +308,11 @@ export const nipissinguniversityontario = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
             "data": [
-                "<b>On-Campus Accommodation</b> <br>Nipissing University offers a variety of accommodation options for students on-campus."
+                "Nipissing University offers a variety of accommodation options for students on-campus."
             ]
         },
         {
@@ -331,12 +327,19 @@ export const nipissinguniversityontario = {
             ]
         },
         {
+            "type": "text",
+            "title": "",
+            "info": "Hostels",
+            "data": [
+                "Nipissing University also offers a hostel accommodation option at the campus. The hostel is a low-cost, shared accommodation option for students who want to stay close to campus. The hostel offers single, double, and triple occupancy rooms, as well as shared washrooms and kitchen facilities."
+            ]
+        },
+        {
             "type": "list-bollet",
             "title": "",
-            "info": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "Nipissing University also offers off-campus accommodation options for students who are not able to stay on campus.",
             "data": [
-                "<b>Hostels </b> <br>Nipissing University also offers a hostel accommodation option at the campus. The hostel is a low-cost, shared accommodation option for students who want to stay close to campus. The hostel offers single, double, and triple occupancy rooms, as well as shared washrooms and kitchen facilities.",
-                "<b>Off-Campus Accommodation </b> <br>Nipissing University also offers off-campus accommodation options for students who are not able to stay on campus. ",
                 "<b>Apartments and Houses </b> <br>There are a variety of apartments and houses available for rent in the North Bay area. These include both furnished and unfurnished options, as well as single, double, and triple occupancy rooms.",
                 "<b>Homestays </b> <br>Nipissing University also offers a homestay program for students who are looking for more of a home-like environment. Through this program, students are placed with a host family who will provide them with meals and a place to stay.",
             ]

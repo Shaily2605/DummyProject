@@ -68,14 +68,10 @@ export const northarkansascollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North Arkansas College offers a variety of certificate, diploma and degree programs. The programs and their associated tuition fees are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "North Arkansas College offers a variety of certificate, diploma and degree programs. The programs and their associated tuition fees are as follows:",
+            "textBelowInfo": "<b>Certificate Programs </b>",
             "data": [
                 "Certificate in Accounting Technology - $5,760",
                 "Certificate in Automotive Technology - $4,800",

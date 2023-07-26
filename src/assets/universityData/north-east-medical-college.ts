@@ -72,14 +72,10 @@ export const northeastmedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>North East Medical College offers MBBS, BDS and Diploma courses. The college offers various courses in different streams and the fee structure for each course is given below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "MBBS:",
+            "title": 'Courses and Fees',
+            "info": "North East Medical College offers MBBS, BDS and Diploma courses. The college offers various courses in different streams and the fee structure for each course is given below:",
+            "textBelowInfo": "<b>MBBS: </b>",
             "data": [
                 "Tuition Fee: 5,00,000 BDT",
                 "Hostel Fee: 40,000 BDT",

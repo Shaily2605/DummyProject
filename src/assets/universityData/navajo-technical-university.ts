@@ -71,14 +71,10 @@ export const navajotechnicaluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Navajo Technical University offers a variety of degrees, certificates, and certifications in a range of fields including Business, Technology, Health Care, Education, Liberal Arts, and many others.</p> <p>Below is a list of all the courses offered by Navajo Technical University, New Mexico, USA along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Applied Science (AAS)",
+            "title": 'Courses and Fees',
+            "info": "Navajo Technical University offers a variety of degrees, certificates, and certifications in a range of fields including Business, Technology, Health Care, Education, Liberal Arts, and many others.",
+            "textBelowInfo": "<p>Below is a list of all the courses offered by Navajo Technical University, New Mexico, USA along with their fee structure:</p> <p><b>Associate of Applied Science (AAS)</b></p>",
             "data": [
                 "Automotive Technology: $4,185 per semester",
                 "Business Administration: $4,185 per semester",
