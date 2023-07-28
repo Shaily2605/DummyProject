@@ -70,14 +70,10 @@ export const oaklanduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Oakland offers various degree and certificate programs for undergraduate, graduate and professional students. Below is a list of all degree and certificate programs offered at Oakland University, along with the associated tuition cost.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs",
+            "title": 'Courses and Fees',
+            "info": "The University of Oakland offers various degree and certificate programs for undergraduate, graduate and professional students. Below is a list of all degree and certificate programs offered at Oakland University, along with the associated tuition cost.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Bachelor of Arts (BA): $12,568 per year",
                 "Bachelor of Science (BS): $13,952 per year",

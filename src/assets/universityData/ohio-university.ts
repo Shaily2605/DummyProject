@@ -72,11 +72,6 @@ export const ohiouniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Ohio University offers more than 250 undergraduate and graduate programs across 11 colleges and schools. Below is the list of undergraduate and graduate programs offered at Ohio University and their respective fee structure.",

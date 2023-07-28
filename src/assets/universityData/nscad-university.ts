@@ -14,7 +14,7 @@ export const nscaduniversity = {
         {
             type: 'text',
             title: 'About NSCAD University,Nova Scotia,Canada',
-            data: "<p><b>NSCAD University</b> (formerly the Nova Scotia College of Art and Design) was founded in 1887 by Anna Leonowens and her colleagues. It is one of the oldest independent universities in Canada. The college was originally founded as the Victoria School of Art and Design, a women's art school. In the early 1900s, the school became part of the Nova Scotia Department of Education and was renamed the Nova Scotia College of Art.</p> <p>The college has seen several changes over the years. In the 1960s, the college was officially granted university status and was renamed the Nova Scotia College of Art and Design. In the 1970s, the college launched its Bachelor of Fine Arts program and in the mid-1990s, the college was renamed the Nova Scotia College of Art and Design University.</p> <p>Today, NSCAD University is a world-renowned university that offers a range of programs in the visual arts, design, media arts, and craft. The university is committed to cultivating creativity and innovation and is a leader in the visual arts field in Canada.</p>"
+            data: "<p><b>NSCAD University (formerly the Nova Scotia College of Art and Design)</b> was founded in 1887 by Anna Leonowens and her colleagues. It is one of the oldest independent universities in Canada. The college was originally founded as the Victoria School of Art and Design, a women's art school. In the early 1900s, the school became part of the Nova Scotia Department of Education and was renamed the Nova Scotia College of Art.</p> <p>The college has seen several changes over the years. In the 1960s, the college was officially granted university status and was renamed the Nova Scotia College of Art and Design. In the 1970s, the college launched its Bachelor of Fine Arts program and in the mid-1990s, the college was renamed the Nova Scotia College of Art and Design University.</p> <p>Today, NSCAD University is a world-renowned university that offers a range of programs in the visual arts, design, media arts, and craft. The university is committed to cultivating creativity and innovation and is a leader in the visual arts field in Canada.</p>"
         },
         {
             "type": "list-bollet",
@@ -66,14 +66,10 @@ export const nscaduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The NSCAD University offers a range of undergraduate and graduate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programmes:",
+            "title": 'Courses and Fees',
+            "info": "The NSCAD University offers a range of undergraduate and graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Programmes: </b>",
             "data": [
                 "Bachelor of Fine Arts (BFA)",
                 "Bachelor of Design (BDes)",

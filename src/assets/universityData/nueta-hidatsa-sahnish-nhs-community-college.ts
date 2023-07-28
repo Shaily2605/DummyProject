@@ -67,14 +67,10 @@ export const nuetahidatsasahnishnhscommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nueta, Hidatsa, and Sahnish NHS Fort Berthold Community College offers a variety of academic and career technical programs for both credit and non-credit students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Credit Programs: ",
+            "title": 'Courses and Fees',
+            "info": "Nueta, Hidatsa, and Sahnish NHS Fort Berthold Community College offers a variety of academic and career technical programs for both credit and non-credit students.",
+            "textBelowInfo": "<b>Credit Programs: </b>",
             "data": [
                 "Associate in Arts (AA)",
                 "Associate in Science (AS)",

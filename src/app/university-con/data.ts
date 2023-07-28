@@ -1406,6 +1406,36 @@ import * as universityoftennesseesouthern from '../../assets/universityData/univ
 import * as universityoftennesseetennessee from '../../assets/universityData/university-of-tennessee-tennessee'
 import * as universityoftexasatarlington from '../../assets/universityData/university-of-texas-at-arlington'
 import * as universityoftexasatdallas from '../../assets/universityData/university-of-texas-at-dallas'
+import * as universityoftexashealthsciencecenteratsanantonio from '../../assets/universityData/university-of-texas-health-science-center-at-san-antonio'
+import * as universityoftexastylertexas from '../../assets/universityData/university-of-texas-tyler-texas'
+import * as universityofthecumberlandskentucky from '../../assets/universityData/university-of-the-cumberlands-kentucky'
+import * as universityofthefraservalley from '../../assets/universityData/university-of-the-fraser-valley'
+import * as universityoftheincarnatewordtexas from '../../assets/universityData/university-of-the-incarnate-word-texas'
+import * as universityoftheozarksarkansas from '../../assets/universityData/university-of-the-ozarks-arkansas'
+import * as universityofthepacificcalifornia from '../../assets/universityData/university-of-the-pacific-california'
+import * as universityofthesouthwestnewmexico from '../../assets/universityData/university-of-the-southwest-new-mexico'
+import * as universityofthesunshinecoastqueensland from '../../assets/universityData/university-of-the-sunshine-coast-queensland'
+import * as universityofthewestofscotland from '../../assets/universityData/university-of-the-west-of-scotland'
+import * as universityofthewestcalifornia from '../../assets/universityData/university-of-the-west-california'
+import * as universityoftorontomississauga from '../../assets/universityData/university-of-toronto-mississauga'
+import * as universityoftorontoscarborough from '../../assets/universityData/university-of-toronto-scarborough'
+import * as universityofvalleyforge from '../../assets/universityData/university-of-valley-forge'
+import * as universityofvermontvermont from '../../assets/universityData/university-of-vermont-vermont'
+import * as universityofvictoriavictoria from '../../assets/universityData/university-of-victoria-victoria'
+import * as universityofvirginiavirginia from '../../assets/universityData/university-of-virginia-virginia'
+import * as universityofwalestrinitysaintdavidcarmarthen from '../../assets/universityData/university-of-wales-trinity-saint-david-carmarthen'
+import * as universityofwalestrinitysaintdavidwales from '../../assets/universityData/university-of-wales-trinity-saint-david-wales'
+import * as universityofwashingtonbothell from '../../assets/universityData/university-of-washington-bothell'
+import * as universityofwashingtontacoma from '../../assets/universityData/university-of-washington-tacoma'
+import * as universityofwaterlooontario from '../../assets/universityData/university-of-waterloo-ontario'
+import * as universityofwestalabamaalabama from '../../assets/universityData/university-of-west-alabama-alabama'
+import * as universityofwestgeorgiageorgia from '../../assets/universityData/university-of-west-georgia-georgia'
+import * as universityofwisconsineauclaire from '../../assets/universityData/university-of-wisconsin-eau-claire'
+import * as universityofwisconsinlacrosse from '../../assets/universityData/university-of-wisconsin-la-crosse'
+import * as universityofwisconsinmadison from '../../assets/universityData/university-of-wisconsin-madison'
+import * as universityofwisconsinmilwaukee from '../../assets/universityData/university-of-wisconsin-milwaukee'
+import * as universityofwisconsinoshkosh from '../../assets/universityData/university-of-wisconsin-oshkosh'
+import * as universityofwisconsinplatteville from '../../assets/universityData/university-of-wisconsin-platteville'
 
 export {
 
@@ -2811,6 +2841,35 @@ export {
     universityoftennesseetennessee,
     universityoftexasatarlington,
     universityoftexasatdallas,
-    
+    universityoftexashealthsciencecenteratsanantonio,
+    universityoftexastylertexas,
+    universityofthecumberlandskentucky,
+    universityofthefraservalley,
+    universityoftheincarnatewordtexas,
+    universityoftheozarksarkansas,
+    universityofthepacificcalifornia,
+    universityofthesouthwestnewmexico,
+    universityofthesunshinecoastqueensland,
+    universityofthewestofscotland,
+    universityofthewestcalifornia,
+    universityoftorontomississauga,
+    universityoftorontoscarborough,
+    universityofvalleyforge,
+    universityofvermontvermont,
+    universityofvictoriavictoria,
+    universityofvirginiavirginia,
+    universityofwalestrinitysaintdavidcarmarthen,
+    universityofwalestrinitysaintdavidwales,
+    universityofwashingtonbothell,
+    universityofwashingtontacoma,
+    universityofwaterlooontario,
+    universityofwestalabamaalabama,
+    universityofwestgeorgiageorgia,
+    universityofwisconsineauclaire,
+    universityofwisconsinlacrosse,
+    universityofwisconsinmadison,
+    universityofwisconsinmilwaukee,
+    universityofwisconsinoshkosh,
+    universityofwisconsinplatteville
 
 }

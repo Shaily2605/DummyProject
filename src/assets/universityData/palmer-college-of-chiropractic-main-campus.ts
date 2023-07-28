@@ -69,14 +69,10 @@ export const palmercollegeofchiropracticmaincampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Palmer College of Chiropractic Main Campus,Iowa offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Doctor of Chiropractic (DC)',
-            "info": "Fee Structure:",
+            "title": 'Courses and Fees',
+            "info": "Palmer College of Chiropractic Main Campus,Iowa offers the following courses:",
+            "textBelowInfo": "<p><b>Doctor of Chiropractic (DC)</b></p> <p>Fee Structure:</p>",
             "data": [
                 "Tuition: $43,500",
                 "Books and Supplies: $2,500",
@@ -85,8 +81,9 @@ export const palmercollegeofchiropracticmaincampus = {
         },
         {
             "type": "list-bollet",
-            "title": 'Doctor of Acupuncture and Oriental Medicine (DAOM)',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "Doctor of Acupuncture and Oriental Medicine (DAOM)",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition: $60,000",
                 "Books and Supplies: $3,200",
@@ -95,8 +92,9 @@ export const palmercollegeofchiropracticmaincampus = {
         },
         {
             "type": "list-bollet",
-            "title": 'MBA in Health Care Administration',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "MBA in Health Care Administration",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition: $10,200",
                 "Books and Supplies: $1,000",
@@ -105,8 +103,9 @@ export const palmercollegeofchiropracticmaincampus = {
         },
         {
             "type": "list-bollet",
-            "title": 'Master of Science in Applied Clinical Nutrition',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "Master of Science in Applied Clinical Nutrition",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition: $25,000",
                 "Books and Supplies: $970",
@@ -115,8 +114,9 @@ export const palmercollegeofchiropracticmaincampus = {
         },
         {
             "type": "list-bollet",
-            "title": 'Certificate in Applied Clinical Nutrition',
-            "info": "Fee Structure:",
+            "title": '',
+            "info": "Certificate in Applied Clinical Nutrition",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition: $6,000",
                 "Books and Supplies: $500",
@@ -346,9 +346,9 @@ export const palmercollegeofchiropracticmaincampus = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>Palmer College of Chiropractic Main Campus offers on-campus housing for students. The college provides both single and double-occupancy rooms in its residence halls. Each room is fully furnished and has basic amenities like a bed, desk, chair, closet, and a mini-fridge. Students can also access common areas such as a kitchen, laundry room, study room, and lounge.",
-               "<b>Off-Campus Accommodation </b> <br>There are several off-campus housing options available near Palmer College of Chiropractic Main Campus. These include apartments, condominiums, townhouses, and houses. All of these off-campus accommodation options come fully furnished with basic amenities and are available in a variety of sizes and prices. ",
-               "<b>Hostel Facilities </b> <br>Palmer College of Chiropractic Main Campus does not have any hostel facilities on-campus. However, there are several off-campus hostels located near the college. These hostels offer basic amenities such as a bed, desk, and internet access. Some of the hostels also offer additional services such as meals, laundry, and recreational activities."
+                "<b>On-Campus Accommodation </b> <br>Palmer College of Chiropractic Main Campus offers on-campus housing for students. The college provides both single and double-occupancy rooms in its residence halls. Each room is fully furnished and has basic amenities like a bed, desk, chair, closet, and a mini-fridge. Students can also access common areas such as a kitchen, laundry room, study room, and lounge.",
+                "<b>Off-Campus Accommodation </b> <br>There are several off-campus housing options available near Palmer College of Chiropractic Main Campus. These include apartments, condominiums, townhouses, and houses. All of these off-campus accommodation options come fully furnished with basic amenities and are available in a variety of sizes and prices. ",
+                "<b>Hostel Facilities </b> <br>Palmer College of Chiropractic Main Campus does not have any hostel facilities on-campus. However, there are several off-campus hostels located near the college. These hostels offer basic amenities such as a bed, desk, and internet access. Some of the hostels also offer additional services such as meals, laundry, and recreational activities."
             ]
         },
         {

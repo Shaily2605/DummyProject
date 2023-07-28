@@ -70,7 +70,7 @@ export const perrytechnicalinstitutewashington = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Perry Technical Institute offers a variety of diploma and certificate programs. Below is a list of courses and associated fees.",
-            "textBelowInfo": "Diploma Programs:",
+            "textBelowInfo": "<b>Diploma Programs: </b>",
             "data": [
                 "Automotive Technology – $11,350",
                 "Aviation Maintenance Technology – $14,800",

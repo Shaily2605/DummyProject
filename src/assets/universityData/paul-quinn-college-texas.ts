@@ -69,14 +69,10 @@ export const paulquinncollegetexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Paul Quinn College offers the following courses and corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Degree Programs",
+            "title": 'Courses and Fees',
+            "info": "Paul Quinn College offers the following courses and corresponding fee structure:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Business Administration & Management - $17,400",
                 "Computer Science & Technology - $17,400",

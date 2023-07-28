@@ -66,14 +66,10 @@ export const pointlomanazareneuniversitycalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Point Loma Nazarene University offers over 90 undergraduate and graduate degree programs in a wide variety of fields. The following is a list of all the courses offered by the university, along with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Point Loma Nazarene University offers over 90 undergraduate and graduate degree programs in a wide variety of fields. The following is a list of all the courses offered by the university, along with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting",
                 "Business Administration",

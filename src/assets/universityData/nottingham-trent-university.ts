@@ -70,7 +70,7 @@ export const nottinghamtrentuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": 'Courses and Fees',
             "info": "The below link will provide details about the courses and fees structure of Nottingham Trent University:",
             "data": [

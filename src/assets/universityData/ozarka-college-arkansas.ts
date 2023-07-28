@@ -69,14 +69,10 @@ export const ozarkacollegearkansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ozarka College, Arkansas, USA offers several courses to its students. Below you will find the list of courses along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Arts:",
+            "title": 'Courses and Fees',
+            "info": "Ozarka College, Arkansas, USA offers several courses to its students. Below you will find the list of courses along with their fee structure:",
+            "textBelowInfo": "<b>Associate of Arts: </b>",
             "data": [
                 "Tuition - $2,850 per semester",
                 "Technology Fee - $50 per semester",

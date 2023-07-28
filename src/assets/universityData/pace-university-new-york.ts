@@ -72,14 +72,10 @@ export const paceuniversitynewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pace University offers a variety of undergraduate and graduate programs in the areas of Arts & Sciences, Business, Education, and Health Professions. The University’s tuition fees are charged on a per-credit basis.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Courses:',
-            "info": "Arts & Sciences",
+            "title": 'Courses and Fees',
+            "info": "Pace University offers a variety of undergraduate and graduate programs in the areas of Arts & Sciences, Business, Education, and Health Professions. The University’s tuition fees are charged on a per-credit basis.",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>Arts & Sciences </b></p>",
             "data": [
                 "B.A. in Psychology: $1,528 per credit",
                 "B.S. in Computer Science: $1,528 per credit",

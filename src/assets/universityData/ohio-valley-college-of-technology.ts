@@ -336,8 +336,8 @@ export const ohiovalleycollegeoftechnology = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "textBelowInfo": "Ohio Valley College of Technology does not offer on-campus accommodation for students; however, several off-campus accommodation options are available to students.",
-            "info": "Off-Campus Accommodation Options:",
+            "info": "Ohio Valley College of Technology does not offer on-campus accommodation for students; however, several off-campus accommodation options are available to students.",
+            "textBelowInfo": "Off-Campus Accommodation Options:",
             "data": [
                 "<b>The Inn at Ohio Valley College (OVC):</b> The Inn at OVC offers affordable and comfortable accommodations for students. The inn offers single and double rooms as well as dorm rooms.",
                 "<b>The Ohio Valley College Apartments:</b> OVC Apartments offer one, two, and three-bedroom apartments for students. The apartments are located near the college and provide easy access to campus facilities.",

@@ -68,14 +68,10 @@ export const parklandcollegemaincampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Parkland College offers a wide range of certificates, diplomas, and degrees in a variety of academic programs. Below are the various programs offered by Parkland College, along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "Parkland College offers a wide range of certificates, diplomas, and degrees in a variety of academic programs. Below are the various programs offered by Parkland College, along with their respective fee structure:",
+            "textBelowInfo": "<b>Certificate Programs </b>",
             "data": [
                 "Accounting and Payroll - $2,720",
                 "Applied Business Technology - $2,711",

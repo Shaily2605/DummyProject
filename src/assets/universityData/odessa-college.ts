@@ -72,14 +72,10 @@ export const odessacollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following are the courses offered by Odessa College, Texas,USA with their respective fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "The following are the courses offered by Odessa College, Texas,USA with their respective fee structure.",
+            "textBelowInfo": "<b>Certificate Programs</b>",
             "data": [
                 "Accounting Technology Certificate - $160 per credit hour",
                 "Administrative Medical Assistant Certificate - $160 per credit hour",

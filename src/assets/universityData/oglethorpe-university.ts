@@ -71,14 +71,10 @@ export const oglethorpeuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oglethorpe University offers the following undergraduate and graduate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Oglethorpe University offers the following undergraduate and graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Business Administration",
                 "Computer Science",

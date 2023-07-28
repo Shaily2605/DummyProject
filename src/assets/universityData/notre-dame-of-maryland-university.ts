@@ -79,14 +79,10 @@ export const notredameofmarylanduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Notre Dame of Maryland University offers five schools: College of Arts & Sciences, School of Business, School of Education, School of Nursing and School of Pharmacy.</p> <p><b>Below is a list of courses offered by Notre Dame of Maryland University along with their fee structure:</b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "College of Arts & Sciences",
+            "title": 'Courses and Fees',
+            "info": "Notre Dame of Maryland University offers five schools: College of Arts & Sciences, School of Business, School of Education, School of Nursing and School of Pharmacy.",
+            "textBelowInfo": "<p>Below is a list of courses offered by Notre Dame of Maryland University along with their fee structure:</p> <p><b>College of Arts & Sciences</b></p>",
             "data": [
                 "Bachelor of Arts in History: $19,478 per year",
                 "Bachelor of Arts in Psychology: $19,478 per year",

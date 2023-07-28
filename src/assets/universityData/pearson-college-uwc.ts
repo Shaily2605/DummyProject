@@ -116,14 +116,10 @@ export const pearsoncollegeuwc = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Pearson College UWC (United World College) is a private school located in Victoria, British Columbia, Canada.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Admission to Pearson College UWC is open to 16-19 year old students from all over the world. All international students must meet the following eligibility criteria to be considered for admission:",
+            "title": "Eligibility Requirements",
+            "info": "Pearson College UWC (United World College) is a private school located in Victoria, British Columbia, Canada.",
+            "textBelowInfo": "Admission to Pearson College UWC is open to 16-19 year old students from all over the world. All international students must meet the following eligibility criteria to be considered for admission:",
             "data": [
                 "Be between the ages of 16 and 19 years old at the time of admission",
                 "Have completed the equivalent of at least 11 years of formal schooling",

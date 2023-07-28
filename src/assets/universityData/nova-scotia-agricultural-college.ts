@@ -70,14 +70,10 @@ export const novascotiaagriculturalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Nova Scotia Agricultural College (NSAC) offers a range of certificate, diploma and degree programs in agriculture and related sciences. Below is a list of all the available courses with their respective fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate Programs",
+            "title": 'Courses and Fees',
+            "info": "The Nova Scotia Agricultural College (NSAC) offers a range of certificate, diploma and degree programs in agriculture and related sciences. Below is a list of all the available courses with their respective fees.",
+            "textBelowInfo": "<b>Certificate Programs </b>",
             "data": [
                 "Agribusiness Management: $14,000",
                 "Agricultural Technology: $11,500",
@@ -327,9 +323,8 @@ export const novascotiaagriculturalcollege = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "Nova Scotia Agricultural College has a variety of accommodation options available to students on-campus and off-campus.",
-            "textBelowInfo": "<p><b>On-Campus Accommodation:</b></p>",
+            "textBelowInfo": "<p><b>On-Campus Accommodation:</b></p> <p>Nova Scotia Agricultural College offers a variety of on-campus accommodation options for students. These include:</p>",
             "data": [
-                "Nova Scotia Agricultural College offers a variety of on-campus accommodation options for students. These include:",
                 "<b>Traditional Residence:</b> Traditional Residence offers students a range of room types, including single rooms, double rooms, and suites. Common amenities include Wi-Fi, laundry facilities, kitchenettes, and private bathrooms.",
                 "<b>Residence Apartments:</b> Residence Apartments offer a private living experience for students, with fully furnished apartments and access to on-site amenities like a student lounge and study areas.",
                 "<b>Homestay:</b> Homestay programs offer students a unique opportunity to live and learn in a local home, with a host family."
@@ -339,8 +334,8 @@ export const novascotiaagriculturalcollege = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "<p>Students looking for off-campus accommodation can find a range of options, from apartments to houses and more. Popular off-campus accommodation options include:</p>",
             "data": [
-                "Students looking for off-campus accommodation can find a range of options, from apartments to houses and more. Popular off-campus accommodation options include:",
                 "<b>Apartment Rentals:</b> Apartment rentals offer students the opportunity to rent an apartment in the local area. Popular rental companies include ReMax and Century 21.",
                 "<b>House Rentals:</b> For those looking for a more permanent residence, house rentals are a popular option. Popular rental companies include Renters Hotline and RentFaster.",
                 "<b>Hostels:</b> For those looking for a more budget-friendly option, hostels offer a variety of accommodation options. Popular hostels in the area include the Halifax Hostel and the Inn On The Lake."

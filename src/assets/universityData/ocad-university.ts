@@ -71,14 +71,10 @@ export const ocaduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the fee structure of OCAD University for different courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs:',
-            "info": "",
+            "title": 'Courses and Fees',
+            "info": "Below is the fee structure of OCAD University for different courses:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Design (BDes): Tuition fee:  $7,966.80 per semester.",
                 "Bachelor of Fine Arts (BFA): Tuition fee:  $7,966.80 per semester.",
@@ -89,8 +85,8 @@ export const ocaduniversity = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Programs:',
-            "info": "",
+            "title": '',
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Design (MDes): Tuition fee:  $8,285.60 per semester.",
                 "Master of Design in Strategic Foresight and Innovation (MDes): Tuition fee:  $8,285.60 per semester.",
@@ -320,7 +316,7 @@ export const ocaduniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

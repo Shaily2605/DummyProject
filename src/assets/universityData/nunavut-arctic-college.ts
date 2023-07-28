@@ -325,7 +325,7 @@ export const nunavutarcticcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

@@ -69,14 +69,10 @@ export const nrcballymena = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Northern Regional College (NRC) in Ballymena, Northern Ireland offers a wide range of courses across its three campuses. Below is a list of courses with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Full-Time Courses:",
+            "title": 'Courses and Fees',
+            "info": "The Northern Regional College (NRC) in Ballymena, Northern Ireland offers a wide range of courses across its three campuses. Below is a list of courses with their associated fees:",
+            "textBelowInfo": "<b>Full-Time Courses: </b>",
             "data": [
                 "Access to Higher Education Diploma (Social Science): £1,750",
                 "Business Administration Level 2: £1,750",

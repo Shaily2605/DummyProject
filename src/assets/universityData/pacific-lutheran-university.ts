@@ -82,14 +82,10 @@ export const pacificlutheranuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pacific Lutheran University offers more than 70 undergraduate majors and minors, along with a variety of master's degrees, doctoral programs, certificates, and endorsements. Below is a list of the major courses offered at Pacific Lutheran University along with the associated fee structure for each course.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Pacific Lutheran University offers more than 70 undergraduate majors and minors, along with a variety of master's degrees, doctoral programs, certificates, and endorsements. Below is a list of the major courses offered at Pacific Lutheran University along with the associated fee structure for each course.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Business Administration: $48,360",
                 "Computer Science: $48,360",

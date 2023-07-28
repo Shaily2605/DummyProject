@@ -64,14 +64,10 @@ export const oberlincollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Oberlin College in Ohio, USA offers the following courses at various levels and with different fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Courses:',
-            "info": "1. Arts & Sciences",
+            "title": 'Courses and Fees',
+            "info": "The Oberlin College in Ohio, USA offers the following courses at various levels and with different fee structures.",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>1. Arts & Sciences </b></p>",
             "data": [
                 "Tuition (full-time): $53,964",
                 "Room & Board: $14,830"

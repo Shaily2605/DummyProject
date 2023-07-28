@@ -83,14 +83,10 @@ export const olivetcollegemichigan = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Olivet College offers more than 80 different academic programs and concentrations, ranging from undergraduate to graduate degrees. Below is a breakdown of the different programs offered through the college and their associated tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Olivet College offers more than 80 different academic programs and concentrations, ranging from undergraduate to graduate degrees. Below is a breakdown of the different programs offered through the college and their associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Business Administration - $28,156 ",
                 "Education - $28,156 ",

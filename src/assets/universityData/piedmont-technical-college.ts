@@ -72,14 +72,10 @@ export const piedmonttechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Piedmont Technical College - Lex Walters Campus offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Associate Degree Programs",
-            "info": "1. Associate in Applied Science (AAS):",
+            "title": "Courses and Fees",
+            "info": "Piedmont Technical College - Lex Walters Campus offers the following courses:",
+            "textBelowInfo": "<p><b>Associate Degree Programs</b></p> <p><b>1. Associate in Applied Science (AAS): </b></p>",
             "data": [
                 "Accounting",
                 "Business Administration",

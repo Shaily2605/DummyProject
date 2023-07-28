@@ -68,14 +68,10 @@ export const parklandcollegetradesandtechnologycentre = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Parkland College Trades & Technology Centre offers a variety of courses and programs. The fee structure for each program varies depending on the program length and type.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Below is a list of the courses and their associated fees: ",
+            "title": 'Courses and Fees',
+            "info": "Parkland College Trades & Technology Centre offers a variety of courses and programs. The fee structure for each program varies depending on the program length and type.",
+            "textBelowInfo": "Below is a list of the courses and their associated fees: ",
             "data": [
                 "Automotive Service Technician: $7,000",
                 "Commercial Transport Operator: $8,000",
@@ -314,17 +310,18 @@ export const parklandcollegetradesandtechnologycentre = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": "Hostel <br>On-Campus Accommodation",
-            "info": "",
+            "type": "text",
+            "title": "Hostel",
+            "info": "On-Campus Accommodation",
             "data": [
                 "Parkland College Trades & Technology Centre does not provide on-campus housing. "
             ]
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "There are numerous hotels and hostels located in the vicinity of Parkland College Trades & Technology Centre. Some of the options include:",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "There are numerous hotels and hostels located in the vicinity of Parkland College Trades & Technology Centre. Some of the options include:",
             "data": [
                 "Best Western Plus Yorkton Hotel & Suites ",
                 "Comfort Inn & Suites Yorkton ",

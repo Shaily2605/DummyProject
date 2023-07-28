@@ -75,14 +75,10 @@ export const parklandcollegekelvington = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Parkland College offers a variety of full-time and part-time programs and courses. The following is a list of Parkland College's current program and course offerings and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Full-Time Programs:',
-            "info": "Business Administration:",
+            "title": 'Courses and Fees',
+            "info": "Parkland College offers a variety of full-time and part-time programs and courses. The following is a list of Parkland College's current program and course offerings and their associated fees.",
+            "textBelowInfo": "<p><b>Full-Time Programs:</b></p> <p><b>Business Administration:</b></p>",
             "data": [
                 "Tuition: $3,440",
                 "Student Association Fee: $68.50",

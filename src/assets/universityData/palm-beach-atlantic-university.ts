@@ -70,14 +70,10 @@ export const palmbeachatlanticuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The courses offered by Palm Beach Atlantic University, Florida, USA are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses:",
+            "title": 'Courses and Fees',
+            "info": "The courses offered by Palm Beach Atlantic University, Florida, USA are as follows:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting ",
                 "Addiction Studies  ",

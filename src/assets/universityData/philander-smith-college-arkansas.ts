@@ -67,14 +67,10 @@ export const philandersmithcollegearkansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Philander Smith College offers a variety of undergraduate and graduate degree programs. The following is a list of the undergraduate and graduate degree programs, along with their associated tuition and fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs",
+            "title": "Courses and Fees",
+            "info": "Philander Smith College offers a variety of undergraduate and graduate degree programs. The following is a list of the undergraduate and graduate degree programs, along with their associated tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Bachelor of Arts in Biology: $18,670 per year",
                 "Bachelor of Arts in Business Administration: $18,670 per year",

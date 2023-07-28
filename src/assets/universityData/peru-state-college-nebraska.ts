@@ -72,14 +72,10 @@ export const perustatecollegenebraska = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Peru State College offers a variety of associate, bachelor's, and master's degrees and certificates in the fields of business, education, the humanities, and the sciences.</p> <p>Below is a list of degree programs offered at Peru State College, Nebraska, USA, along with a brief description and estimated cost of each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees:",
+            "title": "Courses and Fees",
+            "info": "Peru State College offers a variety of associate, bachelor's, and master's degrees and certificates in the fields of business, education, the humanities, and the sciences.",
+            "textBelowInfo": "<p>Below is a list of degree programs offered at Peru State College, Nebraska, USA, along with a brief description and estimated cost of each program.</p> <p><b>Associate Degrees: </b></p>",
             "data": [
                 "<b>Associate of Arts (AA):</b> This two-year degree program provides a general education in the liberal arts and sciences. Estimated cost: $6,400 per year.",
                 "<b>Associate of Applied Science (AAS): </b>This two-year degree program provides a career-oriented education in a specialized field such as business, health care, or technology. Estimated cost: $6,400 per year.",

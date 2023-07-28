@@ -70,14 +70,10 @@ export const panolacollegetexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Panola College offers a variety of certificate, associate, and continuing education programs. Below is a list of the programs offered along with their tuition costs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Applied Science (AAS) Programs:",
+            "title": 'Courses and Fees',
+            "info": "Panola College offers a variety of certificate, associate, and continuing education programs. Below is a list of the programs offered along with their tuition costs.",
+            "textBelowInfo": "<b>Associate of Applied Science (AAS) Programs: </b>",
             "data": [
                 "Accounting – $2,100 per semester",
                 "Automotive Technology – $2,100 per semester",

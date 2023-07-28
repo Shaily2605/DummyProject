@@ -71,14 +71,10 @@ export const ohionorthernuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Northern University offers a range of undergraduate, graduate and professional degree programs in the following areas:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Ohio Northern University offers a range of undergraduate, graduate and professional degree programs in the following areas:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting",
                 "Art",

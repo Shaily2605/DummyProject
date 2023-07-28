@@ -69,14 +69,10 @@ export const olincollegeofengineering = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Olin College of Engineering offers the following courses to its students:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Program:",
+            "title": 'Courses and Fees',
+            "info": "Olin College of Engineering offers the following courses to its students:",
+            "textBelowInfo": "<b>Undergraduate Program: </b>",
             "data": [
                 "Electrical and Computer Engineering",
                 "Mechanical Engineering",

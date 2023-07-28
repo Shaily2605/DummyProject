@@ -74,7 +74,7 @@ export const ohiodominicanuniversity = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Ohio Dominican University offers more than 50 undergraduate and graduate degrees and certificates, including a Doctor of Pharmacy degree. Below is a listing of the university's degree programs with the approximate cost per credit hour.",
-            "textBelowInfo": "Undergraduate Programs:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts - $565 per credit hour",
                 "Bachelor of Science - $565 per credit hour",

@@ -71,14 +71,10 @@ export const oakwooduniversityalabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oakwood University offers a variety of degree programs in Business and Science, Technology, Engineering, and Math (STEM). Below is a list of all the courses offered and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Oakwood University offers a variety of degree programs in Business and Science, Technology, Engineering, and Math (STEM). Below is a list of all the courses offered and their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Degrees </b>",
             "data": [
                 "Business Administration: $10,500/semester",
                 "Computer Science: $11,300/semester",
@@ -99,8 +95,8 @@ export const oakwooduniversityalabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees",
             "data": [
                 "Business Administration: $11,500/semester",
                 "Computer Science: $12,300/semester",

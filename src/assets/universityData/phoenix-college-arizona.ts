@@ -71,14 +71,10 @@ export const phoenixcollegearizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Phoenix College offers a variety of certificate and degree programs. Below are some of the courses available at Phoenix College along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs",
+            "title": "Courses and Fees",
+            "info": "Phoenix College offers a variety of certificate and degree programs. Below are some of the courses available at Phoenix College along with their associated fees:",
+            "textBelowInfo": "<b>Certificate Programs </b>",  
             "data": [
                 "Nursing Certificate - $2,522",
                 "Automotive Service Technician Certificate - $1,961",
@@ -323,14 +319,10 @@ export const phoenixcollegearizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "On-Campus Accommodation",
-            "info": "Phoenix College offers several on-campus housing options for students. These include: ",
+            "title": "Hostel",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "Phoenix College offers several on-campus housing options for students. These include: ",
             "data": [
                 "traditional dorm rooms ",
                 "suite-style dorm rooms ",
@@ -341,8 +333,9 @@ export const phoenixcollegearizona = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "Phoenix College also offers a variety of off-campus housing options for students. These include: ",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "Phoenix College also offers a variety of off-campus housing options for students. These include: ",
             "data": [
                 "private apartments ",
                 "houses ",

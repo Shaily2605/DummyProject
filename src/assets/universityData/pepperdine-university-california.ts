@@ -76,14 +76,10 @@ export const pepperdineuniversitycalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pepperdine University offers a variety of undergraduate programs and graduate programs, ranging from business and law to education and psychology. The following are the courses offered by Pepperdine University, along with their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Pepperdine University offers a variety of undergraduate programs and graduate programs, ranging from business and law to education and psychology. The following are the courses offered by Pepperdine University, along with their associated fees:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Business Administration: $41,524",
                 "Economics: $41,524",

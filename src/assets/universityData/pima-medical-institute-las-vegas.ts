@@ -310,7 +310,7 @@ export const pimamedicalinstitutelasvegas = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
@@ -356,11 +356,9 @@ export const pimamedicalinstitutelasvegas = {
             "title": "",
             "info": "Hostels",
             "data": [
-                "Hostel Cat",
-                "1236 S.Main St.Las Vegas, NV 89104",
+                "Hostel Cat<br> 1236 S.Main St.Las Vegas, NV 89104",
 
-                "Sin City Hostel",
-                "925 E.Fremont St.Las Vegas, NV 89101"
+                "Sin City Hostel<br> 925 E.Fremont St.Las Vegas, NV 89101"
             ]
         },
         {

@@ -63703,6 +63703,1386 @@ const routes: Routes = [
     path: 'university-of-texas-at-dallas/faq/.',
     component: UniversityConComponent
   },
+
+
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-health-science-center-at-san-antonio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-texas-tyler-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-texas-tyler-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-cumberlands-kentucky/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-cumberlands-kentucky/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-fraser-valley/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-fraser-valley/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-incarnate-word-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-incarnate-word-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-ozarks-arkansas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-ozarks-arkansas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-pacific-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-pacific-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-southwest-new-mexico/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-southwest-new-mexico/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-sunshine-coast-queensland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-sunshine-coast-queensland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-west-of-scotland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-of-scotland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-the-west-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-the-west-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-toronto-mississauga/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-mississauga/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-toronto-scarborough/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-toronto-scarborough/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-valley-forge/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-valley-forge/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-vermont-vermont/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-vermont-vermont/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-victoria-victoria/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-victoria-victoria/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-virginia-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-virginia-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-carmarthen/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'university-of-wales-trinity-saint-david-wales/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wales-trinity-saint-david-wales/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-washington-bothell/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-bothell/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-washington-tacoma/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-washington-tacoma/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-waterloo-ontario/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-waterloo-ontario/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-west-alabama-alabama/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-alabama-alabama/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-west-georgia-georgia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-west-georgia-georgia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-wisconsin-eau-claire/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-eau-claire/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-wisconsin-la-crosse/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-la-crosse/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-wisconsin-madison/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-madison/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-wisconsin-milwaukee/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-milwaukee/faq/.',
+    component: UniversityConComponent
+  },
+
+  
+  {
+    path: 'university-of-wisconsin-oshkosh/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-oshkosh/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'university-of-wisconsin-platteville/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wisconsin-platteville/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 

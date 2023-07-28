@@ -113,14 +113,10 @@ export const pennsylvaniahighlandscommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Pennsylvania Highlands Community College welcomes applications from international students who are interested in studying at the college.</p> <p>The International Student Admissions office reviews all applications for admission and makes the final determination of eligibility for admission.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "In order to be considered for admission to Pennsylvania Highlands Community College, international students must meet the following requirements:",
+            "title": "Eligibility Requirements",
+            "info": "Pennsylvania Highlands Community College welcomes applications from international students who are interested in studying at the college.",
+            "textBelowInfo": "<p>The International Student Admissions office reviews all applications for admission and makes the final determination of eligibility for admission.</p> <p>In order to be considered for admission to Pennsylvania Highlands Community College, international students must meet the following requirements:</p>",
             "data": [
                 "Must be a minimum of 17 years old.",
                 "Must have completed high school or its equivalent with a grade point average of 2.0 or higher.",

@@ -70,14 +70,10 @@ export const oultoncollegemoncton = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses offered by Oulton College in Moncton, New Brunswick, Canada along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "1. Practical Nursing Diploma Program:",
+            "title": 'Courses and Fees',
+            "info": "Below is the list of courses offered by Oulton College in Moncton, New Brunswick, Canada along with their fee structure:",
+            "textBelowInfo": "<b>1. Practical Nursing Diploma Program: </b>",
             "data": [
                 "Tuition Fee: $18,500",
                 "Books and Supplies: $1,500 ",
@@ -379,8 +375,9 @@ export const oultoncollegemoncton = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostel <br> On-campus Accommodation",
-            "info":   "Oulton College offers on-campus accommodation for students. They offer the following options:",
+            "title": "Hostel",
+            "info": "On-campus Accommodation",
+            "textBelowInfo": "Oulton College offers on-campus accommodation for students. They offer the following options:",
             "data": [
                 "<b>Shared dormitory-style rooms:</b> These rooms are fully furnished and include two separate beds, two desks, two closets, and two dressers. ",
                 "<b>Private dormitory-style rooms:</b> These rooms are fully furnished and include one bed, one desk, one closet, and one dresser.",
@@ -388,7 +385,7 @@ export const oultoncollegemoncton = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation ",
             "data": [

@@ -72,14 +72,10 @@ export const pacificnorthwestcollegeofart = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Pacific Northwest College of Art offers a variety of courses and degree programs, including undergraduate and graduate programs. The college also offers certificate programs, workshops, and individual classes.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Program:",
+            "title": 'Courses and Fees',
+            "info": "The Pacific Northwest College of Art offers a variety of courses and degree programs, including undergraduate and graduate programs. The college also offers certificate programs, workshops, and individual classes.",
+            "textBelowInfo": "<b>Undergraduate Program: </b>",
             "data": [
                 "BA in Fine Arts: $29,710",
                 "BFA in Studio Art: $29,710",

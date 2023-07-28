@@ -79,14 +79,10 @@ export const pennstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Penn State University offers a variety of undergraduate and graduate degree programs and certificates. The following is a list of some of the degree programs and certificates offered by Penn State University:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs ",
+            "title": "Courses and Fees",
+            "info": "Penn State University offers a variety of undergraduate and graduate degree programs and certificates. The following is a list of some of the degree programs and certificates offered by Penn State University:",
+            "textBelowInfo": "<b>Undergraduate Degree Programs </b>",
             "data": [
                 "Arts and Architecture ",
                 "Business ",
@@ -152,11 +148,11 @@ export const pennstateuniversity = {
             "title": "Eligibility Requirements",
             "info": "Eligibility criteria for Indian students to take admission at Penn State University, Pennsylvania, USA:",
             "data": [
-                "Academic performance: Indian students must submit transcripts from their secondary school or equivalent. The transcripts must include the courses taken, grades earned, and the length of time spent in the school.",
-                "English Proficiency: Indian students must demonstrate English language proficiency through an accepted English Language Proficiency Test (IELTS, TOEFL, PTE, etc.).",
-                "Personal Statement: Indian students must submit a personal statement that explains their educational goals, as well as their reasons for wanting to study at Penn State.",
-                "Financial documents: Indian students must provide financial documents that demonstrate their ability to pay for their tuition and other educational expenses at Penn State.",
-                "Immigration documents: Indian students must provide immigration documents that demonstrate their ability to stay in the United States for the duration of their studies."
+                "<b>Academic performance:</b> Indian students must submit transcripts from their secondary school or equivalent. The transcripts must include the courses taken, grades earned, and the length of time spent in the school.",
+                "<b>English Proficiency:</b> Indian students must demonstrate English language proficiency through an accepted English Language Proficiency Test (IELTS, TOEFL, PTE, etc.).",
+                "<b>Personal Statement:</b> Indian students must submit a personal statement that explains their educational goals, as well as their reasons for wanting to study at Penn State.",
+                "<b>Financial documents:</b> Indian students must provide financial documents that demonstrate their ability to pay for their tuition and other educational expenses at Penn State.",
+                "<b>Immigration documents:</b> Indian students must provide immigration documents that demonstrate their ability to stay in the United States for the duration of their studies."
             ]
         },
         {

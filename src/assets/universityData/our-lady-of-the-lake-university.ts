@@ -69,14 +69,10 @@ export const ourladyofthelakeuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Our Lady of the Lake University (OLLU) offers a variety of degree programs to its students. The following is a detailed list of courses along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Our Lady of the Lake University (OLLU) offers a variety of degree programs to its students. The following is a detailed list of courses along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts (BA): Tuition & Fees: $13,610 per semester",
                 "Bachelor of Science (BS): Tuition & Fees: $13,610 per semester",

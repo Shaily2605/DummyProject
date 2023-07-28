@@ -69,14 +69,10 @@ export const oralrobertsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of all undergraduate and graduate courses offered at the Oral Roberts University, Oklahoma, USA, with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "The following is a list of all undergraduate and graduate courses offered at the Oral Roberts University, Oklahoma, USA, with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts in Biblical & Theological Studies: $30,240 per year",
                 "Bachelor of Science in Digital Media Arts: $30,240 per year",

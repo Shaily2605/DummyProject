@@ -68,14 +68,10 @@ export const nunezcommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nunez Community College offers a wide variety of courses. The tuition fees for the courses vary depending on the type of course. The following is a list of courses and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Arts Degree: ",
+            "title": 'Courses and Fees',
+            "info": "Nunez Community College offers a wide variety of courses. The tuition fees for the courses vary depending on the type of course. The following is a list of courses and their associated fees:",
+            "textBelowInfo": "<b>Associate of Arts Degree: </b>",
             "data": [
                 "English: $1,902",
                 "Math: $1,902",

@@ -68,14 +68,10 @@ export const nossicollegeofart = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Nossi College of Art offers three different degree programs, each with its own fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Applied Science in Graphic Design & Digital Arts",
+            "title": 'Courses and Fees',
+            "info": "The Nossi College of Art offers three different degree programs, each with its own fee structure:",
+            "textBelowInfo": "<b>Associate of Applied Science in Graphic Design & Digital Arts</b>",
             "data": [
                 "Tuition and Fees: $15,788",
                 "Books and Supplies: $1,800  ",

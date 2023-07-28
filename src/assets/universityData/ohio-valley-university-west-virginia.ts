@@ -71,14 +71,10 @@ export const ohiovalleyuniversitywestvirginia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ohio Valley University offers more than 50 degrees and programs of study. The university offers undergraduate and graduate degree programs in the fields of business, education, psychology, and more.</p><br> <p><b>Below are the courses offered by Ohio Valley University along with the fee structure: </b></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Ohio Valley University offers more than 50 degrees and programs of study. The university offers undergraduate and graduate degree programs in the fields of business, education, psychology, and more.",
+            "textBelowInfo": "<p>Below are the courses offered by Ohio Valley University along with the fee structure:</p> <p><b>Undergraduate Programs </b></p>",
             "data": [
                 "Accounting –  $11,496 per semester ",
                 "Biology –  $11,496 per semester ",

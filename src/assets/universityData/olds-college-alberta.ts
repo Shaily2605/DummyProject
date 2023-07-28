@@ -71,14 +71,10 @@ export const oldscollegealberta = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Olds College offers many different programs and courses at a variety of price points. Below is a list of the college’s current course fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Agriculture",
+            "title": 'Courses and Fees',
+            "info": "Olds College offers many different programs and courses at a variety of price points. Below is a list of the college’s current course fees.",
+            "textBelowInfo": "<b>Agriculture </b>",
             "data": [
                 "Applied Agriculture Certificate: $3,400",
                 "Applied Agriculture Diploma: $5,000",

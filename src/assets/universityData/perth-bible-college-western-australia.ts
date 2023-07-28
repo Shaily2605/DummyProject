@@ -78,14 +78,10 @@ export const perthbiblecollegewesternaustralia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Perth Bible College offers a range of courses at both the Certificate and Diploma level.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Level:",
+            "title": "Courses and Fees",
+            "info": "Perth Bible College offers a range of courses at both the Certificate and Diploma level.",
+            "textBelowInfo": "<b>Certificate Level: </b>",
             "data": [
                 "Certificate III in Christian Ministry and Theology: $4,000",
                 "Certificate IV in Christian Ministry and Theology: $4,000",

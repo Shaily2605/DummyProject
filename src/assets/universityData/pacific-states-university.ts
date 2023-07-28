@@ -68,14 +68,10 @@ export const pacificstatesuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pacific States University offers the following programs and fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs:',
-            "info": "Business:",
+            "title": 'Courses and Fees',
+            "info": "Pacific States University offers the following programs and fee structure:",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Business: </b></p>",
             "data": [
                 "Bachelor of Business Administration (BBA) - $13,500 per semester ",
                 "Bachelor of Science in Business Administration (BSBA) - $13,500 per semester"

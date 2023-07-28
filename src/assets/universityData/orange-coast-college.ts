@@ -72,7 +72,7 @@ export const orangecoastcollege = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Orange Coast College offers a wide variety of courses, both online and on-campus. Below is a list of the courses offered at Orange Coast College, along with their corresponding fees:",
-            "textBelowInfo": "On-Campus Courses",
+            "textBelowInfo": "<b>On-Campus Courses </b>",
             "data": [
                 "English: $46 per unit",
                 "Mathematics: $46 per unit",

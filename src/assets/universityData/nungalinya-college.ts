@@ -71,14 +71,10 @@ export const nungalinyacollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nungalinya College offers several courses and programs, including Certificate III and IV courses, a Diploma of Theology, and a Graduate Diploma in Theology. All of these courses and programs have a different fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Certificate III Courses:",
+            "title": 'Courses and Fees',
+            "info": "Nungalinya College offers several courses and programs, including Certificate III and IV courses, a Diploma of Theology, and a Graduate Diploma in Theology. All of these courses and programs have a different fee structure.",
+            "textBelowInfo": "<b>Certificate III Courses:</b>",
             "data": [
                 "Certificate III in Christian Ministry and Theology: $2,400",
                 "Certificate III in Biblical Studies: $800",

@@ -68,11 +68,6 @@ export const ohiovalleyuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Ohio Valley University offers a wide range of undergraduate majors, minors, and programs. Below is a list of all the courses along with their tuition fees:",
@@ -325,7 +320,7 @@ export const ohiovalleyuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "Accommodation on campus:",
             "data": [
@@ -348,7 +343,7 @@ export const ohiovalleyuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-campus hostel facilities:",
             "data": [

@@ -68,14 +68,10 @@ export const otterbeinuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the information of all the courses with fee structure of Otterbein University,Ohio,USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Tuition and Fees",
+            "title": 'Courses and Fees',
+            "info": "Below is the information of all the courses with fee structure of Otterbein University,Ohio,USA:",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees </b>",
             "data": [
                 "Tuition (per semester): $17,250",
                 "Room and Board (per semester): $4,890",

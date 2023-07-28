@@ -67,14 +67,10 @@ export const otiscollegeofartanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the fee structure for all courses offered at Otis College of Art and Design, California, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs",
+            "title": 'Courses and Fees',
+            "info": "Below is the fee structure for all courses offered at Otis College of Art and Design, California, USA:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Fine Arts: $39,460 annually",
                 "Bachelor of Architecture: $41,560 annually",

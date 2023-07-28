@@ -71,11 +71,6 @@ export const olddominionuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p><b> </b></p>"
-        },
-        {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Undergraduate Tuition & Fees",

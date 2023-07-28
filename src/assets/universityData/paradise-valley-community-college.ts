@@ -68,14 +68,10 @@ export const paradisevalleycommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Paradise Valley Community College in Arizona, USA offers a variety of courses. Some of these courses are Associate of Arts, Associate of Science, Certificate Programs, and Continuing Education.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Associate of Arts:",
+            "title": 'Courses and Fees',
+            "info": "Paradise Valley Community College in Arizona, USA offers a variety of courses. Some of these courses are Associate of Arts, Associate of Science, Certificate Programs, and Continuing Education.",
+            "textBelowInfo": "<b>Associate of Arts: </b>",
             "data": [
                 "Accounting",
                 "Anthropology",

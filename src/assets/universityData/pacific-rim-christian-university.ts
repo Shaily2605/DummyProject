@@ -75,7 +75,7 @@ export const pacificrimchristianuniversity = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Pacific Rim Christian University offers the following courses with the corresponding fee structure:",
-            "textBelowInfo": "Undergraduate Programs:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts in Christian Ministry - $9,000 per semester",
                 "Bachelor of Arts in Christian Counseling - $9,000 per semester",

@@ -70,14 +70,10 @@ export const nyackcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Nyack College offers more than 50 undergraduate and graduate degrees, certificates, and diplomas in various areas of study. Below is the list of courses offered by Nyack College along with the fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Programs:",
+            "title": 'Courses and Fees',
+            "info": "Nyack College offers more than 50 undergraduate and graduate degrees, certificates, and diplomas in various areas of study. Below is the list of courses offered by Nyack College along with the fee structure.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts (BA): $29,960 per year",
                 "Bachelor of Science (BS): $29,960 per year",

@@ -72,20 +72,15 @@ export const oaklandcityuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses with fee structure offered at Oakland City University, Indiana, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": '',
-            "info": "Undergraduate Courses",
+            "title": 'Courses and Fees',
+            "info": "Below is the list of courses with fee structure offered at Oakland City University, Indiana, USA:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Bachelor of Arts (BA): $12,890 per semester",
                 "Bachelor of Science (BS): $12,890 per semester",
                 "Associate of Arts (AA): $8,360 per semester",
                 "Associate of Science (AS): $8,360 per semester"
-
             ]
         },
         {

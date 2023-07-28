@@ -70,14 +70,10 @@ export const oregoninstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Oregon Institute of Technology offers a wide range of undergraduate, graduate and certificate programs in the fields of Applied Sciences, Business and Technology, Health Professions, and Trades and Engineering. Below is a list of programs offered by the university along with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": 'Undergraduate Programs:',
-            "info": "Applied Sciences:",
+            "title": 'Courses and Fees',
+            "info": "Oregon Institute of Technology offers a wide range of undergraduate, graduate and certificate programs in the fields of Applied Sciences, Business and Technology, Health Professions, and Trades and Engineering. Below is a list of programs offered by the university along with their respective fee structures.",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Applied Sciences: </b></p>",
             "data": [
                 "Applied Psychology - $9,862 per term",
                 "Environmental Science - $11,430 per term",
@@ -125,8 +121,8 @@ export const oregoninstituteoftechnology = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Programs:',
-            "info": "",
+            "title": '',
+            "info": "Graduate Programs:",
             "data": [
                 "Applied Psychology - $10,567 per term",
                 "Environmental Science - $11,450 per term",
@@ -137,8 +133,8 @@ export const oregoninstituteoftechnology = {
         },
         {
             "type": "list-bollet",
-            "title": 'Certificate Programs:',
-            "info": "",
+            "title": '',
+            "info": "Certificate Programs:",
             "data": [
                 "Business Administration - $6,169 per term",
                 "Computer Science - $6,169 per term",
