@@ -71,14 +71,10 @@ export const queenmaryuniversityoflondon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Queen Mary University of London offers a wide range of undergraduate, postgraduate and research level courses. The fee structure of these courses varies depending on the type of course and the duration of study.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Queen Mary University of London offers a wide range of undergraduate, postgraduate and research level courses. The fee structure of these courses varies depending on the type of course and the duration of study.",
+            "textBelowInfo": "<b>Undergraduate Courses  </b>",
             "data": [
                 "Bachelor of Arts (BA) ",
                 "Bachelor of Science (BSc) ",
@@ -96,8 +92,8 @@ export const queenmaryuniversityoflondon = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate Courses",
             "data": [
                 "Master of Arts (MA) ",
                 "Master of Science (MSc)",
@@ -114,8 +110,8 @@ export const queenmaryuniversityoflondon = {
         },
         {
             "type": "list-bollet",
-            "title": "Research Courses",
-            "info": "",
+            "title": "",
+            "info": "Research Courses",
             "data": [
                 "Doctor of Philosophy (PhD)",
                 "Doctor of Medicine (MD)",

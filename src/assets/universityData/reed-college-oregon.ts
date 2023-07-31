@@ -130,14 +130,10 @@ export const reedcollegeoregon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Reed College is a private liberal arts college located in Portland, Oregon, United States.</p> <p>Admission to Reed College is highly competitive. Reed has a holistic admissions process, meaning that the admissions committee looks at more than just grades and test scores. The admissions committee considers the following factors when evaluating applicants: grades, test scores, extracurricular activities, letters of recommendation, essays, and interviews.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission to Reed College, international students must:",
+            "title": "Eligibility Requirements",
+            "info": "Reed College is a private liberal arts college located in Portland, Oregon, United States.",
+            "textBelowInfo": "<p>Admission to Reed College is highly competitive. Reed has a holistic admissions process, meaning that the admissions committee looks at more than just grades and test scores. The admissions committee considers the following factors when evaluating applicants: grades, test scores, extracurricular activities, letters of recommendation, essays, and interviews.</p> <p>To be eligible for admission to Reed College, international students must:</p>",
             "data": [
                 "Be proficient in English",
                 "Have earned a high school diploma or equivalent ",

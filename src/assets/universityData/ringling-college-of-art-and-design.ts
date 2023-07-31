@@ -81,14 +81,10 @@ export const ringlingcollegeofartanddesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The tuition rate for the 2021-2022 academic year for Ringling College of Art and Design is $41,500 per academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Animation:",
+            "title": "Courses and Fees",
+            "info": "The tuition rate for the 2021-2022 academic year for Ringling College of Art and Design is $41,500 per academic year.",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>Animation:</b></p>",
             "data": [
                 "Bachelor of Fine Arts in Animation: $41,500",
                 "Bachelor of Arts in Computer Animation: $41,500"
@@ -134,8 +130,8 @@ export const ringlingcollegeofartanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Arts in Arts Leadership: $35,000",
                 "Master of Arts in Community Design: $35,000",

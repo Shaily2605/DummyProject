@@ -68,14 +68,10 @@ export const saintjosephscollegeofmaine = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Joseph's College of Maine offers the following courses: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "Business: ",
+            "title": "Courses and Fees",
+            "info": "Saint Joseph's College of Maine offers the following courses: ",
+            "textBelowInfo": "<p><b>Undergraduate Programs </b></p> <p><b>Business: </b></p>",
             "data": [
                 "B.S. in Business Administration - $34,400",
                 "B.S. in Accounting - $34,400",

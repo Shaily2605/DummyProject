@@ -70,14 +70,10 @@ export const regiscollegemassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Regis College offers more than 50 undergraduate and graduate degree programs. Below is the list of courses offered by Regis College along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "Regis College offers more than 50 undergraduate and graduate degree programs. Below is the list of courses offered by Regis College along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $49,850",
                 "Applied Psychology: $49,850",

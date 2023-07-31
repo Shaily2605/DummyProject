@@ -81,14 +81,10 @@ export const pontificalcollegejosephinum = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Pontifical College Josephinum (PCJ) offers the following courses with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Masters Degree Programs",
+            "title": "Courses and Fees",
+            "info": "The Pontifical College Josephinum (PCJ) offers the following courses with the corresponding fee structure:",
+            "textBelowInfo": "<b>Masters Degree Programs </b>",
             "data": [
                 "Master of Divinity (MDiv): $9,000 per semester",
                 "Master of Arts in Theology (MA): $7,000 per semester",

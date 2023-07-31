@@ -69,14 +69,10 @@ export const rosemountcollegepennsylvania = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rosemount College is a private college located in Pennsylvania, USA. The college offers a variety of courses in different fields such as business, engineering, arts and sciences, health sciences, and education.</p> <p>Below is a list of all the courses offered at Rosemount College along with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Business:",
+            "title": "Courses and Fees",
+            "info": "Rosemount College is a private college located in Pennsylvania, USA. The college offers a variety of courses in different fields such as business, engineering, arts and sciences, health sciences, and education.",
+            "textBelowInfo": "<p>Below is a list of all the courses offered at Rosemount College along with their fee structure:</p> <p><b>Business: </b></p>",
             "data": [
                 "Accounting and Finance – $9,500",
                 "Business Administration – $10,000",

@@ -1436,6 +1436,35 @@ import * as universityofwisconsinmadison from '../../assets/universityData/unive
 import * as universityofwisconsinmilwaukee from '../../assets/universityData/university-of-wisconsin-milwaukee'
 import * as universityofwisconsinoshkosh from '../../assets/universityData/university-of-wisconsin-oshkosh'
 import * as universityofwisconsinplatteville from '../../assets/universityData/university-of-wisconsin-platteville'
+import * as universityofwisconsinriverfalls from '../../assets/universityData/university-of-wisconsin-river-falls'
+import * as universityofwisconsinstout from '../../assets/universityData/university-of-wisconsin-stout'
+import * as universityofwollongongbatemansbaycampus from '../../assets/universityData/university-of-wollongong-batemans-bay-campus'
+import * as universityofwollongongshoalhavencampus from '../../assets/universityData/university-of-wollongong-shoalhaven-campus'
+import * as universityofwollongongwollongongcampus from '../../assets/universityData/university-of-wollongong-wollongong-campus'
+import * as universityofwollongongnewsouthwales from '../../assets/universityData/university-of-wollongong-new-south-wales'
+import * as universityofworchetserengland from '../../assets/universityData/university-of-worchetser-england'
+import * as universityofwyomingwyoming from '../../assets/universityData/university-of-wyoming-wyoming'
+import * as universityofyorkengland from '../../assets/universityData/university-of-york-england'
+import * as universitynewmexicogallupnorthcampus from '../../assets/universityData/university-new-mexico-gallup-north-campus'
+import * as unswcanberraattheaustraliandefenceforceacademy from '../../assets/universityData/unsw-canberra-at-the-australian-defence-force-academy'
+import * as unswsydneynewsouthwales from '../../assets/universityData/unsw-sydney-new-south-wales'
+import * as uowcollegeaustraliajervisbayterritory from '../../assets/universityData/uow-college-australia-jervis-bay-territory'
+import * as upperiowauniversityfayette from '../../assets/universityData/upper-iowa-university-fayette'
+import * as ursinuscollegepennsylvania from '../../assets/universityData/ursinus-college-pennsylvania'
+import * as ursulinecollegeohio from '../../assets/universityData/ursuline-college-ohio'
+import * as utahstateuniversityutah from '../../assets/universityData/utah-state-university-utah'
+import * as utahvalleyuniversityutah from '../../assets/universityData/utah-valley-university-utah'
+import * as uthealthtexas from '../../assets/universityData/uthealth-texas'
+import * as utmbhealthuniversityoftexasmedicabranch from '../../assets/universityData/utmb-health-university-of-texas-medica-branch'
+import * as uttarawomensmedicalcollege from '../../assets/universityData/uttara-womens-medical-college'
+import * as valdostastateuniversityflorida from '../../assets/universityData/valdosta-state-university-florida'
+import * as valdostastateuniversitygeorgia from '../../assets/universityData/valdosta-state-university-georgia'
+import * as valleycitystateuniversitynorthdakota from '../../assets/universityData/valley-city-state-university-north-dakota'
+import * as valleycollegewestvirginia from '../../assets/universityData/valley-college-west-virginia'
+import * as valleyforgemilitaryacademyandcollege from '../../assets/universityData/valley-forge-military-academy-and-college'
+import * as valparaisouniversityindiana from '../../assets/universityData/valparaiso-university-indiana'
+import * as vancouvercareercollegeburnaby from '../../assets/universityData/vancouver-career-college-burnaby'
+
 
 export {
 
@@ -2870,6 +2899,35 @@ export {
     universityofwisconsinmadison,
     universityofwisconsinmilwaukee,
     universityofwisconsinoshkosh,
-    universityofwisconsinplatteville
+    universityofwisconsinplatteville,
+    universityofwisconsinriverfalls,
+    universityofwisconsinstout,
+    universityofwollongongbatemansbaycampus,
+    universityofwollongongshoalhavencampus,
+    universityofwollongongwollongongcampus,
+    universityofwollongongnewsouthwales,
+    universityofworchetserengland,
+    universityofwyomingwyoming,
+    universityofyorkengland,
+    universitynewmexicogallupnorthcampus,
+    unswcanberraattheaustraliandefenceforceacademy,
+    unswsydneynewsouthwales,
+    uowcollegeaustraliajervisbayterritory,
+    upperiowauniversityfayette,
+    ursinuscollegepennsylvania,
+    ursulinecollegeohio,
+    utahstateuniversityutah,
+    utahvalleyuniversityutah,
+    uthealthtexas,
+    utmbhealthuniversityoftexasmedicabranch,
+    uttarawomensmedicalcollege,
+    valdostastateuniversityflorida,
+    valdostastateuniversitygeorgia,
+    valleycitystateuniversitynorthdakota,
+    valleycollegewestvirginia,
+    valleyforgemilitaryacademyandcollege,
+    valparaisouniversityindiana,
+    vancouvercareercollegeburnaby,
+    
 
 }

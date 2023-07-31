@@ -74,14 +74,10 @@ export const questuniversitycanada = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Quest University Canada is Canada's first independent, not-for-profit, secular university. It offers only one degree, a Bachelor of Arts and Sciences (BASc). The university has a unique block plan, with classes that are intensive, three-and-a-half-week courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "Tuition Fees:",
+            "title": "Courses and Fees",
+            "info": "Quest University Canada is Canada's first independent, not-for-profit, secular university. It offers only one degree, a Bachelor of Arts and Sciences (BASc). The university has a unique block plan, with classes that are intensive, three-and-a-half-week courses.",
+            "textBelowInfo": "<p><b>Fee Structure:</b></p> <p><b>Tuition Fees: </b></p>",
             "data": [
                 "Tuition for a 3.5-week block of courses: $2,982.50",
                 "Tuition for a 7-week block of courses: $5,965.00",

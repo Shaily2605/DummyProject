@@ -68,14 +68,10 @@ export const rockymountaincollegeofartdesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rocky Mountain College of Art and Design (RMCAD) offers several courses and program options. Below is a list of all the courses offered by the college with their respective fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Bachelor of Fine Arts (BFA) ",
+            "title": "Courses and Fees",
+            "info": "Rocky Mountain College of Art and Design (RMCAD) offers several courses and program options. Below is a list of all the courses offered by the college with their respective fees.",
+            "textBelowInfo": "<b>Bachelor of Fine Arts (BFA) </b>",
             "data": [
                 "Animation & Visual Effects: $14,500",
                 "Game Art & Design: $14,500",

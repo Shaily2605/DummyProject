@@ -121,13 +121,11 @@ export const racmavictoria = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "How to Apply ?",
             "info": "",
-            "data": [
-                "To apply for admission at RACMA in Victoria, Australia, students from India should contact the Royal Australasian College of Medical Administrators (RACMA) directly. Applicants must meet the entry requirements, which include having completed an approved medical qualification from a recognized university, and having at least two years of work experience in a related field.",
-                "Once the entry requirements have been met, students from India will need to register with RACMA and apply for admission. The application process involves submitting an application form and supporting documents, such as transcripts and references, as well as completing a personal statement and an interview. Successful applicants will then be invited to attend an orientation program and undertake a clinical placement in Victoria, Australia."
-            ]
+            "data": "<p>To apply for admission at RACMA in Victoria, Australia, students from India should contact the Royal Australasian College of Medical Administrators (RACMA) directly. Applicants must meet the entry requirements, which include having completed an approved medical qualification from a recognized university, and having at least two years of work experience in a related field.</p> <p>Once the entry requirements have been met, students from India will need to register with RACMA and apply for admission. The application process involves submitting an application form and supporting documents, such as transcripts and references, as well as completing a personal statement and an interview. Successful applicants will then be invited to attend an orientation program and undertake a clinical placement in Victoria, Australia.</p>"
+
         },
         {
 
@@ -292,7 +290,7 @@ export const racmavictoria = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

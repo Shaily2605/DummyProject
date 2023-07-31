@@ -69,14 +69,10 @@ export const riponcollegewisconsin = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Ripon College offers a variety of courses for students. The fees for each course vary depending on the program and number of credits. Below is a list of courses offered and the associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Ripon College offers a variety of courses for students. The fees for each course vary depending on the program and number of credits. Below is a list of courses offered and the associated fees.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting: $750 per credit",
                 "Business Administration: $485 per credit  ",

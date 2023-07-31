@@ -75,14 +75,10 @@ export const qutgardenspointcampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of courses offered at the QUT Gardens Point Campus, Queensland, Australia, along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The following is a list of courses offered at the QUT Gardens Point Campus, Queensland, Australia, along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Bachelor of Arts – $9,974/year",
                 "Bachelor of Business – $15,914/year",

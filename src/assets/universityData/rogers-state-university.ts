@@ -69,14 +69,10 @@ export const rogersstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rogers State University offers a variety of undergraduate and graduate degree programs and courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs & Courses:",
+            "title": "Courses and Fees",
+            "info": "Rogers State University offers a variety of undergraduate and graduate degree programs and courses.",
+            "textBelowInfo": "<b>Undergraduate Programs & Courses: </b>",
             "data": [
                 "Bachelor of Applied Science in Organizational Leadership",
                 "Bachelor of Arts in Liberal Arts",

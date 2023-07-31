@@ -69,14 +69,10 @@ export const queensuniversityofcharlotte = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is the list of courses offered by the Queens University of Charlotte, North Carolina, USA, with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The following is the list of courses offered by the Queens University of Charlotte, North Carolina, USA, with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Bachelor of Arts in Business Administration: $47,856 (total tuition cost for four years) ",
                 "Bachelor of Arts in Accounting: $47,856 (total tuition cost for four years) ",
@@ -94,8 +90,8 @@ export const queensuniversityofcharlotte = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Business Administration: $34,020 (total tuition cost for two years) ",
                 "Master of Science in Accounting: $36,960 (total tuition cost for two years) ",

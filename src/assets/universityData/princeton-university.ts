@@ -70,14 +70,10 @@ export const princetonuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Princeton University offers courses in a wide range of areas, including the humanities, social sciences, natural sciences, and engineering. Each program has its own fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition and Fees:",
+            "title": "Courses and Fees",
+            "info": "The Princeton University offers courses in a wide range of areas, including the humanities, social sciences, natural sciences, and engineering. Each program has its own fee structure.",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees: </b>",
             "data": [
                 "Tuition: $51,870",
                 "Comprehensive Fee: $2,664",
@@ -326,13 +322,10 @@ export const princetonuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": "Hostel <br> On-Campus Accommodation",
-            "info": "",
-            "data": [
-                "Princeton University offers a variety of on-campus accommodation options for undergraduate and graduate students. The University’s housing options range from traditional dormitories and suites to new, modern apartment-style housing. ",
-                "All undergraduate students are guaranteed housing for all four years of their undergraduate degree. For graduate students, the University offers short-term housing options for those who are new to the area and long-term housing options for those who plan to stay for the duration of their studies. "
-            ]
+            "type": "text",
+            "title": "Hostel ",
+            "info": "On-Campus Accommodation",
+            "data": "<p>Princeton University offers a variety of on-campus accommodation options for undergraduate and graduate students. The University’s housing options range from traditional dormitories and suites to new, modern apartment-style housing.</p> <p>All undergraduate students are guaranteed housing for all four years of their undergraduate degree. For graduate students, the University offers short-term housing options for those who are new to the area and long-term housing options for those who plan to stay for the duration of their studies.</p>"
         },
         {
             "type": "list-bollet",
@@ -345,13 +338,10 @@ export const princetonuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Off-Campus Accommodation",
             "info": "",
-            "data": [
-                "Princeton University also offers off-campus housing options for students. There are a variety of apartment complexes, single-family homes, and other housing options available for students who are looking for off-campus accommodation. ",
-                "The University's Off-Campus Housing Office works with local landlords to provide a variety of off-campus housing options for students. These include apartments, houses, and townhomes."
-            ]
+            "data": "<p>Princeton University also offers off-campus housing options for students. There are a variety of apartment complexes, single-family homes, and other housing options available for students who are looking for off-campus accommodation.</p> <p>The University's Off-Campus Housing Office works with local landlords to provide a variety of off-campus housing options for students. These include apartments, houses, and townhomes.</p>"
         },
         {
             "type": "list-bollet",

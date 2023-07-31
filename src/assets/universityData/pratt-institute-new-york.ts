@@ -77,14 +77,10 @@ export const prattinstitutenewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Pratt Institute, New York, offers a variety of courses with varying fee structures. Below is a list of courses offered by the institute and their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Course List and Fee Structure:",
+            "title": "Courses and Fees",
+            "info": "Pratt Institute, New York, offers a variety of courses with varying fee structures. Below is a list of courses offered by the institute and their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Course List and Fee Structure: </b>",
             "data": [
                 "Bachelor of Architecture: $22,520 per semester",
                 "Bachelor of Arts in Art and Design: $22,520 per semester",

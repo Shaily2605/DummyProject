@@ -71,11 +71,6 @@ export const rideruniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Undergraduate Courses:",
             "info": "Accounting",

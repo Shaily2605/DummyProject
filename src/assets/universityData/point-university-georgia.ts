@@ -68,14 +68,10 @@ export const pointuniversitygeorgia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Point University offers the following degree programs:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Point University offers the following degree programs:",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts in Biblical Studies",
                 "Bachelor of Arts in Business Management",
@@ -106,8 +102,8 @@ export const pointuniversitygeorgia = {
         },
         {
             "type": "list-bollet",
-            "title": "Tuition and Fees",
-            "info": "",
+            "title": "",
+            "info": "Tuition and Fees",
             "data": [
                 "Undergraduate tuition per semester: $5,050",
                 "Graduate tuition per semester: $5,550"

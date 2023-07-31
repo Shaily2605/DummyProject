@@ -70,13 +70,9 @@ export const rivervalleycommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
-            "info": "",
-            "data": [
-                "River Valley Community College offers many courses and programs. You can find the complete list of courses and their fee structure on the college's website. Below is a link for your reference. ",
-                "https://www.rivervalley.edu/admissions-and-aid/tuition-and-fees/"
-            ]
+            "data": "<p>River Valley Community College offers many courses and programs. You can find the complete list of courses and their fee structure on the college's website. Below is a link for your reference. <br>https://www.rivervalley.edu/admissions-and-aid/tuition-and-fees/"
         },
         {
             type: "meta",

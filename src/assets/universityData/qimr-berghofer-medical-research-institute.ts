@@ -71,14 +71,10 @@ export const qimrberghofermedicalresearchinstitute = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The QIMR Berghofer Medical Research Institute has a range of courses and programs, which can be found on their website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "QIMR Berghofer Medical Research Institute offers a range of undergraduate programs, including:",
+            "title": "Courses and Fees",
+            "info": "The QIMR Berghofer Medical Research Institute has a range of courses and programs, which can be found on their website.",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p>QIMR Berghofer Medical Research Institute offers a range of undergraduate programs, including: </p>",
             "data": [
                 "Bachelor of Science (Medical Science)",
                 "Bachelor of Biomedical Science ",
@@ -87,7 +83,7 @@ export const qimrberghofermedicalresearchinstitute = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee structure:",
             "info": "",
             "data": [
@@ -96,8 +92,9 @@ export const qimrberghofermedicalresearchinstitute = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Programs",
-            "info": "QIMR Berghofer Medical Research Institute also offers a range of postgraduate programs, including:",
+            "title": "",
+            "info": "Postgraduate Programs",
+            "textBelowInfo": "QIMR Berghofer Medical Research Institute also offers a range of postgraduate programs, including:",
             "data": [
                 "Master of Science (Medical Science)",
                 "Master of Biomedical Science",
@@ -106,7 +103,7 @@ export const qimrberghofermedicalresearchinstitute = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee structure:",
             "info": "",
             "data": [
@@ -329,7 +326,7 @@ export const qimrberghofermedicalresearchinstitute = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

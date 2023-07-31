@@ -69,14 +69,10 @@ export const saintmarysuniversityofminnesota = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Mary's University of Minnesota offers undergraduate and graduate programs in a range of different subject areas.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Bachelor of Arts",
+            "title": "Courses and Fees",
+            "info": "Saint Mary's University of Minnesota offers undergraduate and graduate programs in a range of different subject areas.",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Bachelor of Arts</b></p>",
             "data": [
                 "Accounting ",
                 "Art ",
@@ -118,8 +114,8 @@ export const saintmarysuniversityofminnesota = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting ",
                 "Business Administration ",

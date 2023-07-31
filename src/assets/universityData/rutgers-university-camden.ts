@@ -69,13 +69,10 @@ export const rutgersuniversitycamden = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
-            "data": [
-                "Please refer to the below link for the exact information of all the courses with fee structure of Rutgers university-Camden,New Jersey,USA :",
-                "https://admissions.camden.rutgers.edu/tuition-fees"
-            ]
+            "data": "<p>Please refer to the below link for the exact information of all the courses with fee structure of Rutgers university-Camden,New Jersey,USA :<br>https://admissions.camden.rutgers.edu/tuition-fees"
         },
         {
             type: "meta",

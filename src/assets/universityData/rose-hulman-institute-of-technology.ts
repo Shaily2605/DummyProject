@@ -77,11 +77,6 @@ export const rosehulmaninstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The following are the courses offered by Rose-Hulman Institute of Technology,Indiana,USA along with their fee structure:",

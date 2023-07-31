@@ -81,14 +81,10 @@ export const quincycollegemassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Quincy College offers a range of academic and career-oriented programs, each with its own set of requirements and cost structure.</p> <p>The college offers associate degrees, certificates, and non-credit courses in various fields, including business, health sciences, liberal arts, and technology.</p> <p>Below is a list of the courses offered at Quincy College and their associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees",
+            "title": "Courses and Fees",
+            "info": "Quincy College offers a range of academic and career-oriented programs, each with its own set of requirements and cost structure.",
+            "textBelowInfo": "<p>The college offers associate degrees, certificates, and non-credit courses in various fields, including business, health sciences, liberal arts, and technology.</p> <p>Below is a list of the courses offered at Quincy College and their associated fees:</p> <p><b>Associate Degrees</b></p>",
             "data": [
                 "Accounting: $4,072",
                 "Business Administration: $4,072",

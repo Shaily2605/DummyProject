@@ -70,14 +70,10 @@ export const providencecollegerhodeisland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Providence College offers more than 50 undergraduate majors and minors and more than 25 graduate programs. Below is a list of all the courses offered at Providence College with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Providence College offers more than 50 undergraduate majors and minors and more than 25 graduate programs. Below is a list of all the courses offered at Providence College with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting – $1,022 per credit",
                 "Art - $833 per credit",
@@ -333,7 +329,7 @@ export const providencecollegerhodeisland = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel <br> On-Campus Accommodation",
             "info": "",
             "data": [
@@ -371,7 +367,7 @@ export const providencecollegerhodeisland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel Facilities",
             "info": "",
             "data": [

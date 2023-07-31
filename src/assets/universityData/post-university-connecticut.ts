@@ -69,14 +69,10 @@ export const postuniversityconnecticut = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of courses with their respective fee structure offered by Post University, Connecticut, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Below is the list of courses with their respective fee structure offered by Post University, Connecticut, USA:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Science in Accounting: $395 per credit hour",
                 "Bachelor of Science in Business Administration: $395 per credit hour",

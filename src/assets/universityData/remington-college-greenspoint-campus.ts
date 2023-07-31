@@ -82,13 +82,10 @@ export const remingtoncollegegreenspointcampus = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "",
-            "data": [
-                "The tuition fees for the courses vary depending on the program. Please visit the college website for more information. ",
-                "https://www.remingtoncollege.edu/campus/greenspoint-campus/"
-            ]
+            "data": "<p>The tuition fees for the courses vary depending on the program. Please visit the college website for more information. <br>https://www.remingtoncollege.edu/campus/greenspoint-campus/</p>"
         },
         {
             type: "meta",
@@ -305,7 +302,7 @@ export const remingtoncollegegreenspointcampus = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
@@ -313,7 +310,7 @@ export const remingtoncollegegreenspointcampus = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [

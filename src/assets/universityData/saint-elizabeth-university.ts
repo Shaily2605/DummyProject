@@ -68,14 +68,10 @@ export const saintelizabethuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Saint Elizabeth University offers the following undergraduate programs: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Bachelor of Arts in:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Saint Elizabeth University offers the following undergraduate programs:",
+            "textBelowInfo": "<b>Bachelor of Arts in:</b>",
             "data": [
                 "Business Administration ",
                 "Communication ",
@@ -89,8 +85,8 @@ export const saintelizabethuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Bachelor of Science in:",
-            "info": "",
+            "title": "",
+            "info": "Bachelor of Science in:",
             "data": [
                 "Biology ",
                 "Chemistry ",

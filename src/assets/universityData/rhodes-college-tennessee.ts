@@ -73,14 +73,10 @@ export const rhodescollegetennessee = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rhodes College offers a variety of courses and programs for its students. The fees for each course and program varies depending on the program and the length of the course.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Rhodes College offers a variety of courses and programs for its students. The fees for each course and program varies depending on the program and the length of the course.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "<b>Bachelor of Arts:</b> Tuition for full-time undergraduate students is $44,250 per academic year. Room and board costs are additional and vary depending on the type of room and meal plan selected. ",
                 "<b>Bachelor of Science:</b> Tuition for full-time undergraduate students is $44,250 per academic year. Room and board costs are additional and vary depending on the type of room and meal plan selected. ",

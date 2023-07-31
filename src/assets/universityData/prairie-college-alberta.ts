@@ -64,14 +64,10 @@ export const prairiecollegealberta = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Prairie College offers a variety of courses at the undergraduate and graduate level. These courses are organized into different faculties, including Education, Nursing and Health Sciences, Business and Leadership, Arts and Humanities, and Science and Technology.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Education:",
+            "title": "Courses and Fees",
+            "info": "Prairie College offers a variety of courses at the undergraduate and graduate level. These courses are organized into different faculties, including Education, Nursing and Health Sciences, Business and Leadership, Arts and Humanities, and Science and Technology.",
+            "textBelowInfo": "<p><b>Undergraduate Courses:</b></p> <p><b>Education: </b></p>",
             "data": [
                 "Bachelor of Education (Primary/Junior) – $15,000/year",
                 "Bachelor of Education (Intermediate/Senior) – $15,000/year",
@@ -120,8 +116,8 @@ export const prairiecollegealberta = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Education – $15,000/year",
                 "Master of Nursing – $15,000/year",

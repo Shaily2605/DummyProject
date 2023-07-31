@@ -71,14 +71,10 @@ export const roxburycommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Roxbury Community College offers a variety of courses and programs. The following is a list of courses offered and the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Arts & Humanities:",
+            "title": "Courses and Fees",
+            "info": "Roxbury Community College offers a variety of courses and programs. The following is a list of courses offered and the associated fee structure:",
+            "textBelowInfo": "<b>1. Arts & Humanities: </b>",
             "data": [
                 "Art: $60 per credit hour",
                 "Music: $60 per credit hour",

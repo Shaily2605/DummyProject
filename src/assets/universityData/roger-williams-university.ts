@@ -71,14 +71,10 @@ export const rogerwilliamsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of all the courses offered by Roger Williams University, Rhode Island, USA, along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses: ",
+            "title": "Courses and Fees",
+            "info": "The following is a list of all the courses offered by Roger Williams University, Rhode Island, USA, along with their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting: $1,908 per credit",
                 "Applied Psychology: $1,908 per credit",

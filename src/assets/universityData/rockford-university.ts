@@ -70,14 +70,10 @@ export const rockforduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Rockford University offers a variety of courses in more than 40 majors and minors. Below is the list of courses offered with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Business:",
+            "title": "Courses and Fees",
+            "info": "The Rockford University offers a variety of courses in more than 40 majors and minors. Below is the list of courses offered with the fee structure:",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Business: </b></p>",
             "data": [
                 "Accounting – $13,850",
                 "Business Administration – $13,850   ",

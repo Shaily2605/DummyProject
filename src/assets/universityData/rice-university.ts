@@ -69,14 +69,10 @@ export const riceuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rice University offers more than 50 undergraduate majors across six divisions of study: Architecture, Engineering, Humanities, Music, Natural Sciences and Social Sciences.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition & Fees",
+            "title": "Courses and Fees",
+            "info": "Rice University offers more than 50 undergraduate majors across six divisions of study: Architecture, Engineering, Humanities, Music, Natural Sciences and Social Sciences.",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees </b>",
             "data": [
                 "Tuition: $47,350",
                 "Room & Board: $14,820",

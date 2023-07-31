@@ -70,14 +70,10 @@ export const redrivercollegeprincessstreet = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Red River College offers more than 200 full-time and part-time diploma, certificate and post-diploma programs and more than 1000 continuing education courses.</p> <p>Below is the list of courses offered by Red River College with fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Programs:",
+            "title": "Courses and Fees",
+            "info": "Red River College offers more than 200 full-time and part-time diploma, certificate and post-diploma programs and more than 1000 continuing education courses.",
+            "textBelowInfo": "<p>Below is the list of courses offered by Red River College with fee structure:</p> <p><b>Diploma Programs:</b></p>",
             "data": [
                 "Business Administration: $11,000",
                 "Computer Systems Technology: $11,000",

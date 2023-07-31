@@ -71,14 +71,10 @@ export const rasmussenuniversitywisconsin = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rasmussen University, Wisconsin offers a variety of undergraduate and graduate degree programs. The following is a list of all the courses offered by the university, along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Rasmussen University, Wisconsin offers a variety of undergraduate and graduate degree programs. The following is a list of all the courses offered by the university, along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $420 per credit",
                 "Business Administration: $420 per credit",

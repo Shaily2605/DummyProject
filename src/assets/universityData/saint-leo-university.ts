@@ -68,14 +68,10 @@ export const saintleouniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>The following is a list of all the courses offered by Saint Leo University in Florida,USA along with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The following is a list of all the courses offered by Saint Leo University in Florida,USA along with the associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Bachelor of Arts in Business Administration: $395 per credit hour",
                 "Bachelor of Arts in Criminal Justice: $395 per credit hour",

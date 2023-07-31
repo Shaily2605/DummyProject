@@ -90,14 +90,10 @@ export const rrcpolytechwinnipeg = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>RRC Polytechnic offers a variety of courses with different fee structures depending on the program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Automotive Service Technician: ",
+            "title": "Courses and Fees",
+            "info": "RRC Polytechnic offers a variety of courses with different fee structures depending on the program.",
+            "textBelowInfo": "<b>1. Automotive Service Technician: </b>",
             "data": [
                 "Tuition Fee: $7,536.00 ",
                 "Books & Supplies: $2,500.00"

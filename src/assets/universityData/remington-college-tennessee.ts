@@ -70,14 +70,10 @@ export const remingtoncollegetennessee = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Remington College-Memphis Campus offers the following courses: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Applied Science",
+            "title": "Courses and Fees",
+            "info": "Remington College-Memphis Campus offers the following courses: ",
+            "textBelowInfo": "<b>Associate of Applied Science </b>",
             "data": [
                 "Business Administration",
                 "Criminal Justice ",

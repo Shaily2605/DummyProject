@@ -72,14 +72,10 @@ export const quincyuniversityillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Quincy University offers more than 50 undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Quincy University offers more than 50 undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting",
                 "Athletic Training",

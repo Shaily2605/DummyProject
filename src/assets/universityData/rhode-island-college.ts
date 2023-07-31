@@ -71,14 +71,10 @@ export const rhodeislandcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rhode Island College offers a variety of undergraduate and graduate programs. The college is comprised of the School of Business, the School of Education, and the School of Social Work. The following is a list of the courses offered at Rhode Island College and the associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Rhode Island College offers a variety of undergraduate and graduate programs. The college is comprised of the School of Business, the School of Education, and the School of Social Work. The following is a list of the courses offered at Rhode Island College and the associated tuition and fees.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $273.45 per credit hour",
                 "Anthropology: $273.45 per credit hour",

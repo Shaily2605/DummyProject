@@ -68,14 +68,10 @@ export const rasmussenuniversityfargo = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rasmussen University - Fargo, North Dakota, USA offers the following undergraduate and graduate courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Rasmussen University - Fargo, North Dakota, USA offers the following undergraduate and graduate courses:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting ",
                 "Business ",

@@ -69,14 +69,10 @@ export const sacredheartuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sacred Heart University offers over 70 undergraduate and graduate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Sacred Heart University offers over 70 undergraduate and graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting",
                 "Art",
@@ -111,8 +107,8 @@ export const sacredheartuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting",
                 "Biochemistry",

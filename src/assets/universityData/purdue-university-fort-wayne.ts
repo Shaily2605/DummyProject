@@ -67,14 +67,10 @@ export const purdueuniversityfortwayne = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of all the courses offered by Purdue University Fort Wayne, Indiana, USA and their associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The following is a list of all the courses offered by Purdue University Fort Wayne, Indiana, USA and their associated fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Bachelor of Arts: $8,225 - $9,735 per semester",
                 "Bachelor of Science: $8,225 - $9,735 per semester",

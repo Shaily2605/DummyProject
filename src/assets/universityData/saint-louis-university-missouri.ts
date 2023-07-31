@@ -69,14 +69,10 @@ export const saintlouisuniversitymissouri = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Louis University offers more than 80 undergraduate programs, over 100 graduate programs and several certificate and doctoral programs. The university also offers several online programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Saint Louis University offers more than 80 undergraduate programs, over 100 graduate programs and several certificate and doctoral programs. The university also offers several online programs.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting",
                 "Anthropology",

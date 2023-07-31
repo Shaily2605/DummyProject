@@ -70,14 +70,10 @@ export const redrivercollegegimli = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Red River College, Gimli offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Programs:",
+            "title": "Courses and Fees",
+            "info": "The Red River College, Gimli offers the following courses:",
+            "textBelowInfo": "<b>Diploma Programs: </b>",
             "data": [
                 "Business Administration",
                 "Computer Systems Technology",
@@ -99,7 +95,7 @@ export const redrivercollegegimli = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "",
             "data": [

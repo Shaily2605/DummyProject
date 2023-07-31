@@ -70,14 +70,10 @@ export const saintjosephsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Joseph's University in Pennsylvania offers over 100 undergraduate programs, as well as several graduate and doctoral programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Saint Joseph's University in Pennsylvania offers over 100 undergraduate programs, as well as several graduate and doctoral programs.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting",
                 "African and African Diaspora Studies",
@@ -169,8 +165,8 @@ export const saintjosephsuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Tuition/Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Tuition/Fee Structure:",
             "data": [
                 "Undergraduate tuition is $44,040 per year.",
                 "Graduate tuition is $1,324 per credit hour.",

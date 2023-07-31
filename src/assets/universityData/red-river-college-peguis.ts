@@ -68,13 +68,10 @@ export const redrivercollegepeguis = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
-            "data": [
-                "Unfortunately, Red River College does not offer any courses at the Peguis - Fisher River Campus. However, the college does offer a variety of courses at its other campuses. Below is a link to the course offerings at Red River College, as well as the corresponding fee structure. ",
-                "https://www.rrc.ca/programs-and-courses/program-list/"
-            ]
+            "data": "<p>Unfortunately, Red River College does not offer any courses at the Peguis - Fisher River Campus. However, the college does offer a variety of courses at its other campuses. Below is a link to the course offerings at Red River College, as well as the corresponding fee structure.<br>https://www.rrc.ca/programs-and-courses/program-list/ </p>"
         },
         {
             type: "meta",
@@ -290,7 +287,7 @@ export const redrivercollegepeguis = {
             data: "<p>Red River College offers both on-campus and off-campus accommodation for students.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "On-Campus Accommodation:",
             "data": [
@@ -298,7 +295,7 @@ export const redrivercollegepeguis = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation:",
             "data": [

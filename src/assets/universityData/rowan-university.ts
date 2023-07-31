@@ -68,14 +68,10 @@ export const rowanuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rowan University offers more than 150 undergraduate, graduate, and doctoral degree programs and certificates. The fee structure of the university is as follows: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Tuition & Fees:",
+            "title": "Courses and Fees",
+            "info": "Rowan University offers more than 150 undergraduate, graduate, and doctoral degree programs and certificates. The fee structure of the university is as follows: ",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Tuition & Fees: </b></p>",
             "data": [
                 "For New Jersey residents: $16,650 per semester",
                 "For out-of-state residents: $26,590 per semester"

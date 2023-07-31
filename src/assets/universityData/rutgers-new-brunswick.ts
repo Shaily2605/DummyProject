@@ -71,14 +71,10 @@ export const rutgersnewbrunswick = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rutgers University-New Brunswick has more than 100 undergraduate and 200 postgraduate courses. For all the courses, the fee structure may vary according to the program and other criteria. The following are the approximate fee structures for different courses at Rutgers University-New Brunswick:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Rutgers University-New Brunswick has more than 100 undergraduate and 200 postgraduate courses. For all the courses, the fee structure may vary according to the program and other criteria. The following are the approximate fee structures for different courses at Rutgers University-New Brunswick:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Tuition: $14,636 per semester",
                 "Student Activity Fee: $83 per semester ",
@@ -89,8 +85,8 @@ export const rutgersnewbrunswick = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Tuition: $17,092 - $23,728 per semester",
                 "Student Activity Fee: $83 per semester ",
@@ -101,8 +97,8 @@ export const rutgersnewbrunswick = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Courses:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Courses:",
             "data": [
                 "Tuition: $18,686 - $25,422 per semester",
                 "Student Activity Fee: $83 per semester",

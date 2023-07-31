@@ -72,14 +72,10 @@ export const presbyteriancollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Presbyterian College offers undergraduate and graduate degrees in the fields of liberal arts, sciences, business, and education. The following is a list of all the courses offered by Presbyterian College with the respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses :",
+            "title": "Courses and Fees",
+            "info": "Presbyterian College offers undergraduate and graduate degrees in the fields of liberal arts, sciences, business, and education. The following is a list of all the courses offered by Presbyterian College with the respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses : </b>",
             "data": [
                 "Bachelor of Arts in English- $41,640 per year",
                 "Bachelor of Arts in History- $41,640 per year",

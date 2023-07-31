@@ -71,14 +71,10 @@ export const provocollegeutah = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Provo College, Utah offers a variety of degree programs in fields such as business, nursing, medical assisting, healthcare, and technology.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "Business: ",
+            "title": "Courses and Fees",
+            "info": "Provo College, Utah offers a variety of degree programs in fields such as business, nursing, medical assisting, healthcare, and technology.",
+            "textBelowInfo": "<p><b>Fee Structure:</b></p> <p><b>Business: </b></p>",
             "data": [
                 "Associate of Applied Science in Business Administration: $21,936",
                 "Associate of Applied Science in Accounting: $21,936"

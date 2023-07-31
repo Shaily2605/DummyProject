@@ -71,14 +71,10 @@ export const portagecollegelaclabichecampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Portage College offers a wide range of diploma, certificate, and apprenticeship programs. The following is a list of courses offered at the Lac La Biche Campus in Alberta, Canada, with their corresponding fee structures. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Programs",
+            "title": "Courses and Fees",
+            "info": "Portage College offers a wide range of diploma, certificate, and apprenticeship programs. The following is a list of courses offered at the Lac La Biche Campus in Alberta, Canada, with their corresponding fee structures.",
+            "textBelowInfo": "<b>Diploma Programs </b>",
             "data": [
                 "Business Administration – $11,405.25",
                 "Computer Network Engineering – $10,939.25",

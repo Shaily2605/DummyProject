@@ -75,14 +75,10 @@ export const redrivercollegesaatcsouthport = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Red River College (RRC) offers a variety of aviation and aerospace programs. The Stevenson Aviation & Aerospace Training Centre (SAATC) located in Southport, Manitoba is a learning facility of Red River College.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "The following courses are offered by SAATC:",
+            "title": "Courses and Fees",
+            "info": "Red River College (RRC) offers a variety of aviation and aerospace programs. The Stevenson Aviation & Aerospace Training Centre (SAATC) located in Southport, Manitoba is a learning facility of Red River College.",
+            "textBelowInfo": "The following courses are offered by SAATC:",
             "data": [
                 "Aviation Technician – Aircraft Maintenance Program: This program provides students with the knowledge and skills required to become a licensed aircraft maintenance engineer. The program is offered in two streams of study: the Airframe stream and the Powerplant stream. The program duration is 36 weeks and the tuition fee is $14,000.",
                 "Aircraft Structures Technician Program: This program is designed to provide students with the knowledge and skills required to become an aircraft structures technician. It is a 12-week program and the tuition fee is $4,000.               ",

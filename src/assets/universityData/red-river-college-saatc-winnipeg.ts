@@ -141,14 +141,10 @@ export const redrivercollegesaatcwinnipeg = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Red River College offers several programs for Indian students at their Stevenson Aviation & Aerospace Training Centre in Winnipeg, Manitoba.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission, Indian students must:",
+            "title": "Eligibility Requirements",
+            "info": "Red River College offers several programs for Indian students at their Stevenson Aviation & Aerospace Training Centre in Winnipeg, Manitoba.",
+            "textBelowInfo": "To be eligible for admission, Indian students must:",
             "data": [
                 "Be a minimum of 18 years of age.",
                 "Have a high school diploma or equivalent.",

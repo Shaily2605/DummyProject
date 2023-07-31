@@ -69,14 +69,10 @@ export const royalhollowayengland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Royal Holloway offers a broad range of courses across a number of different disciplines. The courses available are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Royal Holloway offers a broad range of courses across a number of different disciplines. The courses available are as follows:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting and Finance",
                 "Actuarial Science",

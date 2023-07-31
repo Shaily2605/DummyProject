@@ -351,7 +351,7 @@ export const royalaustralianandnewzealandcollege = {
             data: "<p>Unfortunately, the Royal Australian and New Zealand College of Ophthalmologists (RANZCO NSW) does not provide on-campus or off-campus accommodation or hostel facilities. However, there are many accommodation and hostel options available in the surrounding areas. </p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "On-Campus:",
             "data": [

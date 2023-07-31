@@ -66,14 +66,10 @@ export const queensuniversitybelfast = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Queen's University Belfast offers a wide range of courses, from undergraduate degrees to postgraduate courses, and from research-based courses to vocational courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Queen's University Belfast offers a wide range of courses, from undergraduate degrees to postgraduate courses, and from research-based courses to vocational courses.",
+            "textBelowInfo": "<b>Undergraduate Degrees: </b>",
             "data": [
                 "Engineering",
                 "Computer Science",
@@ -99,8 +95,8 @@ export const queensuniversitybelfast = {
         },
         {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "The tuition fees for undergraduate courses at Queen's University Belfast vary, depending on the type of course chosen and the duration of study.",
                 "For UK/EU students, the fee for a 3-year undergraduate degree typically ranges from £9,250 to £14,500 per year. For international students, the fee is usually higher and can range from £15,900 to £19,000 per year."
@@ -108,8 +104,8 @@ export const queensuniversitybelfast = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate Degrees:",
             "data": [
                 "Engineering",
                 "Computer Science",
@@ -135,8 +131,8 @@ export const queensuniversitybelfast = {
         },
         {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "The tuition fees for postgraduate courses at Queen's University Belfast vary, depending on the type of course chosen and the duration of study.",
                 "For UK/EU students, the fee for a 1-year postgraduate degree typically ranges from £6,000 to £10,500 per year. For international students, the fee is usually higher and can range from £15,900 to £19,000 per year."

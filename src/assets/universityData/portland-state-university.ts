@@ -73,14 +73,10 @@ export const portlandstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Portland offers a variety of undergraduate and graduate degree programs. The following table outlines the tuition and fees associated with each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Portland offers a variety of undergraduate and graduate degree programs. The following table outlines the tuition and fees associated with each program.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Program: Bachelor's Degree, Tuition & Fees: $44,910 per year "
             ]

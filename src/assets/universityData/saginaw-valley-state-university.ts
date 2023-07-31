@@ -70,14 +70,10 @@ export const saginawvalleystateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is a list of all tuition and fees at Saginaw Valley State University, Michigan, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition & Fees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is a list of all tuition and fees at Saginaw Valley State University, Michigan, USA:",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees: </b>",
             "data": [
                 "Michigan Resident (Per Semester) - $5,197",
                 "Michigan Non-Resident (Per Semester) - $11,766 ",
@@ -86,8 +82,8 @@ export const saginawvalleystateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition & Fees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Tuition & Fees:",
             "data": [
                 "Michigan Resident (Per Semester) - $5,764",
                 "Michigan Non-Resident (Per Semester) - $13,113",
@@ -96,8 +92,8 @@ export const saginawvalleystateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Fees:",
-            "info": "",
+            "title": "",
+            "info": "Fees:",
             "data": [
                 "General Fees (Per Semester) - $1,253",
                 "Technology & Support Fees (Per Semester) - $563",

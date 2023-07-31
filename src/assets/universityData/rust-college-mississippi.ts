@@ -69,14 +69,10 @@ export const rustcollegemississippi = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rust College is a private, historically black, liberal arts college located in Holly Springs, Mississippi. It is affiliated with the United Methodist Church and is the second-oldest private college in the state. The college offers undergraduate and graduate degree programs in a variety of disciplines.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Rust College is a private, historically black, liberal arts college located in Holly Springs, Mississippi. It is affiliated with the United Methodist Church and is the second-oldest private college in the state. The college offers undergraduate and graduate degree programs in a variety of disciplines.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Bachelor of Science in Business Management Fee Structure: $9,100 per semester",
                 "Bachelor of Science in Computer Science Fee Structure: $9,100 per semester",
@@ -96,8 +92,8 @@ export const rustcollegemississippi = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Science in Education Fee Structure: $9,100 per semester",
                 "Master of Business Administration Fee Structure: $9,100 per semester",

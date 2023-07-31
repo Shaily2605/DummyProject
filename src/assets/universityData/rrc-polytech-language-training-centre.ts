@@ -77,9 +77,7 @@ export const rrcpolytechlanguagetrainingcentre = {
             "data": [
                 "Unfortunately, RRC Polytech - Language Training Centre does not provide its fee structure online. To get the exact information of all the courses and their respective fee structures, you will have to contact the institute directly.",
                 "You can get in contact with the institute on their official website. You can call or email the institute for further information on the courses and their fees. ",
-                "Website: https://www.rrc.ca/polytechnic/english-language-training/ ",
-                "Phone: 204-632-2327",
-                "Email: polytechnic@rrc.ca"
+                "Website: https://www.rrc.ca/polytechnic/english-language-training/ <br>Phone: 204-632-2327 <br> Email: polytechnic@rrc.ca"
             ]
         },
         {
@@ -297,7 +295,7 @@ export const rrcpolytechlanguagetrainingcentre = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus:",
             "data": [

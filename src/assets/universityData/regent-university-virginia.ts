@@ -69,14 +69,10 @@ export const regentuniversityvirginia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Regent University offers various degree programs from undergraduate to doctoral level. The fee structure for different degree programs varies. Below is the list of degree programs offered by the university along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "Regent University offers various degree programs from undergraduate to doctoral level. The fee structure for different degree programs varies. Below is the list of degree programs offered by the university along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts in Communication: $425 per credit hour",
                 "Bachelor of Science in Accounting: $425 per credit hour",

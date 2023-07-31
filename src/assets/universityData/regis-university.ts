@@ -71,14 +71,10 @@ export const regisuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Regis University offers a wide variety of undergraduate, postgraduate, and doctoral degree programs. The following is a list of all the courses offered at Regis University, Colorado, USA, along with the corresponding fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "Regis University offers a wide variety of undergraduate, postgraduate, and doctoral degree programs. The following is a list of all the courses offered at Regis University, Colorado, USA, along with the corresponding fee structures.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts in Accounting: $43,950",
                 "Bachelor of Science in Applied Science: $43,950 ",

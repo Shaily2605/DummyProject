@@ -80,14 +80,10 @@ export const rhodeislandschoolofdesign = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Courses at Rhode Island School of Design (RISD)</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Courses at Rhode Island School of Design (RISD)",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Architecture",
                 "Interior Architecture",

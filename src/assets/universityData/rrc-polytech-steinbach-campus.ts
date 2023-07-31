@@ -305,7 +305,7 @@ export const rrcpolytechsteinbachcampus = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus",
             "data": [

@@ -68,14 +68,10 @@ export const riosaladocollegearizona = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Rio Salado College offers more than 350 courses and degrees, providing flexible options and pathways to students. Below is a list of courses offered by the college and the corresponding fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees",
+            "title": "Courses and Fees",
+            "info": "Rio Salado College offers more than 350 courses and degrees, providing flexible options and pathways to students. Below is a list of courses offered by the college and the corresponding fee structure.",
+            "textBelowInfo": "<b>Associate Degrees </b>",
             "data": [
                 "Associate of Arts (A.A.) - $86 per credit",
                 "Associate of Science (A.S.) - $86 per credit",

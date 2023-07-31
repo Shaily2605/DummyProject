@@ -81,9 +81,7 @@ export const rrcpolytechportagecampus = {
             "info": "",
             "data": [
                 "Unfortunately, the website of RRC Polytech - Portage Campus does not provide detailed information about the courses and fees. To get exact information you can contact the college directly.",
-                "You can contact them through their contact details:",
-                "Phone: 204-239-6266 ",
-                "Email: portage@rrc.ca",
+                "You can contact them through their contact details:<br> Phone: 204-239-6266 <br> Email: portage@rrc.ca",
                 "Address: RRC Polytech - Portage Campus<br> 800 17th Street North<br> Portage la Prairie, MB<br> R1N 4A6"
             ]
         },

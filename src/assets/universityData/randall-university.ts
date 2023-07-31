@@ -68,14 +68,10 @@ export const randalluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Randall University offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Program:",
+            "title": "Courses and Fees",
+            "info": "Randall University offers the following courses:",
+            "textBelowInfo": "<b>Undergraduate Program: </b>",
             "data": [
                 "Bachelor of Science in Business Administration",
                 "Bachelor of Science in Computer Science",
@@ -99,7 +95,7 @@ export const randalluniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [

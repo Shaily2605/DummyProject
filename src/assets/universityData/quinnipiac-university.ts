@@ -115,8 +115,8 @@ export const quinnipiacuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses ",
             "data": [
                 "Master of Business Administration: $55,700 per year",
                 "Master of Science in Accounting: $55,700 per year",
