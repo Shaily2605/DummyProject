@@ -69,14 +69,10 @@ export const southwestcollegeomaghcampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South West College - Omagh Campus (Omagh),Northern Ireland,UK offers a wide variety of courses at both the further and higher education level.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Further Education Courses:",
+            "title": "Courses and Fees",
+            "info": "South West College - Omagh Campus (Omagh),Northern Ireland,UK offers a wide variety of courses at both the further and higher education level.",
+            "textBelowInfo": "<b>Further Education Courses: </b>",
             "data": [
                 "Access to Higher Education Diploma (Health Science)",
                 "Access to Higher Education Diploma (Social Science)",
@@ -109,7 +105,7 @@ export const southwestcollegeomaghcampus = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [

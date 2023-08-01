@@ -71,14 +71,10 @@ export const southernalbertainstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Alberta Institute of Technology offers more than 80 career programs and nearly 1200 courses. Below is a list of the courses offered by SAIT and the associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs",
+            "title": "Courses and Fees",
+            "info": "Southern Alberta Institute of Technology offers more than 80 career programs and nearly 1200 courses. Below is a list of the courses offered by SAIT and the associated fee structure.",
+            "textBelowInfo": "<b>Certificate Programs</b>",
             "data": [
                 "Accounting Technician: $3,000",
                 "Auto Body Collision Repair Technician: $3,920",

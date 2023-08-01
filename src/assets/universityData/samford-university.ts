@@ -73,14 +73,10 @@ export const samforduniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Samford University offers more than 140 undergraduate majors, minors and concentrations. Here is a list of the courses and their respective fee structures: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition and Fees (Per Semester)",
+            "title": "Courses and Fees",
+            "info": "Samford University offers more than 140 undergraduate majors, minors and concentrations. Here is a list of the courses and their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees (Per Semester)</b>",
             "data": [
                 "Tuition: $16,270",
                 "Student Activity Fee: $275",

@@ -84,14 +84,10 @@ export const shaheedmonsuralimedicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Shaheed Monsur Ali Medical College is a government medical college located in Sirajganj, Bangladesh. It was established in 2009. The college offers five-year MBBS degree course and three-year diploma course in Nursing, along with post-graduate courses in different disciplines.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "MBBS:",
+            "title": "Courses and Fees",
+            "info": "Shaheed Monsur Ali Medical College is a government medical college located in Sirajganj, Bangladesh. It was established in 2009. The college offers five-year MBBS degree course and three-year diploma course in Nursing, along with post-graduate courses in different disciplines.",
+            "textBelowInfo": "<b>MBBS: </b>",
             "data": [
                 "Duration: 5 Years",
                 "Tuition Fee: BDT 75,000/Year",

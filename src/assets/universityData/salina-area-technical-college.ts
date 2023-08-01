@@ -70,14 +70,10 @@ export const salinaareatechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Salina Area Technical College offers a variety of programs and courses across different disciplines like automotive technology, business, electrical technology, engineering technology, healthcare, etc. Below is the complete list of courses offered at the college along with the fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "1. Automotive Technology:",
-            "info": "Certificate Program:",
+            "title": "Courses and Fees",
+            "info": "Salina Area Technical College offers a variety of programs and courses across different disciplines like automotive technology, business, electrical technology, engineering technology, healthcare, etc. Below is the complete list of courses offered at the college along with the fee structure.",
+            "textBelowInfo": "<p><b>1. Automotive Technology:</b></p> <p><b>Certificate Program:</b></p>",
             "data": [
                 "Automotive Technology I: $3,072",
                 "Automotive Technology II: $3,072",

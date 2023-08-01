@@ -69,14 +69,10 @@ export const southwestcollegecookstowncampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South West College - Cookstown Campus offers a range of full-time, part-time and Higher Education courses. The following are the programs offered at the college and the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Full-Time Courses: ",
+            "title": "Courses and Fees",
+            "info": "South West College - Cookstown Campus offers a range of full-time, part-time and Higher Education courses. The following are the programs offered at the college and the associated fee structure:",
+            "textBelowInfo": "<b>Full-Time Courses: </b>",
             "data": [
                 "Business & Administration: £3,250",
                 "Engineering & Manufacturing Technologies: £3,250",

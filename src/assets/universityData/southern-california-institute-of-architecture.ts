@@ -298,7 +298,7 @@ export const southerncaliforniainstituteofarchitecture = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
             "data": [
@@ -306,7 +306,7 @@ export const southerncaliforniainstituteofarchitecture = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation:",
             "data": [

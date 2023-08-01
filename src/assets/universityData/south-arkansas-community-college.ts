@@ -69,14 +69,10 @@ export const southarkansascommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South Arkansas Community College offers a range of courses to its students. Below is a list of all the courses offered with their corresponding fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "1. Associate of Applied Science Degree in Accounting",
-            "info": "Fee Structure: ",
+            "title": "Courses and Fees",
+            "info": "South Arkansas Community College offers a range of courses to its students. Below is a list of all the courses offered with their corresponding fee structure.",
+            "textBelowInfo": "<p><b>1. Associate of Applied Science Degree in Accounting </b></p> <p>Fee Structure:</p>",
             "data": [
                 "Tuition & Fees: $6,210 ",
                 "Books & Supplies: $2,000 "
@@ -84,8 +80,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "2. Associate of Applied Science Degree in Business Administration ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "2. Associate of Applied Science Degree in Business Administration ",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420 ",
                 "Books & Supplies: $1,800"
@@ -93,8 +90,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "3. Associate of Applied Science Degree in Computer Information Technology",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "3. Associate of Applied Science Degree in Computer Information Technology",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,980 ",
                 "Books & Supplies: $2,000"
@@ -102,8 +100,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "4. Associate of Applied Science Degree in Criminal Justice ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "4. Associate of Applied Science Degree in Criminal Justice",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420 ",
                 "Books & Supplies: $1,800"
@@ -111,8 +110,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "5. Associate of Applied Science Degree in Early Childhood Education ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "5. Associate of Applied Science Degree in Early Childhood Education",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420 ",
                 "Books & Supplies: $1,800"
@@ -120,16 +120,18 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "6. Associate of Applied Science Degree in Human Services ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "6. Associate of Applied Science Degree in Human Services",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420 ",
                 "Books & Supplies: $1,800"
             ]
         }, {
             "type": "list-bollet",
-            "title": "7. Associate of Applied Science Degree in Medical Assisting ",
-            "info": "Fee Structure:",
+            "title": " ",
+            "info": "7. Associate of Applied Science Degree in Medical Assisting",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420 ",
                 "Books & Supplies: $1,800"
@@ -137,8 +139,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "8. Associate of Applied Science Degree in Nursing ",
-            "info": "Fee Structure:",
+            "title": " ",
+            "info": "8. Associate of Applied Science Degree in Nursing",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $9,450 ",
                 "Books & Supplies: $2,000"
@@ -146,8 +149,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "9. Associate of Applied Science Degree in Paramedic Sciences ",
-            "info": "Fee Structure:",
+            "title": " ",
+            "info": "9. Associate of Applied Science Degree in Paramedic Sciences",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $8,250",
                 "Books & Supplies: $1,500"
@@ -155,8 +159,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "10. Associate of Applied Science Degree in Process Technology  ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "10. Associate of Applied Science Degree in Process Technology  ",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $7,420",
                 "Books & Supplies: $1,800"
@@ -164,8 +169,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "11. Associate of Arts Degree",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "11. Associate of Arts Degree",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $6,210 ",
                 "Books & Supplies: $2,000"
@@ -173,8 +179,9 @@ export const southarkansascommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "12. Associate of Science Degree ",
-            "info": "Fee Structure:",
+            "title": "",
+            "info": "12. Associate of Science Degree ",
+            "textBelowInfo": "Fee Structure:",
             "data": [
                 "Tuition & Fees: $6,210 ",
                 "Books & Supplies: $2,000"

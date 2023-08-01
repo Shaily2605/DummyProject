@@ -72,12 +72,10 @@ export const shoalhavenrivercollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "Unfortunately, there is no definitive list of courses or fee structure for Shoalhaven River College. The best source of information is to contact the college directly for more information about the courses and fee structure.",
-            "data": [
-                "Phone: +61 2 4443 5200 <br>Email: info@src.nsw.edu.au <br>Website: https://www.src.nsw.edu.au/"
-            ]
+            "data": "<p> Phone: +61 2 4443 5200 <br>Email: info@src.nsw.edu.au <br>Website: https://www.src.nsw.edu.au/ </p>"
         },
         {
             type: "meta",

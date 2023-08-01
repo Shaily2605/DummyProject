@@ -72,14 +72,10 @@ export const southernarkansasuniversityarkansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Arkansas University offers more than 80 degree programs and minors across five academic colleges.</p> <p>Below is the list of courses offered by Southern Arkansas University with their fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "College of Business:",
+            "title": "Courses and Fees",
+            "info": "Southern Arkansas University offers more than 80 degree programs and minors across five academic colleges.",
+            "textBelowInfo": "<p>Below is the list of courses offered by Southern Arkansas University with their fee structure:</p> <p><b>College of Business: </b></p>",
             "data": [
                 "Accounting - $200 per credit hour.",
                 "Business Administration - $200 per credit hour.",

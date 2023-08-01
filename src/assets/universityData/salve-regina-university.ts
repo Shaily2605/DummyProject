@@ -79,14 +79,10 @@ export const salvereginauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a comprehensive list of courses offered at Salve Regina University with the corresponding fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The following is a comprehensive list of courses offered at Salve Regina University with the corresponding fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Accounting - $39,920",
                 "Art History - $39,920",

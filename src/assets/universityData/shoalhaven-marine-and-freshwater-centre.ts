@@ -69,14 +69,10 @@ export const shoalhavenmarineandfreshwatercentre = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Shoalhaven Marine & Freshwater Centre offers a range of courses to suit all levels of experience, knowledge and interest in aquaculture and fisheries.</p> <p>Below is a list of the courses offered, along with the associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Aquaculture:",
+            "title": "Courses and Fees",
+            "info": "The Shoalhaven Marine & Freshwater Centre offers a range of courses to suit all levels of experience, knowledge and interest in aquaculture and fisheries.",
+            "textBelowInfo": "<p>Below is a list of the courses offered, along with the associated fees:</p> <p><b>1. Aquaculture:</b></p>",
             "data": [
                 "Introduction to Aquaculture: $200",
                 "Advanced Aquaculture: $500",

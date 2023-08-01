@@ -72,14 +72,10 @@ export const salemuniversitywestvirginia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Salem University, West Virginia offers a variety of undergraduate, graduate, and professional degree programs designed to help students reach their educational and career goals. Below is a list of courses offered by the university along with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Salem University, West Virginia offers a variety of undergraduate, graduate, and professional degree programs designed to help students reach their educational and career goals. Below is a list of courses offered by the university along with their corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Bachelor of Science in Business Administration: $27,540",
                 "Bachelor of Science in Computer Science: $27,540",
@@ -91,8 +87,8 @@ export const salemuniversitywestvirginia = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Business Administration: $33,960",
                 "Master of Science in Computer Science: $33,960",
@@ -104,8 +100,8 @@ export const salemuniversitywestvirginia = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Courses:",
-            "info": "",
+            "title": "",
+            "info": "Professional Courses:",
             "data": [
                 "Doctor of Business Administration: $41,380",
                 "Doctor of Philosophy in Computer Science: $41,380",

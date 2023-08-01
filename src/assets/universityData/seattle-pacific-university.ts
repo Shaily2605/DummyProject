@@ -77,14 +77,10 @@ export const seattlepacificuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Seattle Pacific University offers more than 60 undergraduate majors and over 20 graduate programs. The tuition and fees for each of these programs can be found on the University's website. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition and Fees",
-            "info": "The undergraduate tuition and fees for the 2020-21 academic year are as follows:",
+            "title": "Courses and Fees",
+            "info": "The Seattle Pacific University offers more than 60 undergraduate majors and over 20 graduate programs. The tuition and fees for each of these programs can be found on the University's website.",
+            "textBelowInfo": "<p><b>Undergraduate Tuition and Fees</b></p> <p>The undergraduate tuition and fees for the 2020-21 academic year are as follows:</p>",
             "data": [
                 "Tuition: $40,820",
                 "Room and board: $13,700",
@@ -95,8 +91,9 @@ export const seattlepacificuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition and Fees",
-            "info": "The graduate tuition and fees for the 2020-21 academic year are as follows:",
+            "title": "",
+            "info": "Graduate Tuition and Fees",
+            "textBelowInfo": "The graduate tuition and fees for the 2020-21 academic year are as follows:",
             "data": [
                 "Tuition: $1,031 per credit hour",
                 "Student fees: $138 per credit hour",

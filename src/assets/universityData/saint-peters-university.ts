@@ -81,14 +81,10 @@ export const saintpetersuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Peter's University offers more than 70 undergraduate and graduate degree programs. Here is the list of courses offered with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Saint Peter's University offers more than 70 undergraduate and graduate degree programs. Here is the list of courses offered with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting - $1,030/credit",
                 "Biochemistry - $1,030/credit",
@@ -112,8 +108,8 @@ export const saintpetersuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Business Administration - $1,150/credit",
                 "Education - $1,150/credit",

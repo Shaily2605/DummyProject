@@ -70,14 +70,10 @@ export const setonhalluniversitynewjersey = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Seton Hall University offers a variety of undergraduate, graduate and certification courses. Below is the fee structure for each program offered at the University.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Seton Hall University offers a variety of undergraduate, graduate and certification courses. Below is the fee structure for each program offered at the University.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts/Science: $43,400/year ",
                 "Bachelor of Business Administration: $49,000/year ",

@@ -65,14 +65,10 @@ export const scrippscollegecalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Scripps College offers various courses which include degrees, joint and dual degrees, minors, and certificates.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Bachelor of Arts:",
+            "title": "Courses and Fees",
+            "info": "Scripps College offers various courses which include degrees, joint and dual degrees, minors, and certificates.",
+            "textBelowInfo": "<p><b>Undergraduate Programs: </b></p> <p><b>Bachelor of Arts:</b></p>",
             "data": [
                 "Art History",
                 "Asian Studies",
@@ -206,15 +202,11 @@ export const scrippscollegecalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Schreiner University offers more than 50 majors, minors, concentrations and pre-professional programs in areas such as business, communication, education, fine arts, health sciences, humanities and social sciences.</p> <p>The following is the list of courses and the corresponding fee structure:</p> <p>Admission to Scripps College is need-blind for international students. This means that your ability to pay for your education will not be a factor in the admission review process.</p>"
-        },
-        {
 
             "type": "list-bollet",
-            "title": "",
-            "info": "In order to be eligible for admission to Scripps College, Indian students must meet the following criteria:",
+            "title": "Eligibility Requirements",
+            "info": "Schreiner University offers more than 50 majors, minors, concentrations and pre-professional programs in areas such as business, communication, education, fine arts, health sciences, humanities and social sciences.",
+            "textBelowInfo": "<p>The following is the list of courses and the corresponding fee structure:</p> <p>Admission to Scripps College is need-blind for international students. This means that your ability to pay for your education will not be a factor in the admission review process.</p> <p>In order to be eligible for admission to Scripps College, Indian students must meet the following criteria:</p>",
             "data": [
                 "Have a high school diploma or its equivalent ",
                 "Submit a completed Common Application or Coalition Application ",
@@ -408,9 +400,9 @@ export const scrippscollegecalifornia = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus </b> <br>Scripps College offers on-campus housing to all undergraduate students. The residence halls are divided into two categories: traditional-style and suite-style. The traditional-style residence halls offer students single and double occupancy rooms with shared bathrooms. The suite-style residence halls provide students with single and double occupancy rooms with private bathrooms. All residence halls are equipped with wireless internet access and laundry facilities. ",
-               "<b>Off-Campus </b> <br>The Claremont area offers a wide array of off-campus housing options. Students can choose from apartments, townhomes, and houses located in the surrounding neighborhoods. The Claremont Community Housing Office (CCHO) is a great resource for students looking for off-campus housing. The CCHO provides listings of available rentals and assists with the rental process. ",
-               "<b>Hostel Facilities </b> <br>There are no hostel facilities on-campus or off-campus at Scripps College. However, there are several hostels located in the nearby city of Los Angeles, which is approximately 35 miles away from the college."
+                "<b>On-Campus </b> <br>Scripps College offers on-campus housing to all undergraduate students. The residence halls are divided into two categories: traditional-style and suite-style. The traditional-style residence halls offer students single and double occupancy rooms with shared bathrooms. The suite-style residence halls provide students with single and double occupancy rooms with private bathrooms. All residence halls are equipped with wireless internet access and laundry facilities. ",
+                "<b>Off-Campus </b> <br>The Claremont area offers a wide array of off-campus housing options. Students can choose from apartments, townhomes, and houses located in the surrounding neighborhoods. The Claremont Community Housing Office (CCHO) is a great resource for students looking for off-campus housing. The CCHO provides listings of available rentals and assists with the rental process. ",
+                "<b>Hostel Facilities </b> <br>There are no hostel facilities on-campus or off-campus at Scripps College. However, there are several hostels located in the nearby city of Los Angeles, which is approximately 35 miles away from the college."
             ]
         },
         {

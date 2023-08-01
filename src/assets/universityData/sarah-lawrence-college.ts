@@ -68,14 +68,10 @@ export const sarahlawrencecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sarah Lawrence College offers a wide range of undergraduate and graduate programs. The following is a list of the undergraduate and graduate programs offered by the college, along with the associated tuition fees, as of 2019-2020.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Sarah Lawrence College offers a wide range of undergraduate and graduate programs. The following is a list of the undergraduate and graduate programs offered by the college, along with the associated tuition fees, as of 2019-2020.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts (BA): $48,642",
                 "Bachelor of Science (BS): $48,642",

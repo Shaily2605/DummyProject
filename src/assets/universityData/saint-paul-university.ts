@@ -76,14 +76,10 @@ export const saintpauluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: "Courses and Fees",
-            data: "<p>Saint Paul University offers a wide range of courses in undergraduate, graduate and doctoral programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Saint Paul University offers a wide range of courses in undergraduate, graduate and doctoral programs.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts:  Tuition Fee: $7,767.04",
                 "Bachelor of Arts in Applied Studies:  Tuition Fee: $7,767.04        ",
@@ -94,8 +90,8 @@ export const saintpauluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Arts in Theological and Religious Studies:  Tuition Fee: $7,874.02      ",
                 "Master of Arts in Human Sciences:  Tuition Fee: $7,874.02",
@@ -106,8 +102,8 @@ export const saintpauluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs:",
             "data": [
                 "Doctor of Philosophy in Theology:  Tuition Fee: $7,979.00",
                 "Doctor of Philosophy in Human Sciences:  Tuition Fee: $7,979.00",
@@ -327,7 +323,7 @@ export const saintpauluniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-campus",
             "data": [

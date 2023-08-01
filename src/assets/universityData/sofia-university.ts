@@ -72,14 +72,10 @@ export const sofiauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sofia University offers a range of graduate and undergraduate programs. Below is a list of all the courses and their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Sofia University offers a range of graduate and undergraduate programs. Below is a list of all the courses and their respective fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts in Psychology: $24,900 per year",
                 "Bachelor of Science in Computer Science: $24,900 per year",

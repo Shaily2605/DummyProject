@@ -68,14 +68,10 @@ export const southeastarkansascollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southeast Arkansas College offers more than 30 degrees and certificates in various fields of study.</p> <p>Below is the list of all the courses offered by the college along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts (A.A.):",
+            "title": "Courses and Fees",
+            "info": "Southeast Arkansas College offers more than 30 degrees and certificates in various fields of study.",
+            "textBelowInfo": "<p>Below is the list of all the courses offered by the college along with their respective fee structure:</p> <p><b>Associate of Arts (A.A.):</b></p>",
             "data": [
                 "Tuition & Fees: $1,964 per semester",
                 "Books & Supplies: $1,200 per semester"

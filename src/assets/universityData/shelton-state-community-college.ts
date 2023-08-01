@@ -301,7 +301,7 @@ export const sheltonstatecommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodations:",
             "data": [
@@ -322,7 +322,7 @@ export const sheltonstatecommunitycollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities: ",
             "data": [

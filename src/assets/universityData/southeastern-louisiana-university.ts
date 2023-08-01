@@ -70,14 +70,10 @@ export const southeasternlouisianauniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the fee structure of Southeastern Louisiana University, Louisiana, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition & Fees",
+            "title": "Courses and Fees",
+            "info": "Below is the fee structure of Southeastern Louisiana University, Louisiana, USA:",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees </b>",
             "data": [
                 "Louisiana Resident: $7,664 per year",
                 "Non-Louisiana Resident: $17,498 per year  ",

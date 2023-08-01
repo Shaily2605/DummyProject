@@ -71,14 +71,10 @@ export const southernadventistuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Adventist University in Tennessee, USA offers various programs at undergraduate and graduate levels. Here is the information about its courses and fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Southern Adventist University in Tennessee, USA offers various programs at undergraduate and graduate levels. Here is the information about its courses and fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: Tuition Fee - $19,716",
                 "Biology: Tuition Fee - $19,716",

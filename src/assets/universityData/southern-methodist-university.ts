@@ -71,14 +71,10 @@ export const southernmethodistuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Methodist University offers various undergraduate, graduate, and professional courses. Below is the list of courses along with the tuition fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "Southern Methodist University offers various undergraduate, graduate, and professional courses. Below is the list of courses along with the tuition fee structures:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Business Administration: $49,180",
                 "Computer Science: $49,180",

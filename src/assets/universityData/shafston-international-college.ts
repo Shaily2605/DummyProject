@@ -67,14 +67,9 @@ export const shafstoninternationalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Undergraduate Courses:",
             "data": [
                 "Diploma of Business (BSB50215): The Diploma of Business is an Australian Qualifications Framework (AQF) Level 5 qualification and is designed to give you the skills to pursue a professional career in business. The course provides you with the opportunity to develop knowledge and skills in areas such as business law, accounting, marketing and communication.",
                 "Fee Structure: The tuition fee for the Diploma of Business is AUD 16,000. This includes course materials and textbooks.",
@@ -84,8 +79,8 @@ export const shafstoninternationalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Business Administration (MBA): The Master of Business Administration (MBA) is an Australian Qualifications Framework (AQF) Level 9 qualification and is designed to give you the skills to pursue a professional career in business. The course provides you with the opportunity to develop knowledge and skills in areas such as strategic management, economics, accounting and finance.",
                 "Fee Structure: The tuition fee for the Master of Business Administration is AUD 28,000. This includes course materials and textbooks.",

@@ -68,14 +68,10 @@ export const seattleuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Seattle University, Washington, USA offers various courses for its undergraduate and graduate students. The fee structure and tuition for each course varies depending on the program and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Seattle University, Washington, USA offers various courses for its undergraduate and graduate students. The fee structure and tuition for each course varies depending on the program and the student's residency status.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Accounting: $935 per credit for in-state and out-of-state students.",
                 "Biology: $935 per credit for in-state and out-of-state students.",
@@ -92,8 +88,8 @@ export const seattleuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting: $1,210 per credit for in-state and out-of-state students.",
                 "Business Administration: $1,210 per credit for in-state and out-of-state students.",

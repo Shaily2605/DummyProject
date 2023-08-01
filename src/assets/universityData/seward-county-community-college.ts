@@ -70,27 +70,82 @@ export const sewardcountycommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The Seward County Community College, Kansas, USA has a wide range of courses available for its students. The following table provides information about the different courses available along with their fee structure:",
-            "data": [
-                "Course: Associate in Arts | Fee: $172.00 Per Credit Hour",
-                "Course: Associate in Science | Fee: $172.00 Per Credit Hour",
-                "Course: Associate in Applied Science | Fee: $172.00 Per Credit Hour",
-                "Course: General Education | Fee: $172.00 Per Credit Hour",
-                "Course: Business Administration | Fee: $188.00 Per Credit Hour",
-                "Course: Healthcare Administration | Fee: $188.00 Per Credit Hour",
-                "Course: Computer Science | Fee: $188.00 Per Credit Hour",
-                "Course: Criminal Justice | Fee: $188.00 Per Credit Hour",
-                "Course: Nursing | Fee: $188.00 Per Credit Hour",
-                "Course: Elementary Education | Fee: $188.00 Per Credit Hour",
-                "Course: Physical Education | Fee: $188.00 Per Credit Hour",
-                "Course: Paralegal Studies | Fee: $188.00 Per Credit Hour",
-                "Course: Fire Science | Fee: $188.00 Per Credit Hour",
-                "Course: Emergency Medical Services | Fee: $188.00 Per Credit Hour",
-                "Course: Automotive Technology | Fee: $188.00 Per Credit Hour",
-                "Course: Welding Technology | Fee: $188.00 Per Credit Hour",
-                "Course: Graphic Design | Fee: $188.00 Per Credit Hour"
+            "col": [
+                "Course",
+                "Fee",
+            ],
+            "row": [
+                {
+                    "Course": "<b>Associate in Arts </b>",
+                    "Fee": "$172.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Associate in Science </b>",
+                    "Fee": "$172.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Associate in Applied Science </b>",
+                    "Fee": "$172.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>General Education </b>",
+                    "Fee": "$172.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Business Administration </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Healthcare Administration </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Computer Science </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Criminal Justice </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Nursing </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Elementary Education </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Physical Education </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Paralegal Studies </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Fire Science </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Emergency Medical Services </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Automotive Technology </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Welding Technology </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
+                {
+                    "Course": "<b>Graphic Design </b>",
+                    "Fee": "$188.00 Per Credit Hour"
+                },
             ]
         },
         {

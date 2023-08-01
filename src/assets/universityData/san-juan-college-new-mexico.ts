@@ -70,14 +70,10 @@ export const sanjuancollegenewmexico = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>San Juan College offers a variety of certificate and degree programs, as well as continuing education and community education courses. All tuition and fees are subject to change without prior notice.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Associate Degree Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "San Juan College offers a variety of certificate and degree programs, as well as continuing education and community education courses. All tuition and fees are subject to change without prior notice.",
+            "textBelowInfo": "<b>Associate Degree Programs </b>",
             "data": [
                 "Accounting - $170 per credit hour",
                 "Anthropology - $170 per credit hour",
@@ -110,8 +106,8 @@ export const sanjuancollegenewmexico = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs",
             "data": [
                 "Accounting - $170 per credit hour",
                 "Administrative Office Technology - $170 per credit hour",
@@ -130,8 +126,8 @@ export const sanjuancollegenewmexico = {
         },
         {
             "type": "list-bollet",
-            "title": "Continuing Education & Community Education",
-            "info": "",
+            "title": "",
+            "info": "Continuing Education & Community Education",
             "data": [
                 "Non-Credit Courses - $50 per course",
                 "Community Education Courses - $50 per course"

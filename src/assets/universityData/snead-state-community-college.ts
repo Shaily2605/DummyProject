@@ -70,11 +70,6 @@ export const sneadstatecommunitycollege = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: '',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -87,9 +82,9 @@ export const sneadstatecommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "Below is the fee structure for all the courses offered by Snead State Community College:",
-            "textBelowInfo": "<b>Tuition & Fees:</b>",
+            "title": "",
+            "info": "Certificate Programs",
+            "textBelowInfo": "<p>Below is the fee structure for all the courses offered by Snead State Community College:</p> <p><b>Tuition & Fees:</b></p>",
             "data": [
                 "In-State: $4,000 per semester",
                 "Out-of-State: $7,400 per semester"

@@ -75,14 +75,10 @@ export const saskatchewaninstituteofappliedscienceandtechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Saskatchewan Institute of Applied Science and Technology (SIAST) offers a wide range of certificate, diploma, and degree programs. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "The following Certificate programs are offered at SIAST Palliser:",
+            "title": "Courses and Fees",
+            "info": "The Saskatchewan Institute of Applied Science and Technology (SIAST) offers a wide range of certificate, diploma, and degree programs.",
+            "textBelowInfo": "<p><b>Certificate Programs</b></p> <p>The following Certificate programs are offered at SIAST Palliser:</p> ",
             "data": [
                 "Business Administration",
                 "Computer Science",
@@ -98,8 +94,9 @@ export const saskatchewaninstituteofappliedscienceandtechnology = {
         },
         {
             "type": "list-bollet",
-            "title": "Diploma Programs",
-            "info": "The following Diploma programs are offered at SIAST Palliser:",
+            "title": "",
+            "info": "Diploma Programs",
+            "textBelowInfo": "The following Diploma programs are offered at SIAST Palliser:",
             "data": [
                 "Business Administration",
                 "Computer Science",
@@ -114,8 +111,9 @@ export const saskatchewaninstituteofappliedscienceandtechnology = {
         },
         {
             "type": "list-bollet",
-            "title": "Degree Programs",
-            "info": "The following Degree programs are offered at SIAST Palliser:",
+            "title": "",
+            "info": "Degree Programs",
+            "textBelowInfo": "The following Degree programs are offered at SIAST Palliser:",
             "data": [
                 "Bachelor of Health Care Administration",
                 "Bachelor of Technology",
@@ -124,7 +122,7 @@ export const saskatchewaninstituteofappliedscienceandtechnology = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure",
             "info": "",
             "data": [

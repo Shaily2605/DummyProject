@@ -71,14 +71,10 @@ export const samuelmerrittuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Samuel Merritt University offers a range of degree programs in the health sciences. Below is a list of the available degree programs with their associated tuition and fees for the 2020-2021 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Samuel Merritt University offers a range of degree programs in the health sciences. Below is a list of the available degree programs with their associated tuition and fees for the 2020-2021 academic year.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Science in Nursing: $20,720 per year",
                 "Bachelor of Science in Physical Therapy: $23,700 per year",
@@ -323,7 +319,7 @@ export const samuelmerrittuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "",
             "data": [

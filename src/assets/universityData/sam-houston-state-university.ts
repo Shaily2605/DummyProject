@@ -70,14 +70,10 @@ export const samhoustonstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sam Houston State University offers a wide range of courses. Below are the details for the courses offered along with their fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Sam Houston State University offers a wide range of courses. Below are the details for the courses offered along with their fee structure: ",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "Bachelor of Arts in Criminal Justice: $6,000 per semester. ",
                 "Bachelor of Science in Nursing: $6,000 per semester. ",

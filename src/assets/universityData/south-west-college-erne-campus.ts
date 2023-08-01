@@ -69,14 +69,10 @@ export const southwestcollegeernecampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South West College - Erne Campus (Enniskillen) offers following courses with fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Level Courses",
+            "title": "Courses and Fees",
+            "info": "South West College - Erne Campus (Enniskillen) offers following courses with fee structure:",
+            "textBelowInfo": "<b>Certificate Level Courses </b>",
             "data": [
                 "Level 2 Certificate in Further Education and Training (QCF) – £1,890",
                 "Level 2 Certificate in Hospitality and Catering (QCF) – £1,890",

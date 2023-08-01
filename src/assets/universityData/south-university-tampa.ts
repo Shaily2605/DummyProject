@@ -69,14 +69,10 @@ export const southuniversitytampa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South University, Tampa offers the following courses with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Bachelor of Science in Business Administration:",
+            "title": "Courses and Fees",
+            "info": "South University, Tampa offers the following courses with their respective fee structures:",
+            "textBelowInfo": "<b>1. Bachelor of Science in Business Administration: </b>",
             "data": [
                 "Tuition: $520 per credit hour",
                 "Books & Supplies: $1,800 per semester"

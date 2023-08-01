@@ -70,14 +70,10 @@ export const southernarkansasuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Arkansas University Tech offers a variety of Associate Degrees, Certificates and Certifications in the following areas:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees:",
+            "title": "Courses and Fees",
+            "info": "Southern Arkansas University Tech offers a variety of Associate Degrees, Certificates and Certifications in the following areas:",
+            "textBelowInfo": "<b>Associate Degrees: </b>",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -107,9 +103,9 @@ export const southernarkansasuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "type": "text",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "Tuition and fees vary depending on the program you choose. Tuition for a full-time student taking 15 credit hours per semester is estimated at $2,364.00. Fees are approximately $100-$200 per semester. Additional costs such as books, supplies, and transportation may also be required. For more detailed information, please visit the university's website."
             ]

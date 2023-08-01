@@ -83,14 +83,10 @@ export const santafecollegeflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Santa Fe College offers over 100 associate degree and certificate programs. Below is the list of courses offered along with the fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate in Arts (AA) ",
+            "title": "Courses and Fees",
+            "info": "Santa Fe College offers over 100 associate degree and certificate programs. Below is the list of courses offered along with the fee structure:",
+            "textBelowInfo": "<b>Associate in Arts (AA) </b>",
             "data": [
                 "Tuition & Fees - $2,948.90*",
                 "Technology Fee - $48.00 ",

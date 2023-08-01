@@ -68,14 +68,10 @@ export const sanjosestateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The fee structure for San Jose State University in California depends on the type of course and the number of credit hours. The following list provides an overview of the fees for undergraduate and graduate courses for the 2020-2021 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The fee structure for San Jose State University in California depends on the type of course and the number of credit hours. The following list provides an overview of the fees for undergraduate and graduate courses for the 2020-2021 academic year.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Tuition and Fees: $7,788 per semester for California residents or $18,788 per semester for non-residents ",
                 "Books & Supplies: $1,400 ",
@@ -84,8 +80,8 @@ export const sanjosestateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Tuition and Fees: $8,366 per semester for California residents or $19,366 per semester for non-residents ",
                 "Books & Supplies: $1,400 ",

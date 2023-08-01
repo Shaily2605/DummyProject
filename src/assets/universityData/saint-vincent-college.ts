@@ -95,7 +95,7 @@ export const saintvincentcollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure",
             "info": "",
             "data": [

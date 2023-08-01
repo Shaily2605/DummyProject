@@ -70,14 +70,10 @@ export const schillerinternationaluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Schiller International University, Florida, USA offers a wide range of courses at its Florida campus. The courses are offered in the categories of Undergraduate and Graduate. The undergraduate courses are divided into Associate and Bachelor, and the graduate courses are divided into Master and Doctorate. The fee structure for these courses is as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Associate Programs:",
+            "title": "Courses and Fees",
+            "info": "Schiller International University, Florida, USA offers a wide range of courses at its Florida campus. The courses are offered in the categories of Undergraduate and Graduate. The undergraduate courses are divided into Associate and Bachelor, and the graduate courses are divided into Master and Doctorate. The fee structure for these courses is as follows:",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>Associate Programs: </b></p>",
             "data": [
                 "Business Administration: $7,000 per semester",
                 "Computer Science: $7,000 per semester         ",
@@ -96,8 +92,9 @@ export const schillerinternationaluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "Master Programs:",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "<b>Master Programs: </b>",
             "data": [
                 "Business Administration: $15,000 per semester",
                 "Computer Science: $15,000 per semester",

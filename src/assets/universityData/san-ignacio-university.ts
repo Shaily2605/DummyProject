@@ -68,14 +68,10 @@ export const sanignaciouniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of the courses offered at San Ignacio University, Florida, USA, along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The following is a list of the courses offered at San Ignacio University, Florida, USA, along with their respective fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Science in Business Administration: $9,000 per semester",
                 "Bachelor of Science in Computer Science: $9,000 per semester",
@@ -90,8 +86,8 @@ export const sanignaciouniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Science in Business Administration: $13,000 per semester",
                 "Master of Science in Computer Science: $13,000 per semester",

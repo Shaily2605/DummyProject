@@ -69,14 +69,10 @@ export const southeasternbiblecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southeastern Bible College offers Associate, Bachelor, and Master's degrees in various disciplines of arts, humanities, sciences, and theology. They also offer certificate and diploma programs. Below is a list of courses they offer and their fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "ASSOCIATE DEGREE",
+            "title": "Courses and Fees",
+            "info": "Southeastern Bible College offers Associate, Bachelor, and Master's degrees in various disciplines of arts, humanities, sciences, and theology. They also offer certificate and diploma programs. Below is a list of courses they offer and their fee structure.",
+            "textBelowInfo": "<b>ASSOCIATE DEGREE </b>",
             "data": [
                 "Associate of Arts in Biblical Studies - $10,500",
                 "Associate of Arts in Christian Ministry - $10,500",

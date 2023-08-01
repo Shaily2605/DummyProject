@@ -91,8 +91,8 @@ export const sansistocollegequeensland = {
         },
         {
             "type": "list-bollet",
-            "title": "Fee Structure:",
-            "info": "",
+            "title": "",
+            "info": "Fee Structure:",
             "data": [
                 "Early Childhood Education: $2,000 per year",
                 "Primary Education: $2,500 per year",

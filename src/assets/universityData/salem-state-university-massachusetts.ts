@@ -70,14 +70,10 @@ export const salemstateuniversitymassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following provides a list of all courses offered by Salem State University and the associated fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Business:",
+            "title": "Courses and Fees",
+            "info": "The following provides a list of all courses offered by Salem State University and the associated fees:",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>Business: </b></p>",
             "data": [
                 "Accounting: $1,720/ credit",
                 "Finance: $1,720/ credit   ",

@@ -72,14 +72,10 @@ export const southernmainecommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Maine Community College offers a wide variety of degrees and certificates. Below is a list of degrees, certificates and cost estimates for each program.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees",
+            "title": "Courses and Fees",
+            "info": "Southern Maine Community College offers a wide variety of degrees and certificates. Below is a list of degrees, certificates and cost estimates for each program.",
+            "textBelowInfo": "<b>Associate Degrees </b>",
             "data": [
                 "Accounting  $4,800",
                 "Business Administration $4,800",

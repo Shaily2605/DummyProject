@@ -138,8 +138,9 @@ export const southernillinoisuniversityedwardsville = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "Accounting",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "<b>Accounting</b>",
             "data": [
                 "M.S. in Accounting - $13,868"
             ]

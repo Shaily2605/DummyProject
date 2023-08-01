@@ -168,16 +168,8 @@ export const schoolofvisualarts = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "info": "",
-            "data": [
-                "The School of Visual Arts (SVA) requires all international students to have a valid student visa in order to study at the school. Applicants must have an 'F-1' student visa in order to be admitted as a degree student.",
-                "In order to qualify for an F-1 student visa, applicants must meet the following criteria:"
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "info": "The School of Visual Arts (SVA) requires all international students to have a valid student visa in order to study at the school. Applicants must have an 'F-1' student visa in order to be admitted as a degree student.",
+            "textBelowInfo": "In order to qualify for an F-1 student visa, applicants must meet the following criteria:",
             "data": [
                 "Have sufficient financial resources to cover tuition and living expenses for the duration of the study program;",
                 "Provide evidence of academic qualifications and/or professional experience for the program of study;",

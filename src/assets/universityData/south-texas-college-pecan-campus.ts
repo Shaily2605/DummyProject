@@ -69,14 +69,10 @@ export const southtexascollegepecancampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South Texas College- Pecan Campus offers a wide range of courses and programs. The college provides certificate, Associate degree and transfer programs. The fee structure for these courses and programs varies depending on the type of course and program chosen.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs:",
+            "title": "Courses and Fees",
+            "info": "South Texas College- Pecan Campus offers a wide range of courses and programs. The college provides certificate, Associate degree and transfer programs. The fee structure for these courses and programs varies depending on the type of course and program chosen.",
+            "textBelowInfo": "<b>Certificate Programs:</b>",
             "data": [
                 "Business Office Administration - $1,299.00",
                 "Computer Aided Drafting and Design - $1,399.00",

@@ -69,14 +69,10 @@ export const sanantoniocollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>San Antonio College offers more than 100 degree and certificate programs in a variety of career and transfer education fields. The college has some of the lowest tuition rates in the Alamo Colleges District.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Below is a list of some of the most popular programs offered at San Antonio College:",
+            "title": "Courses and Fees",
+            "info": "San Antonio College offers more than 100 degree and certificate programs in a variety of career and transfer education fields. The college has some of the lowest tuition rates in the Alamo Colleges District.",
+            "textBelowInfo": "Below is a list of some of the most popular programs offered at San Antonio College:",
             "data": [
                 "Associate of Arts in Arts and Science",
                 "Associate of Arts in Business",

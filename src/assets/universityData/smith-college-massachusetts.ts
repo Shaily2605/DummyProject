@@ -72,14 +72,10 @@ export const smithcollegemassachusetts = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is the list of courses offered and the fee structure at Smith College, Massachusetts, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition and Fees",
+            "title": "Courses and Fees",
+            "info": "The following is the list of courses offered and the fee structure at Smith College, Massachusetts, USA:",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees </b>",
             "data": [
                 "Tuition: $54,320",
                 "Room and Board: $15,408 ",
@@ -97,8 +93,9 @@ export const smithcollegemassachusetts = {
         },
         {
             "type": "list-bollet",
-            "title": "Courses offered:",
-            "info": "Undergraduate Courses",
+            "title": "",
+            "info": "Courses offered:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "African American Studies",
                 "Anthropology",

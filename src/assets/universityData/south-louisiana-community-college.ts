@@ -69,14 +69,10 @@ export const southlouisianacommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>South Louisiana Community College offers a wide range of courses. The tuition for each course varies, depending on the type of course, credits and residency status of the student.</p> <p>Below is a breakdown of the Tuition & Fees for the academic year 2020-2021:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Tuition, per credit hour:",
+            "title": "Courses and Fees",
+            "info": "South Louisiana Community College offers a wide range of courses. The tuition for each course varies, depending on the type of course, credits and residency status of the student.",
+            "textBelowInfo": "<p>Below is a breakdown of the Tuition & Fees for the academic year 2020-2021:</p> <p><b>Tuition, per credit hour:</b></p>",
             "data": [
                 "In-state: $128",
                 "Out-of-state: $256",

@@ -70,14 +70,10 @@ export const saskatchewanindianinstituteoftechnologies = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Saskatchewan Indian Institute of Technologies (SIIT) Head Office, Saskatchewan, Canada offers a range of courses, including the following:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Programs:",
+            "title": "Courses and Fees",
+            "info": "The Saskatchewan Indian Institute of Technologies (SIIT) Head Office, Saskatchewan, Canada offers a range of courses, including the following:",
+            "textBelowInfo": "<b>Diploma Programs: </b>",
             "data": [
                 "Automotive Service Technician",
                 "Business Administration",
@@ -111,7 +107,7 @@ export const saskatchewanindianinstituteoftechnologies = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [
