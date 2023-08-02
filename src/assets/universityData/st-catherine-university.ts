@@ -72,14 +72,10 @@ export const stcatherineuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Catherine University offers a variety of undergraduate and graduate degree programs. The following is the list of degree programs with their associated tuition costs for the 2021–2022 academic year:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "St. Catherine University offers a variety of undergraduate and graduate degree programs. The following is the list of degree programs with their associated tuition costs for the 2021–2022 academic year:",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts – $37,780",
                 "Bachelor of Science – $37,780",

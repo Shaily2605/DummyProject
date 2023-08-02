@@ -66371,6 +66371,649 @@ const routes: Routes = [
     path: 'vancouver-career-college-burnaby/faq/.',
     component: UniversityConComponent
   },
+
+
+   {
+    path: 'vancouver-film-school-vfs/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-film-school-vfs/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'vancouver-institute-of-media-arts/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-institute-of-media-arts/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vancouver-island-university-nanaimo/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vancouver-island-university-nanaimo/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vanderbilt-university-tennessee/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanderbilt-university-tennessee/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vanguard-college-edmonton/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-college-edmonton/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vanguard-university-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vanguard-university-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vargas-university-florida/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vargas-university-florida/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vaughn-college-new-york/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vaughn-college-new-york/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vcc-downtown-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vcc-downtown-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vermont-technical-college-vermont/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vermont-technical-college-vermont/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'vernon-college-student-center/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vernon-college-student-center/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'victoria-college-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victoria-college-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'victor-valley-college-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'victor-valley-college-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'villanova-university-pennsylvania/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'villanova-university-pennsylvania/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 @NgModule({

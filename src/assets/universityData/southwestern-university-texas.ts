@@ -328,15 +328,22 @@ export const southwesternuniversitytexas = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus",
+            "textBelowInfo": "Southwestern University offers two on-campus housing options: The Commons and The Village.",
             "data": [
-                "<b>On-Campus </b> <br>Southwestern University offers two on-campus housing options: The Commons and The Village.",
-                "<b>The Commons: </b> <br>The Commons is located on the Southwestern University campus. It is a suite-style residence hall, with double occupancy rooms and private bathrooms. There are study lounges, computer labs, and a laundry facility on each floor. There is also a recreational area with a pool and basketball court.",
-                "<b>The Village: </b> <br>The Village is an apartment-style residence hall and is also located on the Southwestern University campus. It offers one-, two-, and four-bedroom apartments. Each apartment has a living room, kitchen, and bathroom. There are study lounges, computer labs, and laundry facilities on each floor.",
-                "<b>Off-Campus </b> <br>Southwestern University also offers off-campus housing options. These include student apartments, dorms, and hostels.",
-                "<b>Student Apartments: </b> <br>There are many student apartments located near the Southwestern University campus. These offer a variety of amenities, such as furnished rooms, kitchens, and laundry facilities.",
-                "<b>Dorms: </b> <br>There are several dorms located near the Southwestern University campus. These offer double and single occupancy rooms, as well as study and recreation areas.",
-                "<b>Hostels: </b> <br>There are several hostels located near the Southwestern University campus. These offer a variety of amenities, such as shared rooms, kitchens, and laundry facilities.",
+                "<b>The Commons: </b> The Commons is located on the Southwestern University campus. It is a suite-style residence hall, with double occupancy rooms and private bathrooms. There are study lounges, computer labs, and a laundry facility on each floor. There is also a recreational area with a pool and basketball court.",
+                "<b>The Village: </b> The Village is an apartment-style residence hall and is also located on the Southwestern University campus. It offers one-, two-, and four-bedroom apartments. Each apartment has a living room, kitchen, and bathroom. There are study lounges, computer labs, and laundry facilities on each floor."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus",
+            "textBelowInfo": "Southwestern University also offers off-campus housing options. These include student apartments, dorms, and hostels.",
+            "data": [
+                "<b>Student Apartments: </b> There are many student apartments located near the Southwestern University campus. These offer a variety of amenities, such as furnished rooms, kitchens, and laundry facilities.",
+                "<b>Dorms: </b> There are several dorms located near the Southwestern University campus. These offer double and single occupancy rooms, as well as study and recreation areas.",
+                "<b>Hostels: </b> There are several hostels located near the Southwestern University campus. These offer a variety of amenities, such as shared rooms, kitchens, and laundry facilities.",
             ]
         },
         {

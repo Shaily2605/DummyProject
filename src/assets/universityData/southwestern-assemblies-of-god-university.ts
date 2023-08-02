@@ -68,47 +68,125 @@ export const southwesternassembliesofgoduniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The Southwestern Assemblies of God University (SAGU) in Texas offers a range of undergraduate, graduate and postgraduate courses. The following table provides an overview of the courses and their respective fee structures for the 2020/2021 academic year.",
             "textBelowInfo": "<b>Undergraduate Courses</b>",
-            "data": [
-                "Bible & Theology	                $14,800",
-                "Business	                        $14,800",
-                "Communication	                    $14,800",
-                "Computer Science	                $14,800",
-                "Criminal Justice	                $14,800",
-                "Education	                        $14,800",
-                "Intercultural Studies	            $14,800",
-                "Kinesiology	                    $14,800",
-                "Music	                            $14,800",
-                "Nursing	                        $14,800",
-                "Psychology	                        $14,800"
+            "col": [
+                "Course Name",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course Name": "<b>Bible & Theology</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Business</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Communication</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Computer Science	</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Criminal Justice</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Education</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Intercultural Studies</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Kinesiology</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Music</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Nursing</b>",
+                    "Tuition Fee": "$14,800"
+                },
+                {
+                    "Course Name": "<b>Psychology</b>",
+                    "Tuition Fee": "$14,800"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Courses",
-            "data": [
-                "Business Administration	        $7,400",
-                "Christian Ministry	                $7,400",
-                "Counseling	                        $7,400",
-                "Education	                        $7,400",
-                "Intercultural Studies	            $7,400",
-                "Leadership & Management	        $7,400",
-                "Pastoral Leadership	            $7,400"
+            "col": [
+                "Course Name",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course Name": "<b>Business Administration</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Christian Ministry</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Counseling</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Education</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Intercultural Studies</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Leadership & Management</b>",
+                    "Tuition Fee": "$7,400"
+                },
+                {
+                    "Course Name": "<b>Pastoral Leadership</b>",
+                    "Tuition Fee": "$7,400"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Postgraduate Courses",
-            "data": [
-                "Doctor of Business Administration	$13,000",
-                "Doctor of Ministry	                $13,000",
-                "Doctor of Psychology	            $13,000",
-                "Education Specialist	            $13,000"
+            "col": [
+                "Course Name",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course Name": "<b>Doctor of Business Administration</b>",
+                    "Tuition Fee": "$13,000"
+                },
+                {
+                    "Course Name": "<b>Doctor of Ministry</b>",
+                    "Tuition Fee": "$13,000"
+                },
+                {
+                    "Course Name": "<b>Doctor of Psychology</b>",
+                    "Tuition Fee": "$13,000"
+                },
+                {
+                    "Course Name": "<b>Education Specialist</b>",
+                    "Tuition Fee": "$13,000"
+                }
             ]
         },
         {
@@ -326,7 +404,7 @@ export const southwesternassembliesofgoduniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "Southwestern Assemblies of God University offers a range of on-campus housing options, ranging from traditional residence halls to apartment-style complexes. All residence halls are co-ed and feature community bathrooms. All on-campus accommodation options offer internet access, cable television, and on-site laundry facilities.<br> <b>Traditional Residence Halls:</b>",
+            "textBelowInfo": "Southwestern Assemblies of God University offers a range of on-campus housing options, ranging from traditional residence halls to apartment-style complexes. All residence halls are co-ed and feature community bathrooms. All on-campus accommodation options offer internet access, cable television, and on-site laundry facilities.<br><br> <b>Traditional Residence Halls:</b>",
             "data": [
                 "Gee Hall",
                 "Lang Hall",
@@ -343,7 +421,7 @@ export const southwesternassembliesofgoduniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [
@@ -351,7 +429,7 @@ export const southwesternassembliesofgoduniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

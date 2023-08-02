@@ -69,14 +69,10 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern West Virginia Community & Technical College offers a variety of programs and courses for students to choose from. The college offers Associate Degree and Certificate programs in a wide range of fields including Business, Education, Engineering, Health Sciences, Human Services, Arts and Sciences and Information Technology.</p> <p>Below are the courses offered at Southern West Virginia Community & Technical College along with their fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degree Programs:",
+            "title": "Courses and Fees",
+            "info": "Southern West Virginia Community & Technical College offers a variety of programs and courses for students to choose from. The college offers Associate Degree and Certificate programs in a wide range of fields including Business, Education, Engineering, Health Sciences, Human Services, Arts and Sciences and Information Technology.",
+            "textBelowInfo": "<p>Below are the courses offered at Southern West Virginia Community & Technical College along with their fee structure.</p> <p><b>Associate Degree Programs:</b></p>",
             "data": [
                 "Associate of Arts (AA)		 	        $6,200 (per year)",
                 "Associate of Science (AS)              $6,200 (per year) ",

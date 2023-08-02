@@ -302,15 +302,22 @@ export const southwesternuniversityflorida = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "Accommodation on Campus:",
+            "textBelowInfo": "Southwestern University offers traditional residence halls and apartment-style housing options on its campus.",
             "data": [
-                "<b>Accommodation on Campus: </b> <br>Southwestern University offers traditional residence halls and apartment-style housing options on its campus.",
-                "<b>Traditional Residence Halls: </b> <br>The traditional residence halls on campus provide students with a traditional college experience. These residence halls are located near academic buildings, dining facilities, and other student services.",
-                "<b>Apartments: </b> <br>Southwestern University also offers apartment-style housing for upperclassmen, graduate students, and faculty members. These apartments feature private bedrooms, kitchenettes, and full-sized bathrooms.",
-                "<b>Off-Campus Hostel Facilities: </b> <br>Southwestern University is located near a variety of off-campus hostel facilities. These facilities offer students a comfortable and convenient place to stay while attending the university.",
-                "<b>Local Hotels: </b> <br>Local hotels located near Southwestern University are a great option for students who are looking for off-campus accommodations. These hotels offer a variety of amenities and services, including pools, fitness centers, and complimentary breakfast.",
-                "<b>Airbnb: </b> <br>Airbnb is another popular option for students looking for off-campus accommodations. Airbnb offers a variety of rental options in the area, including single rooms, entire homes, and apartments.",
-                "<b>University Housing: </b> <br>The university also offers off-campus housing for students who are looking for a more independent living experience. These housing options are typically located close to campus and provide students with a safe and comfortable living environment.",
+                "<b>Traditional Residence Halls: </b> The traditional residence halls on campus provide students with a traditional college experience. These residence halls are located near academic buildings, dining facilities, and other student services.",
+                "<b>Apartments: </b> Southwestern University also offers apartment-style housing for upperclassmen, graduate students, and faculty members. These apartments feature private bedrooms, kitchenettes, and full-sized bathrooms."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Hostel Facilities:",
+            "textBelowInfo": "Southwestern University is located near a variety of off-campus hostel facilities. These facilities offer students a comfortable and convenient place to stay while attending the university.",
+            "data": [
+                "<b>Local Hotels: </b> Local hotels located near Southwestern University are a great option for students who are looking for off-campus accommodations. These hotels offer a variety of amenities and services, including pools, fitness centers, and complimentary breakfast.",
+                "<b>Airbnb: </b> Airbnb is another popular option for students looking for off-campus accommodations. Airbnb offers a variety of rental options in the area, including single rooms, entire homes, and apartments.",
+                "<b>University Housing: </b> The university also offers off-campus housing for students who are looking for a more independent living experience. These housing options are typically located close to campus and provide students with a safe and comfortable living environment.",
             ]
         },
         {

@@ -70,14 +70,10 @@ export const standrewsuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is a list of all the courses offered by St. Andrews University, North Carolina, USA, with their corresponding tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The following is a list of all the courses offered by St. Andrews University, North Carolina, USA, with their corresponding tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Business Administration: $26,250 per semester",
                 "Bachelor of Arts in English: $24,600 per semester",

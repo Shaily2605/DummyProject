@@ -119,7 +119,7 @@ export const spartanburgcommunitycollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure for Undergraduate Degree Programs:",
             "data": [
@@ -341,7 +341,7 @@ export const spartanburgcommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
             "data": [

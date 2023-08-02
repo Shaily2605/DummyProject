@@ -316,16 +316,23 @@ export const southwesternoklahomastateuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "Southwestern Oklahoma State University offers on-campus student housing to all of its students. All students living in University housing are required to purchase a board plan. The on-campus housing facilities at Southwestern Oklahoma State University include The Suites, The Village, and The Lodge.",
             "data": [
-              "<b>On-Campus Accommodation: </b> <br>Southwestern Oklahoma State University offers on-campus student housing to all of its students. All students living in University housing are required to purchase a board plan. The on-campus housing facilities at Southwestern Oklahoma State University include The Suites, The Village, and The Lodge.",
-              "<b>The Suites: </b> <br>The Suites is the newest residence hall on the SWOSU campus. It features two-bedroom apartments with full kitchens, a common area and a study room. The Suites is located in the center of campus and is also close to the student union, library, and dining hall.",
-              "<b>The Village: </b> <br>The Village is the second newest residence hall at SWOSU. It provides two-bedroom apartments with full kitchens, a common area, and a study room. The Village is located close to the student union, library, and dining hall.",
-              "<b>The Lodge: </b> <br>The Lodge is the oldest residence hall on the SWOSU campus. It features traditional dormitory-style housing with two-bedroom suites, a common area, and a study room. The Lodge is located close to the student union, library, and dining hall.",
-              "<b>Off-Campus Accommodation: </b> <br>Southwestern Oklahoma State University also offers off-campus accommodation options to its students. These options include student apartments, private residences, and hostels.",
-              "<b>Student Apartments: </b> <br>There are several student apartments located within walking distance of the Southwestern Oklahoma State University campus. These apartments offer a variety of amenities such as private bedrooms, full kitchens, and common areas.",
-              "<b>Private Residences: </b> <br>There are also a number of private residences located close to the Southwestern Oklahoma State University campus. These residences offer more privacy than student apartments and typically include a shared kitchen, living space, and common areas.",
-              "<b>Hostels: </b> <br>There are several hostels located within walking distance of the Southwestern Oklahoma State University campus. These hostels offer a range of amenities including private rooms, shared kitchens, and common areas.",
+              "<b>The Suites: </b> The Suites is the newest residence hall on the SWOSU campus. It features two-bedroom apartments with full kitchens, a common area and a study room. The Suites is located in the center of campus and is also close to the student union, library, and dining hall.",
+              "<b>The Village: </b> The Village is the second newest residence hall at SWOSU. It provides two-bedroom apartments with full kitchens, a common area, and a study room. The Village is located close to the student union, library, and dining hall.",
+              "<b>The Lodge: </b> The Lodge is the oldest residence hall on the SWOSU campus. It features traditional dormitory-style housing with two-bedroom suites, a common area, and a study room. The Lodge is located close to the student union, library, and dining hall."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "Southwestern Oklahoma State University also offers off-campus accommodation options to its students. These options include student apartments, private residences, and hostels.",
+            "data": [
+              "<b>Student Apartments: </b> There are several student apartments located within walking distance of the Southwestern Oklahoma State University campus. These apartments offer a variety of amenities such as private bedrooms, full kitchens, and common areas.",
+              "<b>Private Residences: </b> There are also a number of private residences located close to the Southwestern Oklahoma State University campus. These residences offer more privacy than student apartments and typically include a shared kitchen, living space, and common areas.",
+              "<b>Hostels: </b> There are several hostels located within walking distance of the Southwestern Oklahoma State University campus. These hostels offer a range of amenities including private rooms, shared kitchens, and common areas.",
             ]
         },
         {

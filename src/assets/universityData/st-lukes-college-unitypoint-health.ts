@@ -93,7 +93,7 @@ export const stlukescollegeunitypointhealth = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure: ",
             "data": [

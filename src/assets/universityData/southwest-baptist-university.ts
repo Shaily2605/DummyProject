@@ -70,13 +70,10 @@ export const southwestbaptistuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
-            "data": [
-                "The Southwest Baptist University offers more than 80 undergraduate and graduate degree programs and areas of study. To view the list of courses offered at Southwest Baptist University, please visit the link below:<br>https://www.sbuniv.edu/academics/programs.php",
-                "To view the fee structure for the courses offered at Southwest Baptist University, please visit the link below: <br> https://www.sbuniv.edu/financial-aid/tuition-fees.php"
-            ]
+            "data": "<p>The Southwest Baptist University offers more than 80 undergraduate and graduate degree programs and areas of study. To view the list of courses offered at Southwest Baptist University, please visit the link below:<br>https://www.sbuniv.edu/academics/programs.php</p> <p>To view the fee structure for the courses offered at Southwest Baptist University, please visit the link below: <br> https://www.sbuniv.edu/financial-aid/tuition-fees.php</p>"
         },
         {
             type: "meta",

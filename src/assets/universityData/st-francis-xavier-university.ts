@@ -118,7 +118,7 @@ export const stfrancisxavieruniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [
@@ -345,9 +345,9 @@ export const stfrancisxavieruniversity = {
             "title": "Hostel",
             "info": "ON-CAMPUS ACCOMMODATION",
             "data": [
-                "<b>MacKinnon Residence:</b> <br>MacKinnon Residence is a beautiful and modern upper-year residence located on the St. Francis Xavier University campus. This residence offers single and double occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
-                "<b>Morrison Hall:</b> <br>Morrison Hall is an upper-year residence located on the main St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
-                "<b>St. Andrew’s Hall:</b> <br>St. Andrew’s Hall is a traditional residence located on the main St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas."
+                "<b>MacKinnon Residence:</b> MacKinnon Residence is a beautiful and modern upper-year residence located on the St. Francis Xavier University campus. This residence offers single and double occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
+                "<b>Morrison Hall:</b> Morrison Hall is an upper-year residence located on the main St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
+                "<b>St. Andrew’s Hall:</b> St. Andrew’s Hall is a traditional residence located on the main St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas."
             ]
         },
         {
@@ -355,9 +355,9 @@ export const stfrancisxavieruniversity = {
             "title": "",
             "info": "OFF-CAMPUS ACCOMMODATION",
             "data": [
-                "<b>Fergus Court:</b> <br>Fergus Court is a modern off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
-                "<b>Quigley Hall:</b> <br>Quigley Hall is an off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
-                "<b>The Lodge at Bayview:</b> <br>The Lodge at Bayview is an off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas."
+                "<b>Fergus Court:</b> Fergus Court is a modern off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
+                "<b>Quigley Hall:</b> Quigley Hall is an off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas.",
+                "<b>The Lodge at Bayview:</b> The Lodge at Bayview is an off-campus student residence located within walking distance of the St. Francis Xavier University campus. This residence offers single, double, and triple occupancy rooms with private bathrooms, and common lounge and kitchen areas."
             ]
         },
         {

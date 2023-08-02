@@ -76,14 +76,10 @@ export const stmarycopticorthodoxcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St Mary Coptic Orthodox College offers a range of programs from Pre-Kindergarten to Year 12. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Pre-Kindergarten:",
+            "title": "Courses and Fees",
+            "info": "St Mary Coptic Orthodox College offers a range of programs from Pre-Kindergarten to Year 12. ",
+            "textBelowInfo": "<b>Pre-Kindergarten:</b>",
             "data": [
                 "Tuition Fee: $4,160/year",
                 "Enrolment Fee: $330/child",

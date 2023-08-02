@@ -429,16 +429,23 @@ export const stdunstansuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "St. Dunstan's University offers a variety of on-campus accommodation options for students, including residence halls, apartments, and townhouses. The University also offers a meal plan for all residents.",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>St. Dunstan's University offers a variety of on-campus accommodation options for students, including residence halls, apartments, and townhouses. The University also offers a meal plan for all residents.",
-                "<b>Residence Halls: </b> <br>St. Dunstan's University offers a variety of residence halls, ranging from single rooms to four-bedroom apartments. Each residence hall is equipped with a kitchen, common room, laundry facilities, and computer lab.",
-                "<b>Apartments: </b> <br>St. Dunstan's University also offers a variety of apartments, ranging from one-bedroom to four-bedroom units. Apartments are fully furnished and include a kitchen, living room, and laundry facilities.",
-                "<b>Townhouses: </b> <br>St. Dunstan's University also offers townhouses for students. Townhouses are fully furnished and include a kitchen, living room, and laundry facilities.",
-                "<b>Off-Campus Accommodation: </b> <br>St. Dunstan's University also offers a variety of off-campus accommodation options for students. These include hostels, apartments, and houses.",
-                "<b>Hostels: </b> <br>St. Dunstan's University offers a variety of hostels for students. Hostels are fully furnished and include a kitchen, living room, and laundry facilities.",
-                "<b>Apartments: </b> <br>St. Dunstan's University also offers a variety of apartments for students. Apartments are fully furnished and include a kitchen, living room, and laundry facilities.",
-                "<b>Houses: </b> <br>St. Dunstan's University also offers a variety of houses for students. Houses are fully furnished and include a kitchen, living room, and laundry facilities."
+                "<b>Residence Halls: </b> St. Dunstan's University offers a variety of residence halls, ranging from single rooms to four-bedroom apartments. Each residence hall is equipped with a kitchen, common room, laundry facilities, and computer lab.",
+                "<b>Apartments: </b> St. Dunstan's University also offers a variety of apartments, ranging from one-bedroom to four-bedroom units. Apartments are fully furnished and include a kitchen, living room, and laundry facilities.",
+                "<b>Townhouses: </b> St. Dunstan's University also offers townhouses for students. Townhouses are fully furnished and include a kitchen, living room, and laundry facilities."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "St. Dunstan's University also offers a variety of off-campus accommodation options for students. These include hostels, apartments, and houses.",
+            "data": [
+                "<b>Hostels: </b> St. Dunstan's University offers a variety of hostels for students. Hostels are fully furnished and include a kitchen, living room, and laundry facilities.",
+                "<b>Apartments: </b> St. Dunstan's University also offers a variety of apartments for students. Apartments are fully furnished and include a kitchen, living room, and laundry facilities.",
+                "<b>Houses: </b> St. Dunstan's University also offers a variety of houses for students. Houses are fully furnished and include a kitchen, living room, and laundry facilities."
             ]
         },
         {

@@ -1466,6 +1466,20 @@ import * as valleycollegewestvirginia from '../../assets/universityData/valley-c
 import * as valleyforgemilitaryacademyandcollege from '../../assets/universityData/valley-forge-military-academy-and-college'
 import * as valparaisouniversityindiana from '../../assets/universityData/valparaiso-university-indiana'
 import * as vancouvercareercollegeburnaby from '../../assets/universityData/vancouver-career-college-burnaby'
+import * as vancouverfilmschoolvfs from '../../assets/universityData/vancouver-film-school-vfs'
+import * as vancouverinstituteofmediaarts from '../../assets/universityData/vancouver-institute-of-media-arts'
+import * as vancouverislanduniversitynanaimo from '../../assets/universityData/vancouver-island-university-nanaimo'
+import * as vanderbiltuniversitytennessee from '../../assets/universityData/vanderbilt-university-tennessee'
+import * as vanguardcollegeedmonton from '../../assets/universityData/vanguard-college-edmonton'
+import * as vanguarduniversitycalifornia from '../../assets/universityData/vanguard-university-california'
+import * as vargasuniversityflorida from '../../assets/universityData/vargas-university-florida'
+import * as vaughncollegenewyork from '../../assets/universityData/vaughn-college-new-york'
+import * as vccdowntowncampus from '../../assets/universityData/vcc-downtown-campus'
+import * as vermonttechnicalcollegevermont from '../../assets/universityData/vermont-technical-college-vermont'
+import * as vernoncollegestudentcenter from '../../assets/universityData/vernon-college-student-center'
+import * as victoriacollegetexas from '../../assets/universityData/victoria-college-texas'
+import * as victorvalleycollegecalifornia from '../../assets/universityData/victor-valley-college-california'
+import * as villanovauniversitypennsylvania from '../../assets/universityData/villanova-university-pennsylvania'
 
 
 export {
@@ -2930,6 +2944,20 @@ export {
     valleyforgemilitaryacademyandcollege,
     valparaisouniversityindiana,
     vancouvercareercollegeburnaby,
+    vancouverfilmschoolvfs,
+    vancouverinstituteofmediaarts,
+    vancouverislanduniversitynanaimo,
+    vanderbiltuniversitytennessee,
+    vanguardcollegeedmonton,
+    vanguarduniversitycalifornia,
+    vargasuniversityflorida,
+    vaughncollegenewyork,
+    vccdowntowncampus,
+    vermonttechnicalcollegevermont,
+    vernoncollegestudentcenter,
+    victoriacollegetexas,
+    victorvalleycollegecalifornia,
+    villanovauniversitypennsylvania,
     
 
 }

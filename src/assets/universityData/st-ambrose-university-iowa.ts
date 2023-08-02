@@ -71,14 +71,10 @@ export const stambroseuniversityiowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Ambrose University, Iowa, USA offers a wide range of undergraduate and postgraduate courses. Below is a list of some of the courses offered along with the fee structure for the same:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "St. Ambrose University, Iowa, USA offers a wide range of undergraduate and postgraduate courses. Below is a list of some of the courses offered along with the fee structure for the same:",
+            "txetBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Accounting: $32,400",
                 "Biology: $31,850",
@@ -345,7 +341,7 @@ export const stambroseuniversityiowa = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

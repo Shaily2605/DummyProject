@@ -130,14 +130,10 @@ export const stjohnscollegemaryland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>St. John's College is a private liberal arts college located in Annapolis and Santa Fe, with an emphasis on a traditional Great Books curriculum.</p> <p>Admission to St. John’s College is competitive, and the college seeks students who are highly motivated and intellectually curious. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission, Indian students must meet the following requirements:",
+            "title": "Eligibility Requirements",
+            "info": "St. John's College is a private liberal arts college located in Annapolis and Santa Fe, with an emphasis on a traditional Great Books curriculum.</p> <p>Admission to St. John’s College is competitive, and the college seeks students who are highly motivated and intellectually curious.",
+            "textBelowInfo": "To be eligible for admission, Indian students must meet the following requirements:",
             "data": [
                 "Be a graduate from an accredited school. ",
                 "Submit official secondary school transcripts. ",

@@ -70,14 +70,10 @@ export const southernnazareneuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Southern Nazarene University in Oklahoma offers undergraduate, graduate and doctoral degrees in a variety of fields. Below is a list of the courses offered by the university along with their associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Southern Nazarene University in Oklahoma offers undergraduate, graduate and doctoral degrees in a variety of fields. Below is a list of the courses offered by the university along with their associated fee structure.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $19,830 per year",
                 "Business Administration: $19,830 per year",

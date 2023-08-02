@@ -70,7 +70,7 @@ export const southernwesleyanuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
             "data": [
