@@ -1442,6 +1442,7 @@ import * as universityofwisconsinriverfalls from '../../assets/universityData/un
 import * as universityofwisconsinstout from '../../assets/universityData/university-of-wisconsin-stout'
 import * as universityofwollongongbatemansbaycampus from '../../assets/universityData/university-of-wollongong-batemans-bay-campus'
 import * as universityofwollongongshoalhavencampus from '../../assets/universityData/university-of-wollongong-shoalhaven-campus'
+import * as universityofwollongongsouthernhighlandscampus from '../../assets/universityData/university-of-wollongong-southern-highlands-campus'
 import * as universityofwollongongwollongongcampus from '../../assets/universityData/university-of-wollongong-wollongong-campus'
 import * as universityofwollongongnewsouthwales from '../../assets/universityData/university-of-wollongong-new-south-wales'
 import * as universityofworchetserengland from '../../assets/universityData/university-of-worchetser-england'
@@ -1480,7 +1481,41 @@ import * as vernoncollegestudentcenter from '../../assets/universityData/vernon-
 import * as victoriacollegetexas from '../../assets/universityData/victoria-college-texas'
 import * as victorvalleycollegecalifornia from '../../assets/universityData/victor-valley-college-california'
 import * as villanovauniversitypennsylvania from '../../assets/universityData/villanova-university-pennsylvania'
-
+import * as virginiacollegealabama from '../../assets/universityData/virginia-college-alabama'
+import * as virginiacommonwealthuniversity from '../../assets/universityData/virginia-commonwealth-university'
+import * as virginiamilitaryinstitutevirginia from '../../assets/universityData/virginia-military-institute-virginia'
+import * as virginiastateuniversityvirginia from '../../assets/universityData/virginia-state-university-virginia'
+import * as virginiatechvirginia from '../../assets/universityData/virginia-tech-virginia'
+import * as visualcollegeofartanddesign from '../../assets/universityData/visual-college-of-art-and-design'
+import * as viterbouniversitywisconsin from '../../assets/universityData/viterbo-university-wisconsin'
+import * as vmcadcollegeohio from '../../assets/universityData/vmcad-college-ohio'
+import * as voorheescollegesouthcarolina from '../../assets/universityData/voorhees-college-south-carolina'
+import * as wabashcollegeindiana from '../../assets/universityData/wabash-college-indiana'
+import * as wadecollegetexas from '../../assets/universityData/wade-college-texas'
+import * as wagnercollegenewyork from '../../assets/universityData/wagner-college-new-york'
+import * as wakeforestuniversitynorthcarolina from '../../assets/universityData/wake-forest-university-north-carolina'
+import * as waldorfuniversityiowa from '../../assets/universityData/waldorf-university-iowa'
+import * as wallacestatecommunitycollegealabama from '../../assets/universityData/wallace-state-community-college-alabama'
+import * as wallawallauniversitywashington from '../../assets/universityData/walla-walla-university-washington'
+import * as walshuniversityohio from '../../assets/universityData/walsh-university-ohio'
+import * as warnerpacificuniversityoregon from '../../assets/universityData/warner-pacific-university-oregon'
+import * as warneruniversityflorida from '../../assets/universityData/warner-university-florida'
+import * as warrenwilsoncollegenorthcarolina from '../../assets/universityData/warren-wilson-college-north-carolina'
+import * as wartburgcollegeiowa from '../../assets/universityData/wartburg-college-iowa'
+import * as washburnuniversitykansas from '../../assets/universityData/washburn-university-kansas'
+import * as washingtonadventistuniversitymaryland from '../../assets/universityData/washington-adventist-university-maryland'
+import * as washingtonandjeffersoncollege from '../../assets/universityData/washington-and-jefferson-college'
+import * as washingtonandleeuniversityvirginia from '../../assets/universityData/washington-and-lee-university-virginia'
+import * as washingtoncollegemaryland from '../../assets/universityData/washington-college-maryland'
+import * as washingtonstateuniversity from '../../assets/universityData/washington-state-university'
+import * as washingtonuniversityinstlouis from '../../assets/universityData/washington-university-in-st-louis'
+import * as waylandbaptistuniversityalaska from '../../assets/universityData/wayland-baptist-university-alaska'
+import * as waylandbaptistuniversitytexas from '../../assets/universityData/wayland-baptist-university-texas'
+import * as waynestatecollegenebraska from '../../assets/universityData/wayne-state-college-nebraska'
+import * as waynestateuniversitymichigan from '../../assets/universityData/wayne-state-university-michigan'
+import * as weatherfordcollegetexas from '../../assets/universityData/weatherford-college-texas'
+import * as webbinstitutenewyork from '../../assets/universityData/webb-institute-new-york'
+import * as weberstateuniversityutah from '../../assets/universityData/weber-state-university-utah'
 
 export {
 
@@ -2920,6 +2955,7 @@ export {
     universityofwisconsinstout,
     universityofwollongongbatemansbaycampus,
     universityofwollongongshoalhavencampus,
+    universityofwollongongsouthernhighlandscampus,
     universityofwollongongwollongongcampus,
     universityofwollongongnewsouthwales,
     universityofworchetserengland,
@@ -2958,6 +2994,41 @@ export {
     victoriacollegetexas,
     victorvalleycollegecalifornia,
     villanovauniversitypennsylvania,
+    virginiacollegealabama,
+    virginiacommonwealthuniversity,
+    virginiamilitaryinstitutevirginia,
+    virginiastateuniversityvirginia,
+    virginiatechvirginia,
+    visualcollegeofartanddesign,
+    viterbouniversitywisconsin,
+    vmcadcollegeohio,
+    voorheescollegesouthcarolina,
+    wabashcollegeindiana,
+    wadecollegetexas,
+    wagnercollegenewyork,
+    wakeforestuniversitynorthcarolina,
+    waldorfuniversityiowa,
+    wallacestatecommunitycollegealabama,
+    wallawallauniversitywashington,
+    walshuniversityohio,
+    warnerpacificuniversityoregon,
+    warneruniversityflorida,
+    warrenwilsoncollegenorthcarolina,
+    wartburgcollegeiowa,
+    washburnuniversitykansas,
+    washingtonadventistuniversitymaryland,
+    washingtonandjeffersoncollege,
+    washingtonandleeuniversityvirginia,
+    washingtoncollegemaryland,
+    washingtonstateuniversity,
+    washingtonuniversityinstlouis,
+    waylandbaptistuniversityalaska,
+    waylandbaptistuniversitytexas,
+    waynestatecollegenebraska,
+    waynestateuniversitymichigan,
+    weatherfordcollegetexas,
+    webbinstitutenewyork,
+    weberstateuniversityutah,
     
 
 }

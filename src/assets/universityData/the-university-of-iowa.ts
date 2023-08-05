@@ -81,14 +81,10 @@ export const theuniversityofiowa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Iowa offers over 100 areas of study for undergraduate students. Tuition and fees for Iowa residents and nonresidents for the 2018-19 academic year are listed below.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition & Fees (2018-19):",
-            "info": "Iowa Residents:",
+            "title": "Courses and Fees",
+            "info": "The University of Iowa offers over 100 areas of study for undergraduate students. Tuition and fees for Iowa residents and nonresidents for the 2018-19 academic year are listed below.",
+            "textBelowInfo": "<p><b>Undergraduate Tuition & Fees (2018-19): </b></p> <p><b>Iowa Residents:</b></p>",
             "data": [
                 "Tuition & Fees: $9,086",
                 "Books & Supplies: $1,155",
@@ -107,8 +103,9 @@ export const theuniversityofiowa = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition & Fees (2018-19):",
-            "info": "Iowa Residents:",
+            "title": "",
+            "info": "Graduate Tuition & Fees (2018-19):",
+            "textBelowInfo": "Iowa Residents:",
             "data": [
                 "Tuition & Fees: $12,842",
                 "Books & Supplies: $1,155",
@@ -332,7 +329,7 @@ export const theuniversityofiowa = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

@@ -69,14 +69,10 @@ export const tafequeenslandacaciaridgecampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>TAFE Queensland Acacia Ridge Campus offers a range of courses, including Certificate, Diploma, Advanced Diploma and Short Courses.</p> <p>The fees for each course vary depending on the type of course and the duration of the course. Generally, Certificate courses range from $2,000 to $4,000, Diploma courses range from $4,000 to $6,000, and Advanced Diploma courses range from $6,000 to $18,000.</p> <p>The following is a list of courses offered at TAFE Queensland Acacia Ridge Campus with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Certificate",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "TAFE Queensland Acacia Ridge Campus offers a range of courses, including Certificate, Diploma, Advanced Diploma and Short Courses.",
+            "textBelowInfo": "<p>The fees for each course vary depending on the type of course and the duration of the course. Generally, Certificate courses range from $2,000 to $4,000, Diploma courses range from $4,000 to $6,000, and Advanced Diploma courses range from $6,000 to $18,000.</p> <p>The following is a list of courses offered at TAFE Queensland Acacia Ridge Campus with their corresponding fees:</p> <p><b>Certificate</b></p>",
             "data": [
                 "Certificate III in Business Administration (BSB30115) - $3,500",
                 "Certificate III in Early Childhood Education and Care (CHC30113) - $3,500",
@@ -87,8 +83,8 @@ export const tafequeenslandacaciaridgecampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Diploma",
-            "info": "",
+            "title": "",
+            "info": "Diploma",
             "data": [
                 "Diploma of Business (BSB50215) - $5,000",
                 "Diploma of Early Childhood Education and Care (CHC50113) - $5,500",
@@ -98,8 +94,8 @@ export const tafequeenslandacaciaridgecampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Advanced Diploma",
-            "info": "",
+            "title": "",
+            "info": "Advanced Diploma",
             "data": [
                 "Advanced Diploma of Leadership and Management (BSB61015) - $18,000",
                 "Advanced Diploma of Hospitality Management (SIT60316) - $12,000"
@@ -107,8 +103,8 @@ export const tafequeenslandacaciaridgecampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Short Courses",
-            "info": "",
+            "title": "",
+            "info": "Short Courses",
             "data": [
                 "Food Safety Supervisor Short Course (SITXFSS001) - $400",
                 "Responsible Service of Alcohol (RSA) Short Course (SITHFAB002) - $350",

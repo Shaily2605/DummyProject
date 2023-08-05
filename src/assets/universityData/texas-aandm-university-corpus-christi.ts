@@ -68,14 +68,10 @@ export const texasaandmuniversitycorpuschristi = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas A&M University-Corpus Christi offers a wide range of undergraduate and graduate degree programs. Below is the list of courses with fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Texas A&M University-Corpus Christi offers a wide range of undergraduate and graduate degree programs. Below is the list of courses with fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting - $8,407",
                 "Aerospace Sciences - $8,407",
@@ -116,8 +112,8 @@ export const texasaandmuniversitycorpuschristi = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Accounting - $13,943",
                 "Aerospace Sciences - $13,943",

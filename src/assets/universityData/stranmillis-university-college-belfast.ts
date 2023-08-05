@@ -322,7 +322,7 @@ export const stranmillisuniversitycollegebelfast = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Hostels",
             "data": [

@@ -71,14 +71,10 @@ export const stevenshenagercollegeutah = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stevens-Henager College in Utah offers a variety of programs in the fields of health sciences, business, information technology, and design.</p> <p>Below is a list of all the courses offered by Stevens-Henager College in Utah, USA, along with their associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Health Sciences",
+            "title": "Courses and Fees",
+            "info": "Stevens-Henager College in Utah offers a variety of programs in the fields of health sciences, business, information technology, and design.",
+            "textBelowInfo": "<p>Below is a list of all the courses offered by Stevens-Henager College in Utah, USA, along with their associated fee structure:</p> <p><b>Health Sciences</b></p>",
             "data": [
                 "Associate of Science in Nursing: $22,550",
                 "Associate of Applied Science in Medical Assisting: $15,250",

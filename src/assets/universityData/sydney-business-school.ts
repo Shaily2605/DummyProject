@@ -68,14 +68,10 @@ export const sydneybusinessschool = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Sydney Business School offers a range of postgraduate programs in business, management, finance and marketing. The fee structure for these programs varies depending on the program and the student’s residency status.</p> <p>The fees for the 2020/21 academic year are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Australian/NZ/International Students",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Sydney Business School offers a range of postgraduate programs in business, management, finance and marketing. The fee structure for these programs varies depending on the program and the student’s residency status.",
+            "textBelowInfo": "<p>The fees for the 2020/21 academic year are as follows:</p> <p><b>Australian/NZ/International Students</b></p>",
             "data": [
                 "MBA: $59,500",
                 "MBA (Advanced): $44,500",
@@ -92,8 +88,8 @@ export const sydneybusinessschool = {
         },
         {
             "type": "list-bollet",
-            "title": "International Students",
-            "info": " ",
+            "title": "",
+            "info": "International Students",
             "data": [
                 "MBA: $78,000",
                 "MBA (Advanced): $59,000 ",

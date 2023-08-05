@@ -75,12 +75,11 @@ export const theuniversityofnewmexicovalenciacampus = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "UNM Valencia Campus offers many associate degree and certificate programs. You can view the list of degree and certificate programs and their associated tuition and fees here: ",
-                "https://valencia.unm.edu/admissions-and-aid/tuition-and-fees.html"
+                "UNM Valencia Campus offers many associate degree and certificate programs. You can view the list of degree and certificate programs and their associated tuition and fees here: <br>https://valencia.unm.edu/admissions-and-aid/tuition-and-fees.html"
             ]
         },
         {

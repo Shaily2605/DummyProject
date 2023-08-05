@@ -70,14 +70,10 @@ export const theuniversityoftexasatelpaso = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas at El Paso offers a wide range of undergraduate and graduate courses. The fee structure for these courses vary depending on the program and the student's status (in-state or out-of-state). Below are the tuition and fees for all undergraduate and graduate programs offered by the university.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition & Fees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas at El Paso offers a wide range of undergraduate and graduate courses. The fee structure for these courses vary depending on the program and the student's status (in-state or out-of-state). Below are the tuition and fees for all undergraduate and graduate programs offered by the university.",
+            "textBelowInfo": "<b>Undergraduate Tuition & Fees: </b>",
             "data": [
                 "In-State Tuition & Fees: $9,816",
                 "Out-of-State Tuition & Fees: $22,672"
@@ -85,8 +81,8 @@ export const theuniversityoftexasatelpaso = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition & Fees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Tuition & Fees:",
             "data": [
                 "In-State Tuition & Fees: $9,784",
                 "Out-of-State Tuition & Fees: $22,640"

@@ -69,14 +69,10 @@ export const thecollegeofstscholastica = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The College of St. Scholastica offers undergraduate, graduate, and doctoral degree programs. The following is the list of courses offered by the college along with the fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The College of St. Scholastica offers undergraduate, graduate, and doctoral degree programs. The following is the list of courses offered by the college along with the fee structure.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $22,780/year",
                 "Art: $22,780/year",

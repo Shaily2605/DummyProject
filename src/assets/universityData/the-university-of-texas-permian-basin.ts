@@ -67,14 +67,10 @@ export const theuniversityoftexaspermianbasin = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas Permian Basin offers a diverse range of undergraduate and graduate programs. The university offers more than fifty undergraduate and graduate degrees as well as an Associate Degree in Arts and Sciences.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas Permian Basin offers a diverse range of undergraduate and graduate programs. The university offers more than fifty undergraduate and graduate degrees as well as an Associate Degree in Arts and Sciences.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts (BA)",
                 "Bachelor of Business Administration (BBA)",
@@ -85,8 +81,8 @@ export const theuniversityoftexaspermianbasin = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs: ",
             "data": [
                 "Master of Arts (MA)",
                 "Master of Business Administration (MBA)",

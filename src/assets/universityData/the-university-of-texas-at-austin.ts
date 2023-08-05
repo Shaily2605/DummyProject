@@ -78,14 +78,10 @@ export const theuniversityoftexasataustin = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas at Austin offers over 100 undergraduate and 170 graduate degree programs and certificates. The cost of tuition varies by program, as well as by residency status, and is subject to change each academic year.</p> <p>To view an estimated cost of tuition and fees for the current academic year, please visit the Office of the Registrar's Tuition & Fees page.</p> <p>The following is a list of undergraduate degree and certificate programs offered at The University of Texas at Austin:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degree Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas at Austin offers over 100 undergraduate and 170 graduate degree programs and certificates. The cost of tuition varies by program, as well as by residency status, and is subject to change each academic year.",
+            "textBelowInfo": "<p>To view an estimated cost of tuition and fees for the current academic year, please visit the Office of the Registrar's Tuition & Fees page.</p> <p>The following is a list of undergraduate degree and certificate programs offered at The University of Texas at Austin:</p> <p><b>Undergraduate Degree Programs:</b></p>",
             "data": [
                 "Accounting",
                 "Aerospace Engineering",

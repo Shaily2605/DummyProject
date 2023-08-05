@@ -68,14 +68,10 @@ export const thecollegeofnewjersey = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The College of New Jersey (TCNJ) offers a wide range of educational programs for undergraduate, graduate, and doctoral students. The tuition and fees for each program vary depending on the level of study.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For undergraduate students, tuition and fees are as follows: ",
+            "title": "Courses and Fees",
+            "info": "The College of New Jersey (TCNJ) offers a wide range of educational programs for undergraduate, graduate, and doctoral students. The tuition and fees for each program vary depending on the level of study.",
+            "textBelowInfo": "<b>For undergraduate students, tuition and fees are as follows: </b>",
             "data": [
                 "Tuition (per semester): $15,450 ",
                 "Fees (per semester): $1,527 ",

@@ -68,14 +68,10 @@ export const texaschristianuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>A list of undergraduate programs and associated tuition rates are available on the Texas Christian University website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs & Tuition",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "A list of undergraduate programs and associated tuition rates are available on the Texas Christian University website.",
+            "textBelowInfo": "<b>Undergraduate Programs & Tuition </b>",
             "data": [
                 "Accounting: $43,600",
                 "Business Administration: $43,600",
@@ -148,14 +144,10 @@ export const texaschristianuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Texas Christian University’s admission requirements for Indian students are the same as those for all international students. All international students must provide proof of English language proficiency.</p> <p>In order to be eligible for admission, applicants must have achieved a cumulative grade point average of 2.5 or higher on a 4.0 scale for all college-level work and/or a cumulative grade point average of 3.0 or higher on a 4.0 scale for the last 60 semester hours or 90 quarter hours of college-level work.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Applicants must also submit the following documents: ",
+            "title": "Eligibility Requirements",
+            "info": "Texas Christian University’s admission requirements for Indian students are the same as those for all international students. All international students must provide proof of English language proficiency.</p> <p>In order to be eligible for admission, applicants must have achieved a cumulative grade point average of 2.5 or higher on a 4.0 scale for all college-level work and/or a cumulative grade point average of 3.0 or higher on a 4.0 scale for the last 60 semester hours or 90 quarter hours of college-level work.",
+            "textBelowInfo": "Applicants must also submit the following documents: ",
             "data": [
                 "Official transcripts from all post-secondary institutions attended",
                 "Official examination scores from either the SAT or ACT",
@@ -352,9 +344,9 @@ export const texaschristianuniversity = {
             "info": "On-Campus Accommodation",
             "textBelowInfo": "Texas Christian University offers a variety of on-campus housing options for students. On-campus accommodations include traditional residence halls, suite-style housing, and apartment-style housing. ",
             "data": [
-                "<b>Traditional Residence Halls: </b> <br>The University offers six traditional residence halls to choose from, each of which features single and double occupancy rooms, community bathrooms, and a variety of amenities such as laundry facilities, study lounges, and computer labs.",
-                "<b>Suite-Style Housing: </b> <br>The University also offers two suite-style housing options – Moncrief Hall and University House. These facilities offer two or four bedroom suites with private bathrooms, living and dining areas, and kitchens.",
-                "<b>Apartment-Style Housing: </b> <br>Finally, the University offers three apartment-style housing options – the Brown-Lupton University Union, Tom Brown/Pete Wright, and University Village. These facilities offer two and four bedroom apartments, each of which comes with a living room, kitchen, and private bathroom."
+                "<b>Traditional Residence Halls: </b> The University offers six traditional residence halls to choose from, each of which features single and double occupancy rooms, community bathrooms, and a variety of amenities such as laundry facilities, study lounges, and computer labs.",
+                "<b>Suite-Style Housing: </b> The University also offers two suite-style housing options – Moncrief Hall and University House. These facilities offer two or four bedroom suites with private bathrooms, living and dining areas, and kitchens.",
+                "<b>Apartment-Style Housing: </b> Finally, the University offers three apartment-style housing options – the Brown-Lupton University Union, Tom Brown/Pete Wright, and University Village. These facilities offer two and four bedroom apartments, each of which comes with a living room, kitchen, and private bathroom."
             ]
         },
         {
@@ -363,8 +355,8 @@ export const texaschristianuniversity = {
             "info": "Off-Campus Accommodation",
             "textBelowInfo": "Texas Christian University also offers off-campus housing options to students. These include student apartments and student hostels. ",
             "data": [
-                "<b>Student Apartments: </b> <br>Student apartments are a popular option for students looking for off-campus housing. These apartments offer a variety of amenities, such as fully-equipped kitchens, living rooms, and private bathrooms.",
-                "<b>Student Hostels: </b> <br>Student hostels are another option for students looking for off-campus accommodation. These hostels offer basic amenities such as shared bathrooms, shared kitchens, and common areas."
+                "<b>Student Apartments: </b> Student apartments are a popular option for students looking for off-campus housing. These apartments offer a variety of amenities, such as fully-equipped kitchens, living rooms, and private bathrooms.",
+                "<b>Student Hostels: </b> Student hostels are another option for students looking for off-campus accommodation. These hostels offer basic amenities such as shared bathrooms, shared kitchens, and common areas."
             ]
         },
         {

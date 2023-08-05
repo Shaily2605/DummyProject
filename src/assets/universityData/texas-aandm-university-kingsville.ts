@@ -169,14 +169,10 @@ export const texasaandmuniversitykingsville = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Admission requirements for Indian students to Texas A&M University - Kingsville vary depending on the type of program you wish to pursue.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For undergraduate applicants, you will need to submit all of the following:",
+            "title": "Eligibility Requirements",
+            "info": "Admission requirements for Indian students to Texas A&M University - Kingsville vary depending on the type of program you wish to pursue.",
+            "textBelowInfo": "For undergraduate applicants, you will need to submit all of the following:",
             "data": [
                 "Official transcripts from high school/secondary school",
                 "Official transcripts from all colleges/universities attended",

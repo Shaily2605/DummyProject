@@ -133,14 +133,10 @@ export const theuniversityofakronohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The University of Akron offers undergraduate and graduate programs to both domestic and international students. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "To be eligible for admission, international students must meet the following criteria:",
+            "title": "Eligibility Requirements",
+            "info": "The University of Akron offers undergraduate and graduate programs to both domestic and international students.",
+            "textBelowInfo": "To be eligible for admission, international students must meet the following criteria:",
             "data": [
                 "Hold a high school diploma or equivalent, as recognized by the University of Akron.",
                 "Possess a minimum grade point average (GPA) of 2.5 on a 4.0 scale.",
@@ -348,7 +344,7 @@ export const theuniversityofakronohio = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

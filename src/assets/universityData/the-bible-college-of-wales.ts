@@ -70,14 +70,10 @@ export const thebiblecollegeofwales = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Bible College of Wales (Rugby) offers a variety of courses for students to choose from. The college has a range of undergraduate and postgraduate courses, as well as part-time and online courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Biblical Studies:",
+            "title": "Courses and Fees",
+            "info": "The Bible College of Wales (Rugby) offers a variety of courses for students to choose from. The college has a range of undergraduate and postgraduate courses, as well as part-time and online courses.",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p><b>Biblical Studies:</b></p>",
             "data": [
                 "BA (Hons) Biblical Studies – £9,250 per year",
                 "Foundation Degree (FdA) Biblical Studies – £7,500 per year"
@@ -112,8 +108,8 @@ export const thebiblecollegeofwales = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate Courses:",
             "data": [
                 "MA Biblical Studies – £6,000 per year",
                 "MA Theology – £6,000 per year",
@@ -123,8 +119,8 @@ export const thebiblecollegeofwales = {
         },
         {
             "type": "list-bollet",
-            "title": "Part-Time Courses:",
-            "info": "",
+            "title": "",
+            "info": "Part-Time Courses:",
             "data": [
                 "Certificate in Biblical Studies – £2,200",
                 "Diploma in Biblical Studies – £4,400"
@@ -132,8 +128,8 @@ export const thebiblecollegeofwales = {
         },
         {
             "type": "list-bollet",
-            "title": "Online Courses:",
-            "info": "",
+            "title": "",
+            "info": "Online Courses:",
             "data": [
                 "Certificate in Biblical Studies – £2,200",
                 "Diploma in Biblical Studies – £4,400"

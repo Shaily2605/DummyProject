@@ -69,14 +69,10 @@ export const theuniversityoftulsa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Tulsa offers over 100 undergraduate majors and 50 graduate programs. The following is a list of some of the most popular courses offered by the university, along with the associated tuition fee information.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Tulsa offers over 100 undergraduate majors and 50 graduate programs. The following is a list of some of the most popular courses offered by the university, along with the associated tuition fee information.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting - $44,780",
                 "Business Administration - $44,780 ",
@@ -98,8 +94,8 @@ export const theuniversityoftulsa = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs: ",
             "data": [
                 "Business Administration (MBA) - $50,220 ",
                 "Computer Science - $51,260 ",
@@ -157,7 +153,7 @@ export const theuniversityoftulsa = {
                 "Evidence of health insurance coverage",
                 "Evidence of immunization records",
             ],
-            "heading": "<p><For more information, please visit the University of Tulsa's website: http://utulsa.edu/admissions/international-admissions//p>"
+            "heading": "<p>For more information, please visit the University of Tulsa's website: http://utulsa.edu/admissions/international-admissions/</p>"
         },
         {
             "type": "list-bollet",

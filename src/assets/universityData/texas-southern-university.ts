@@ -70,14 +70,10 @@ export const texassouthernuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas Southern University is a public university located in Houston, Texas. It offers a wide range of courses in various disciplines. The following are the courses offered by the university along with the corresponding fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Texas Southern University is a public university located in Houston, Texas. It offers a wide range of courses in various disciplines. The following are the courses offered by the university along with the corresponding fee structure: ",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Arts (BA): $21,820",
                 "Bachelor of Science (BS): $21,820",
@@ -92,8 +88,8 @@ export const texassouthernuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Arts (MA): $22,820",
                 "Master of Science (MS): $23,820",

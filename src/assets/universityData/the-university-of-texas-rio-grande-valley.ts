@@ -80,14 +80,10 @@ export const theuniversityoftexasriograndevalley = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas Rio Grande Valley offers more than 100 undergraduate and graduate degree programs in a wide range of disciplines.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas Rio Grande Valley offers more than 100 undergraduate and graduate degree programs in a wide range of disciplines.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting",
                 "Biochemistry",
@@ -121,8 +117,8 @@ export const theuniversityoftexasriograndevalley = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs: ",
             "data": [
                 "Accounting",
                 "Applied Mathematics",

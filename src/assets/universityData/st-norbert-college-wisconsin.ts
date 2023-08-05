@@ -67,11 +67,6 @@ export const stnorbertcollegewisconsin = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Undergraduate Tuition & Fees",
             "info": "Full-time (12-18 credits per semester)",

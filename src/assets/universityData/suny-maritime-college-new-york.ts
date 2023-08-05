@@ -81,14 +81,10 @@ export const sunymaritimecollegenewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The following is the list of courses offered by SUNY Maritime College, New York, USA along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The following is the list of courses offered by SUNY Maritime College, New York, USA along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Marine Engineering Technology (MET): $43,320",
                 "Marine Transportation (MT): $43,320",

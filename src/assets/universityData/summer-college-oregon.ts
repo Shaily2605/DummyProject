@@ -68,14 +68,10 @@ export const summercollegeoregon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Summer college program at Oregon State University offers a variety of courses. Classes are offered both online and on-campus.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Courses Offered:",
+            "title": "Courses and Fees",
+            "info": "The Summer college program at Oregon State University offers a variety of courses. Classes are offered both online and on-campus.",
+            "textBelowInfo": "<b>Courses Offered:</b>",
             "data": [
                 "Intro to College Writing",
                 "Intro to College Algebra",
@@ -97,7 +93,7 @@ export const summercollegeoregon = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [
@@ -323,7 +319,7 @@ export const summercollegeoregon = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
             "data": [

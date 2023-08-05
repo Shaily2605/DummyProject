@@ -72,13 +72,10 @@ export const theevergreenstatecollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
-            "data": [
-                "The Evergreen State College offers a wide range of courses across many disciplines. The fee structure for each course may vary depending on the duration, the type of course and the student's individual circumstances.",
-                "For exact information on the fee structure for the courses at The Evergreen State College, please visit the college's website at https://www.evergreen.edu/admissions/tuition-and-fees. On this page, you can find information about the tuition and fee rates for full-time and part-time students as well as information about mandatory fees and other related expenses."
-            ]
+            "data": "<p>The Evergreen State College offers a wide range of courses across many disciplines. The fee structure for each course may vary depending on the duration, the type of course and the student's individual circumstances.</p> <p>For exact information on the fee structure for the courses at The Evergreen State College, please visit the college's website at https://www.evergreen.edu/admissions/tuition-and-fees. On this page, you can find information about the tuition and fee rates for full-time and part-time students as well as information about mandatory fees and other related expenses.</p>"
         },
         {
             type: "meta",

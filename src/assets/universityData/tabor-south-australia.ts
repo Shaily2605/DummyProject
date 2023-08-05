@@ -69,14 +69,10 @@ export const taborsouthaustralia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tabor College South Australia offers a range of courses designed to meet the needs of students. The college offers both undergraduate and postgraduate courses. The courses are structured to ensure that the student experience is of the highest standard.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Tabor College South Australia offers a range of courses designed to meet the needs of students. The college offers both undergraduate and postgraduate courses. The courses are structured to ensure that the student experience is of the highest standard.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts ",
                 "Bachelor of Education ",
@@ -90,8 +86,8 @@ export const taborsouthaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate courses:",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate courses:",
             "data": [
                 "Master of Business Administration ",
                 "Master of Education ",

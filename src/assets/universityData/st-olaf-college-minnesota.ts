@@ -68,14 +68,10 @@ export const stolafcollegeminnesota = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Olaf College offers a wide range of courses. The fee structure for the courses varies depending on the program. Below is a list of courses with the corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "St. Olaf College offers a wide range of courses. The fee structure for the courses varies depending on the program. Below is a list of courses with the corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Arts and Humanities: $41,936",
                 "Business and Economics: $45,496",

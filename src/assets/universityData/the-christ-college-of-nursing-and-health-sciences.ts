@@ -69,14 +69,10 @@ export const thechristcollegeofnursingandhealthsciences = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Christ College of Nursing and Health Sciences offers three undergraduate degree options: Bachelor of Science in Nursing, Bachelor of Science in Health Sciences and Bachelor of Science in Applied Health and Sciences. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Bachelor of Science in Nursing (BSN):",
-            "info": "Tuition and Fees:",
+            "title": "Courses and Fees",
+            "info": "The Christ College of Nursing and Health Sciences offers three undergraduate degree options: Bachelor of Science in Nursing, Bachelor of Science in Health Sciences and Bachelor of Science in Applied Health and Sciences. ",
+            "textBelowInfo": "<p><b>Bachelor of Science in Nursing (BSN): </b></p> <p>Tuition and Fees:</p>",
             "data": [
                 "Tuition – $16,000 per semester",
                 "General Fees – $400 per semester",
@@ -88,8 +84,9 @@ export const thechristcollegeofnursingandhealthsciences = {
         },
         {
             "type": "list-bollet",
-            "title": "Bachelor of Science in Health Sciences (BSHS):",
-            "info": "Tuition and Fees:",
+            "title": "",
+            "info": "Bachelor of Science in Health Sciences (BSHS):",
+            "textBelowInfo": "Tuition and Fees:",
             "data": [
                 "Tuition – $14,500 per semester",
                 "General Fees – $400 per semester",
@@ -101,8 +98,9 @@ export const thechristcollegeofnursingandhealthsciences = {
         },
         {
             "type": "list-bollet",
-            "title": "Bachelor of Science in Applied Health and Sciences (BSAHS):",
-            "info": "Tuition and Fees:",
+            "title": "",
+            "info": "Bachelor of Science in Applied Health and Sciences (BSAHS):",
+            "textBelowInfo": "Tuition and Fees:",
             "data": [
                 "Tuition – $13,000 per semester",
                 "General Fees – $400 per semester",

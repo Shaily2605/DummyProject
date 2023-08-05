@@ -69,14 +69,10 @@ export const sydneymissionaryandbiblecollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sydney Missionary & Bible College (SMBC) offers a range of undergraduate, postgraduate and specialised courses. The fees for these courses vary depending on the course. Below are some of the courses offered by SMBC and the corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Sydney Missionary & Bible College (SMBC) offers a range of undergraduate, postgraduate and specialised courses. The fees for these courses vary depending on the course. Below are some of the courses offered by SMBC and the corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Bachelor of Theology: $10,000",
                 "Diploma of Theology: $7,500",
@@ -86,8 +82,8 @@ export const sydneymissionaryandbiblecollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Courses",
-            "info": " ",
+            "title": "",
+            "info": "Postgraduate Courses",
             "data": [
                 "Graduate Certificate in Theology: $9,000",
                 "Master of Theology: $12,500",
@@ -97,8 +93,8 @@ export const sydneymissionaryandbiblecollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Specialised Courses",
-            "info": " ",
+            "title": "",
+            "info": "Specialised Courses",
             "data": [
                 "Certificate in Biblical Studies: $5,000",
                 "Certificate in Christian Ministry: $5,000",

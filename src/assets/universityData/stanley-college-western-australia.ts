@@ -82,14 +82,10 @@ export const stanleycollegewesternaustralia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stanley College offers a variety of courses with different fee structures. The following are the courses offered by Stanley College along with their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Diploma Courses",
+            "title": "Courses and Fees",
+            "info": "Stanley College offers a variety of courses with different fee structures. The following are the courses offered by Stanley College along with their respective fee structures:",
+            "textBelowInfo": "<b>Diploma Courses</b>",
             "data": [
                 "Diploma of Business: $7,500",
                 "Diploma of Early Childhood Education and Care: $7,500",

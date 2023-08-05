@@ -71,14 +71,10 @@ export const sterlingcollegekansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sterling College, Kansas, USA offers the following courses with corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Sterling College, Kansas, USA offers the following courses with corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration - $ 10,200 per year ",
                 "Computer Science - $ 11,500 per year ",

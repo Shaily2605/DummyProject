@@ -68,14 +68,10 @@ export const stevensinstituteoftechnologynewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stevens Institute of Technology offers more than 80 undergraduate and graduate programs across six schools. The following is a list of the degrees and programs available at Stevens and their associated tuition fee:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Stevens Institute of Technology offers more than 80 undergraduate and graduate programs across six schools. The following is a list of the degrees and programs available at Stevens and their associated tuition fee:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Applied Mathematics & Statistics (BSAMS): $53,320",
                 "Bachelor of Science in Business & Technology (BSBT): $53,320",

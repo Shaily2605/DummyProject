@@ -68,14 +68,10 @@ export const theuniversityoftexasatsanantonio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas at San Antonio offers more than 100 undergraduate and graduate degree programs, with some of the most popular being Business Administration, Psychology, Education, Biology, and Criminal Justice.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degree Programs (Bachelor’s Degree)",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas at San Antonio offers more than 100 undergraduate and graduate degree programs, with some of the most popular being Business Administration, Psychology, Education, Biology, and Criminal Justice.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs (Bachelor’s Degree)</b>",
             "data": [
                 "Accounting",
                 "Aerospace Engineering",
@@ -109,8 +105,8 @@ export const theuniversityoftexasatsanantonio = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degree Programs (Master’s Degree)",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degree Programs (Master’s Degree)",
             "data": [
                 "Accounting",
                 "Aerospace Engineering",
@@ -384,8 +380,8 @@ export const theuniversityoftexasatsanantonio = {
             "info": "On-Campus Accommodation",
             "textBelowInfo": "The University of Texas at San Antonio offers on-campus accommodation for undergraduate and graduate students. On-campus accommodation is provided in two residence halls: the Chisholm Hall and the Laurel Village. ",
             "data": [
-                "<b>Chisholm Hall: </b> <br> Chisholm Hall is a traditional-style residence hall that provides private rooms and communal living areas. The residence hall has single, double, and triple occupancy rooms, as well as a variety of amenities and services, such as a laundry room, study spaces, computer labs, a fitness center, and a café.",
-                "<b>Laurel Village: </b> <br> Laurel Village is a suite-style residence hall that provides two-, three-, and four-bedroom units. Each suite has private bedrooms and shared living spaces, as well as a kitchenette and private bathrooms. The residence hall also has amenities such as a laundry room, study spaces, computer labs, a fitness center, and a café."
+                "<b>Chisholm Hall: </b> Chisholm Hall is a traditional-style residence hall that provides private rooms and communal living areas. The residence hall has single, double, and triple occupancy rooms, as well as a variety of amenities and services, such as a laundry room, study spaces, computer labs, a fitness center, and a café.",
+                "<b>Laurel Village: </b> Laurel Village is a suite-style residence hall that provides two-, three-, and four-bedroom units. Each suite has private bedrooms and shared living spaces, as well as a kitchenette and private bathrooms. The residence hall also has amenities such as a laundry room, study spaces, computer labs, a fitness center, and a café."
             ]
         },
         {
@@ -394,8 +390,8 @@ export const theuniversityoftexasatsanantonio = {
             "info": "Off-Campus Accommodation",
             "textBelowInfo": "The University of Texas at San Antonio offers off-campus accommodation for undergraduate and graduate students. Off-campus accommodation is provided in a variety of housing options, including apartments, houses, and hostels. ",
             "data": [
-                "<b>Apartments: </b> <br> There are a variety of apartment complexes near campus that provide housing for students. These apartments typically offer a variety of amenities, such as fitness centers, swimming pools, and study spaces. ",
-                "<b>Houses: </b> <br> There are also a variety of houses for rent near campus. These houses typically offer more space and privacy than apartments, and may include additional amenities such as a yard or garage. "
+                "<b>Apartments: </b> There are a variety of apartment complexes near campus that provide housing for students. These apartments typically offer a variety of amenities, such as fitness centers, swimming pools, and study spaces. ",
+                "<b>Houses: </b> There are also a variety of houses for rent near campus. These houses typically offer more space and privacy than apartments, and may include additional amenities such as a yard or garage. "
             ]
         },
         {

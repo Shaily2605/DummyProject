@@ -70,14 +70,10 @@ export const theroyalconservatoryofmusic = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Royal Conservatory of Music offers a wide range of music and arts education programs, including classes, workshops, and private music lessons.</p> <p>The following are the courses offered by The Royal Conservatory of Music, along with their fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Piano Lessons:",
+            "title": "Courses and Fees",
+            "info": "The Royal Conservatory of Music offers a wide range of music and arts education programs, including classes, workshops, and private music lessons.",
+            "textBelowInfo": "<p>The following are the courses offered by The Royal Conservatory of Music, along with their fee structures:</p> <p><b>1. Piano Lessons:</b></p>",
             "data": [
                 "30-minute private piano lessons (1 student): $36 per lesson ",
                 "45-minute private piano lessons (1 student): $54 per lesson ",
@@ -210,14 +206,10 @@ export const theroyalconservatoryofmusic = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The Royal Conservatory of Music (RCM) in Ontario, Canada does not offer direct admissions to international students. The institution works in collaboration with the Toronto District School Board to provide international students with the necessary resources and guidance to pursue a music education at the RCM. Indian students interested in enrolling at the RCM must meet certain eligibility criteria. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "In order to be considered for admission, Indian students must:",
+            "title": "Eligibility Requirements",
+            "info": "The Royal Conservatory of Music (RCM) in Ontario, Canada does not offer direct admissions to international students. The institution works in collaboration with the Toronto District School Board to provide international students with the necessary resources and guidance to pursue a music education at the RCM. Indian students interested in enrolling at the RCM must meet certain eligibility criteria.",
+            "textBelowInfo": "In order to be considered for admission, Indian students must:",
             "data": [
                 "Have a valid study permit",
                 "Have a valid visa ",
@@ -403,7 +395,7 @@ export const theroyalconservatoryofmusic = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [

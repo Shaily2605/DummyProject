@@ -69,14 +69,10 @@ export const texassouthmostcollegegorgas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas Southmost College offers a variety of courses divided into 13 different academic departments. Below is a list of all the courses offered by the college along with the fee structure: </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Accounting (ACCT): ",
+            "title": "Courses and Fees",
+            "info": "Texas Southmost College offers a variety of courses divided into 13 different academic departments. Below is a list of all the courses offered by the college along with the fee structure: ",
+            "textBelowInfo": "Accounting (ACCT): ",
             "data": [
                 "Accounting I (ACCT-1311) - $117/credit ",
                 "Accounting II (ACCT-1312) - $117/credit"

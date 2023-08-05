@@ -119,14 +119,10 @@ export const texastechuniversitytexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Texas Tech University has a different set of eligibility criteria for international students and Indian students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For international students, the following eligibility criteria must be met:",
+            "title": "Eligibility Requirements",
+            "info": "Texas Tech University has a different set of eligibility criteria for international students and Indian students.",
+            "textBelowInfo": "<b>For international students, the following eligibility criteria must be met:</b>",
             "data": [
                 "Applicants must have a minimum GPA of 3.0 (on a 4.0 scale) or equivalent.",
                 "Applicants must have taken the SAT or ACT.",

@@ -119,14 +119,10 @@ export const theohiostateuniversityohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The Ohio State University has different admission requirements for international students and domestic students.</p> <p>For Indian students who are applying for undergraduate programs at The Ohio State University, please ensure that you have completed 12 years of formal education and have obtained a qualifying score in the academic exams such as SAT/ACT/TOEFL/IELTS.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "You must also have:",
+            "title": "Eligibility Requirements",
+            "info": "The Ohio State University has different admission requirements for international students and domestic students.",
+            "textBelowInfo": "<p>For Indian students who are applying for undergraduate programs at The Ohio State University, please ensure that you have completed 12 years of formal education and have obtained a qualifying score in the academic exams such as SAT/ACT/TOEFL/IELTS.</p> <p>You must also have:</p>",
             "data": [
                 "An official secondary school transcript from an accredited institution in India ",
                 "A qualifying score in the academic exams such as SAT/ACT/TOEFL/IELTS ",

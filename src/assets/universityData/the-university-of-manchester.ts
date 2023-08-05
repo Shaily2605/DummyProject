@@ -70,14 +70,10 @@ export const theuniversityofmanchester = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Manchester offers a wide range of courses across diverse disciplines. The tuition fee for different courses vary depending on the program and the student's nationality.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Manchester offers a wide range of courses across diverse disciplines. The tuition fee for different courses vary depending on the program and the student's nationality.",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "The tuition fees for international students for the 2020/21 academic year are £19,500 for most courses, with some courses costing up to £36,000."
             ]
@@ -115,14 +111,10 @@ export const theuniversityofmanchester = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>The University of Manchester welcomes applications from Indian students. To be eligible for admission, Indian students must meet the University's academic and English language entry requirements.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Academic entry requirements:",
-            "info": "To be eligible for admission, Indian students must have achieved one of the following qualifications:",
+            "title": "Eligibility Requirements",
+            "info": "The University of Manchester welcomes applications from Indian students. To be eligible for admission, Indian students must meet the University's academic and English language entry requirements.",
+            "textBelowInfo": "<p>Academic entry requirements:</p> <p>To be eligible for admission, Indian students must have achieved one of the following qualifications:</p>",
             "data": [
                 "12 years of Education with a minimum of 70% marks from an Indian board.",
                 "The Indian School Certificate (ISC) or Central Board of Secondary Education (CBSE) with a minimum of 70% marks.",
@@ -132,8 +124,8 @@ export const theuniversityofmanchester = {
         },
         {
             "type": "list-bollet",
-            "title": "English language entry requirements:",
-            "info": "",
+            "title": "",
+            "info": "English language entry requirements:",
             "data": [
                 "Indian students must have achieved a minimum of 6.5 in the International English Language Testing System (IELTS) with no individual band score below 6.0.",
                 "Alternatively, Indian students may have achieved an equivalent score in the Test of English as a Foreign Language (TOEFL) or other recognised English language qualifications.",

@@ -68,14 +68,10 @@ export const technicalcollegeofthelowcountry = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Technical College of the Lowcountry offers a variety of degree, diploma and certificate programs. The fee structure depends on the program and the type of student. Below are the fees and tuition for the 2019-2020 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Degree Programs",
+            "title": "Courses and Fees",
+            "info": "Technical College of the Lowcountry offers a variety of degree, diploma and certificate programs. The fee structure depends on the program and the type of student. Below are the fees and tuition for the 2019-2020 academic year.",
+            "textBelowInfo": "<b>Degree Programs</b>",
             "data": [
                 "Associate in Arts ",
                 "Associate in Science ",
@@ -394,7 +390,7 @@ export const technicalcollegeofthelowcountry = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

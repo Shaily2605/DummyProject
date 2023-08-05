@@ -71,14 +71,10 @@ export const stanforduniversitycalifornia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stanford University offers a wide range of undergraduate, graduate, and professional degree programs. Below is a list of courses offered by the University, along with their associated tuition fees. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Stanford University offers a wide range of undergraduate, graduate, and professional degree programs. Below is a list of courses offered by the University, along with their associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Computer Science: $51,703",
                 "Economics: $51,703",

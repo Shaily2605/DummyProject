@@ -295,7 +295,7 @@ export const teessideuniversityengland = {
             data: "<p>The Teesside University in England has specific requirements for Indian students.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Academic Requirements:",
             "data": [

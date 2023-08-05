@@ -335,17 +335,24 @@ export const texasaandmuniversitytexarkana = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodations",
+            "textBelowInfo": "Texas A&M University-Texarkana offers both on-campus and off-campus housing for its students. On-campus accommodation is available in the University’s Eagle Landing Apartments and Eagle Village residence halls.",
             "data": [
-                "<b>On-Campus Accommodations </b> <br>Texas A&M University-Texarkana offers both on-campus and off-campus housing for its students. On-campus accommodation is available in the University’s Eagle Landing Apartments and Eagle Village residence halls.",
-                "<b>Eagle Landing Apartments </b> <br>Eagle Landing Apartments offer one, two, three and four bedroom units with a range of amenities, including full kitchens, washer/dryer, and internet. All apartments are equipped with air conditioning and heating. Rent includes all utilities, cable, and internet.",
-                "<b>Eagle Village Residence Hall </b> <br>Eagle Village is a residence hall located on the TAMUT campus. The residence hall features two-, three-, and four-bedroom units with central air conditioning and heating. Each room is furnished with a bed, desk, and chair. Common amenities include cable and internet access, laundry facilities, and shared kitchens.",
-                "<b>Off-Campus Accommodations </b> <br>There are many off-campus housing options available to TAMUT students. These include apartments, townhomes, and houses for rent in the surrounding area. Some of the most popular off-campus housing options near TAMUT include:",
-                "<b>University Place Apartments </b> <br>University Place Apartments is a complex of student housing located within walking distance of the TAMUT campus. The complex offers one and two bedroom apartments, as well as two and three bedroom townhomes. All units are fully furnished and feature amenities such as cable and internet access, laundry facilities, and a swimming pool.",
-                "<b>The Courtyards at Texarkana </b> <br>The Courtyards at Texarkana is an off-campus apartment complex located near the TAMUT campus. The complex offers one and two bedroom apartments, as well as two and three bedroom townhomes. All units are fully furnished and feature amenities such as cable and internet access, laundry facilities, and a swimming pool.",
-                "<b>Hostel Facilities </b> <br>TAMUT does not offer any hostel facilities on-campus. However, there are several hostels located nearby that offer a range of accommodations to TAMUT students. Some of the most popular hostels near TAMUT include:",
-                "<b>HI Texarkana Hostel </b> <br>HI Texarkana Hostel is located within walking distance of the TAMUT campus. The hostel offers a range of accommodations, including private rooms and shared dorms. All rooms are air-conditioned and feature amenities such as free Wi-Fi, cable TV, and a shared kitchen.",
-                "<b>The Texarkana International Hostel </b> <br>The Texarkana International Hostel is located just a few blocks from the TAMUT campus. The hostel offers a range of accommodations, including private rooms and shared dorms. All rooms are air-conditioned and feature amenities such as free Wi-Fi, cable TV, and a shared kitchen.",
+                "<b>Eagle Landing Apartments </b> Eagle Landing Apartments offer one, two, three and four bedroom units with a range of amenities, including full kitchens, washer/dryer, and internet. All apartments are equipped with air conditioning and heating. Rent includes all utilities, cable, and internet.",
+                "<b>Eagle Village Residence Hall </b> Eagle Village is a residence hall located on the TAMUT campus. The residence hall features two-, three-, and four-bedroom units with central air conditioning and heating. Each room is furnished with a bed, desk, and chair. Common amenities include cable and internet access, laundry facilities, and shared kitchens.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodations",
+            "textBelowInfo": "There are many off-campus housing options available to TAMUT students. These include apartments, townhomes, and houses for rent in the surrounding area. Some of the most popular off-campus housing options near TAMUT include:",
+            "data": [
+                "<b>University Place Apartments </b> University Place Apartments is a complex of student housing located within walking distance of the TAMUT campus. The complex offers one and two bedroom apartments, as well as two and three bedroom townhomes. All units are fully furnished and feature amenities such as cable and internet access, laundry facilities, and a swimming pool.",
+                "<b>The Courtyards at Texarkana </b> The Courtyards at Texarkana is an off-campus apartment complex located near the TAMUT campus. The complex offers one and two bedroom apartments, as well as two and three bedroom townhomes. All units are fully furnished and feature amenities such as cable and internet access, laundry facilities, and a swimming pool.",
+                "<b>Hostel Facilities </b> TAMUT does not offer any hostel facilities on-campus. However, there are several hostels located nearby that offer a range of accommodations to TAMUT students. Some of the most popular hostels near TAMUT include:",
+                "<b>HI Texarkana Hostel </b> HI Texarkana Hostel is located within walking distance of the TAMUT campus. The hostel offers a range of accommodations, including private rooms and shared dorms. All rooms are air-conditioned and feature amenities such as free Wi-Fi, cable TV, and a shared kitchen.",
+                "<b>The Texarkana International Hostel </b> The Texarkana International Hostel is located just a few blocks from the TAMUT campus. The hostel offers a range of accommodations, including private rooms and shared dorms. All rooms are air-conditioned and feature amenities such as free Wi-Fi, cable TV, and a shared kitchen.",
             ]
         },
         {

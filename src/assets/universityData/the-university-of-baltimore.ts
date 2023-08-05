@@ -328,13 +328,21 @@ export const theuniversityofbaltimore = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "The University of Baltimore offers a variety of on-campus housing options. The University offers traditional residence halls, suite-style housing, and apartment-style living. All residence halls are co-ed and offer single and double rooms. Students may choose from a variety of meal plans.",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>The University of Baltimore offers a variety of on-campus housing options. The University offers traditional residence halls, suite-style housing, and apartment-style living. All residence halls are co-ed and offer single and double rooms. Students may choose from a variety of meal plans.",
-                "<b>Traditional Residence Halls: </b> <br>The University of Baltimore provides traditional residence halls for students. The traditional residence halls are co-ed and house both freshman and upperclassmen. The traditional residence halls offer single and double rooms with shared bathrooms on each floor. The residence halls are equipped with laundry facilities, lounges, and study areas for students. ",
-                "<b>Suite-Style Housing: </b> <br>The University of Baltimore also provides suite-style housing for students. The suite-style housing consists of two-bedroom, two-bathroom apartments. Each suite has a fully-equipped kitchen with a refrigerator, stove, and microwave. The suites also include two separate bathrooms, a living room, and a dining area. ",
-                "<b>Apartment-Style Living: </b> <br>The University of Baltimore also offers apartment-style living for students. The apartments are two-bedroom and two-bathroom units. The apartments are fully-furnished and include a living room, dining area, and a fully-equipped kitchen. The apartments also have a washer and dryer in each unit.",
-                "<b>Off-Campus Accommodation: </b> <br>The University of Baltimore also offers off-campus housing options for students. The University has several partnerships with local landlords and apartment complexes that offer housing to students. The off-campus housing options range from studios to four-bedroom apartments. <br> The University of Baltimore also offers several housing options for students who are looking for a more affordable option. The University has partnerships with several local hostels, which offer more economical options for students. The hostels offer single and double rooms with shared bathrooms and kitchens."
+                "<b>Traditional Residence Halls: </b> The University of Baltimore provides traditional residence halls for students. The traditional residence halls are co-ed and house both freshman and upperclassmen. The traditional residence halls offer single and double rooms with shared bathrooms on each floor. The residence halls are equipped with laundry facilities, lounges, and study areas for students. ",
+                "<b>Suite-Style Housing: </b> The University of Baltimore also provides suite-style housing for students. The suite-style housing consists of two-bedroom, two-bathroom apartments. Each suite has a fully-equipped kitchen with a refrigerator, stove, and microwave. The suites also include two separate bathrooms, a living room, and a dining area. ",
+                "<b>Apartment-Style Living: </b> The University of Baltimore also offers apartment-style living for students. The apartments are two-bedroom and two-bathroom units. The apartments are fully-furnished and include a living room, dining area, and a fully-equipped kitchen. The apartments also have a washer and dryer in each unit."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation:",
+            "data": [
+               "The University of Baltimore also offers off-campus housing options for students. The University has several partnerships with local landlords and apartment complexes that offer housing to students. The off-campus housing options range from studios to four-bedroom apartments.",
+               "The University of Baltimore also offers several housing options for students who are looking for a more affordable option. The University has partnerships with several local hostels, which offer more economical options for students. The hostels offer single and double rooms with shared bathrooms and kitchens."
             ]
         },
         {

@@ -77,14 +77,10 @@ export const texasaandmuniversitytexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas A&M University offers over 130 undergraduate degrees through 10 colleges and 18 departments. Below is a list of all the courses offered by Texas A&M University along with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "COLLEGE OF AGRICULTURE & LIFE SCIENCES",
-            "info": "Agricultural Economics:",
+            "title": "Courses and Fees",
+            "info": "Texas A&M University offers over 130 undergraduate degrees through 10 colleges and 18 departments. Below is a list of all the courses offered by Texas A&M University along with their respective fee structures.",
+            "textBelowInfo": "<p><b>COLLEGE OF AGRICULTURE & LIFE SCIENCES</b></p> <p><b>Agricultural Economics:</b></p>",
             "data": [
                 "Undergraduate: $24,862",
                 "Graduate: $25,073 "
@@ -290,8 +286,9 @@ export const texasaandmuniversitytexas = {
         },
         {
             "type": "list-bollet",
-            "title": "COLLEGE OF EDUCATION & HUMAN DEVELOPMENT",
-            "info": "Curriculum & Instruction:",
+            "title": "",
+            "info": "COLLEGE OF EDUCATION & HUMAN DEVELOPMENT",
+            "textBelowInfo": "Curriculum & Instruction:",
             "data": [
                 "Undergraduate: $24,862",
                 "Graduate: $25,073"
@@ -431,12 +428,12 @@ export const texasaandmuniversitytexas = {
             "title": "How to Apply ?",
             "info": "Students from India interested in applying to Texas A&M University can follow the steps outlined below:",
             "data": [
-                "Research the academic programs and admission requirements: Before applying, students should ensure they meet the admission requirements and have an understanding of the academic programs offered.",
-                "Submit the online application: All applicants must submit the online application and pay the application fee.",
-                "Submit the required documents: After submitting the online application, students must submit the required documents, such as transcripts and other required materials.",
-                "Submit test scores: Texas A&M requires applicants to submit scores from the TOEFL, IELTS, or PTE Academic.",
-                "Pay the deposit: Once accepted, students must pay the deposit in order to secure their spot in the university.",
-                "Get a visa: Finally, students from India must obtain a student visa from the U.S. Embassy or Consulate in India.",
+                "<b>Research the academic programs and admission requirements:</b> Before applying, students should ensure they meet the admission requirements and have an understanding of the academic programs offered.",
+                "<b>Submit the online application:</b> All applicants must submit the online application and pay the application fee.",
+                "<b>Submit the required documents:</b> After submitting the online application, students must submit the required documents, such as transcripts and other required materials.",
+                "<b>Submit test scores:</b> Texas A&M requires applicants to submit scores from the TOEFL, IELTS, or PTE Academic.",
+                "<b>Pay the deposit:</b> Once accepted, students must pay the deposit in order to secure their spot in the university.",
+                "<b>Get a visa:</b> Finally, students from India must obtain a student visa from the U.S. Embassy or Consulate in India.",
             ]
         },
         {

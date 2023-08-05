@@ -72,14 +72,10 @@ export const stmarysuniversitytexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the fee structure for St. Mary's University for the 2020-2021 academic year:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Tuition:",
+            "title": "Courses and Fees",
+            "info": "Below is the fee structure for St. Mary's University for the 2020-2021 academic year:",
+            "textBelowInfo": "<b>Tuition: </b>",
             "data": [
                 "Undergraduate: $35,050",
                 "Graduate: $1,065 per credit hour"
@@ -96,14 +92,10 @@ export const stmarysuniversitytexas = {
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>Below is a list of courses offered by St. Mary's University:</p>"
-        },
-        {
             "type": "list-bollet",
             "title": "",
-            "info": "Undergraduate Courses:",
+            "info": "Below is a list of courses offered by St. Mary's University:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Accounting",
                 "Art",

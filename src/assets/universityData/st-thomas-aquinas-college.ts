@@ -70,14 +70,10 @@ export const stthomasaquinascollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Thomas Aquinas College offers a wide range of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs: ",
+            "title": "Courses and Fees",
+            "info": "St. Thomas Aquinas College offers a wide range of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts in Accounting",
                 "Bachelor of Arts in Business Administration",

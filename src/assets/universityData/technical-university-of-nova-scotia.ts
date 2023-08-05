@@ -69,14 +69,10 @@ export const technicaluniversityofnovascotia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Technical University of Nova Scotia (TUNS) offers a variety of undergraduate and graduate degrees. Below is a list of all the courses offered at TUNS along with the fee structure for each course.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The Technical University of Nova Scotia (TUNS) offers a variety of undergraduate and graduate degrees. Below is a list of all the courses offered at TUNS along with the fee structure for each course.",
+            "txetBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Bachelor of Applied Science – $3,816/term",
                 "Bachelor of Business Administration – $3,816/term",

@@ -74,14 +74,10 @@ export const stmichaelsuniversityschool = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Michael's University School (SMUS) offers a variety of courses for students, both for academic and non-academic purposes. The following is a list of the courses offered at SMUS, along with the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Academic Courses",
+            "title": "Courses and Fees",
+            "info": "St. Michael's University School (SMUS) offers a variety of courses for students, both for academic and non-academic purposes. The following is a list of the courses offered at SMUS, along with the associated fee structure:",
+            "textBelowInfo": "<b>Academic Courses </b>",
             "data": [
                 "English - $6,400",
                 "Mathematics - $6,400",

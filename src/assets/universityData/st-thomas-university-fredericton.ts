@@ -74,10 +74,8 @@ export const stthomasuniversityfredericton = {
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "You can find the fee structure of St. Thomas University on their website.",
-                "https://www.stu.ca/academics/tuition-fees/",
-                "You can find the list of courses offered by St. Thomas University on their website.",
-                "https://www.stu.ca/academics/programs-faculty/"
+                "You can find the fee structure of St. Thomas University on their website.<br> https://www.stu.ca/academics/tuition-fees/",
+                "You can find the list of courses offered by St. Thomas University on their website.<br> https://www.stu.ca/academics/programs-faculty/"
             ]
         },
         {
@@ -294,13 +292,10 @@ export const stthomasuniversityfredericton = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "data": [
-                "St. Thomas University offers on-campus accommodation for its students.",
-                "The university has two residences: Lady Beaverbrook Residence and Brian Mulroney Hall. Lady Beaverbrook Residence is a co-ed residence with four floors and a variety of room options. Brian Mulroney Hall is a co-ed residence with four floors and single and double rooms. "
-            ]
+            "data": "<p>St. Thomas University offers on-campus accommodation for its students.</p> <p>The university has two residences: Lady Beaverbrook Residence and Brian Mulroney Hall. Lady Beaverbrook Residence is a co-ed residence with four floors and a variety of room options. Brian Mulroney Hall is a co-ed residence with four floors and single and double rooms. </p>"
         },
         {
             "type": "list-bollet",
@@ -315,21 +310,16 @@ export const stthomasuniversityfredericton = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "data": [
-                "St. Thomas University also offers off-campus accommodation for its students. There are a variety of options for students looking for off-campus housing, including apartments, houses, and dorms. ",
-                "The university has a Housing Service that helps students find off-campus housing. It provides information on available properties and connects students with landlords. "
-            ]
+            "data": "<p>St. Thomas University also offers off-campus accommodation for its students. There are a variety of options for students looking for off-campus housing, including apartments, houses, and dorms.</p> <p>The university has a Housing Service that helps students find off-campus housing. It provides information on available properties and connects students with landlords.</p>"
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
-            "data": [
-              "St. Thomas University does not have hostel facilities on-campus or in the surrounding area. However, there are several hostels in the city of Fredericton. These hostels offer shared rooms and private rooms, as well as amenities such as Wi-Fi, kitchen facilities, and laundry services."
-            ]
+            "data": "<p>St. Thomas University does not have hostel facilities on-campus or in the surrounding area. However, there are several hostels in the city of Fredericton. These hostels offer shared rooms and private rooms, as well as amenities such as Wi-Fi, kitchen facilities, and laundry services.</p>"
         },
         {
             type: "meta",

@@ -359,7 +359,7 @@ export const tennesseetechuniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Hostel Facilities:",
             "data": [

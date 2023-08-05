@@ -72,14 +72,10 @@ export const stthomasuniversityflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Thomas University offers a variety of undergraduate, graduate, and certificate programs. Below is a list of their programs, along with the associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "St. Thomas University offers a variety of undergraduate, graduate, and certificate programs. Below is a list of their programs, along with the associated tuition and fees.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts: $435 per credit hour",
                 "Bachelor of Science: $435 per credit hour",
@@ -342,17 +338,24 @@ export const stthomasuniversityflorida = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "St. Thomas University provides a variety of on-campus accommodation options to meet the needs of its students. These include traditional residence halls, apartment-style living, and suite-style living.",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>St. Thomas University provides a variety of on-campus accommodation options to meet the needs of its students. These include traditional residence halls, apartment-style living, and suite-style living. ",
-                "<b>Traditional Residence Halls:  </b> <br>Traditional residence halls are the most affordable option for students at St. Thomas University. These residence halls provide double-occupancy rooms with a shared bathroom. Each floor has its own study room, kitchen, and lounge area.",
-                "<b>Apartment-Style Living:  </b> <br>St. Thomas University offers apartment-style living for students who need more privacy and space. These apartments come furnished and feature a kitchen, living room, and private bedrooms and bathrooms. ",
-                "<b>Suite-Style Living:  </b> <br>Suite-style living is the most luxurious option available on campus. These suites come with a full kitchen, living room, and private bedrooms and bathrooms. Some suites even feature a balcony or patio.",
-                "<b>Off-Campus Accommodation: </b> <br>Off-campus accommodation options are available for students at St. Thomas University. These include private apartments, houses, and dorms.",
-                "<b>Private Apartments: </b> <br>Private apartments are available for rent in the surrounding area of St. Thomas University. These apartments are typically furnished and can range in size from studio apartments to three-bedroom units. ",
-                "<b>Houses: </b> <br>Houses are also available for rent in the area. These houses typically come unfurnished and can range from studios to four-bedroom units.",
-                "<b>Dorms: </b> <br>Dorms are available for rent near the university. These dorms are typically furnished and feature shared living spaces and private bedrooms.",
-                "<b>Hostels: </b> <br>St. Thomas University does not have any on-campus hostel facilities. However, there are several hostel options available in the area, such as the Miami Beach International Hostel and the Miami Beach Hostel. These hostels offer affordable accommodations and shared living spaces."
+                "<b>Traditional Residence Halls:  </b> Traditional residence halls are the most affordable option for students at St. Thomas University. These residence halls provide double-occupancy rooms with a shared bathroom. Each floor has its own study room, kitchen, and lounge area.",
+                "<b>Apartment-Style Living:  </b> St. Thomas University offers apartment-style living for students who need more privacy and space. These apartments come furnished and feature a kitchen, living room, and private bedrooms and bathrooms. ",
+                "<b>Suite-Style Living:  </b> Suite-style living is the most luxurious option available on campus. These suites come with a full kitchen, living room, and private bedrooms and bathrooms. Some suites even feature a balcony or patio."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "Off-campus accommodation options are available for students at St. Thomas University. These include private apartments, houses, and dorms.",
+            "data": [
+                "<b>Private Apartments: </b> Private apartments are available for rent in the surrounding area of St. Thomas University. These apartments are typically furnished and can range in size from studio apartments to three-bedroom units. ",
+                "<b>Houses: </b> Houses are also available for rent in the area. These houses typically come unfurnished and can range from studios to four-bedroom units.",
+                "<b>Dorms: </b> Dorms are available for rent near the university. These dorms are typically furnished and feature shared living spaces and private bedrooms.",
+                "<b>Hostels: </b> St. Thomas University does not have any on-campus hostel facilities. However, there are several hostel options available in the area, such as the Miami Beach International Hostel and the Miami Beach Hostel. These hostels offer affordable accommodations and shared living spaces."
             ]
         },
         {

@@ -108,7 +108,7 @@ export const strayeruniversitydelaware = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "Undergraduate Degree Programs: ",
             "data": [
@@ -116,7 +116,7 @@ export const strayeruniversitydelaware = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Graduate Degree Programs: ",
             "data": [

@@ -69,14 +69,9 @@ export const stirlingtheologicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Undergraduate Courses",
             "data": [
                 "Bachelor of Theology (Honours)  Fee: AUD$19,200 per year",
                 "Bachelor of Theological Studies  Fee: AUD$19,200 per year",
@@ -85,8 +80,8 @@ export const stirlingtheologicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": " ",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Master of Theology  Fee: AUD$22,400 per year",
                 "Master of Arts (Theology)  Fee: AUD$20,200 per year",

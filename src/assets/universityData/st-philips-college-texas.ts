@@ -70,14 +70,10 @@ export const stphilipscollegetexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>St. Phillips College offers the following courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Associate of Applied Science (AAS) in:",
+            "title": "Courses and Fees",
+            "info": "St. Phillips College offers the following courses:",
+            "textBelowInfo": "<b>1. Associate of Applied Science (AAS) in: </b>",
             "data": [
                 "Accounting",
                 "Business Administration",

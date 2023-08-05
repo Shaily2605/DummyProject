@@ -71,14 +71,10 @@ export const texasaandmuniversitycommerce = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Texas A&M University-Commerce offers over 100 undergraduate and graduate degree programs and certificates.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Texas A&M University-Commerce offers over 100 undergraduate and graduate degree programs and certificates.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -108,8 +104,8 @@ export const texasaandmuniversitycommerce = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Accounting",
                 "Business Administration",

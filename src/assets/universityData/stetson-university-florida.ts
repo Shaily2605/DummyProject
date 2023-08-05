@@ -87,7 +87,7 @@ export const stetsonuniversityflorida = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Stetson University offers a variety of courses across a range of disciplines. The following is a list of courses offered by the university and the associated fee structure.",
-            "textBelowInfo": "Undergraduate Courses:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $24,712",
                 "Actuarial Science: $24,712",

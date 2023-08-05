@@ -314,7 +314,7 @@ export const thekingsuniversityedmonton = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus",
             "data": [

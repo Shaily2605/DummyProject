@@ -67,14 +67,10 @@ export const tayloruniversityindiana = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Taylor University, Indiana, USA offers a variety of undergraduate and graduate programs in the fields of Arts & Sciences, Business, Education, Humanities, and Professional Studies.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Taylor University, Indiana, USA offers a variety of undergraduate and graduate programs in the fields of Arts & Sciences, Business, Education, Humanities, and Professional Studies.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Arts in Accounting Course Fee: $379 per credit hour",
                 "Bachelor of Science in Applied Science Course Fee: $379 per credit hour",

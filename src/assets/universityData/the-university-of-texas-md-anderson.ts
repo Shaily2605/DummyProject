@@ -66,14 +66,10 @@ export const theuniversityoftexasmdanderson = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Texas MD Anderson Cancer Center offers a variety of Graduate Education Programs. These include Doctoral Programs, Master's Programs, Postdoctoral Training and Certificate Programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Doctoral Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Texas MD Anderson Cancer Center offers a variety of Graduate Education Programs. These include Doctoral Programs, Master's Programs, Postdoctoral Training and Certificate Programs.",
+            "textBelowInfo": "<b>Doctoral Programs</b>",
             "data": [
                 "Doctor of Philosophy in Cancer Biology",
                 "Doctor of Philosophy in Immunology",
@@ -84,8 +80,8 @@ export const theuniversityoftexasmdanderson = {
         },
         {
             "type": "list-bollet",
-            "title": "Master's Programs",
-            "info": "",
+            "title": "",
+            "info": "Master's Programs",
             "data": [
                 "Master of Science in Clinical Investigation",
                 "Master of Science in Translational Science",
@@ -94,8 +90,8 @@ export const theuniversityoftexasmdanderson = {
         },
         {
             "type": "list-bollet",
-            "title": "Postdoctoral Training",
-            "info": "",
+            "title": "",
+            "info": "Postdoctoral Training",
             "data": [
                 "Postdoctoral Fellow in Biochemistry and Molecular Biology",
                 "Postdoctoral Fellow in Cancer Biology",
@@ -106,8 +102,8 @@ export const theuniversityoftexasmdanderson = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs",
             "data": [
                 "Clinical Research Certificate Program",
                 "Human Research Protection Program Certificate",
@@ -115,9 +111,9 @@ export const theuniversityoftexasmdanderson = {
             ]
         },
         {
-            "type": "list-bollet",
-            "title": "Fee Structure",
-            "info": "",
+            "type": "text",
+            "title": "",
+            "info": "Fee Structure",
             "data": [
                 "The tuition for the Doctoral Programs is $35,600 per year. The tuition for the Master's Programs is $28,800 per year. The tuition for the Postdoctoral Training Programs is $32,400 per year. The tuition for the Certificate Programs is $10,000 per year."
             ]
@@ -340,16 +336,23 @@ export const theuniversityoftexasmdanderson = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "MD Anderson Cancer Center provides on-campus housing for both short-term and long-term visitors. Short-term accommodation is offered in the form of hotel-style rooms, while long-term accommodation is offered in the form of apartments.",
             "data": [
-                "<b>On-Campus Accommodation </b> <br> MD Anderson Cancer Center provides on-campus housing for both short-term and long-term visitors. Short-term accommodation is offered in the form of hotel-style rooms, while long-term accommodation is offered in the form of apartments.",
-                "<b>Short-Term Accommodation </b> <br> Short-term accommodation is available in the University of Texas MD Anderson Cancer Center (UTMDACC) Guest House. The Guest House offers comfortable, hotel-style accommodations for visitors, faculty, staff and students. All rooms are air-conditioned and include a mini-fridge, microwave, coffee maker, complimentary Wi-Fi and cable TV.",
-                "<b>Long-Term Accommodation </b> <br> Long-term accommodation is available in the University of Texas MD Anderson Cancer Center (UTMDACC) Student Apartments. The apartments are conveniently located near the main campus and provide comfortable, fully-furnished one- and two-bedroom units with all the modern amenities.",
-                "<b>Off-Campus Accommodation </b> <br> MD Anderson Cancer Center provides off-campus housing for both students and visitors. Off-campus housing is offered in the form of apartments, townhomes and houses.",
-                "<b>Apartments </b> <br> There are several apartment complexes located near the University of Texas MD Anderson Cancer Center. These apartment complexes offer a variety of one- and two-bedroom units, with amenities that include a fitness center, pool, parking, and Wi-Fi.",
-                "<b>Townhomes </b> <br> There are several townhome communities located near the University of Texas MD Anderson Cancer Center. These townhome communities offer two- and three-bedroom units, with amenities that include a pool, parking and Wi-Fi.",
-                "<b>Houses </b> <br> There are several houses for rent near the University of Texas MD Anderson Cancer Center. These houses range in size from one- to four-bedroom units, and offer amenities such as a pool, parking, and Wi-Fi.",
-                "<b>Hostel Facilities </b> <br> MD Anderson Cancer Center does not have any hostel facilities on campus. However, there are several hostels located in the Houston area that are within a short distance of the university. These hostels offer shared living spaces, with amenities such as Wi-Fi, kitchen facilities, and laundry services."
+                "<b>Short-Term Accommodation </b> Short-term accommodation is available in the University of Texas MD Anderson Cancer Center (UTMDACC) Guest House. The Guest House offers comfortable, hotel-style accommodations for visitors, faculty, staff and students. All rooms are air-conditioned and include a mini-fridge, microwave, coffee maker, complimentary Wi-Fi and cable TV.",
+                "<b>Long-Term Accommodation </b> Long-term accommodation is available in the University of Texas MD Anderson Cancer Center (UTMDACC) Student Apartments. The apartments are conveniently located near the main campus and provide comfortable, fully-furnished one- and two-bedroom units with all the modern amenities."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "MD Anderson Cancer Center provides off-campus housing for both students and visitors. Off-campus housing is offered in the form of apartments, townhomes and houses.",
+            "data": [
+                "<b>Apartments </b> There are several apartment complexes located near the University of Texas MD Anderson Cancer Center. These apartment complexes offer a variety of one- and two-bedroom units, with amenities that include a fitness center, pool, parking, and Wi-Fi.",
+                "<b>Townhomes </b> There are several townhome communities located near the University of Texas MD Anderson Cancer Center. These townhome communities offer two- and three-bedroom units, with amenities that include a pool, parking and Wi-Fi.",
+                "<b>Houses </b> There are several houses for rent near the University of Texas MD Anderson Cancer Center. These houses range in size from one- to four-bedroom units, and offer amenities such as a pool, parking, and Wi-Fi.",
+                "<b>Hostel Facilities </b> MD Anderson Cancer Center does not have any hostel facilities on campus. However, there are several hostels located in the Houston area that are within a short distance of the university. These hostels offer shared living spaces, with amenities such as Wi-Fi, kitchen facilities, and laundry services."
             ]
         },
         {

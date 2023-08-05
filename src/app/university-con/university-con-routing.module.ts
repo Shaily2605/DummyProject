@@ -65360,6 +65360,51 @@ const routes: Routes = [
     component: UniversityConComponent
   },
 
+{
+    path: 'university-of-wollongong-southern-highlands-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'university-of-wollongong-southern-highlands-campus/faq/.',
+    component: UniversityConComponent
+  },
+
 
   {
     path: 'university-of-worchetser-england/.',
@@ -67012,6 +67057,1662 @@ const routes: Routes = [
   },
   {
     path: 'villanova-university-pennsylvania/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'virginia-college-alabama/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-college-alabama/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'virginia-commonwealth-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-commonwealth-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'virginia-military-institute-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-military-institute-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'virginia-state-university-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-state-university-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'virginia-tech-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'virginia-tech-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'visual-college-of-art-and-design/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'visual-college-of-art-and-design/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'viterbo-university-wisconsin/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'viterbo-university-wisconsin/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'vmcad-college-ohio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'vmcad-college-ohio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'voorhees-college-south-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'voorhees-college-south-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wabash-college-indiana/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wabash-college-indiana/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wade-college-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wade-college-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wagner-college-new-york/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wagner-college-new-york/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'wake-forest-university-north-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wake-forest-university-north-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'waldorf-university-iowa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'waldorf-university-iowa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wallace-state-community-college-alabama/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wallace-state-community-college-alabama/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'walla-walla-university-washington/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walla-walla-university-washington/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'walsh-university-ohio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'walsh-university-ohio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'warner-pacific-university-oregon/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-pacific-university-oregon/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'warner-university-florida/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warner-university-florida/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'warren-wilson-college-north-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'warren-wilson-college-north-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wartburg-college-iowa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wartburg-college-iowa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washburn-university-kansas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washburn-university-kansas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washington-adventist-university-maryland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-adventist-university-maryland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washington-and-jefferson-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washington-and-jefferson-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-jefferson-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washington-and-lee-university-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-and-lee-university-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'washington-college-maryland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-college-maryland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'washington-state-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-state-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'washington-university-in-st-louis/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'washington-university-in-st-louis/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wayland-baptist-university-alaska/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-alaska/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wayland-baptist-university-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayland-baptist-university-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wayne-state-college-nebraska/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-college-nebraska/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'wayne-state-university-michigan/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wayne-state-university-michigan/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'weatherford-college-texas/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weatherford-college-texas/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'webb-institute-new-york/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webb-institute-new-york/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'weber-state-university-utah/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'weber-state-university-utah/faq/.',
     component: UniversityConComponent
   },
 ];

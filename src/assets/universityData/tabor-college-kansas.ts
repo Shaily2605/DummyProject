@@ -85,14 +85,10 @@ export const taborcollegekansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The undergraduate courses offered by Tabor College include various disciplines like business, education, nursing, social sciences, and many more. The college also offers several graduate programs.</p> <p>The fee structure of Tabor College varies depending on the courses opted by the student.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "1. Business:",
+            "title": "Courses and Fees",
+            "info": "The undergraduate courses offered by Tabor College include various disciplines like business, education, nursing, social sciences, and many more. The college also offers several graduate programs.",
+            "textBelowInfo": "<p>The fee structure of Tabor College varies depending on the courses opted by the student.</p> <p><b>Undergraduate Courses:</b></p> <p><b>1. Business:</b></p>",
             "data": [
                 "Accounting",
                 "Business Administration",
@@ -141,8 +137,9 @@ export const taborcollegekansas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "1. Business:",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "<b>1. Business:</b>",
             "data": [
                 "Business Administration (MBA)",
                 "Business Administration (Accounting)",
@@ -227,18 +224,7 @@ export const taborcollegekansas = {
             "data": [
                 "Visit the Tabor College website and check the admission requirements for international students.",
                 "Submit a completed online application form and pay the application fee.",
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "",
-            "info": "Submit the following documents:",
-            "data": [
-                "Academic transcripts",
-                "Proof of English language proficiency",
-                "Copy of passport",
-                "Financial documents to demonstrate the ability to fund your studies",
-                "Submit the following documents:<br> 1. Academic transcripts<br> 2. Proof of English language proficiency<br> 3. Copy of passport<br> 4. Financial documents to demonstrate the ability to fund your studies",
+                "Submit the following documents:<br> * Academic transcripts <br> * Proof of English language proficiency<br> * Copy of passport <br>* Financial documents to demonstrate the ability to fund your studies",
                 "Send all documents and the application fee to Tabor College.",
                 "Wait for the admissions decision.",
                 "If accepted, you will receive an I-20 form, which you will need in order to apply for a student visa.",

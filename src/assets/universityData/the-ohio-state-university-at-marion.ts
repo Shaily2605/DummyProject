@@ -98,8 +98,9 @@ export const theohiostateuniversityatmarion = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition and Fees",
-            "info": "Ohio Resident: ",
+            "title": "",
+            "info": "Graduate Tuition and Fees",
+            "textBelowInfo": "<b>Ohio Resident: </b>",
             "data": [
                 "Semester Tuition & Fees: $5,878 ",
                 "Annual Tuition & Fees: $11,756"

@@ -115,7 +115,7 @@ export const theartinstituteofaustintexas = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "",
             "data": [

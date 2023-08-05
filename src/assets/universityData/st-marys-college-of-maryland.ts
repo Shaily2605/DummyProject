@@ -326,7 +326,7 @@ export const stmaryscollegeofmaryland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Housing",
             "data": [
@@ -334,7 +334,7 @@ export const stmaryscollegeofmaryland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

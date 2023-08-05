@@ -326,16 +326,23 @@ export const theuniversityofchicago = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation:",
+            "textBelowInfo": "The University of Chicago has several on-campus accommodation options for undergraduate and graduate students. All on-campus residences include access to Wi-Fi, air conditioning, and laundry facilities. On-campus housing is divided into three categories: Residence Halls, Collegiate Houses, and Apartments.",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>The University of Chicago has several on-campus accommodation options for undergraduate and graduate students. All on-campus residences include access to Wi-Fi, air conditioning, and laundry facilities. On-campus housing is divided into three categories: Residence Halls, Collegiate Houses, and Apartments.",
-                "<b>Residence Halls: </b> <br>The University of Chicago has 14 residence halls, which provide single and double accommodation to undergraduate and graduate students. All residence halls are equipped with a range of amenities and services, including common areas, study spaces, and laundry facilities. ",
-                "<b>Collegiate Houses: </b> <br>The University of Chicago offers students the opportunity to live in Collegiate Houses, which are residential communities located in the heart of campus. Collegiate Houses are designed to provide an environment for students to explore their interests, build relationships, and experience the diversity of the University.",
-                "<b>Apartments: </b> <br>The University of Chicago also has a range of apartment accommodation available, which are designed for graduate students and families. Apartments are fully furnished and include a range of amenities and services, including a community center, laundry facilities, and a fitness center.",
-                "<b>Off-Campus Accommodation: </b> <br>The University of Chicago also has a range of off-campus accommodation options available for students, including student housing, hostels, and apartments. ",
-                "<b>Student Housing: </b> <br>The University of Chicago has a range of student housing options available for undergraduate and graduate students. These student housing options are located near campus and provide a range of amenities and services, including Wi-Fi, air conditioning, and laundry facilities.",
-                "<b>Hostels: </b> <br>The University of Chicago is located close to several hostels, which provide budget accommodation for students. The hostels offer a range of amenities and services, including Wi-Fi, air conditioning, and shared kitchen and lounge areas.",
-                "<b>Apartments: </b> <br>The University of Chicago is also located close to a range of apartments, which offer accommodation for students and families. The apartments are fully furnished and provide a range of amenities and services, including Wi-Fi, air conditioning, and laundry facilities."
+                "<b>Residence Halls: </b> The University of Chicago has 14 residence halls, which provide single and double accommodation to undergraduate and graduate students. All residence halls are equipped with a range of amenities and services, including common areas, study spaces, and laundry facilities. ",
+                "<b>Collegiate Houses: </b> The University of Chicago offers students the opportunity to live in Collegiate Houses, which are residential communities located in the heart of campus. Collegiate Houses are designed to provide an environment for students to explore their interests, build relationships, and experience the diversity of the University.",
+                "<b>Apartments: </b> The University of Chicago also has a range of apartment accommodation available, which are designed for graduate students and families. Apartments are fully furnished and include a range of amenities and services, including a community center, laundry facilities, and a fitness center."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation:",
+            "textBelowInfo": "The University of Chicago also has a range of off-campus accommodation options available for students, including student housing, hostels, and apartments.",
+            "data": [
+                "<b>Student Housing: </b> The University of Chicago has a range of student housing options available for undergraduate and graduate students. These student housing options are located near campus and provide a range of amenities and services, including Wi-Fi, air conditioning, and laundry facilities.",
+                "<b>Hostels: </b> The University of Chicago is located close to several hostels, which provide budget accommodation for students. The hostels offer a range of amenities and services, including Wi-Fi, air conditioning, and shared kitchen and lounge areas.",
+                "<b>Apartments: </b> The University of Chicago is also located close to a range of apartments, which offer accommodation for students and families. The apartments are fully furnished and provide a range of amenities and services, including Wi-Fi, air conditioning, and laundry facilities."
             ]
         },
         {

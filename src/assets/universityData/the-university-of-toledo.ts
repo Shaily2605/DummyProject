@@ -68,14 +68,10 @@ export const theuniversityoftoledo = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Toledo offers a range of undergraduate, graduate, doctoral and professional degree programs. Below is a list of some of the courses and the associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Toledo offers a range of undergraduate, graduate, doctoral and professional degree programs. Below is a list of some of the courses and the associated fees.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Accounting: $13,170 per year ",
                 "Biology: $13,170 per year ",
@@ -96,8 +92,8 @@ export const theuniversityoftoledo = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs: ",
             "data": [
                 "Accounting: $12,595 per year",
                 "Biology: $12,595 per year ",
@@ -118,8 +114,8 @@ export const theuniversityoftoledo = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs:",
             "data": [
                 "Accounting: $13,170 per year ",
                 "Biology: $13,170 per year ",
@@ -140,8 +136,8 @@ export const theuniversityoftoledo = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Programs:",
-            "info": "",
+            "title": "",
+            "info": "Professional Programs:",
             "data": [
                 "Master of Business Administration: $22,992 per year ",
                 "Master of Science in Physician Assistant Studies: $23,900 per year ",

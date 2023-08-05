@@ -70,14 +70,10 @@ export const taylorcollegeandseminaryedmonton = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Taylor College & Seminary offers several programs that are designed to meet the needs of Christian leaders and further equip them for ministry.</p> <p>The following are the courses offered by the college and their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Taylor College & Seminary offers several programs that are designed to meet the needs of Christian leaders and further equip them for ministry.",
+            "textBelowInfo": "The following are the courses offered by the college and their corresponding fees:",
             "data": [
                 "Bachelor of Arts in Christian Ministries: Tuition (per 3-credit course): $3,552",
                 "Master of Arts in Intercultural Studies: Tuition (per 3-credit course): $3,552",

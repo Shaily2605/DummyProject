@@ -68,14 +68,10 @@ export const texascollegetexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Texas College is a private, historically black, liberal arts college located in Tyler, Texas. The college offers undergraduate and graduate degree programs in a variety of disciplines.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Texas College is a private, historically black, liberal arts college located in Tyler, Texas. The college offers undergraduate and graduate degree programs in a variety of disciplines.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration ",
                 "Education ",
@@ -94,8 +90,8 @@ export const texascollegetexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Education ",
                 "Master of Science in Psychology ",

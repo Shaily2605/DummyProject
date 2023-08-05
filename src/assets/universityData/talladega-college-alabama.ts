@@ -68,14 +68,10 @@ export const talladegacollegealabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Talladega College offers a variety of undergraduate, graduate and continuing education programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Talladega College offers a variety of undergraduate, graduate and continuing education programs.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts ",
                 "Bachelor of Science ",
@@ -85,8 +81,8 @@ export const talladegacollegealabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "",
+            "title": " ",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Science in Education ",
                 "Master of Science in Healthcare Administration ",
@@ -96,8 +92,8 @@ export const talladegacollegealabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Continuing Education Programs:",
-            "info": "",
+            "title": "",
+            "info": "Continuing Education Programs:",
             "data": [
                 "Certificate in Early Childhood Education ",
                 "Certificate in Paralegal Studies ",
@@ -107,8 +103,9 @@ export const talladegacollegealabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Fee Structure: ",
-            "info": "Undergraduate Programs: ",
+            "title": "",
+            "info": "Fee Structure: ",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Tuition and Fees: $11,742 per semester ",
                 "Room and Board: $3,250 per semester"

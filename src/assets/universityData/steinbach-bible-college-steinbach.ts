@@ -77,8 +77,7 @@ export const steinbachbiblecollegesteinbach = {
                 "Unfortunately, Steinbach Bible College does not provide detailed information on course fees. However, they do provide a link to the tuition fees page, which outlines the different tuition fees for the academic year.",
                 "The cost of a full-time, undergraduate program at Steinbach Bible College is $7,300 per semester. This cost includes tuition, fees, and residence fees. Part-time students pay a per-credit fee of $320. International students pay an additional fee of $2,000 per semester.",
                 "In addition to tuition and fees, all students must purchase their own textbooks and other supplies.",
-                "For more information, please visit the college's website:",
-                "https://www.sbc.edu/tuition-and-fees/"
+                "For more information, please visit the college's website:<br> https://www.sbc.edu/tuition-and-fees/"
             ]
         },
         {

@@ -181,8 +181,9 @@ export const texaslutheranuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "Business Administration:",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "Business Administration:",
             "data": [
                 "MBA: $25,500 per year",
                 "Master of Accountancy: $25,500 per year",

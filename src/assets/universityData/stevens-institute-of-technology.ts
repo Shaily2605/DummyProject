@@ -70,14 +70,10 @@ export const stevensinstituteoftechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Stevens Institute of Technology offers more than 60 undergraduate and graduate-level programs in areas such as engineering, science, business, and technology management. The following is a list of courses with the associated fee structure for the 2021-2022 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "Stevens Institute of Technology offers more than 60 undergraduate and graduate-level programs in areas such as engineering, science, business, and technology management. The following is a list of courses with the associated fee structure for the 2021-2022 academic year.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "B.S. in Business Administration: $1,939 per credit hour",
                 "B.S. in Computer Science: $1,939 per credit hour",

@@ -73,13 +73,14 @@ export const sulrossstateuniversitytexas = {
         },
         {
             type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Sul Ross State University offers a range of courses in various fields, including Accounting, Art, Biology, Business Administration, Chemistry, Computer Science, Creative Writing, Economics, Education, Engineering, English, History, Mathematics, Music, Psychology, Sociology, and many more.</p> <p>Below is the Fee Structure for Sul Ross State University:</p>"
+            title: '',
+            data: "<p></p> "
         },
         {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Tuition & Fees for Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "Sul Ross State University offers a range of courses in various fields, including Accounting, Art, Biology, Business Administration, Chemistry, Computer Science, Creative Writing, Economics, Education, Engineering, English, History, Mathematics, Music, Psychology, Sociology, and many more.",
+            "textBelowInfo": "<p>Below is the Fee Structure for Sul Ross State University:</p> <p><b>Undergraduate Courses:</b></p> <p>Tuition & Fees for Undergraduate Courses:</p>",
             "data": [
                 "Tuition for In-State Students: $3,814 per semester ",
                 "Tuition for Out-of-State Students: $7,632 per semester ",
@@ -89,8 +90,9 @@ export const sulrossstateuniversitytexas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "Tuition & Fees for Graduate Courses:",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "Tuition & Fees for Graduate Courses:",
             "data": [
                 "Tuition for In-State Students: $5,564 per semester ",
                 "Tuition for Out-of-State Students: $11,128 per semester ",

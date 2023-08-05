@@ -312,7 +312,7 @@ export const thecooperunionnewyork = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodations:",
             "data": [
@@ -320,7 +320,7 @@ export const thecooperunionnewyork = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodations:",
             "data": [
