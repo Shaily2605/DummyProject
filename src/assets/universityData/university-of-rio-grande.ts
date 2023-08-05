@@ -316,7 +316,7 @@ export const universityofriogrande = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "The University of Rio Grande offers on-campus housing for students. All on-campus housing options are located within walking distance of academics, athletics, recreation, dining, and other campus activities. The following residence halls are available on-campus at the University of Rio Grande:",
+            "textBelowInfo": "<b>The University of Rio Grande offers on-campus housing for students. All on-campus housing options are located within walking distance of academics, athletics, recreation, dining, and other campus activities. The following residence halls are available on-campus at the University of Rio Grande:</b>",
             "data": [
                 "Kennedy Hall",
                 "Founder's Hall",

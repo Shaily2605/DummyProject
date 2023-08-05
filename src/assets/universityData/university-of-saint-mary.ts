@@ -132,12 +132,10 @@ export const universityofsaintmary = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure",
-            "data": [
-                "Tuition and fees depend on the program in which a student is enrolled. Tuition is charged on a per-credit-hour basis, and the amount of tuition increases each year. The University of Saint Mary also offers a variety of scholarships and financial aid to help offset the cost of tuition."
-            ]
+            "data": "<p>Tuition and fees depend on the program in which a student is enrolled. Tuition is charged on a per-credit-hour basis, and the amount of tuition increases each year. The University of Saint Mary also offers a variety of scholarships and financial aid to help offset the cost of tuition.</p>"
         },
         {
             type: "meta",
