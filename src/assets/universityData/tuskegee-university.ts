@@ -71,14 +71,10 @@ export const tuskegeeuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tuskegee University offers over 40+ undergraduate and graduate programs in the fields of Agriculture & Environmental Sciences, Architecture & Construction Sciences, Arts & Sciences, Business & Information Sciences, Education & Human Sciences, Engineering & Aviation Sciences, and Veterinary Medicine & Biomedical Sciences.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Agricultural & Environmental Sciences",
+            "title": "Courses and Fees",
+            "info": "Tuskegee University offers over 40+ undergraduate and graduate programs in the fields of Agriculture & Environmental Sciences, Architecture & Construction Sciences, Arts & Sciences, Business & Information Sciences, Education & Human Sciences, Engineering & Aviation Sciences, and Veterinary Medicine & Biomedical Sciences.",
+            "textBelowInfo": "<p><b>Undergraduate Programs:</b></p> <p><b>Agricultural & Environmental Sciences</b></p>",
             "data": [
                 "Agricultural Business",
                 "Agricultural Education",
@@ -177,8 +173,9 @@ export const tuskegeeuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "Agriculture & Environmental Sciences",
+            "title": "",
+            "info": "Graduate Programs:",
+            "textBelowInfo": "<b>Agriculture & Environmental Sciences </b>",
             "data": [
                 "Agricultural & Extension Education",
                 "Animal Science",

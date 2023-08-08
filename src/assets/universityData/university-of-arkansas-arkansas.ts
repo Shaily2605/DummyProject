@@ -68,11 +68,6 @@ export const universityofarkansasarkansas = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -328,7 +323,7 @@ export const universityofarkansasarkansas = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

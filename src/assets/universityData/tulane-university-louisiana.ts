@@ -80,14 +80,10 @@ export const tulaneuniversitylouisiana = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tulane University offers a wide range of undergraduate, graduate, and professional degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Tulane University offers a wide range of undergraduate, graduate, and professional degree programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Arts and Sciences ",
                 "Architecture ",
@@ -122,7 +118,7 @@ export const tulaneuniversitylouisiana = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Tuition & Fees:",
             "info": " ",
             "data": [

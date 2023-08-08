@@ -78,14 +78,10 @@ export const universityofcaliforniairvine = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California Irvine offers more than 87 undergraduate and graduate degree programs. The fee structure for each program varies, based on the program and the student's residency status.</p> <p>Below is a list of some of the undergraduate and graduate programs offered at UC Irvine and the associated tuition and fees. All tuition and fees are subject to change:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of California Irvine offers more than 87 undergraduate and graduate degree programs. The fee structure for each program varies, based on the program and the student's residency status.",
+            "textBelowInfo": "<p>Below is a list of some of the undergraduate and graduate programs offered at UC Irvine and the associated tuition and fees. All tuition and fees are subject to change:</p> <p><b>Undergraduate Programs:</b></p>",
             "data": [
                 "Business Administration: $14,742 (in-state) / $43,482 (out-of-state)",
                 "Computer Science: $14,742 (in-state) / $43,482 (out-of-state)",

@@ -71,14 +71,10 @@ export const universityofadvancingtechnology = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Advancing Technology (UAT) is a private university located in Tempe, Arizona, that offers undergraduate and graduate degrees in a variety of disciplines. UAT offers a wide range of courses and programs leading to undergraduate, graduate and doctoral degrees. Below is a list of the courses offered at UAT and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "University of Advancing Technology (UAT) is a private university located in Tempe, Arizona, that offers undergraduate and graduate degrees in a variety of disciplines. UAT offers a wide range of courses and programs leading to undergraduate, graduate and doctoral degrees. Below is a list of the courses offered at UAT and their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Computer Science: $20,000/year",
                 "Game Design & Development: $21,000/year",

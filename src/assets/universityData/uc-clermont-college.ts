@@ -70,14 +70,10 @@ export const ucclermontcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Cincinnati Clermont College offers the following degree programs and courses:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate Degrees:",
+            "title": "Courses and Fees",
+            "info": "The University of Cincinnati Clermont College offers the following degree programs and courses:",
+            "textBelowInfo": "<b>Associate Degrees: </b>",
             "data": [
                 "Associate of Arts",
                 "Associate of Science",

@@ -80,14 +80,10 @@ export const unitedtribestechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>United Tribes Technical College (UTTC) is a tribal college located in Bismarck, North Dakota, United States and has a total enrollment of 522 students. The college offers a variety of certificate, diploma and associate’s degree programs in career and technical fields.</p> <p>The college has the following courses and fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate Programs:",
+            "title": "Courses and Fees",
+            "info": "United Tribes Technical College (UTTC) is a tribal college located in Bismarck, North Dakota, United States and has a total enrollment of 522 students. The college offers a variety of certificate, diploma and associate’s degree programs in career and technical fields.",
+            "textBelowInfo": "<p>The college has the following courses and fee structure:</p> <p><b>Certificate Programs:</b></p>",
             "data": [
                 "Diesel Technology: $3,856",
                 "Early Childhood Education: $3,856",

@@ -69,14 +69,10 @@ export const turtlemountaincommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Turtle Mountain Community College offers a variety of courses to students. The courses cover a wide range of topics from business to science. Below is a list of courses offered by the college along with the associated fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "1. Business Administration:",
+            "title": "Courses and Fees",
+            "info": "The Turtle Mountain Community College offers a variety of courses to students. The courses cover a wide range of topics from business to science. Below is a list of courses offered by the college along with the associated fee structures.",
+            "textBelowInfo": "<b>1. Business Administration: </b>",
             "data": [
                 "Tuition: $4,000 per semester",
                 "Fees: $200 per semester"

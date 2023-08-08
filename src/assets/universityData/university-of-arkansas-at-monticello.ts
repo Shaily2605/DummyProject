@@ -69,14 +69,10 @@ export const universityofarkansasatmonticello = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas at Monticello offers a wide range of undergraduate and graduate courses. The fee structure for the courses are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas at Monticello offers a wide range of undergraduate and graduate courses. The fee structure for the courses are as follows:",
+            "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
                 "Tuition and Fees: $7,490 per semester",
                 "Room and Board Fees: $4,820 per semester",

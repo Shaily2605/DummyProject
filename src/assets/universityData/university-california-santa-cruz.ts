@@ -72,14 +72,10 @@ export const universitycaliforniasantacruz = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of California Santa Cruz offers more than 80 undergraduate majors and minors. The cost of tuition for the 2020-2021 academic year is $14,495 per academic year for California residents and $43,914 for non-residents.</p> <p>Below is a list of the undergraduate majors offered by UC Santa Cruz (with their corresponding fees):</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "University of California Santa Cruz offers more than 80 undergraduate majors and minors. The cost of tuition for the 2020-2021 academic year is $14,495 per academic year for California residents and $43,914 for non-residents.",
+            "textBelowInfo": "<p>Below is a list of the undergraduate majors offered by UC Santa Cruz (with their corresponding fees):</p>",
             "data": [
                 "Anthropology - $14,495 (CA resident) / $43,914 (non-resident)",
                 "Art: History of Art and Visual Culture - $14,495 (CA resident) / $43,914 (non-resident) ",

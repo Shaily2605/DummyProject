@@ -70,14 +70,10 @@ export const unionuniversitytennessee = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Union University offers a variety of undergraduate, graduate, and doctoral degree programs. Here is a list of courses offered at Union University with their corresponding fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Union University offers a variety of undergraduate, graduate, and doctoral degree programs. Here is a list of courses offered at Union University with their corresponding fees.",
+            "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
                 "Bachelor of Arts: $17,080 ",
                 "Bachelor of Science: $17,080 ",

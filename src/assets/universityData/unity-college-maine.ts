@@ -68,14 +68,10 @@ export const unitycollegemaine = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Unity College in Maine offers a variety of undergraduate and graduate degree programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs",
+            "title": "Courses and Fees",
+            "info": "The Unity College in Maine offers a variety of undergraduate and graduate degree programs.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs</b>",
             "data": [
                 "B.A. in Environmental Policy",
                 "B.S. in Environmental Science",
@@ -101,7 +97,7 @@ export const unitycollegemaine = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [

@@ -67,14 +67,10 @@ export const universaltechnicalinstitute = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Universal Technical Institute’s Arizona campus offers both diploma and degree programs in the fields of automotive, diesel, collision repair, and marine technology. Tuition and fees vary based on the program selected.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Diploma Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Universal Technical Institute’s Arizona campus offers both diploma and degree programs in the fields of automotive, diesel, collision repair, and marine technology. Tuition and fees vary based on the program selected.",
+            "textBelowInfo": "<b>Diploma Programs</b>",
             "data": [
                 "Automotive/Diesel Technology: $22,470",
                 "Collision Repair Technology: $24,030 ",
@@ -83,8 +79,8 @@ export const universaltechnicalinstitute = {
         },
         {
             "type": "list-bollet",
-            "title": "Degree Programs",
-            "info": "",
+            "title": "",
+            "info": "Degree Programs",
             "data": [
                 "Automotive Technology: $43,905",
                 "Diesel Technology: $41,080",
@@ -93,8 +89,8 @@ export const universaltechnicalinstitute = {
         },
         {
             "type": "list-bollet",
-            "title": "Additional Fees",
-            "info": "",
+            "title": "",
+            "info": "Additional Fees",
             "data": [
                 "Application Fee: $50",
                 "Registration Fee: $150",

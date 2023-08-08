@@ -69,14 +69,10 @@ export const toccoafallscollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The Undergraduate Tuition and Fees for the 2020-2021 academic year at Toccoa Falls College are as given below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Tuition & Fees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The Undergraduate Tuition and Fees for the 2020-2021 academic year at Toccoa Falls College are as given below:",
+            "textBelowInfo": "<b>Tuition & Fees:</b>",
             "data": [
                 "Full-Time Students (12-18 hours) - $19,400",
                 "Part-Time Students (1-11 hours) - $850/hour "
@@ -102,8 +98,8 @@ export const toccoafallscollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Other Fees:",
-            "info": "",
+            "title": "",
+            "info": "Other Fees:",
             "data": [
                 "Application Fee - $35",
                 "Auditing Fee - $100/hour",

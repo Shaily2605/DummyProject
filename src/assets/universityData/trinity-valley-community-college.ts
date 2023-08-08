@@ -71,14 +71,10 @@ export const trinityvalleycommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trinity Valley Community College offers a variety of certificate, associate and continuing education programs. The college has three main campuses located in Athens, Kaufman, and Palestine, Texas.</p> <p>Below is the fee structure for the different courses offered by Trinity Valley Community College:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Certificate & Associate Degree Programs:",
+            "title": "Courses and Fees",
+            "info": "<p>Trinity Valley Community College offers a variety of certificate, associate and continuing education programs. The college has three main campuses located in Athens, Kaufman, and Palestine, Texas.</p> <p>Below is the fee structure for the different courses offered by Trinity Valley Community College:</p>",
+            "textBelowInfo": "<b>Certificate & Associate Degree Programs: </b>",
             "data": [
                 "Tuition & Fees (in-district): $1,890 per semester ",
                 "Tuition & Fees (out-of-district): $3,180 per semester ",
@@ -338,7 +334,7 @@ export const trinityvalleycommunitycollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

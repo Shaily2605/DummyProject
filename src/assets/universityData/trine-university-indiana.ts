@@ -68,14 +68,10 @@ export const trineuniversityindiana = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trine University Indiana offers various Undergraduate, Graduate, and Professional Programs. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "1. Engineering:",
+            "title": "Courses and Fees",
+            "info": "Trine University Indiana offers various Undergraduate, Graduate, and Professional Programs. ",
+            "textBelowInfo": "<p><b>Undergraduate Programs:</b></p> <p><b>1. Engineering:</b></p>",
             "data": [
                 "Engineering Management – $14,916 per semester",
                 "Mechanical Engineering – $14,916 per semester",
@@ -112,8 +108,9 @@ export const trineuniversityindiana = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "1. Business:",
+            "title": "",
+            "info": "Graduate Programs:",
+            "textBelowInfo": "<b>1. Business:</b>",
             "data": [
                 "MBA – $1,012 per credit",
                 "M.A. in Organizational Leadership – $890 per credit",
@@ -148,8 +145,9 @@ export const trineuniversityindiana = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Programs:",
-            "info": "1. Law:",
+            "title": "",
+            "info": "Professional Programs:",
+            "textBelowInfo": "<b>1. Law:</b>",
             "data": [
                 "Juris Doctor – $1,013 per credit"
             ]

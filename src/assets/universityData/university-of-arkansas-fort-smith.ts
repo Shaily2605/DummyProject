@@ -69,14 +69,10 @@ export const universityofarkansasfortsmith = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas-Fort Smith offers a variety of undergraduate and graduate degrees and certificates. Below is a list of all the courses offered at the University of Arkansas-Fort Smith along with their tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas-Fort Smith offers a variety of undergraduate and graduate degrees and certificates. Below is a list of all the courses offered at the University of Arkansas-Fort Smith along with their tuition and fees.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting",
                 "Business Administration",

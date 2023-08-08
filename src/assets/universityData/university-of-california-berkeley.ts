@@ -67,14 +67,10 @@ export const universityofcaliforniaberkeley = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California, Berkeley offers over 200 majors, minors, and other academic programs. Below you will find a comprehensive list of the undergraduate and graduate programs offered at UC Berkeley, along with their associated tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of California, Berkeley offers over 200 majors, minors, and other academic programs. Below you will find a comprehensive list of the undergraduate and graduate programs offered at UC Berkeley, along with their associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "African American Studies",
                 "Agricultural and Resource Economics",

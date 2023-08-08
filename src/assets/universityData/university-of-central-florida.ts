@@ -70,14 +70,10 @@ export const universityofcentralflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Central Florida offers more than 200 degree programs across 13 colleges. All courses are divided into undergraduate and graduate level courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "The undergraduate courses offered by UCF can be divided into the following categories:",
+            "title": "Courses and Fees",
+            "info": "The University of Central Florida offers more than 200 degree programs across 13 colleges. All courses are divided into undergraduate and graduate level courses.",
+            "textBelowInfo": "<p><b>Undergraduate Courses: </b></p> <p>The undergraduate courses offered by UCF can be divided into the following categories:</p>",
             "data": [
                 "<b>Arts and Humanities:</b> Art, Digital Media, English, History, Music, Philosophy, Theatre, and more.",
                 "<b>Business:</b> Accounting, Business Administration, Economics, Entrepreneurship, Finance, Hospitality Management, International Business, Marketing, and more.",

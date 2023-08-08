@@ -68715,6 +68715,1156 @@ const routes: Routes = [
     path: 'weber-state-university-utah/faq/.',
     component: UniversityConComponent
   },
+
+
+   {
+    path: 'webster-university-missouri/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'webster-university-missouri/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'welch-college-tennessee/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'welch-college-tennessee/faq/.',
+    component: UniversityConComponent
+  },
+
+
+    {
+    path: 'wellesley-college-massachusetts/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wellesley-college-massachusetts/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'wentworth-institute-of-technology/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wentworth-institute-of-technology/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'wesleyan-university-connecticut/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesleyan-university-connecticut/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'wesley-college-delaware/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-delaware/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'wesley-college-manitoba/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'wesley-college-manitoba/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'west-coast-university-los-angeles-campus/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-coast-university-los-angeles-campus/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-college-scotland-scotland/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-college-scotland-scotland/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-hills-college-lemoore-california/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-hills-college-lemoore-california/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-liberty-university-west-virginia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-liberty-university-west-virginia/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-texas-aandm-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-texas-aandm-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-virginia-junior-college-charleston/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-junior-college-charleston/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-virginia-northern-community-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-northern-community-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'west-virginia-state-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-state-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-virginia-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'west-virginia-wesleyan-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'west-virginia-wesleyan-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'western-carolina-university-north-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-carolina-university-north-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-colorado-university-colorado/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-colorado-university-colorado/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-connecticut-state-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-connecticut-state-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-dakota-tech-south-dakota/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-dakota-tech-south-dakota/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-illinois-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-illinois-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'western-iowa-tech-community-college/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-iowa-tech-community-college/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-kentucky-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-kentucky-university/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'western-michigan-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'western-michigan-university/faq/.',
+    component: UniversityConComponent
+  },
 ];
 
 @NgModule({

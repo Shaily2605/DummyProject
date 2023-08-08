@@ -68,14 +68,10 @@ export const universityofarkansasrichmountain = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Arkansas Rich Mountain offers a variety of associate's degree and certificate programs to help students prepare for their future. Below is a list of programs offered, along with the associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts",
+            "title": "Courses and Fees",
+            "info": "The University of Arkansas Rich Mountain offers a variety of associate's degree and certificate programs to help students prepare for their future. Below is a list of programs offered, along with the associated tuition and fees.",
+            "textBelowInfo": "<b>Associate of Arts </b>",
             "data": [
                 "Tuition: $99.00 per credit hour",
                 "Fees: $24.00 per credit hour",

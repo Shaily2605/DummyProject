@@ -71,14 +71,10 @@ export const trumanstateuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Truman State University offers a variety of undergraduate, graduate and professional programs. Below is a list of the courses offered and their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Truman State University offers a variety of undergraduate, graduate and professional programs. Below is a list of the courses offered and their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting  -  $8,800 per credit hour ",
                 "Agricultural Education  -  $8,800 per credit hour ",
@@ -108,8 +104,8 @@ export const trumanstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses",
             "data": [
                 "Accounting  -  $9,700 per credit hour ",
                 "Agricultural Education  -  $9,700 per credit hour ",
@@ -139,8 +135,8 @@ export const trumanstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Courses",
-            "info": "",
+            "title": "",
+            "info": "Professional Courses",
             "data": [
                 "Doctor of Physical Therapy  -  $1,100 per credit hour ",
                 "Doctor of Medicine  -  $1,100 per credit hour ",

@@ -69,14 +69,10 @@ export const universityofcaliforniasantabarbara = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California, Santa Barbara offers a wide variety of undergraduate and graduate courses. The tuition and fees for each program vary depending on the type of program and the number of credits taken.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of California, Santa Barbara offers a wide variety of undergraduate and graduate courses. The tuition and fees for each program vary depending on the type of program and the number of credits taken.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Undergraduate tuition and fees at UC Santa Barbara are based on the number of units taken each quarter and the type of program. An undergraduate student taking 12 units of academic credit will pay $13,789 in tuition and fees for the academic year."
             ]

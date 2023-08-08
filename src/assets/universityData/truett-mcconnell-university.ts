@@ -69,14 +69,10 @@ export const truettmcconnelluniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Truett McConnell University offers several undergraduate and graduate programs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Truett McConnell University offers several undergraduate and graduate programs.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Biblical Studies",
                 "Bachelor of Science in Christian Ministries",
@@ -89,8 +85,8 @@ export const truettmcconnelluniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Arts in Biblical Studies",
                 "Master of Arts in Christian Apologetics",
@@ -340,14 +336,28 @@ export const truettmcconnelluniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "Accommodation on-Campus",
+            "textBelowInfo": "Truett McConnell University offers a variety of on-campus accommodation options for students. On-campus housing is available in several options including traditional-style residence halls, apartments, and suite-style living. All on-campus housing offers students the convenience of being close to classes, the dining hall, library, recreation center, and other campus facilities.",
             "data": [
-               "<b>Accommodation on-Campus </b> <br>Truett McConnell University offers a variety of on-campus accommodation options for students. On-campus housing is available in several options including traditional-style residence halls, apartments, and suite-style living. All on-campus housing offers students the convenience of being close to classes, the dining hall, library, recreation center, and other campus facilities.",
-               "<b>Residence Halls </b> <br>Truett McConnell University has three traditional-style residence halls on campus: North, South, and West. Each residence hall is equipped with a laundry room, kitchen, and lounge area. All rooms are fully furnished and include a bed, desk, and closet.",
-               "<b>Apartments </b> <br>The university also offers apartment-style living. These apartments are fully furnished, have a kitchen, and include all utilities.",
-               "<b>Suite-Style Living </b> <br>Truett McConnell University also offers suite-style living, which includes four bedrooms, two bathrooms, and a common area. All rooms are fully furnished and include a bed, desk, and closet.",
-               "<b>Off-Campus Accommodation </b> <br>There are many off-campus housing options available near Truett McConnell University. Popular apartment complexes include University Heights and College Park. Both offer fully furnished apartments and are close to campus. Additionally, there are many hotels, motels, and bed and breakfasts in the area.",
-               "<b>Hostel Facilities</b> <br>Truett McConnell University does not offer hostel facilities on campus. However, there are several hostel options in the area. The closest hostel is the Georgia Hostel, which is located about 15 minutes away from campus. The hostel offers private and shared rooms, with a variety of amenities, including free Wi-Fi, a shared kitchen, and a TV lounge."
+                "<b>Residence Halls </b> <br>Truett McConnell University has three traditional-style residence halls on campus: North, South, and West. Each residence hall is equipped with a laundry room, kitchen, and lounge area. All rooms are fully furnished and include a bed, desk, and closet.",
+                "<b>Apartments </b> <br>The university also offers apartment-style living. These apartments are fully furnished, have a kitchen, and include all utilities.",
+                "<b>Suite-Style Living </b> <br>Truett McConnell University also offers suite-style living, which includes four bedrooms, two bathrooms, and a common area. All rooms are fully furnished and include a bed, desk, and closet."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "There are many off-campus housing options available near Truett McConnell University. Popular apartment complexes include University Heights and College Park. Both offer fully furnished apartments and are close to campus. Additionally, there are many hotels, motels, and bed and breakfasts in the area.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Hostel Facilities",
+            "data": [
+                "Truett McConnell University does not offer hostel facilities on campus. However, there are several hostel options in the area. The closest hostel is the Georgia Hostel, which is located about 15 minutes away from campus. The hostel offers private and shared rooms, with a variety of amenities, including free Wi-Fi, a shared kitchen, and a TV lounge."
             ]
         },
         {

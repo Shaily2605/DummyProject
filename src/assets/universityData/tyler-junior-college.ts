@@ -68,14 +68,10 @@ export const tylerjuniorcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tyler Junior College offers over 100 certificate and degree programs. All courses are taught by experienced faculty and staff dedicated to helping students reach their educational goals. Below is a list of courses offered by Tyler Junior College along with their fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Associate of Arts ",
+            "title": "Courses and Fees",
+            "info": "Tyler Junior College offers over 100 certificate and degree programs. All courses are taught by experienced faculty and staff dedicated to helping students reach their educational goals. Below is a list of courses offered by Tyler Junior College along with their fee structure.",
+            "textBelowInfo": "<b>Associate of Arts </b>",
             "data": [
                 "Tuition & Fees: $2,640",
                 "Books & Supplies: $1,050",

@@ -76,14 +76,10 @@ export const tohonooodhamcommunitycollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tohono Oodham Community College offers a variety of courses, including Associate of Arts, Associate of Science, Associate of Applied Science, Certificate and Professional Development Programs. The following are the courses offered by the college along with their respective fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Associate of Arts:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Tohono Oodham Community College offers a variety of courses, including Associate of Arts, Associate of Science, Associate of Applied Science, Certificate and Professional Development Programs. The following are the courses offered by the college along with their respective fee structure:",
+            "textBelowInfo": "<b>Associate of Arts:</b>",
             "data": [
                 "Tuition and Fees: $3,715",
                 "Books: $1,765",
@@ -92,8 +88,8 @@ export const tohonooodhamcommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Associate of Science:",
-            "info": "",
+            "title": "",
+            "info": "Associate of Science:",
             "data": [
                 "Tuition and Fees: $3,715",
                 "Books: $1,765",
@@ -102,8 +98,8 @@ export const tohonooodhamcommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Associate of Applied Science:",
-            "info": "",
+            "title": "",
+            "info": "Associate of Applied Science:",
             "data": [
                 "Tuition and Fees: $4,415",
                 "Books: $1,765",
@@ -112,8 +108,8 @@ export const tohonooodhamcommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Tuition and Fees: $3,715",
                 "Books: $1,765",
@@ -122,8 +118,8 @@ export const tohonooodhamcommunitycollege = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Development Programs:",
-            "info": "",
+            "title": "",
+            "info": "Professional Development Programs:",
             "data": [
                 "Tuition and Fees: $3,715",
                 "Books: Varies",
@@ -347,7 +343,7 @@ export const tohonooodhamcommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
             "data": [
@@ -355,7 +351,7 @@ export const tohonooodhamcommunitycollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation:",
             "data": [

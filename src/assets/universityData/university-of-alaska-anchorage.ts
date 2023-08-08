@@ -70,14 +70,10 @@ export const universityofalaskaanchorage = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Alaska Anchorage (UAA) offers a range of degree and certificate programs. Below is a list of the degree and certificate programs offered at UAA and the associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Degrees ",
+            "title": "Courses and Fees",
+            "info": "The University of Alaska Anchorage (UAA) offers a range of degree and certificate programs. Below is a list of the degree and certificate programs offered at UAA and the associated tuition and fees.",
+            "textBelowInfo": "<b>Degrees </b>",
             "data": [
                 "Bachelor of Arts – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
                 "Bachelor of Science – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",

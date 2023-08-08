@@ -68,14 +68,10 @@ export const universityofcaliforniasandiego = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of California San Diego offers over 200 degree programs across six undergraduate colleges and five graduate and professional schools.</p> <p>The tuition and fees for the 2020-2021 academic year are as follows:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition and Fees:",
+            "title": "Courses and Fees",
+            "info": "The University of California San Diego offers over 200 degree programs across six undergraduate colleges and five graduate and professional schools.",
+            "textBelowInfo": "<p>The tuition and fees for the 2020-2021 academic year are as follows:</p> <p><b>Undergraduate Tuition and Fees:</b></p>",
             "data": [
                 "California Resident: $14,495",
                 "Non-resident: $42,208",
@@ -92,8 +88,9 @@ export const universityofcaliforniasandiego = {
         },
         {
             "type": "list-bollet",
-            "title": "The following is a comprehensive list of the degree programs offered at the University of California San Diego, along with their associated tuition and fees:",
-            "info": "Undergraduate Programs:",
+            "title": "",
+            "info": "The following is a comprehensive list of the degree programs offered at the University of California San Diego, along with their associated tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Biological Sciences",
                 "Business",

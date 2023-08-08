@@ -71,14 +71,10 @@ export const universityofalbertaaugustanacampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Fees are subject to change, so please contact the University of Alberta - Augustana Campus directly for up-to-date fee information.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Below is a list of the courses offered at University of Alberta - Augustana Campus (Camrose):",
+            "title": "Courses and Fees",
+            "info": "Fees are subject to change, so please contact the University of Alberta - Augustana Campus directly for up-to-date fee information.",
+            "textBelowInfo": "Below is a list of the courses offered at University of Alberta - Augustana Campus (Camrose):",
             "data": [
                 "Bachelor of Arts ",
                 "Bachelor of Science ",

@@ -68,11 +68,6 @@ export const universityofbradfordengland = {
             title: ""
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Bradford offers a range of courses with a variety of fee structures. Below is a list of courses, and the associated fee structure:",

@@ -73,14 +73,10 @@ export const universityofcanberraaustralian = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Canberra in Australia offers a wide range of courses for international students. The fee structure for each course depends on the type of course and the duration of the course.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The University of Canberra in Australia offers a wide range of courses for international students. The fee structure for each course depends on the type of course and the duration of the course.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Bachelor of Business Administration: AUD$ 28,400 per year",
                 "Bachelor of Laws: AUD$ 38,400 per year",
@@ -143,7 +139,8 @@ export const universityofcanberraaustralian = {
         {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
-            "info": "To be eligible for admission to UC, Indian students must have:",
+            "info": "The University of Canberra (UC) welcomes applications from international students.",
+            "textBelowInfo": "To be eligible for admission to UC, Indian students must have:",
             "data": [
                 "Completed Year 12 (or equivalent senior secondary qualification) with good results",
                 "Met the English language requirement",

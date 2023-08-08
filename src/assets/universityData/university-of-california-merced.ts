@@ -339,7 +339,7 @@ export const universityofcaliforniamerced = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

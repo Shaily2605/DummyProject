@@ -80,14 +80,10 @@ export const unitedstatessportsacademy = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The United States Sports Academy offers a variety of programs, including undergraduate, graduate and doctoral degrees, as well as certifications, diplomas and courses. The courses offered include sport management, sport coaching, sport education, sport law, sport marketing & promotion, sport finance, sport psychology, sport sociology and sport history.</p> <p>Below is the fee structure of the courses offered by United States Sports Academy in Alabama, USA:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The United States Sports Academy offers a variety of programs, including undergraduate, graduate and doctoral degrees, as well as certifications, diplomas and courses. The courses offered include sport management, sport coaching, sport education, sport law, sport marketing & promotion, sport finance, sport psychology, sport sociology and sport history.",
+            "textBelowInfo": "<p>Below is the fee structure of the courses offered by United States Sports Academy in Alabama, USA:</p> <p><b>Undergraduate Programs:</b></p>",
             "data": [
                 "Bachelor of Science in Sport Management: $6,400 ",
                 "Bachelor of Science in Sport Coaching: $6,400 ",

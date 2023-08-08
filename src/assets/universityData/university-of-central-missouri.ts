@@ -67,14 +67,10 @@ export const universityofcentralmissouri = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Central Missouri offers a wide range of undergraduate and graduate courses. Below is a list of some of the courses available at the university, along with their associated fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Central Missouri offers a wide range of undergraduate and graduate courses. Below is a list of some of the courses available at the university, along with their associated fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting – $326.00 per credit hour",
                 "Business Administration – $326.00 per credit hour",
@@ -90,8 +86,8 @@ export const universityofcentralmissouri = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Business Administration – $400.00 per credit hour",
                 "Education – $400.00 per credit hour",

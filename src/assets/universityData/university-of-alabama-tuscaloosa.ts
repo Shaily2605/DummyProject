@@ -71,14 +71,10 @@ export const universityofalabamatuscaloosa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Undergraduate tuition rate for the University of Alabama, Tuscaloosa is $11,620 per semester for Alabama residents and $28,860 per semester for out-of-state students.</p> <p>The University of Alabama offers a variety of undergraduate majors and minors. The following is a list of all undergraduate majors offered at the University of Alabama.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Majors: ",
+            "title": "Courses and Fees",
+            "info": "Undergraduate tuition rate for the University of Alabama, Tuscaloosa is $11,620 per semester for Alabama residents and $28,860 per semester for out-of-state students.",
+            "textBelowInfo": "<p>The University of Alabama offers a variety of undergraduate majors and minors. The following is a list of all undergraduate majors offered at the University of Alabama.</p> <p><b>Majors: </b></p>",
             "data": [
                 "Accounting",
                 "African-American Studies",

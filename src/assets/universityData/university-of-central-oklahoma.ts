@@ -81,14 +81,10 @@ export const universityofcentraloklahoma = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Central Oklahoma offers a variety of undergraduate and graduate degree programs for students to choose from. Below is a list of the degree programs offered at the university and their associated costs.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Central Oklahoma offers a variety of undergraduate and graduate degree programs for students to choose from. Below is a list of the degree programs offered at the university and their associated costs.",
+            "textBelowInfo": "<b>Undergraduate Degrees: </b>",
             "data": [
                 "Accounting - $7,077 (in-state) / $19,269 (out-of-state)",
                 "Anthropology - $7,077 (in-state) / $19,269 (out-of-state)",
@@ -109,8 +105,8 @@ export const universityofcentraloklahoma = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees:",
             "data": [
                 "Business Administration - $7,077 (in-state) / $19,269 (out-of-state)",
                 "Computer Science - $7,077 (in-state) / $19,269 (out-of-state)",
@@ -125,18 +121,14 @@ export const universityofcentraloklahoma = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Degrees:",
             "data": [
                 "Business Administration - $7,077 (in-state) / $19,269 (out-of-state)",
                 "Education - $7,077 (in-state) / $19,269 (out-of-state)",
                 "Psychology - $7,077 (in-state) / $19,269 (out-of-state)",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Note: All fees are subject to change and should be verified with the University of Central Oklahoma prior to enrolling.</p>"
+            ],
+            "heading": "<p><b>Note:</b> All fees are subject to change and should be verified with the University of Central Oklahoma prior to enrolling.</p>"
         },
         {
             type: "meta",

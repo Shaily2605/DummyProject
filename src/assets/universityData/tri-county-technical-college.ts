@@ -69,14 +69,10 @@ export const tricountytechnicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Tri-County Technical College (TCTC) offers over 130 academic and career training programs. All of the programs are listed below with the associated fee structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "1. Associate Degree Program:",
-            "info": "a) Accounting",
+            "title": "Courses and Fees",
+            "info": "Tri-County Technical College (TCTC) offers over 130 academic and career training programs. All of the programs are listed below with the associated fee structure.",
+            "textBelowInfo": "<p><b>1. Associate Degree Program:</b></p> <p><b>a) Accounting</b></p>",
             "data": [
                 "Tuition: $3,720",
                 "Fees: $1,092"
@@ -144,7 +140,8 @@ export const tricountytechnicalcollege = {
                 "Tuition: $3,720",
                 "Fees: $1,092"
             ]
-        }, {
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "i) Human Services",
@@ -152,7 +149,8 @@ export const tricountytechnicalcollege = {
                 "Tuition: $3,720",
                 "Fees: $1,092"
             ]
-        }, {
+        },
+        {
             "type": "list-bollet",
             "title": "",
             "info": "j) Industrial Electronics",
@@ -199,8 +197,9 @@ export const tricountytechnicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "2. Certificate Programs:",
-            "info": "a) Accounting",
+            "title": "",
+            "info": "2. Certificate Programs:",
+            "textBelowInfo": "<b>a) Accounting</b>",
             "data": [
                 "Tuition: $1,848",
                 "Fees: $576"
@@ -352,8 +351,9 @@ export const tricountytechnicalcollege = {
         },
         {
             "type": "list-bollet",
-            "title": "3. Technical Diploma Programs:",
-            "info": "a) Automotive Technology",
+            "title": "",
+            "info": "3. Technical Diploma Programs:",
+            "textBelowInfo": "<b>a) Automotive Technology </b>",
             "data": [
                 "Tuition: $2,772",
                 "Fees: $816"

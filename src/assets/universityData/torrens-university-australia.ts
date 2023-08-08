@@ -69,14 +69,10 @@ export const torrensuniversityaustralia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Torrens University Australia offers courses in the following fields:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Business and Management",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Torrens University Australia offers courses in the following fields:",
+            "textBelowInfo": "<b>Business and Management</b>",
             "data": [
                 "Bachelor of Business Administration (BBA) – AUD $22,400 per year",
                 "Master of Business Administration (MBA) – AUD $30,000 per year",
@@ -88,8 +84,8 @@ export const torrensuniversityaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Health Sciences ",
-            "info": "",
+            "title": "",
+            "info": "Health Sciences ",
             "data": [
                 "Bachelor of Health Science (BHSc) – AUD $24,000 per year",
                 "Master of Health Science (MHS) – AUD $30,000 per year",
@@ -100,8 +96,8 @@ export const torrensuniversityaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Psychology",
-            "info": "",
+            "title": "",
+            "info": "Psychology",
             "data": [
                 "Bachelor of Psychological Science (BPS) – AUD $23,400 per year",
                 "Master of Psychology (MPsych) – AUD $30,000 per year",
@@ -111,8 +107,8 @@ export const torrensuniversityaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Education",
-            "info": "",
+            "title": "",
+            "info": "Education",
             "data": [
                 "Bachelor of Education (BEd) – AUD $24,000 per year",
                 "Master of Education (MEd) – AUD $30,000 per year",
@@ -122,8 +118,8 @@ export const torrensuniversityaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Law",
-            "info": "",
+            "title": "",
+            "info": "Law",
             "data": [
                 "Bachelor of Laws (LLB) – AUD $30,000 per year",
                 "Master of Laws (LLM) – AUD $30,000 per year",
@@ -131,8 +127,8 @@ export const torrensuniversityaustralia = {
         },
         {
             "type": "list-bollet",
-            "title": "Creative Industries",
-            "info": "",
+            "title": "",
+            "info": "Creative Industries",
             "data": [
                 "Bachelor of Creative Industries (BCI) – AUD $22,400 per year",
                 "Master of Creative Industries (MCI) – AUD $30,000 per year",
@@ -370,7 +366,7 @@ export const torrensuniversityaustralia = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

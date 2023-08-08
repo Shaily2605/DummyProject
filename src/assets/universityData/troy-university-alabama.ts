@@ -70,14 +70,10 @@ export const troyuniversityalabama = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Troy University offers a variety of undergraduate and graduate programs, which vary in cost depending on the program and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "Accounting",
+            "title": "Courses and Fees",
+            "info": "Troy University offers a variety of undergraduate and graduate programs, which vary in cost depending on the program and the student's residency status.",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>Accounting</b></p>",
             "data": [
                 "B.S. in Accounting",
                 "B.S. in Accounting/M.S. in Accounting"

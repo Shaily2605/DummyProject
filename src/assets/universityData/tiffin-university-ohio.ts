@@ -70,14 +70,10 @@ export const tiffinuniversityohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p></p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "MBA",
-            "info": "The MBA program at Tiffin University is designed to prepare students for leadership positions in a variety of fields.",
+            "title": "Courses and Fees",
+            "info": "MBA",
+            "textBelowInfo": "The MBA program at Tiffin University is designed to prepare students for leadership positions in a variety of fields.",
             "data": [
                 "Tuition: $550 per credit hour",
                 "Fees: $30 per credit hour",
@@ -87,8 +83,9 @@ export const tiffinuniversityohio = {
         },
         {
             "type": "list-bollet",
-            "title": "Master of Science in Accounting",
-            "info": "The MS in Accounting program at Tiffin University prepares students for careers in the field of accounting.",
+            "title": "",
+            "info": "Master of Science in Accounting",
+            "textBelowInfo": "The MS in Accounting program at Tiffin University prepares students for careers in the field of accounting.",
             "data": [
                 "Tuition: $550 per credit hour",
                 "Fees: $30 per credit hour",
@@ -98,8 +95,9 @@ export const tiffinuniversityohio = {
         },
         {
             "type": "list-bollet",
-            "title": "MS in Cybersecurity",
-            "info": "The MS in Cybersecurity program at Tiffin University prepares students for advanced study and professional practice in the field of cybersecurity.",
+            "title": "",
+            "info": "MS in Cybersecurity",
+            "textBelowInfo": "The MS in Cybersecurity program at Tiffin University prepares students for advanced study and professional practice in the field of cybersecurity.",
             "data": [
                 "Tuition: $550 per credit hour",
                 "Fees: $30 per credit hour",
@@ -109,8 +107,9 @@ export const tiffinuniversityohio = {
         },
         {
             "type": "list-bollet",
-            "title": "MS in Human Resource Management",
-            "info": "The MS in Human Resource Management program at Tiffin University provides students with the knowledge and skills necessary for success in the field of human resource management.",
+            "title": "",
+            "info": "MS in Human Resource Management",
+            "textBelowInfo": "The MS in Human Resource Management program at Tiffin University provides students with the knowledge and skills necessary for success in the field of human resource management.",
             "data": [
                 "Tuition: $550 per credit hour",
                 "Fees: $30 per credit hour",
@@ -120,8 +119,9 @@ export const tiffinuniversityohio = {
         },
         {
             "type": "list-bollet",
-            "title": "MS in Criminal Justice",
-            "info": "The MS in Criminal Justice program at Tiffin University provides students with the knowledge and skills necessary for success in the field of criminal justice.",
+            "title": "",
+            "info": "MS in Criminal Justice",
+            "textBelowInfo": "The MS in Criminal Justice program at Tiffin University provides students with the knowledge and skills necessary for success in the field of criminal justice.",
             "data": [
                 "Tuition: $550 per credit hour",
                 "Fees: $30 per credit hour",

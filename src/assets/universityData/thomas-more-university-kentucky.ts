@@ -73,14 +73,10 @@ export const thomasmoreuniversitykentucky = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Thomas More University offers a variety of degree programs at both the undergraduate and graduate levels. Undergraduate programs include Accounting, Biology, Business Administration, Criminal Justice, Education, English, History, and Psychology.</p> <p>Fees for Thomas More University depends on the course and program chosen. The fees are different for each degree program and may vary based on the credits taken. The fees also depend on whether the student is an in-state or out-of-state student.</p> <p>Below is a list of fees for some of the undergraduate programs offered at the university.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": " ",
-            "info": "Accounting:",
+            "title": "Courses and Fees",
+            "info": "Thomas More University offers a variety of degree programs at both the undergraduate and graduate levels. Undergraduate programs include Accounting, Biology, Business Administration, Criminal Justice, Education, English, History, and Psychology.",
+            "textBelowInfo": "<p>Fees for Thomas More University depends on the course and program chosen. The fees are different for each degree program and may vary based on the credits taken. The fees also depend on whether the student is an in-state or out-of-state student.</p> <p>Below is a list of fees for some of the undergraduate programs offered at the university.</p> <p><b>Accounting:</b></p>",
             "data": [
                 "In-state: $5,566 per semester",
                 "Out-of-state: $9,844 per semester"

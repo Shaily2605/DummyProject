@@ -70,14 +70,10 @@ export const unioncollegenebraska = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Union College is a private, four-year liberal arts college located in Lincoln, Nebraska. The college offers over 40 undergraduate and graduate degree programs in the areas of business, communication, education, engineering, human services, music, psychology, and more.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Union College is a private, four-year liberal arts college located in Lincoln, Nebraska. The college offers over 40 undergraduate and graduate degree programs in the areas of business, communication, education, engineering, human services, music, psychology, and more.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting  Tuition & Fees: $37,150",
                 "Biology  Tuition & Fees: $37,150",
@@ -97,8 +93,8 @@ export const unioncollegenebraska = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Business Administration  Tuition & Fees: $21,600",
                 "Counseling Psychology  Tuition & Fees: $21,600",

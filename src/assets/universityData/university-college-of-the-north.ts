@@ -134,14 +134,10 @@ export const universitycollegeofthenorth = {
             ]
         },
         {
-            type: 'text',
-            title: 'How to Apply ?',
-            data: "<p>Students from India applying for admission to University College of the North, Manitoba, Canada must first meet the admission requirements of the college. This includes obtaining a valid student visa, proving English language proficiency, providing academic transcripts and other documents, and submitting an application form.</p> <p>The next step is to submit an online application form. The application form should include personal information, educational background, and any additional information requested by the college. Once the form is submitted, applicants will receive an automated response.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "After the application form is received, applicants must submit the following documents: ",
+            "title": "How to Apply ?",
+            "info": "Students from India applying for admission to University College of the North, Manitoba, Canada must first meet the admission requirements of the college. This includes obtaining a valid student visa, proving English language proficiency, providing academic transcripts and other documents, and submitting an application form.",
+            "textBelowInfo": "<p>The next step is to submit an online application form. The application form should include personal information, educational background, and any additional information requested by the college. Once the form is submitted, applicants will receive an automated response.</p> <p>After the application form is received, applicants must submit the following documents: </p>",
             "data": [
                 "Official transcripts from all post-secondary institutions attended",
                 "English language proficiency test scores (if applicable)",

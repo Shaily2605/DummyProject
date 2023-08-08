@@ -72,14 +72,10 @@ export const universitysainteanne = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Université Sainte-Anne offers a variety of courses for undergraduate, graduate, and professional development. The following is a list of courses with the associated fees and tuition information for the 2020-2021 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses ",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Université Sainte-Anne offers a variety of courses for undergraduate, graduate, and professional development. The following is a list of courses with the associated fees and tuition information for the 2020-2021 academic year.",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "Applied Science: $7,930 - $8,540",
                 "Business Administration: $7,930 - $8,540",
@@ -94,8 +90,8 @@ export const universitysainteanne = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses ",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses ",
             "data": [
                 "Applied Science: $7,930 - $8,540",
                 "Business Administration: $7,930 - $8,540",

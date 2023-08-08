@@ -66,14 +66,10 @@ export const universityofbathengland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Bath offers a variety of courses across four faculties. Each course is associated with a different fee structure. The fees for each course vary depending on the level of study and the student’s nationality.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "For UK/EU Students:",
+            "title": "Courses and Fees",
+            "info": "The University of Bath offers a variety of courses across four faculties. Each course is associated with a different fee structure. The fees for each course vary depending on the level of study and the student’s nationality.",
+            "textBelowInfo": "<b>For UK/EU Students:</b>",
             "data": [
                 "Undergraduate courses range from £9,250 to £12,100.",
                 "Postgraduate taught courses range from £13,000 to £24,500.",
@@ -320,7 +316,7 @@ export const universityofbathengland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities On-Campus",
             "data": [

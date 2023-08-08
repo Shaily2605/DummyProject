@@ -82,14 +82,10 @@ export const universityofcoloradoboulder = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Colorado Boulder offers over 150 undergraduate degree programs in more than 65 fields of study. Tuition and fees vary by school/college, program and residency status.</p> <p>The following is a list of tuition and fees for the 2021-2022 academic year for new, continuing and transfer undergraduate students.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "College of Arts and Sciences:",
+            "title": "Courses and Fees",
+            "info": "The University of Colorado Boulder offers over 150 undergraduate degree programs in more than 65 fields of study. Tuition and fees vary by school/college, program and residency status.",
+            "textBelowInfo": "<p>The following is a list of tuition and fees for the 2021-2022 academic year for new, continuing and transfer undergraduate students.</p> <p><b>College of Arts and Sciences:</b></p>",
             "data": [
                 "Tuition: $12,532",
                 "Fees: $2,650",
@@ -404,7 +400,7 @@ export const universityofcoloradoboulder = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

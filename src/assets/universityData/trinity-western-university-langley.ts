@@ -67,14 +67,10 @@ export const trinitywesternuniversitylangley = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trinity Western University offers courses across its faculties of Arts & Humanities, Human Kinetics, Natural & Applied Sciences, Social Sciences, Education, Business, and Graduate Studies.</p> <p>Below is a list of courses offered by Trinity Western University with the corresponding fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Faculty of Arts & Humanities",
+            "title": "Courses and Fees",
+            "info": "<p>Trinity Western University offers courses across its faculties of Arts & Humanities, Human Kinetics, Natural & Applied Sciences, Social Sciences, Education, Business, and Graduate Studies.</p> <p>Below is a list of courses offered by Trinity Western University with the corresponding fee structure:</p>",
+            "textBelowInfo": "<b>Faculty of Arts & Humanities </b>",
             "data": [
                 "English: $3,724",
                 "History: $3,724",

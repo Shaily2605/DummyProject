@@ -1516,6 +1516,31 @@ import * as waynestateuniversitymichigan from '../../assets/universityData/wayne
 import * as weatherfordcollegetexas from '../../assets/universityData/weatherford-college-texas'
 import * as webbinstitutenewyork from '../../assets/universityData/webb-institute-new-york'
 import * as weberstateuniversityutah from '../../assets/universityData/weber-state-university-utah'
+import * as websteruniversitymissouri from '../../assets/universityData/webster-university-missouri'
+import * as welchcollegetennessee from '../../assets/universityData/welch-college-tennessee'
+import * as wellesleycollegemassachusetts from '../../assets/universityData/wellesley-college-massachusetts'
+import * as wentworthinstituteoftechnology from '../../assets/universityData/wentworth-institute-of-technology'
+import * as wesleyanuniversityconnecticut from '../../assets/universityData/wesleyan-university-connecticut'
+import * as wesleycollegedelaware from '../../assets/universityData/wesley-college-delaware'
+import * as wesleycollegemanitoba from '../../assets/universityData/wesley-college-manitoba'
+import * as westcoastuniversitylosangelescampus from '../../assets/universityData/west-coast-university-los-angeles-campus'
+import * as westcollegescotlandscotland from '../../assets/universityData/west-college-scotland-scotland'
+import * as westhillscollegelemoorecalifornia from '../../assets/universityData/west-hills-college-lemoore-california'
+import * as westlibertyuniversitywestvirginia from '../../assets/universityData/west-liberty-university-west-virginia'
+import * as westtexasaandmuniversity from '../../assets/universityData/west-texas-aandm-university'
+import * as westvirginiajuniorcollegecharleston from '../../assets/universityData/west-virginia-junior-college-charleston'
+import * as westvirginianortherncommunitycollege from '../../assets/universityData/west-virginia-northern-community-college'
+import * as westvirginiastateuniversity from '../../assets/universityData/west-virginia-state-university'
+import * as westvirginiauniversity from '../../assets/universityData/west-virginia-university'
+import * as westvirginiawesleyancollege from '../../assets/universityData/west-virginia-wesleyan-college'
+import * as westerncarolinauniversitynorthcarolina from '../../assets/universityData/western-carolina-university-north-carolina'
+import * as westerncoloradouniversitycolorado from '../../assets/universityData/western-colorado-university-colorado'
+import * as westernconnecticutstateuniversity from '../../assets/universityData/western-connecticut-state-university'
+import * as westerndakotatechsouthdakota from '../../assets/universityData/western-dakota-tech-south-dakota'
+import * as westernillinoisuniversity from '../../assets/universityData/western-illinois-university'
+import * as westerniowatechcommunitycollege from '../../assets/universityData/western-iowa-tech-community-college'
+import * as westernkentuckyuniversity from '../../assets/universityData/western-kentucky-university'
+import * as westernmichiganuniversity from '../../assets/universityData/western-michigan-university'
 
 export {
 
@@ -3029,6 +3054,31 @@ export {
     weatherfordcollegetexas,
     webbinstitutenewyork,
     weberstateuniversityutah,
+    websteruniversitymissouri,
+    welchcollegetennessee,
+    wellesleycollegemassachusetts,
+    wentworthinstituteoftechnology,
+    wesleyanuniversityconnecticut,
+    wesleycollegedelaware,
+    wesleycollegemanitoba,
+    westcoastuniversitylosangelescampus,
+    westcollegescotlandscotland,
+    westhillscollegelemoorecalifornia,
+    westlibertyuniversitywestvirginia,
+    westtexasaandmuniversity,
+    westvirginiajuniorcollegecharleston,
+    westvirginianortherncommunitycollege,
+    westvirginiastateuniversity,
+    westvirginiauniversity,
+    westvirginiawesleyancollege,
+    westerncarolinauniversitynorthcarolina,
+    westerncoloradouniversitycolorado,
+    westernconnecticutstateuniversity,
+    westerndakotatechsouthdakota,
+    westernillinoisuniversity,
+    westerniowatechcommunitycollege,
+    westernkentuckyuniversity,
+    westernmichiganuniversity,
     
 
 }

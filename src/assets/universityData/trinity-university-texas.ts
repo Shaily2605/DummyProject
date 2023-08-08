@@ -335,16 +335,23 @@ export const trinityuniversitytexas = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "Trinity University offers on-campus housing to all undergraduate students. On-campus housing includes traditional residence halls and apartment-style living. All residence halls are staffed with Residential Assistants and have a live-in Resident Director. On-campus housing is divided into three blocks: The South Campus, The North Campus, and The Main Campus. Each block offers different living and dining options.",
             "data": [
-                "<b>On-Campus Accommodation </b> <br> Trinity University offers on-campus housing to all undergraduate students. On-campus housing includes traditional residence halls and apartment-style living. All residence halls are staffed with Residential Assistants and have a live-in Resident Director. On-campus housing is divided into three blocks: The South Campus, The North Campus, and The Main Campus. Each block offers different living and dining options.",
-                "<b>South Campus </b> <br> The South Campus includes the Westbrook, Coates, and Miller Residence Halls. These residence halls offer traditional dorm-style housing with single and double rooms. All rooms are air-conditioned and include a private bathroom. The South Campus also houses the dining hall, which serves all-you-can-eat meals.",
-                "<b>North Campus </b> <br> The North Campus houses the Coronado and Anderson Residence Halls which offer apartment-style living. Each apartment has 3-4 bedrooms, a living room, and a kitchen. The North Campus also has a dining hall, which serves all-you-can-eat meals.",
-                "<b>Main Campus </b> <br> The Main Campus houses the Anderson and Coates Residence Halls. These residence halls offer traditional dorm-style housing with single and double rooms. All rooms are air-conditioned and include a private bathroom. The Main Campus also has a dining hall, which serves all-you-can-eat meals.",
-                "<b>Off-Campus Accommodation </b> <br> Trinity University also provides off-campus housing options for students. These options include student apartments, private homes, and shared housing. All off-campus housing options are located within walking distance of the University.",
-                "<b>Student Apartments </b> <br> The most common form of off-campus housing is student apartments. These apartments are typically located in the surrounding neighborhood and offer a variety of floor plans and amenities. Most student apartments come fully furnished and include all utilities.",
-                "<b>Private Homes </b> <br> Another option for off-campus housing is private homes. These homes are typically owned by individuals who are looking to rent out a room or their entire house. Private homes usually come fully furnished and include all utilities.",
-                "<b>Shared Housing </b> <br> Shared housing is another option for off-campus housing. This type of housing offers students the opportunity to share a home with other students. Shared housing usually comes fully furnished and includes all utilities."
+                "<b>South Campus </b> The South Campus includes the Westbrook, Coates, and Miller Residence Halls. These residence halls offer traditional dorm-style housing with single and double rooms. All rooms are air-conditioned and include a private bathroom. The South Campus also houses the dining hall, which serves all-you-can-eat meals.",
+                "<b>North Campus </b> The North Campus houses the Coronado and Anderson Residence Halls which offer apartment-style living. Each apartment has 3-4 bedrooms, a living room, and a kitchen. The North Campus also has a dining hall, which serves all-you-can-eat meals.",
+                "<b>Main Campus </b> The Main Campus houses the Anderson and Coates Residence Halls. These residence halls offer traditional dorm-style housing with single and double rooms. All rooms are air-conditioned and include a private bathroom. The Main Campus also has a dining hall, which serves all-you-can-eat meals."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "Trinity University also provides off-campus housing options for students. These options include student apartments, private homes, and shared housing. All off-campus housing options are located within walking distance of the University.",
+            "data": [
+                "<b>Student Apartments </b> The most common form of off-campus housing is student apartments. These apartments are typically located in the surrounding neighborhood and offer a variety of floor plans and amenities. Most student apartments come fully furnished and include all utilities.",
+                "<b>Private Homes </b> Another option for off-campus housing is private homes. These homes are typically owned by individuals who are looking to rent out a room or their entire house. Private homes usually come fully furnished and include all utilities.",
+                "<b>Shared Housing </b> Shared housing is another option for off-campus housing. This type of housing offers students the opportunity to share a home with other students. Shared housing usually comes fully furnished and includes all utilities."
             ]
         },
         {

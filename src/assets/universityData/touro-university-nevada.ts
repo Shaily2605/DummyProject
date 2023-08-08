@@ -80,14 +80,10 @@ export const tourouniversitynevada = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Touro University Nevada offers more than 20 graduate programs in medical, health sciences, education, and business.</p> <p>The following is a list of courses with fee structure available at Touro University Nevada:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Medical:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Touro University Nevada offers more than 20 graduate programs in medical, health sciences, education, and business.</p> <p>The following is a list of courses with fee structure available at Touro University Nevada:",
+            "textBelowInfo": "<b>Medical:</b>",
             "data": [
                 "Doctor of Medicine (M.D.): $60,000 ",
                 "Doctor of Osteopathic Medicine (D.O.): $60,000 ",
@@ -97,8 +93,8 @@ export const tourouniversitynevada = {
         },
         {
             "type": "list-bollet",
-            "title": "Health Sciences:",
-            "info": "",
+            "title": "",
+            "info": "Health Sciences:",
             "data": [
                 "Master of Science in Clinical Mental Health Counseling: $36,000 ",
                 "Masters of Social Work: $36,000 ",
@@ -108,8 +104,8 @@ export const tourouniversitynevada = {
         },
         {
             "type": "list-bollet",
-            "title": "Education:",
-            "info": "",
+            "title": "",
+            "info": "Education:",
             "data": [
                 "Master of Education: $20,000 ",
                 "Doctor of Education: $30,000"
@@ -117,8 +113,8 @@ export const tourouniversitynevada = {
         },
         {
             "type": "list-bollet",
-            "title": "Business:",
-            "info": "",
+            "title": "",
+            "info": "Business:",
             "data": [
                 "MBA: $48,000 ",
                 "Master of Science in Business Analytics: $36,000 ",
@@ -350,7 +346,7 @@ export const tourouniversitynevada = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [
@@ -358,7 +354,7 @@ export const tourouniversitynevada = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostels",
             "data": [

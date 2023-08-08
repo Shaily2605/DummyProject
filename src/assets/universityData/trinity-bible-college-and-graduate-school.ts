@@ -70,14 +70,10 @@ export const trinitybiblecollegeandgraduateschool = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Trinity Bible College and Graduate School offers a variety of courses for both undergraduate and graduate students. Below is a list of courses and their corresponding fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Trinity Bible College and Graduate School offers a variety of courses for both undergraduate and graduate students. Below is a list of courses and their corresponding fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Bachelor of Arts in Biblical Studies: $10,500",
                 "Bachelor of Arts in Christian Leadership: $10,500",
@@ -89,8 +85,8 @@ export const trinitybiblecollegeandgraduateschool = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Arts in Biblical Studies: $9,300",
                 "Master of Arts in Christian Leadership: $9,300",

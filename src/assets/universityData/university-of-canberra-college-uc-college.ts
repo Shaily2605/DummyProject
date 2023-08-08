@@ -69,14 +69,10 @@ export const universityofcanberracollegeuccollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Canberra College (UC College) offers a range of courses for international students, including English language courses and university preparation courses. The courses are listed below with their respective fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "English Language Courses",
+            "title": "Courses and Fees",
+            "info": "The University of Canberra College (UC College) offers a range of courses for international students, including English language courses and university preparation courses. The courses are listed below with their respective fees.",
+            "textBelowInfo": "<b>English Language Courses</b>",
             "data": [
                 "General English: $2,350 per semester",
                 "IELTS Preparation: $2,350 per semester",

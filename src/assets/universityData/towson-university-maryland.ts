@@ -379,7 +379,7 @@ export const towsonuniversitymaryland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

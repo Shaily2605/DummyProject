@@ -71,11 +71,6 @@ export const universityofalaskasoutheast = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",

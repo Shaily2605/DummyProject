@@ -92,8 +92,9 @@ export const transylvaniauniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition and Fees",
-            "info": "Tuition: ",
+            "title": "",
+            "info": "Graduate Tuition and Fees",
+            "textBelowInfo": "<b>Tuition: </b>",
             "data": [
                 "Full-time graduate students: $15,000 per semester ",
                 "Part-time graduate students: $600 per credit hour ",
@@ -109,7 +110,7 @@ export const transylvaniauniversity = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses: ",
             "info": "",
             "data": [

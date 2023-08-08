@@ -72,7 +72,7 @@ export const universalcollegeofmedicalsciencesnepal = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The following are the courses offered by Universal College Of Medical Sciences, Nepal along with their respective fee structure:",
-            "textBelowInfo": "<p><b>1. Bachelor of Medicine and Bachelor of Surgery (MBBS):</b></p><p><b>Fee Structure:</b></p>",
+            "textBelowInfo": "<p><b>1. Bachelor of Medicine and Bachelor of Surgery (MBBS):</b></p> <p><b>Fee Structure:</b></p>",
             "data": [
                 "Admission Fee: NPR 20,000",
                 "Tuition Fee: NPR 18,00,000",
@@ -181,7 +181,7 @@ export const universalcollegeofmedicalsciencesnepal = {
                 "The student must have a valid medical fitness certificate. ",
                 "The student must have obtained a No-Objection Certificate (NOC) from their respective state government.",
             ],
-            "heading": "<p>Note: UCMS also offers scholarships to Indian students.</p>"
+            "heading": "<p><b>Note:</b> UCMS also offers scholarships to Indian students.</p>"
         },
         {
             "type": "list-bollet",
@@ -384,12 +384,8 @@ export const universalcollegeofmedicalsciencesnepal = {
                 "Hotel Grand, Butwal ",
                 "Hotel Golden Palace, Butwal ",
                 "Hotel Devi Palace, Butwal "
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>All of these accommodations have a variety of amenities, such as air-conditioned rooms, Wi-Fi access, laundry services, and 24-hour room service.</p> <p>UCMS also recommends that students check out the websites of popular Nepal hotels, such as Hotel Annapurna, Yak and Yeti, Yak and Yeti Executive, Hyatt Regency, and Hotel Yak and Yeti for additional accommodation options. These hotels are located in Kathmandu, the capital city of Nepal, and offer a wide range of amenities and services.</p> <p>Finally, students can also look for hostels and guesthouses in Bhairahawa and Butwal. Many of these hostels and guesthouses provide basic amenities such as Wi-Fi access, laundry services, and 24-hour room service, and are generally less expensive than the hotels.</p>"
+            ],
+            "heading": "<p>All of these accommodations have a variety of amenities, such as air-conditioned rooms, Wi-Fi access, laundry services, and 24-hour room service.</p> <p>UCMS also recommends that students check out the websites of popular Nepal hotels, such as Hotel Annapurna, Yak and Yeti, Yak and Yeti Executive, Hyatt Regency, and Hotel Yak and Yeti for additional accommodation options. These hotels are located in Kathmandu, the capital city of Nepal, and offer a wide range of amenities and services.</p> <p>Finally, students can also look for hostels and guesthouses in Bhairahawa and Butwal. Many of these hostels and guesthouses provide basic amenities such as Wi-Fi access, laundry services, and 24-hour room service, and are generally less expensive than the hotels.</p>"
         },
         {
             type: "meta",

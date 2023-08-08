@@ -72,14 +72,10 @@ export const thomasuniversityforbescampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Thomas University offers a wide range of Undergraduate, Graduate, and Doctoral programs. Below is the list of courses offered and the fee structure for each program:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": " ",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "Thomas University offers a wide range of Undergraduate, Graduate, and Doctoral programs. Below is the list of courses offered and the fee structure for each program:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Associate of Arts in Business Administration: $11,520",
                 "Bachelor of Science in Business Administration: $24,360",
@@ -133,14 +129,10 @@ export const thomasuniversityforbescampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Eligibility Requirements',
-            data: "<p>Thomas University accepts applications from international students who have completed secondary school (high school) and have achieved a successful academic record. Additionally, all international students must demonstrate English proficiency with a minimum score of 79 on the Internet-based TOEFL (ibt) or 6.5 on the IELTS.</p> <p>Applicants must also submit official transcripts from all previously attended post-secondary institutions, including official transcripts from the current institution if applicable. The minimum age for admission is 17.</p> <p>In addition to the above requirements, international students must submit the following documents:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "",
+            "title": "Eligibility Requirements",
+            "info": "Thomas University accepts applications from international students who have completed secondary school (high school) and have achieved a successful academic record. Additionally, all international students must demonstrate English proficiency with a minimum score of 79 on the Internet-based TOEFL (ibt) or 6.5 on the IELTS.",
+            "textBelowInfo": "<p>Applicants must also submit official transcripts from all previously attended post-secondary institutions, including official transcripts from the current institution if applicable. The minimum age for admission is 17.</p> <p>In addition to the above requirements, international students must submit the following documents:</p>",
             "data": [
                 "A completed application for admission",
                 "Official transcripts from all previously attended post-secondary institutions",

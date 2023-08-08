@@ -78,14 +78,10 @@ export const universityofcincinnatiohio = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Cincinnati offers over 400 degree programs, certificates, and courses. Below is a list of courses offered by the university and their respective fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "Business: ",
+            "title": "Courses and Fees",
+            "info": "The University of Cincinnati offers over 400 degree programs, certificates, and courses. Below is a list of courses offered by the university and their respective fee structures:",
+            "textBelowInfo": "<p><b>Undergraduate Courses:</b></p> <p><b>Business:</b></p>",
             "data": [
                 "B.S. in Business Administration: $799 per credit hour",
                 "B.S. in Economics: $799 per credit hour",
@@ -123,8 +119,9 @@ export const universityofcincinnatiohio = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "Business: ",
+            "title": "",
+            "info": "Graduate Courses:",
+            "textBelowInfo": "<b>Business: </b>",
             "data": [
                 "M.B.A.: $1,099 per credit hour",
                 "M.S. in Economics: $999 per credit hour",

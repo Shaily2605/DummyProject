@@ -70,11 +70,6 @@ export const universityofarkansascommunitycollegeatmorrilton = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
@@ -306,7 +301,7 @@ export const universityofarkansascommunitycollegeatmorrilton = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
@@ -328,7 +323,7 @@ export const universityofarkansascommunitycollegeatmorrilton = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

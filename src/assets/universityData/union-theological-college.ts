@@ -81,14 +81,10 @@ export const uniontheologicalcollege = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Union Theological College (UTC) is a theological college in Belfast, Northern Ireland, which is affiliated with the Presbyterian Church in Ireland. The college offers various undergraduate and postgraduate degree programmes in Theology, Biblical Studies, Ministry and Mission, Education, and Counselling. The college also offers part-time and online courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degrees",
+            "title": "Courses and Fees",
+            "info": "Union Theological College (UTC) is a theological college in Belfast, Northern Ireland, which is affiliated with the Presbyterian Church in Ireland. The college offers various undergraduate and postgraduate degree programmes in Theology, Biblical Studies, Ministry and Mission, Education, and Counselling. The college also offers part-time and online courses.",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Bachelor of Divinity - £4,700 per year",
                 "Bachelor of Arts (Theology) - £4,700 per year",
@@ -329,7 +325,7 @@ export const uniontheologicalcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
             "data": [
@@ -337,7 +333,7 @@ export const uniontheologicalcollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation",
             "data": [

@@ -69,14 +69,10 @@ export const tusculumuniversity = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Below is the list of all the courses available at Tusculum University, Tennessee, USA along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "Below is the list of all the courses available at Tusculum University, Tennessee, USA along with the fee structure:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Bachelor of Science in Accounting: $9,900 per semester",
                 "Bachelor of Science in Business Administration: $9,900 per semester",
@@ -100,8 +96,8 @@ export const tusculumuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Master of Business Administration: $13,500 per semester",
                 "Master of Education: $13,500 per semester",

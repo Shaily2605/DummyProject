@@ -89,8 +89,8 @@ export const unicampuslampeter = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Postgraduate Courses:",
             "data": [
                 "MA International Relations: £10,200 per annum",
                 "MA Education: £10,200 per annum",
