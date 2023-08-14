@@ -72,14 +72,10 @@ export const universityofnevadalasvegas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Nevada, Las Vegas offers more than 200 undergraduate, graduate and professional degree programs. Each program may have different fees, so it is best to check the program’s website for the most up-to-date fee information.</p> <p>Below is a list of some of the courses offered by the University of Nevada, Las Vegas, along with their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Nevada, Las Vegas offers more than 200 undergraduate, graduate and professional degree programs. Each program may have different fees, so it is best to check the program’s website for the most up-to-date fee information.",
+            "textBelowInfo": "<p>Below is a list of some of the courses offered by the University of Nevada, Las Vegas, along with their associated fees.</p> <p><b>Undergraduate Courses: </b></p>",
             "data": [
                 "Accounting: $7,056 per semester",
                 "Biochemistry: $7,056 per semester",
@@ -93,8 +89,8 @@ export const universityofnevadalasvegas = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Business Administration: $11,068 per semester",
                 "Computer Science: $11,068 per semester",
@@ -107,8 +103,8 @@ export const universityofnevadalasvegas = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Programs:",
-            "info": "",
+            "title": "",
+            "info": "Professional Programs:",
             "data": [
                 "Dental Medicine: $50,406 per year",
                 "Medicine: $50,406 per year",

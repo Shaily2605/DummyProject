@@ -170,8 +170,9 @@ export const universityofnorthtexasatdallas = {
         },
         {
             "type": "list-bollet",
-            "title": "GRADUATE PROGRAMS",
-            "info": "Accounting:",
+            "title": "",
+            "info": "GRADUATE PROGRAMS",
+            "textBelowInfo": "<b>Accounting:</b>",
             "data": [
                 "TUITION: $2,624.00/per credit hour",
                 "FEES: $12.00/per credit hour",

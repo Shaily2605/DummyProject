@@ -68,14 +68,10 @@ export const universityofnorthtexastexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of North Texas offers more than 100 bachelor's, master's and doctoral degree programs, as well as certificate and other non-degree programs. The tuition fee for the academic year 2020-2021 for in-state students is $11,135 per semester and $18,927 per semester for out-of-state students. The tuition fees vary according to the program and course chosen.</p> <p>Below is the list of courses offered by the University of North Texas along with the fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of North Texas offers more than 100 bachelor's, master's and doctoral degree programs, as well as certificate and other non-degree programs. The tuition fee for the academic year 2020-2021 for in-state students is $11,135 per semester and $18,927 per semester for out-of-state students. The tuition fees vary according to the program and course chosen.",
+            "textBelowInfo": "<p>Below is the list of courses offered by the University of North Texas along with the fee structure:</p> <p><b>Undergraduate Programs:</b></p>",
             "data": [
                 "Accounting Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
                 "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
@@ -349,7 +345,7 @@ export const universityofnorthtexastexas = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

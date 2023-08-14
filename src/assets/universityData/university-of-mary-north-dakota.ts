@@ -69,14 +69,10 @@ export const universityofmarynorthdakota = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mary offers over 60 undergraduate and graduate degree programs. Below is a list of all the courses offered by the University of Mary and the associated tuition fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Degrees:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Mary offers over 60 undergraduate and graduate degree programs. Below is a list of all the courses offered by the University of Mary and the associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Degrees:</b>",
             "data": [
                 "Accounting - $485 per credit",
                 "Business Administration - $485 per credit",
@@ -108,8 +104,8 @@ export const universityofmarynorthdakota = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Degrees:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Degrees:",
             "data": [
                 "Accounting - $635 per credit",
                 "Business Administration - $635 per credit",

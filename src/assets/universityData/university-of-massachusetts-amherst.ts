@@ -67,14 +67,10 @@ export const universityofmassachusettsamherst = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Massachusetts Amherst offers more than 150 undergraduate majors and minors, with more than 80 master's degree and 50 doctoral degree options. The cost of tuition at UMass Amherst varies depending on the program of study and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Massachusetts Amherst offers more than 150 undergraduate majors and minors, with more than 80 master's degree and 50 doctoral degree options. The cost of tuition at UMass Amherst varies depending on the program of study and the student's residency status.",
+            "textBelowInfo": "<b>Undergraduate Tuition</b>",
             "data": [
                 "In-State Tuition (12-18 credits): $14,816",
                 "Out-of-State Tuition (12-18 credits): $33,162",
@@ -83,8 +79,8 @@ export const universityofmassachusettsamherst = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition",
-            "info": "",
+            "title": "",
+            "info": "Graduate Tuition",
             "data": [
                 "In-State Tuition (9 credits): $10,256",
                 "Out-of-State Tuition (9 credits): $24,403",

@@ -68,14 +68,10 @@ export const universityofedinburghscotland = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Edinburgh offers a wide range of undergraduate and postgraduate courses. The fees for each course depend on the length of the course and the subject area.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "School of Arts, Culture and Environment",
+            "title": "Courses and Fees",
+            "info": "The University of Edinburgh offers a wide range of undergraduate and postgraduate courses. The fees for each course depend on the length of the course and the subject area.",
+            "textBelowInfo": "<p><b>Undergraduate Courses:</b></p> <p><b>School of Arts, Culture and Environment</b></p>",
             "data": [
                 "BA Arts and Humanities – £9,250 per year",
                 "BA Social Sciences – £9,250 per year",
@@ -157,8 +153,9 @@ export const universityofedinburghscotland = {
         },
         {
             "type": "list-bollet",
-            "title": "Postgraduate Courses:",
-            "info": "School of Arts, Culture and Environment",
+            "title": "",
+            "info": "Postgraduate Courses:",
+            "textBelowInfo": "<b>School of Arts, Culture and Environment</b>",
             "data": [
                 "MA Arts and Humanities – £10,400 per year",
                 "MA Social Sciences – £10,400 per year",
@@ -481,7 +478,7 @@ export const universityofedinburghscotland = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

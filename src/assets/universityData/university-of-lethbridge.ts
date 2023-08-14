@@ -73,14 +73,10 @@ export const universityoflethbridge = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Lethbridge offers a wide range of undergraduate and graduate degrees. The University's academic programs are divided into seven faculties, each offering a variety of degrees and certificates.</p> <p>Below is the list of courses offered by the University of Lethbridge and the associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Lethbridge offers a wide range of undergraduate and graduate degrees. The University's academic programs are divided into seven faculties, each offering a variety of degrees and certificates.",
+            "textBelowInfo": "<p>Below is the list of courses offered by the University of Lethbridge and the associated fee structure:</p> <p><b>Undergraduate Courses:</b></p>",
             "data": [
                 "Bachelor of Arts (BA) – $7,000",
                 "Bachelor of Science (BSc) – $7,500",
@@ -325,9 +321,9 @@ export const universityoflethbridge = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br> The University of Lethbridge offers on-campus accommodation in their residence buildings located in the main campus area. The residence buildings offer single and double occupancy rooms, shared bathrooms and kitchen facilities, and access to a variety of amenities such as study spaces, fitness rooms, and common area lounges. Students living in residence can also take advantage of meal plan options, laundry services, and other residence-specific services and activities.",
-               "<b>Off-Campus Accommodation </b> <br> Off-campus accommodations in Lethbridge, Alberta, Canada include hotels, bed and breakfasts, and apartment buildings. There are a variety of apartment buildings in the city, ranging from budget to luxury options, with a variety of amenities depending on the building. Additionally, there are a number of hotels in the city, many of which offer student discounts.",
-               "<b>Hostel Facilities </b> <br> Lethbridge, Alberta, Canada does not have any hostel facilities. The closest hostel is located in Calgary, Alberta, about 2 hours away. Calgary hostels offer budget accommodations with shared rooms, bathrooms, and common areas."
+                "<b>On-Campus Accommodation </b> <br> The University of Lethbridge offers on-campus accommodation in their residence buildings located in the main campus area. The residence buildings offer single and double occupancy rooms, shared bathrooms and kitchen facilities, and access to a variety of amenities such as study spaces, fitness rooms, and common area lounges. Students living in residence can also take advantage of meal plan options, laundry services, and other residence-specific services and activities.",
+                "<b>Off-Campus Accommodation </b> <br> Off-campus accommodations in Lethbridge, Alberta, Canada include hotels, bed and breakfasts, and apartment buildings. There are a variety of apartment buildings in the city, ranging from budget to luxury options, with a variety of amenities depending on the building. Additionally, there are a number of hotels in the city, many of which offer student discounts.",
+                "<b>Hostel Facilities </b> <br> Lethbridge, Alberta, Canada does not have any hostel facilities. The closest hostel is located in Calgary, Alberta, about 2 hours away. Calgary hostels offer budget accommodations with shared rooms, bathrooms, and common areas."
             ]
         },
         {

@@ -73,7 +73,7 @@ export const universityofmarywashington = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The University of Mary Washington has a wide variety of courses available, depending on your interests and goals.",
-            "textBelowInfo": "<b>Undergraduate courses:</b><br><b>1. Arts & Sciences:</b>",
+            "textBelowInfo": "<p><b>Undergraduate courses:</b></p> <p><b>1. Arts & Sciences:</b></p>",
             "data": [
                 "Art and Art History",
                 "Biology",
@@ -137,7 +137,7 @@ export const universityofmarywashington = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure:",
             "info": "",
             "data": [

@@ -70,14 +70,10 @@ export const universityofnewenglandbiddefordcampus = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of New England-Biddeford campus offers a number of undergraduate, graduate and professional programs. The tuition fees and cost of attendance varies based on the program and whether the student is an in-state or out-of-state resident.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of New England-Biddeford campus offers a number of undergraduate, graduate and professional programs. The tuition fees and cost of attendance varies based on the program and whether the student is an in-state or out-of-state resident.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Science in Nursing (BSN): Total tuition and fees: $31,848 (in-state) and $49,408 (out-of-state)",
                 "Bachelor of Science in Biomedical Sciences: Total tuition and fees: $25,624 (in-state) and $43,184 (out-of-state)",
@@ -89,8 +85,8 @@ export const universityofnewenglandbiddefordcampus = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Science in Nursing (MSN): Total tuition and fees: $33,492 (in-state) and $51,052 (out-of-state)",
                 "Master of Science in Athletic Training: Total tuition and fees: $25,624 (in-state) and $43,184 (out-of-state)",
@@ -101,8 +97,8 @@ export const universityofnewenglandbiddefordcampus = {
             ]
         }, {
             "type": "list-bollet",
-            "title": "Professional Programs",
-            "info": "",
+            "title": "",
+            "info": "Professional Programs",
             "data": [
                 "Doctor of Physical Therapy (DPT): Total tuition and fees: $41,435 (in-state) and $59,995 (out-of-state)",
                 "Doctor of Nursing Practice (DNP): Total tuition and fees: $33,492 (in-state) and $51,052 (out-of-state)",

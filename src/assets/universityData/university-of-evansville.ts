@@ -68,14 +68,10 @@ export const universityofevansville = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Evansville offers over 80 undergraduate majors, minors, and pre-professional programs; more than 20 master's degree programs; and a doctoral degree in physical therapy.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs (Tuition & Fees):",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Evansville offers over 80 undergraduate majors, minors, and pre-professional programs; more than 20 master's degree programs; and a doctoral degree in physical therapy.",
+            "textBelowInfo": "<b>Undergraduate Programs (Tuition & Fees):</b>",
             "data": [
                 "Arts & Sciences: $39,660/year",
                 "Business Administration: $41,100/year",
@@ -88,8 +84,8 @@ export const universityofevansville = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs (Tuition & Fees):",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs (Tuition & Fees):",
             "data": [
                 "Masters in Business Administration: $7,750/semester",
                 "Masters in Education: $4,900/semester",

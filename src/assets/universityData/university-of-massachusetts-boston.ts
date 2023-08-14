@@ -70,14 +70,10 @@ export const universityofmassachusettsboston = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Massachusetts Boston offers more than 100 degree and certificate programs, including undergraduate and graduate degrees. The following is a list of courses offered at UMass Boston, along with their corresponding tuition and fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Massachusetts Boston offers more than 100 degree and certificate programs, including undergraduate and graduate degrees. The following is a list of courses offered at UMass Boston, along with their corresponding tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Accounting: $17,742 per year",
                 "Art History: $17,742 per year",
@@ -97,8 +93,8 @@ export const universityofmassachusettsboston = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Accounting: $22,884 per year",
                 "Business Administration: $22,884 per year",
@@ -113,8 +109,8 @@ export const universityofmassachusettsboston = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs",
             "data": [
                 "Applied Mathematics: $13,056 per year",
                 "Business Analytics: $13,056 per year",

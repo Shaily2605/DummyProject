@@ -71,14 +71,10 @@ export const universityofmaineatfortkent = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Maine at Fort Kent offers a wide range of degree and certificate programs. Below is a breakdown of all the courses offered, as well as their associated fee structure:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "Bachelor of Arts (BA):",
+            "title": "Courses and Fees",
+            "info": "The University of Maine at Fort Kent offers a wide range of degree and certificate programs. Below is a breakdown of all the courses offered, as well as their associated fee structure:",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>Bachelor of Arts (BA):</b></p>",
             "data": [
                 "Tuition: $7,330 per year",
                 "Fees: $1,800 per year",
@@ -140,8 +136,9 @@ export const universityofmaineatfortkent = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "Master of Arts (MA):",
+            "title": "",
+            "info": "Graduate Programs",
+            "textBelowInfo": "<b>Master of Arts (MA):</b>",
             "data": [
                 "Tuition: $7,330 per year",
                 "Fees: $1,800 per year",
@@ -176,8 +173,9 @@ export const universityofmaineatfortkent = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs",
-            "info": "Associate of Arts (AA):",
+            "title": "",
+            "info": "Certificate Programs",
+            "textBelowInfo": "<b>Associate of Arts (AA):</b>",
             "data": [
                 "Tuition: $3,665 per year",
                 "Fees: $900 per year"

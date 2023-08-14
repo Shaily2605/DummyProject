@@ -103,7 +103,7 @@ export const universityofillinoisspringfield = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Tuition & Fees",
             "data": [

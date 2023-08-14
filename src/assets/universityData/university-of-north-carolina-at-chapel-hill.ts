@@ -126,13 +126,13 @@ export const universityofnorthcarolinaatchapelhill = {
             "title": "Eligibility Requirements",
             "info": "Undergraduate Admission Requirements",
             "data": [
-                "High school transcript: Official transcripts from all secondary schools attended must be sent directly to the Admissions Office.",
-                "Standardized test scores: SAT or ACT scores (with or without writing):<br> - SAT/ACT scores are required for all first-year applicants.<br> - SAT subject tests: SAT subject tests are not required for admission, but may be used to meet the proficiency requirements for placement in certain courses.",
-                "Application: All applicants must submit the Common Application, Coalition Application, or the UNC-specific application.",
-                "Essays: All applicants must submit one essay, either the Common Application essay or the UNC-specific essay.",
-                "Letters of recommendation: Two letters of recommendation are required for all applicants.",
-                "Financial aid forms: All international applicants must submit the CSS Profile and the International Student Certification of Finances form.",
-                "English proficiency: All international applicants must submit proof of English language proficiency. Accepted tests include the TOEFL, IELTS, Duolingo English Test, and PTE Academic.",
+                "<b>High school transcript:</b> Official transcripts from all secondary schools attended must be sent directly to the Admissions Office.",
+                "<b>Standardized test scores:</b> SAT or ACT scores (with or without writing):<br> - SAT/ACT scores are required for all first-year applicants.<br> - SAT subject tests: SAT subject tests are not required for admission, but may be used to meet the proficiency requirements for placement in certain courses.",
+                "<b>Application:</b> All applicants must submit the Common Application, Coalition Application, or the UNC-specific application.",
+                "<b>Essays:</b> All applicants must submit one essay, either the Common Application essay or the UNC-specific essay.",
+                "<b>Letters of recommendation:</b> Two letters of recommendation are required for all applicants.",
+                "<b>Financial aid forms:</b> All international applicants must submit the CSS Profile and the International Student Certification of Finances form.",
+                "<b>English proficiency:</b> All international applicants must submit proof of English language proficiency. Accepted tests include the TOEFL, IELTS, Duolingo English Test, and PTE Academic.",
             ]
         },
         {

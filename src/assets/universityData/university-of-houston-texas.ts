@@ -80,14 +80,10 @@ export const universityofhoustontexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Houston offers around 280 degree programs (majors, minors, certificates) through its various colleges, schools and divisions. The fee structure for each program varies depending on the type, level and duration of the program. The fees for undergraduate, graduate and professional programs are listed below:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Houston offers around 280 degree programs (majors, minors, certificates) through its various colleges, schools and divisions. The fee structure for each program varies depending on the type, level and duration of the program. The fees for undergraduate, graduate and professional programs are listed below:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Tuition & Fees: $9,907 (In-State)",
                 "Room & Board: $12,822",

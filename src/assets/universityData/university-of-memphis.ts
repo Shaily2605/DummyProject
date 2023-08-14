@@ -66,14 +66,10 @@ export const universityofmemphis = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Memphis offers a wide range of undergraduate and graduate programs. The fees for each program vary depending on the program and the student's residency status.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs: ",
-            "info": "1. Bachelor of Arts",
+            "title": "Courses and Fees",
+            "info": "The University of Memphis offers a wide range of undergraduate and graduate programs. The fees for each program vary depending on the program and the student's residency status.",
+            "textBelowInfo": "<p><b>Undergraduate Programs:</b></p> <p><b>1. Bachelor of Arts</b></p>",
             "data": [
                 "Fees for Tennessee Residents: $8,858.00 per semester",
                 "Fees for Non-Tennessee Residents: $21,664.00 per semester",
@@ -108,8 +104,9 @@ export const universityofmemphis = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs: ",
-            "info": "1. Master of Arts",
+            "title": "",
+            "info": "Graduate Programs: ",
+            "textBelowInfo": "<b>1. Master of Arts</b>",
             "data": [
                 "Fees for Tennessee Residents: $9,790.00 per semester",
                 "Fees for Non-Tennessee Residents: $22,596.00 per semester",

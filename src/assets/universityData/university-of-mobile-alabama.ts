@@ -95,8 +95,8 @@ export const universityofmobilealabama = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Master of Arts in Communication Arts: $20,200",
                 "Master of Arts in Management and Leadership: $20,200",

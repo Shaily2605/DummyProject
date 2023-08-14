@@ -70,14 +70,10 @@ export const universityofhawaiiatmanoa = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Hawaii at Manoa offers a variety of undergraduate, graduate and professional degree programs. The tuition fees vary depending on the program and the number of credits taken. The following is a list of the most common courses offered at the University of Hawaii at Manoa, and their associated tuition fees. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs:",
+            "title": "Courses and Fees",
+            "info": "The University of Hawaii at Manoa offers a variety of undergraduate, graduate and professional degree programs. The tuition fees vary depending on the program and the number of credits taken. The following is a list of the most common courses offered at the University of Hawaii at Manoa, and their associated tuition fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting (BSBA): $459 per credit ",
                 "Business Administration (BBA): $459 per credit ",

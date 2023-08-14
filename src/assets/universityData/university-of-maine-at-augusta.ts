@@ -88,8 +88,8 @@ export const universityofmaineataugusta = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Business Administration: $13,448",
                 "Master of Science in Information Technology: $13,448",

@@ -82,31 +82,98 @@ export const tridenttechnicalcollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "The following table lists the courses and their respective fee structure:",
-            "data": [
-                "Accounting                                             $1,981",
-                "Administrative Office Technology                       $2,818",
-                "Air Conditioning, Heating & Refrigeration Technology   $3,836",
-                "Automotive Technology                                  $3,836",
-                "Biology                                                $3,739",
-                "Business Administration                                $2,830",
-                "Computer Programming                                   $2,818",
-                "Computer Science                                       $3,739",
-                "Cosmetology                                            $2,818",
-                "Criminal Justice                                       $2,818",
-                "Dental Assisting                                       $2,818",
-                "Electrical Technology                                  $3,836",
-                "Emergency Medical Services                             $2,818",
-                "Fire Science                                           $2,818",
-                "Graphic Design                                         $2,818",
-                "Industrial Electronics                                 $3,836",
-                "Medical Assisting                                      $2,818",
-                "Nursing                                                $3,836",
-                "Paralegal Technology                                   $2,818",
-                "Physical Therapist Assistant                           $4,600",
-                "Welding                                                $3,836"
+            "col": [
+                "Course Name",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course Name": "Accounting",
+                    "Tuition Fee": "$1,981"
+                },
+                {
+                    "Course Name": "Administrative Office Technology",
+                    "Tuition Fee": "$2,818"
+                },
+                  {
+                    "Course Name": "Air Conditioning, Heating & Refrigeration Technology",
+                    "Tuition Fee": "$3,836"
+                },
+                {
+                    "Course Name": "Automotive Technology",
+                    "Tuition Fee": "$3,836"
+                },
+                {
+                    "Course Name": "Biology ",
+                    "Tuition Fee": "$3,739"
+                },
+                {
+                    "Course Name": "Business Administration",
+                    "Tuition Fee": "$2,830"
+                },
+                {
+                    "Course Name": "Computer Programming",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Computer Science",
+                    "Tuition Fee": "$3,739"
+                },
+                {
+                    "Course Name": "Cosmetology",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Criminal Justice",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Dental Assisting",
+                    "Tuition Fee": "$2,818"
+                },
+                 {
+                    "Course Name": "Electrical Technology",
+                    "Tuition Fee": "$3,836"
+                },
+                {
+                    "Course Name": "Emergency Medical Services",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Fire Science",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Graphic Design",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Industrial Electronics",
+                    "Tuition Fee": "$3,836"
+                },
+                {
+                    "Course Name": "Medical Assisting",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Nursing",
+                    "Tuition Fee": "$3,836"
+                },
+                {
+                    "Course Name": "Paralegal Technology",
+                    "Tuition Fee": "$2,818"
+                },
+                {
+                    "Course Name": "Physical Therapist Assistant",
+                    "Tuition Fee": "$4,600"
+                },
+                {
+                    "Course Name": "Welding",
+                    "Tuition Fee": "$3,836"
+                },
             ]
         },
         {

@@ -67,14 +67,10 @@ export const universityofhoustondowntown = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Houston-Downtown (UHD) offers a wide array of courses for undergraduate and graduate students. The fee structure for UHD differs for in-state and out-of-state students. The tuition for in-state students is $203.90 per credit hour, while the tuition for out-of-state students is $523.90 per credit hour. In addition to tuition, students are also required to pay a mandatory fee of $155 per credit hour.</p> <p>Below is a list of courses offered by UHD:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Houston-Downtown (UHD) offers a wide array of courses for undergraduate and graduate students. The fee structure for UHD differs for in-state and out-of-state students. The tuition for in-state students is $203.90 per credit hour, while the tuition for out-of-state students is $523.90 per credit hour. In addition to tuition, students are also required to pay a mandatory fee of $155 per credit hour.",
+            "textBelowInfo": "<p>Below is a list of courses offered by UHD:</p> <p><b>Undergraduate Courses:</b></p>",
             "data": [
                 "Accounting",
                 "Economics  ",

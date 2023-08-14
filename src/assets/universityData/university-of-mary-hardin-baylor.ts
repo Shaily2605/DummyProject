@@ -71,14 +71,10 @@ export const universityofmaryhardinbaylor = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mary Hardin-Baylor offers more than 80 areas of study across its five academic schools. Tuition and fees vary depending on the student's program of study, enrollment status, and residency. All students are charged a flat-rate tuition for each semester, regardless of the number of credit hours taken.</p> <p>Below is a list of all the courses offered by University of Mary Hardin-Baylor, Texas, USA along with their corresponding tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "School of Arts & Sciences:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Mary Hardin-Baylor offers more than 80 areas of study across its five academic schools. Tuition and fees vary depending on the student's program of study, enrollment status, and residency. All students are charged a flat-rate tuition for each semester, regardless of the number of credit hours taken.",
+            "textBelowInfo": "<p>Below is a list of all the courses offered by University of Mary Hardin-Baylor, Texas, USA along with their corresponding tuition and fees.</p> <p><b>School of Arts & Sciences:</b></p>",
             "data": [
                 "Biology: $15,600",
                 "Chemistry: $15,600",
@@ -92,8 +88,8 @@ export const universityofmaryhardinbaylor = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Business Administration:",
-            "info": "",
+            "title": "",
+            "info": "School of Business Administration:",
             "data": [
                 "Accounting: $18,200",
                 "Business Administration: $18,200",
@@ -105,8 +101,8 @@ export const universityofmaryhardinbaylor = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Christian Studies:",
-            "info": "",
+            "title": "",
+            "info": "School of Christian Studies:",
             "data": [
                 "Biblical Studies: $15,600",
                 "Christian Ministry: $15,600",
@@ -116,8 +112,8 @@ export const universityofmaryhardinbaylor = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Education:",
-            "info": "",
+            "title": "",
+            "info": "School of Education:",
             "data": [
                 "Early Childhood Education: $17,400",
                 "Elementary Education: $17,400",
@@ -128,8 +124,8 @@ export const universityofmaryhardinbaylor = {
         },
         {
             "type": "list-bollet",
-            "title": "School of Music:",
-            "info": "",
+            "title": "",
+            "info": "School of Music:",
             "data": [
                 "Music Performance: $16,800",
                 "Music Education: $16,800",
@@ -140,8 +136,8 @@ export const universityofmaryhardinbaylor = {
         },
         {
             "type": "list-bollet",
-            "title": "Fees:",
-            "info": "",
+            "title": "",
+            "info": "Fees:",
             "data": [
                 "Technology Fee: $1,400 per semester",
                 "Student Activity Fee: $150 per semester",
@@ -381,7 +377,7 @@ export const universityofmaryhardinbaylor = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

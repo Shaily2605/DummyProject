@@ -66,14 +66,10 @@ export const universityofillinoischicago = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Illinois at Chicago offers a wide range of degree programs and courses. The following is a list of the degree programs and courses available at the university, along with their associated tuition and fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Illinois at Chicago offers a wide range of degree programs and courses. The following is a list of the degree programs and courses available at the university, along with their associated tuition and fees:",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Business Administration - $16,918 per semester",
                 "Computer Science - $16,918 per semester",

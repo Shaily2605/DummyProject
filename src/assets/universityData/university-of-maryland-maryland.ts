@@ -105,8 +105,9 @@ export const universityofmarylandmaryland = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate",
-            "info": "The University of Maryland offers more than 140 graduate degree programs at the College Park campus, divided among the following colleges and schools:",
+            "title": "",
+            "info": "Graduate",
+            "textBelowInfo": "<b>The University of Maryland offers more than 140 graduate degree programs at the College Park campus, divided among the following colleges and schools:</b>",
             "data": [
                 "College of Agriculture and Natural Resources",
                 "College of Arts & Humanities",

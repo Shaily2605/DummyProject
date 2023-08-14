@@ -70,14 +70,10 @@ export const universityofhartford = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Hartford offers more than 100 undergraduate and graduate degree programs as well as certificate and continuing education programs. Below is a list of the degree programs and their associated tuition and fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Hartford offers more than 100 undergraduate and graduate degree programs as well as certificate and continuing education programs. Below is a list of the degree programs and their associated tuition and fees.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Bachelor of Arts: $38,948",
                 "Bachelor of Science: $38,948",

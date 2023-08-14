@@ -71,14 +71,10 @@ export const universityoffredericton = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>University of Fredericton does not offer degree programs. It offers a range of professional development and certification programs. The fee structure for the various programs offered by the University of Fredericton can be found on its website at http://www.ufred.ca/programs/.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Some of the most popular programs offered by the University of Fredericton include: ",
+            "title": "Courses and Fees",
+            "info": "University of Fredericton does not offer degree programs. It offers a range of professional development and certification programs. The fee structure for the various programs offered by the University of Fredericton can be found on its website at http://www.ufred.ca/programs/.",
+            "textBelowInfo": "Some of the most popular programs offered by the University of Fredericton include: ",
             "data": [
                 "Executive Certificate in Strategic Leadership",
                 "Certified Human Resources Professional (CHRP)",

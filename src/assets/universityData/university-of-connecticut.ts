@@ -69,14 +69,10 @@ export const universityofconnecticut = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Connecticut offers more than 100 undergraduate majors, ranging from Anthropology to Visual Arts & Digital Media. Below is a listing of all the courses offered, with an estimated fee structure for each.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Connecticut offers more than 100 undergraduate majors, ranging from Anthropology to Visual Arts & Digital Media. Below is a listing of all the courses offered, with an estimated fee structure for each.",
+            "textBelowInfo": "<b>Undergraduate Programs </b>",
             "data": [
                 "<b>Accounting</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
                 "<b>African American Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",

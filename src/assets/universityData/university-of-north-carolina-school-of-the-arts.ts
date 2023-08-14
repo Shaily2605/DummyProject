@@ -167,7 +167,7 @@ export const universityofnorthcarolinaschoolofthearts = {
                 "Applicants must submit a letter of recommendation from a teacher.",
                 "Applicants must submit a portfolio or audition video (depending on the program of study).",
             ],
-            "heading": "<p>Note: The University of North Carolina School of the Arts may also require applicants to participate in an interview.</p>"
+            "heading": "<p><b>Note:</b> The University of North Carolina School of the Arts may also require applicants to participate in an interview.</p>"
         },
         {
             "type": "list-bollet",

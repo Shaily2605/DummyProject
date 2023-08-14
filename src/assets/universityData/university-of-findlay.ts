@@ -70,14 +70,10 @@ export const universityoffindlay = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Findlay in Ohio, USA offers a variety of undergraduate, graduate and doctoral programs, as well as certificate and professional development programs. The following is a list of the programs offered at the University of Findlay, along with their associated tuition fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Findlay in Ohio, USA offers a variety of undergraduate, graduate and doctoral programs, as well as certificate and professional development programs. The following is a list of the programs offered at the University of Findlay, along with their associated tuition fees:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Accounting - $35,024",
                 "American Sign Language - $35,024",
@@ -119,8 +115,8 @@ export const universityoffindlay = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Educational Leadership - $10,704",
                 "MBA - $10,704",
@@ -138,8 +134,8 @@ export const universityoffindlay = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral Programs:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral Programs:",
             "data": [
                 "Doctor of Education - $10,704",
                 "Doctor of Pharmacy - $10,704",
@@ -148,8 +144,8 @@ export const universityoffindlay = {
         },
         {
             "type": "list-bollet",
-            "title": "Certificate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Certificate Programs:",
             "data": [
                 "Advanced Legal Nurse Consultant - $5,852",
                 "International Business - $5,852",

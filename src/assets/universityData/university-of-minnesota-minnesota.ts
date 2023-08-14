@@ -70,13 +70,8 @@ export const universityofminnesotaminnesota = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Courses and Fees",
             "info": "",
             "data": [
@@ -296,12 +291,19 @@ export const universityofminnesotaminnesota = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "University of Minnesota offers a range of on-campus accommodation options for students. Depending on their preferences and budget, students can choose from a variety of residence halls, apartments and houses on the University of Minnesota's Twin Cities campus.",
             "data": [
-                "<b>On-Campus Accommodation </b> <br> University of Minnesota offers a range of on-campus accommodation options for students. Depending on their preferences and budget, students can choose from a variety of residence halls, apartments and houses on the University of Minnesota's Twin Cities campus.",
                 "<b>Undergraduate Students </b> <br> Undergraduate students can choose from a variety of residence halls including Frontier Hall, Comstock Hall, Frontier Hall, Middlebrook Hall and 17th Avenue Residence Hall. These residence halls offer a range of amenities such as air-conditioned rooms, study rooms and lounges, laundry facilities and 24-hour security. ",
                 "<b>Graduate and Professional Students </b> <br> Graduate and professional students can choose from a variety of apartments and houses on the University of Minnesota's Twin Cities campus. The options include University Village Apartments, University Village Townhomes, University Village Houses, East Bank Apartments and Riverside Apartments. These apartments and houses offer amenities such as air-conditioned rooms, study rooms and lounges, laundry facilities and 24-hour security.",
-                "<b>Off Campus Accommodation </b> <br> University of Minnesota also offers a range of off-campus accommodation options for students. Depending on their preferences and budget, students can choose from a variety of apartments, houses and hostels located in the University of Minnesota's Twin Cities area.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off Campus Accommodation",
+            "textBelowInfo": "University of Minnesota also offers a range of off-campus accommodation options for students. Depending on their preferences and budget, students can choose from a variety of apartments, houses and hostels located in the University of Minnesota's Twin Cities area.",
+            "data": [
                 "<b>Apartments </b> <br> Apartments in the University of Minnesota's Twin Cities area range from studio apartments to four-bedroom apartments. These apartments offer amenities such as air-conditioned rooms, study rooms and lounges, laundry facilities and 24-hour security.",
                 "<b>Houses </b> <br> Houses in the University of Minnesota's Twin Cities area range from one-bedroom houses to five-bedroom houses. These houses offer amenities such as air-conditioned rooms, study rooms and lounges, laundry facilities and 24-hour security.",
                 "<b>Hostels </b> <br> University of Minnesota's Twin Cities area also offers a variety of hostels. These hostels offer amenities such as air-conditioned rooms, study rooms and lounges, laundry facilities and 24-hour security."

@@ -65,18 +65,12 @@ export const universityoflouisville = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "",
             "data": [
-                "For exact information regarding courses offered and fee structure of University of Louisville, Kentucky, USA, please visit the university’s official website: ",
-                "https://louisville.edu/admissions/tuition-fees",
+                "For exact information regarding courses offered and fee structure of University of Louisville, Kentucky, USA, please visit the university’s official website: <br>https://louisville.edu/admissions/tuition-fees",
                 "Here, you can find the list of all the courses offered at the university along with the fee structure for each. ",
                 "You can also contact the university’s Office of Admissions for more information regarding courses and fee structure: Phone: <br> 502-852-6531 <br> Email: admissions@louisville.edu",
             ]

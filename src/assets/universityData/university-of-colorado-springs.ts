@@ -68,14 +68,10 @@ export const universityofcoloradosprings = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Colorado Colorado Springs offers a variety of undergraduate and graduate degrees through its six colleges: College of Letters, Arts and Sciences; College of Business and Administration; College of Education; College of Engineering and Applied Science; College of Nursing and Health Sciences; and College of Public Affairs and Administration.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Tuition and Fees (2020-2021 Academic Year)",
+            "title": "Courses and Fees",
+            "info": "The University of Colorado Colorado Springs offers a variety of undergraduate and graduate degrees through its six colleges: College of Letters, Arts and Sciences; College of Business and Administration; College of Education; College of Engineering and Applied Science; College of Nursing and Health Sciences; and College of Public Affairs and Administration.",
+            "textBelowInfo": "<b>Undergraduate Tuition and Fees (2020-2021 Academic Year)</b>",
             "data": [
                 "Colorado Resident: $9,844 per semester",
                 "Non-Resident: $18,508 per semester",

@@ -331,7 +331,7 @@ export const universityofindianapolis = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Hostels",
             "data": [

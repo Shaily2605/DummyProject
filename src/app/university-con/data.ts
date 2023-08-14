@@ -1541,6 +1541,46 @@ import * as westernillinoisuniversity from '../../assets/universityData/western-
 import * as westerniowatechcommunitycollege from '../../assets/universityData/western-iowa-tech-community-college'
 import * as westernkentuckyuniversity from '../../assets/universityData/western-kentucky-university'
 import * as westernmichiganuniversity from '../../assets/universityData/western-michigan-university'
+import * as westernnevadacollegenevada from '../../assets/universityData/western-nevada-college-nevada'
+import * as westernnewenglanduniversity from '../../assets/universityData/western-new-england-university'
+import * as westernnewmexicouniversity from '../../assets/universityData/western-new-mexico-university'
+import * as westernoregonuniversityoregon from '../../assets/universityData/western-oregon-university-oregon'
+import * as westerntechnicalcollegewisconsin from '../../assets/universityData/western-technical-college-wisconsin'
+import * as westerntexascollegetexas from '../../assets/universityData/western-texas-college-texas'
+import * as westernuniversitylondonontario from '../../assets/universityData/western-university-london-ontario'
+import * as westernwashingtonuniversitywashington from '../../assets/universityData/western-washington-university-washington'
+import * as westernwyomingcommunitycollege from '../../assets/universityData/western-wyoming-community-college'
+import * as westfieldstateuniversity from '../../assets/universityData/westfield-state-university'
+import * as westminstercollegemissouri from '../../assets/universityData/westminster-college-missouri'
+import * as westminstercollegeutah from '../../assets/universityData/westminster-college-utah'
+import * as wheatoncollegeillinois from '../../assets/universityData/wheaton-college-illinois'
+import * as wheatoncollegemassachusetts from '../../assets/universityData/wheaton-college-massachusetts'
+import * as wheelinguniversitywestvirginia from '../../assets/universityData/wheeling-university-west-virginia'
+import * as whitemountainscommunitycollege from '../../assets/universityData/white-mountains-community-college'
+import * as whitefieldcollegeofthebiblegilford from '../../assets/universityData/whitefield-college-of-the-bible-gilford'
+import * as whitmancollegewashington from '../../assets/universityData/whitman-college-washington'
+import * as whittiercollegecalifornia from '../../assets/universityData/whittier-college-california'
+import * as whitworthuniversitywashington from '../../assets/universityData/whitworth-university-washington'
+import * as wichitastateuniversitykansas from '../../assets/universityData/wichita-state-university-kansas'
+import * as wichitatechnicalinstitutekansas from '../../assets/universityData/wichita-technical-institute-kansas'
+import * as wilberforceuniversityohio from '../../assets/universityData/wilberforce-university-ohio'
+import * as wileycollegetexas from '../../assets/universityData/wiley-college-texas'
+import * as wilfridlaurieruniversity from '../../assets/universityData/wilfrid-laurier-university'
+import * as willametteuniversityoregon from '../../assets/universityData/willamette-university-oregon'
+import * as williamandmaryvirginia from '../../assets/universityData/william-and-mary-virginia'
+import * as williamcareyuniversity from '../../assets/universityData/william-carey-university'
+import * as williamjessupuniversity from '../../assets/universityData/william-jessup-university'
+import * as williamjewellcollegemissouri from '../../assets/universityData/william-jewell-college-missouri'
+import * as williampatersonuniversity from '../../assets/universityData/william-paterson-university'
+import * as williampeaceuniversity from '../../assets/universityData/william-peace-university'
+import * as williampennuniversityiowa from '../../assets/universityData/william-penn-university-iowa'
+import * as williamwoodsuniversitymissouri from '../../assets/universityData/william-woods-university-missouri'
+import * as williamsbaptistuniversityarkansas from '../../assets/universityData/williams-baptist-university-arkansas'
+import * as williamscollegemassachusetts from '../../assets/universityData/williams-college-massachusetts'
+import * as williamsburgtechnicalcollegesouthcarolina from '../../assets/universityData/williamsburg-technical-college-south-carolina'
+import * as willistonstatecollegenorthdakota from '../../assets/universityData/williston-state-college-north-dakota'
+import * as wilmingtoncollegeohio from '../../assets/universityData/wilmington-college-ohio'
+
 
 export {
 
@@ -3079,6 +3119,45 @@ export {
     westerniowatechcommunitycollege,
     westernkentuckyuniversity,
     westernmichiganuniversity,
+    westernnevadacollegenevada,
+    westernnewenglanduniversity,
+    westernnewmexicouniversity,
+    westernoregonuniversityoregon,
+    westerntechnicalcollegewisconsin,
+    westerntexascollegetexas,
+    westernuniversitylondonontario,
+    westernwashingtonuniversitywashington,
+    westernwyomingcommunitycollege,
+    westfieldstateuniversity,
+    westminstercollegemissouri,
+    westminstercollegeutah,
+    wheatoncollegeillinois,
+    wheatoncollegemassachusetts,
+    wheelinguniversitywestvirginia,
+    whitemountainscommunitycollege,
+    whitefieldcollegeofthebiblegilford,
+    whitmancollegewashington,
+    whittiercollegecalifornia,
+    whitworthuniversitywashington,
+    wichitastateuniversitykansas,
+    wichitatechnicalinstitutekansas,
+    wilberforceuniversityohio,
+    wileycollegetexas,
+    wilfridlaurieruniversity,
+    willametteuniversityoregon,
+    williamandmaryvirginia,
+    williamcareyuniversity,
+    williamjessupuniversity,
+    williamjewellcollegemissouri,
+    williampatersonuniversity,
+    williampeaceuniversity,
+    williampennuniversityiowa,
+    williamwoodsuniversitymissouri,
+    williamsbaptistuniversityarkansas,
+    williamscollegemassachusetts,
+    williamsburgtechnicalcollegesouthcarolina,
+    willistonstatecollegenorthdakota,
+    wilmingtoncollegeohio,
     
 
 }

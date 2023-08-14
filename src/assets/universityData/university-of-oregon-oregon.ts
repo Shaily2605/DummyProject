@@ -80,52 +80,162 @@ export const universityoforegonoregon = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Oregon offers a wide range of graduate and undergraduate degree programs. Below are the courses with their respective fee structures as of Fall 2020. ",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Accounting :				                    $13,818",
-                "Anthropology :				                $13,818",
-                "Art History, Theory and Criticism :			$13,818",
-                "Biology :				                    $13,818",
-                "Business Administration :			        $13,818",
-                "Chemistry :				                    $13,818",
-                "Computer Science :			                $13,818",
-                "Economics :				                    $13,818",
-                "English :				                    $13,818",
-                "Environmental Studies :			            $13,818",
-                "History :				                    $13,818",
-                "Mathematics :				                $13,818",
-                "Philosophy :				                    $13,818",
-                "Physics :				                    $13,818",
-                "Political Science :			                $13,818",
-                "Psychology :				                    $13,818",
-                "Sociology :				                    $13,818",
+            "col": [
+                "Course ",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course ": "Accounting",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Anthropology",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Art History, Theory and Criticism",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Biology",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Business Administration",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Chemistry",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Economics",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "English",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Environmental Studies",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "History",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Mathematics",
+                    "Fees": "$13,818"
+                },
+                 {
+                    "Course ": "Philosophy",
+                    "Fees": "$13,818"
+                },
+                  {
+                    "Course ": "Physics",
+                    "Fees": "$13,818"
+                },  
+                {
+                    "Course ": "Political Science",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Fees": "$13,818"
+                },
+                {
+                    "Course ": "Sociology",
+                    "Fees": "$13,818"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Accounting :				                     $17,719",
-                "Anthropology :				                 $17,719",
-                "Art History, Theory and Criticism :			 $17,719",
-                "Biology :				                     $17,719",
-                "Business Administration :			         $17,719",
-                "Chemistry :				                     $17,719",
-                "Computer Science :			                 $17,719",
-                "Economics :				                     $17,719",
-                "English :				                     $17,719",
-                "Environmental Studies :			             $17,719",
-                "History :				                     $17,719",
-                "Mathematics :				                 $17,719",
-                "Philosophy :				                     $17,719",
-                "Physics :				                     $17,719",
-                "Political Science :			                 $17,719",
-                "Psychology :				                     $17,719",
-                "Sociology :				                     $17,719",
+            "col": [
+                "Course ",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course ": "Accounting",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Anthropology",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Art History, Theory and Criticism",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Biology",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Business Administration",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Chemistry",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Economics",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "English",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Environmental Studies",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "History",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Mathematics",
+                    "Fees": "$17,719"
+                },
+                 {
+                    "Course ": "Philosophy",
+                    "Fees": "$17,719"
+                },
+                  {
+                    "Course ": "Physics",
+                    "Fees": "$17,719"
+                },  
+                {
+                    "Course ": "Political Science",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Fees": "$17,719"
+                },
+                {
+                    "Course ": "Sociology",
+                    "Fees": "$17,719"
+                },
             ]
         },
         {

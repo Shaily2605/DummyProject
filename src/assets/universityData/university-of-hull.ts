@@ -78,14 +78,10 @@ export const universityofhull = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Hull offers a variety of courses at both undergraduate and postgraduate levels. The fees for each course vary depending on your nationality, level of study and the course you choose.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Hull offers a variety of courses at both undergraduate and postgraduate levels. The fees for each course vary depending on your nationality, level of study and the course you choose.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting and Finance (BSc) - Tuition fees for 2020/21 are £9,250 per year for UK and EU students. ",
                 "Architecture (BSc/BA) - Tuition fees for 2020/21 are £9,250 per year for UK and EU students. ",

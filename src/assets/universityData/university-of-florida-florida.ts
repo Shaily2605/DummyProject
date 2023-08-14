@@ -80,14 +80,10 @@ export const universityoffloridaflorida = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Florida offers more than 200 undergraduate and graduate degree programs. Below is a list of some of the most popular courses offered at the university and their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Florida offers more than 200 undergraduate and graduate degree programs. Below is a list of some of the most popular courses offered at the university and their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $6,380 per semester ",
                 "Computer Science: $6,380 per semester ",
@@ -100,8 +96,8 @@ export const universityoffloridaflorida = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Business Administration: $7,422 per semester ",
                 "Computer Science: $7,422 per semester ",

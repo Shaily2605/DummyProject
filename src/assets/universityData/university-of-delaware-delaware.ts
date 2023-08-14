@@ -70,14 +70,10 @@ export const universityofdelawaredelaware = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Delaware offers a wide range of degree programs and courses. You can view a full list of the programs and courses offered by the University of Delaware on their website.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "The fee structure for each program can be found on the website as well. For example, the tuition and fees for the Bachelor's of Science in Business Administration program are as follows:",
+            "title": "Courses and Fees",
+            "info": "The University of Delaware offers a wide range of degree programs and courses. You can view a full list of the programs and courses offered by the University of Delaware on their website.",
+            "textBelowInfo": "The fee structure for each program can be found on the website as well. For example, the tuition and fees for the Bachelor's of Science in Business Administration program are as follows:",
             "data": [
                 "Tuition: $34,530 ",
                 "Fees: $2,092 ",

@@ -67,14 +67,10 @@ export const universityofmaineatpresqueisle = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Maine at Presque Isle offers several undergraduate and graduate degree programs. The university operates on a semester system and each academic program has a different tuition and fees structure.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Maine at Presque Isle offers several undergraduate and graduate degree programs. The university operates on a semester system and each academic program has a different tuition and fees structure.",
+            "textBelowInfo": "<b>Undergraduate Programs</b>",
             "data": [
                 "Associate of Arts (AA)  Tuition and Fees: $13,822 ",
                 "Bachelor of Arts (BA)  Tuition and Fees: $14,902 ",
@@ -87,8 +83,8 @@ export const universityofmaineatpresqueisle = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs",
             "data": [
                 "Master of Science in Education(MSE)  Tuition and Fees: $14, 668 ",
                 "Master of Science in Nursing(MSN)  Tuition and Fees: $18, 402 ",

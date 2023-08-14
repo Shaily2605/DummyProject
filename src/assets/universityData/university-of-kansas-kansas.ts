@@ -81,14 +81,10 @@ export const universityofkansaskansas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Kansas offers undergraduate and graduate degree programs at a wide range of campuses, as well as online classes. The following is an overview of tuition and fees for both on-campus and online courses.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate On-Campus Tuition & Fees",
+            "title": "Courses and Fees",
+            "info": "The University of Kansas offers undergraduate and graduate degree programs at a wide range of campuses, as well as online classes. The following is an overview of tuition and fees for both on-campus and online courses.",
+            "textBelowInfo": "<b>Undergraduate On-Campus Tuition & Fees</b>",
             "data": [
                 "Tuition – $10,062 per semester for students taking 12 or more credit hours",
                 "Fees – $1,272 per semester for students taking 12 or more credit hours",

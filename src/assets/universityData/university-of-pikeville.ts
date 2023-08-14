@@ -326,7 +326,7 @@ export const universityofpikeville = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Accommodation ",
             "data": [
@@ -334,7 +334,7 @@ export const universityofpikeville = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

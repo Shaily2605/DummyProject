@@ -310,9 +310,8 @@ export const universityofnorthgeorgia = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodations",
-            "textBelowInfo": "The University of North Georgia offers on-campus housing options that provide a residential experience that is convenient and comfortable. All on-campus housing options are designed to increase student success, provide a safe and secure environment, and foster a sense of community.",
+            "textBelowInfo": "<p>The University of North Georgia offers on-campus housing options that provide a residential experience that is convenient and comfortable. All on-campus housing options are designed to increase student success, provide a safe and secure environment, and foster a sense of community.</p> <p>The university offers both traditional residence halls and apartment-style living options.</p>",
             "data": [
-                "The university offers both traditional residence halls and apartment-style living options.",
                 "<b>Traditional Residence Halls:</b> Traditional residence halls offer double-occupancy rooms with community bathrooms.",
                 "<b>Apartment-Style Living:</b> Apartment-style living is available in both the Oaks and Highlands communities. These apartment-style facilities offer single and double-occupancy rooms with private bathrooms.",
             ]
@@ -329,7 +328,7 @@ export const universityofnorthgeorgia = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

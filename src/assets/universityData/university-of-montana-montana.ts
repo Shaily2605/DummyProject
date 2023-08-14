@@ -91,8 +91,8 @@ export const universityofmontanamontana = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate:",
-            "info": "",
+            "title": "",
+            "info": "Graduate:",
             "data": [
                 "Tuition Fees: $10,547 per semester",
                 "Student Fees: $1,788 per semester",
@@ -102,8 +102,8 @@ export const universityofmontanamontana = {
         },
         {
             "type": "list-bollet",
-            "title": "Doctoral:",
-            "info": "",
+            "title": "",
+            "info": "Doctoral:",
             "data": [
                 "Tuition Fees: $11,136 per semester",
                 "Student Fees: $1,788 per semester",
@@ -347,7 +347,7 @@ export const universityofmontanamontana = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities:",
             "data": [

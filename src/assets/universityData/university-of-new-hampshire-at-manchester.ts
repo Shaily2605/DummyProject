@@ -71,14 +71,10 @@ export const universityofnewhampshireatmanchester = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of New Hampshire at Manchester offers a variety of undergraduate and graduate programs. The following is a list of all the courses offered at the university, along with their associated fee structures:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of New Hampshire at Manchester offers a variety of undergraduate and graduate programs. The following is a list of all the courses offered at the university, along with their associated fee structures:",
+            "textBelowInfo": "<b>Undergraduate Programs:</b>",
             "data": [
                 "Business Administration: $7,950 per semester",
                 "Computer Science: $8,100 per semester",
@@ -92,8 +88,8 @@ export const universityofnewhampshireatmanchester = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Programs:",
             "data": [
                 "Business Administration: $13,000 per semester",
                 "Educational Leadership: $10,400 per semester",

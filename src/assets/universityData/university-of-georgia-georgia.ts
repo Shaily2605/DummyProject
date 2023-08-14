@@ -78,14 +78,10 @@ export const universityofgeorgiageorgia = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Georgia offers a variety of undergraduate, graduate and professional degrees. The fees for each program are determined by the college or school offering the degree.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degree Programs",
+            "title": "Courses and Fees",
+            "info": "The University of Georgia offers a variety of undergraduate, graduate and professional degrees. The fees for each program are determined by the college or school offering the degree.",
+            "textBelowInfo": "<b>Undergraduate Degree Programs</b>",
             "data": [
                 "Bachelor of Arts",
                 "Bachelor of Fine Arts",
@@ -131,7 +127,7 @@ export const universityofgeorgiageorgia = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure",
             "data": [

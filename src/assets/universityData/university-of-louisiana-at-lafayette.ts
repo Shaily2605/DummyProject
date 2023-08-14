@@ -68,14 +68,10 @@ export const universityoflouisianaatlafayette = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Louisiana at Lafayette offers a range of undergraduate and graduate degree programs, as well as certificates and certifications. Below is a list of their degrees and certificates, along with their respective fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Degrees",
+            "title": "Courses and Fees",
+            "info": "The University of Louisiana at Lafayette offers a range of undergraduate and graduate degree programs, as well as certificates and certifications. Below is a list of their degrees and certificates, along with their respective fee structures.",
+            "textBelowInfo": "<b>Undergraduate Degrees</b>",
             "data": [
                 "Accounting Degree - $422 per credit hour",
                 "Aviation Degree - $422 per credit hour",
@@ -363,7 +359,7 @@ export const universityoflouisianaatlafayette = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Housing",
             "data": [
@@ -371,7 +367,7 @@ export const universityoflouisianaatlafayette = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

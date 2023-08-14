@@ -69,14 +69,10 @@ export const universityofnevadareno = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Nevada, Reno offers more than 145 undergraduate, graduate, and professional degree programs. Below is a list of courses offered at the University along with their associated fees.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses:",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Nevada, Reno offers more than 145 undergraduate, graduate, and professional degree programs. Below is a list of courses offered at the University along with their associated fees.",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Accounting: $7,284 per semester ",
                 "Aerospace Studies: $2,164 per semester ",
@@ -109,8 +105,8 @@ export const universityofnevadareno = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses:",
-            "info": "",
+            "title": "",
+            "info": "Graduate Courses:",
             "data": [
                 "Accountancy: $7,284 per semester ",
                 "Aerospace Studies: $2,164 per semester ",
@@ -366,7 +362,7 @@ export const universityofnevadareno = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-Campus Hostels",
             "data": [

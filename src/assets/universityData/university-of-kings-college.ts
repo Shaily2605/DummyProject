@@ -100,7 +100,7 @@ export const universityofkingscollege = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Fee Structure:",
             "data": [

@@ -306,12 +306,19 @@ export const universityofnorthernbririshcolumbia = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "Accommodation on-campus",
+            "textBelowInfo": "UNBC offers on-campus student housing for single and family students. The residence and apartments provide a safe and secure environment, and are located within walking distance of the main library and administrative buildings.",
             "data": [
-                "<b>Accommodation on-campus </b> <br> UNBC offers on-campus student housing for single and family students. The residence and apartments provide a safe and secure environment, and are located within walking distance of the main library and administrative buildings.",
                 "<b>Single Student Residence </b> <br> Single Student Residence offers single rooms for undergraduate and graduate students. It includes a shared kitchen, laundry facilities, and a common area. It is located close to the main library and administrative buildings.",
-                "<b>Family Student Residence </b> <br> Family Student Residence is located close to the main library and administrative buildings. It offers two- and three-bedroom apartments for undergraduate and graduate students. It includes a shared kitchen, laundry facilities, and a common area.",
-                "<b>Off-Campus Hostel </b> <br> Prince George Hostel is located in the heart of Prince George, within walking distance of UNBC. It offers private rooms and shared dorms, as well as a shared kitchen, laundry facilities, and a common area. It is a basic, low-cost accommodation option."
+                "<b>Family Student Residence </b> <br> Family Student Residence is located close to the main library and administrative buildings. It offers two- and three-bedroom apartments for undergraduate and graduate students. It includes a shared kitchen, laundry facilities, and a common area."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Hostel ",
+            "data": [
+                "Prince George Hostel is located in the heart of Prince George, within walking distance of UNBC. It offers private rooms and shared dorms, as well as a shared kitchen, laundry facilities, and a common area. It is a basic, low-cost accommodation option."
             ]
         },
         {

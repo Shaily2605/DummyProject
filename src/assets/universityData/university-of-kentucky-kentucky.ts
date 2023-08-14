@@ -70,14 +70,10 @@ export const universityofkentuckykentucky = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Kentucky offers several undergraduate, graduate, and professional degree programs. The following is a list of all the courses offered by the university, along with their corresponding fee structures.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses",
+            "title": "Courses and Fees",
+            "info": "The University of Kentucky offers several undergraduate, graduate, and professional degree programs. The following is a list of all the courses offered by the university, along with their corresponding fee structures.",
+            "textBelowInfo": "<b>Undergraduate Courses </b>",
             "data": [
                 "BA/BS in Agriculture - $10,209.00 per semester",
                 "BA/BS in Architecture - $12,979.00 per semester",

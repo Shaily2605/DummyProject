@@ -110,7 +110,7 @@ export const universityofmountolive = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Fee Structure",
             "info": "",
             "data": [

@@ -70,14 +70,10 @@ export const universityofdallastexas = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Dallas offers 63 undergraduate majors, minors and concentrations, as well as a variety of pre-professional and graduate programs. Below is a list of all courses offered with their corresponding fees. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Dallas offers 63 undergraduate majors, minors and concentrations, as well as a variety of pre-professional and graduate programs. Below is a list of all courses offered with their corresponding fees.",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting – $41,220",
                 "Anthropology – $41,220",

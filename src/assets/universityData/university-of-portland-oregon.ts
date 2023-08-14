@@ -69,14 +69,10 @@ export const universityofportlandoregon = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Portland offers over 60 undergraduate majors and more than 40 graduate programs. Below is a list of undergraduate courses with their associated fee structure. </p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "",
+            "title": "Courses and Fees",
+            "info": "The University of Portland offers over 60 undergraduate majors and more than 40 graduate programs. Below is a list of undergraduate courses with their associated fee structure. ",
+            "textBelowInfo": "<b>Undergraduate Courses</b>",
             "data": [
                 "Accounting: $44,630",
                 "Architecture: $53,500",
@@ -327,7 +323,7 @@ export const universityofportlandoregon = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Off-campus accommodation",
             "data": [
@@ -335,7 +331,7 @@ export const universityofportlandoregon = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

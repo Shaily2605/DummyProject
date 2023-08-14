@@ -69,14 +69,10 @@ export const universityofhoustonclearlake = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Houston-Clear Lake offers a variety of undergraduate and graduate programs in business, education, the arts and sciences, and health. The following is a list of courses with their corresponding fees:</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Undergraduate Courses:",
+            "title": "Courses and Fees",
+            "info": "The University of Houston-Clear Lake offers a variety of undergraduate and graduate programs in business, education, the arts and sciences, and health. The following is a list of courses with their corresponding fees:",
+            "textBelowInfo": "<b>Undergraduate Courses:</b>",
             "data": [
                 "Business Administration: $4,836 per semester",
                 "Computer Science: $4,836 per semester",

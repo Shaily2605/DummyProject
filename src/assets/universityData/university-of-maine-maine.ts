@@ -69,14 +69,10 @@ export const universityofmainemaine = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Maine offers over 100 undergraduate and graduate degree programs to its students. The tuition fees for the programs vary depending on residency, course credits, and program type.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Tuition Fees (by credits)",
-            "info": "In-state tuition fees:",
+            "title": "Courses and Fees",
+            "info": "The University of Maine offers over 100 undergraduate and graduate degree programs to its students. The tuition fees for the programs vary depending on residency, course credits, and program type.",
+            "textBelowInfo": "<p><b>Undergraduate Tuition Fees (by credits)</b></p> <p><b>In-state tuition fees:</b></p>",
             "data": [
                 "1-11 credits: $403.50/credit",
                 "12+ credits: $4,842/semester"
@@ -93,8 +89,9 @@ export const universityofmainemaine = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition Fees (by credits)",
-            "info": "In-state tuition fees:",
+            "title": "",
+            "info": "Graduate Tuition Fees (by credits)",
+            "textBelowInfo": "<b>In-state tuition fees:</b>",
             "data": [
                 "1-11 credits: $502.50/credit",
                 "12+ credits: $6,030/semester",

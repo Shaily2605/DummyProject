@@ -77,23 +77,15 @@ export const universityofglasgow = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Glasgow publishes an annual tuition fee schedule which can be found here: https://www.gla.ac.uk/myglasgow/fees/tuitionfees/</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "The fees vary depending on the course and the level of study. For example, undergraduate tuition fees for the 2020/21 academic year are as follows:",
+            "title": "Courses and Fees",
+            "info": "The University of Glasgow publishes an annual tuition fee schedule which can be found here: https://www.gla.ac.uk/myglasgow/fees/tuitionfees/",
+            "textBelowInfo": "The fees vary depending on the course and the level of study. For example, undergraduate tuition fees for the 2020/21 academic year are as follows:",
             "data": [
                 "UK/EU students: £9,250",
                 "Overseas students: £19,700",
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You can view the full list of fees for each course here: https://www.gla.ac.uk/myglasgow/fees/tuitionfees/</p>"
+            ],
+            "heading": "<p>You can view the full list of fees for each course here: https://www.gla.ac.uk/myglasgow/fees/tuitionfees/</p>"
         },
         {
             type: "meta",

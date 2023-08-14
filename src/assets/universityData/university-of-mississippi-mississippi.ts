@@ -70,14 +70,10 @@ export const universityofmississippimississippi = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>The University of Mississippi offers a wide variety of courses which are divided into undergraduate, graduate and professional programs. The courses are offered across the disciplines of Arts and Sciences, Business, Education and Human Sciences, Engineering and Applied Sciences, Law, Medicine and Nursing.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Courses",
-            "info": "The University of Mississippi offers undergraduate courses in the following fields:",
+            "title": "Courses and Fees",
+            "info": "The University of Mississippi offers a wide variety of courses which are divided into undergraduate, graduate and professional programs. The courses are offered across the disciplines of Arts and Sciences, Business, Education and Human Sciences, Engineering and Applied Sciences, Law, Medicine and Nursing.",
+            "textBelowInfo": "<p><b>Undergraduate Courses </b></p> <p>The University of Mississippi offers undergraduate courses in the following fields:</p>",
             "data": [
                 "Arts and Sciences",
                 "Business",
@@ -90,8 +86,9 @@ export const universityofmississippimississippi = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Courses",
-            "info": "The University of Mississippi offers graduate courses in the following fields:",
+            "title": "",
+            "info": "Graduate Courses",
+            "textBelowInfo": "The University of Mississippi offers graduate courses in the following fields:",
             "data": [
                 "Arts and Sciences",
                 "Business",
@@ -106,8 +103,9 @@ export const universityofmississippimississippi = {
         },
         {
             "type": "list-bollet",
-            "title": "Professional Courses",
-            "info": "The University of Mississippi offers professional courses in the following fields:",
+            "title": "",
+            "info": "Professional Courses",
+            "textBelowInfo": "The University of Mississippi offers professional courses in the following fields:",
             "data": [
                 "Law",
                 "Medicine",
