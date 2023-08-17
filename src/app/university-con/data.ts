@@ -1580,6 +1580,26 @@ import * as williamscollegemassachusetts from '../../assets/universityData/willi
 import * as williamsburgtechnicalcollegesouthcarolina from '../../assets/universityData/williamsburg-technical-college-south-carolina'
 import * as willistonstatecollegenorthdakota from '../../assets/universityData/williston-state-college-north-dakota'
 import * as wilmingtoncollegeohio from '../../assets/universityData/wilmington-college-ohio'
+import * as wilmingtonuniversitydelaware from '../../assets/universityData/wilmington-university-delaware'
+import * as wilsoncollegepennsylvania from '../../assets/universityData/wilson-college-pennsylvania'
+import * as wilsoncommunitycollegenorthcarolina from '../../assets/universityData/wilson-community-college-north-carolina'
+import * as windwardcommunitycollegehawaii from '../../assets/universityData/windward-community-college-hawaii'
+import * as wingateuniversitynorthcarolina from '../../assets/universityData/wingate-university-north-carolina'
+import * as winonastateuniversityminnesota from '../../assets/universityData/winona-state-university-minnesota'
+import * as winstonsalemstateuniversity from '../../assets/universityData/winston-salem-state-university'
+import * as winthropuniversitysouthcarolina from '../../assets/universityData/winthrop-university-south-carolina'
+import * as wisconsinlutherancollegewisconsin from '../../assets/universityData/wisconsin-lutheran-college-wisconsin'
+import * as wittenberguniversityohio from '../../assets/universityData/wittenberg-university-ohio'
+import * as worcesterpolytechnicinstitute from '../../assets/universityData/worcester-polytechnic-institute'
+import * as worcesterstateuniversitymassachusetts from '../../assets/universityData/worcester-state-university-massachusetts'
+import * as wrightstateuniversityohio from '../../assets/universityData/wright-state-university-ohio'
+import * as wsutechkansas from '../../assets/universityData/wsu-tech-kansas'
+import * as wvuparkersburgwestvirginia from '../../assets/universityData/wvu-parkersburg-west-virginia'
+import * as wvupotomacstatecollege from '../../assets/universityData/wvu-potomac-state-college'
+import * as wvutechhoganhallwestvirginia from '../../assets/universityData/wvu-tech-hogan-hall-west-virginia'
+import * as xavieruniversityoflouisiana from '../../assets/universityData/xavier-university-of-louisiana'
+import * as xavieruniversityohio from '../../assets/universityData/xavier-university-ohio'
+import * as yaleuniversityconnecticut from '../../assets/universityData/yale-university-connecticut'
 
 
 export {
@@ -3158,6 +3178,26 @@ export {
     williamsburgtechnicalcollegesouthcarolina,
     willistonstatecollegenorthdakota,
     wilmingtoncollegeohio,
+    wilmingtonuniversitydelaware,
+    wilsoncollegepennsylvania,
+    wilsoncommunitycollegenorthcarolina,
+    windwardcommunitycollegehawaii,
+    wingateuniversitynorthcarolina,
+    winonastateuniversityminnesota,
+    winstonsalemstateuniversity,
+    winthropuniversitysouthcarolina,
+    wisconsinlutherancollegewisconsin,
+    wittenberguniversityohio,
+    worcesterpolytechnicinstitute,
+    worcesterstateuniversitymassachusetts,
+    wrightstateuniversityohio,
+    wsutechkansas,
+    wvuparkersburgwestvirginia,
+    wvupotomacstatecollege,
+    wvutechhoganhallwestvirginia,
+    xavieruniversityoflouisiana,
+    xavieruniversityohio,
+    yaleuniversityconnecticut,
     
 
 }
