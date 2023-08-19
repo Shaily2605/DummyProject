@@ -10016,6 +10016,187 @@ const routes: Routes = [
     component: UniversityConComponent
   },
 
+//testing purpose
+  {
+    path: 'amaltas-institute-of-medical-sciences/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'amaltas-institute-of-medical-sciences/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'government-medical-college-chhindwara/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-chhindwara/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'grant-medical-college-mumbai/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'grant-medical-college-mumbai/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'indian-institute-of-information-technology/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-information-technology/faq/.',
+    component: UniversityConComponent
+  },
+
   {
     path: 'dalian-medical-university/.',
     component: UniversityConComponent
@@ -72577,6 +72758,604 @@ const routes: Routes = [
   },
   {
     path: 'yale-university-connecticut/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yellowhead-tribal-college-alberta/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowhead-tribal-college-alberta/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yellowquill-university-college-winnipeg/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yellowquill-university-college-winnipeg/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'yeshiva-university-new-york/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yeshiva-university-new-york/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yevapai-college-arizona/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yevapai-college-arizona/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'york-college-nebraska-usa/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-nebraska-usa/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'york-college-of-pennsylvania/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-college-of-pennsylvania/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'york-st-john-university-england/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-st-john-university-england/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'york-technical-college-south-carolina/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-technical-college-south-carolina/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'york-university-ontario/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'york-university-ontario/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yorkville-university-fredericton/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yorkville-university-fredericton/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'youngstown-state-university-ohio/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'youngstown-state-university-ohio/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-school-of-visual-arts-yukon-territory/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'yukon-university-yukon-territory/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'yukon-university-yukon-territory/faq/.',
     component: UniversityConComponent
   },
 ];

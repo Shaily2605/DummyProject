@@ -449,6 +449,11 @@ import * as universityofwollongong from '../../assets/universityData/university-
 import * as vancouverislanduniversity from '../../assets/universityData/vancouver-island-university'
 import * as victoriauniversitysydney from '../../assets/universityData/victoria-university-sydney'
 import * as victoriauniversity from '../../assets/universityData/victoria-university'
+//testing purpose
+import * as amaltasinstituteofmedicalsciences from '../../assets/universityData/amaltas-institute-of-medical-sciences'
+import * as governmentmedicalcollegechhindwara from '../../assets/universityData/government-medical-college-chhindwara'
+import * as grantmedicalcollegemumbai from '../../assets/universityData/grant-medical-college-mumbai'
+import * as indianinstituteofinformationtechnology from '../../assets/universityData/indian-institute-of-information-technology'
 
 //****************1159 started****************
 import * as millenniaatlanticuniversity from '../../assets/universityData/millennia-atlantic-university'
@@ -1600,6 +1605,20 @@ import * as wvutechhoganhallwestvirginia from '../../assets/universityData/wvu-t
 import * as xavieruniversityoflouisiana from '../../assets/universityData/xavier-university-of-louisiana'
 import * as xavieruniversityohio from '../../assets/universityData/xavier-university-ohio'
 import * as yaleuniversityconnecticut from '../../assets/universityData/yale-university-connecticut'
+import * as yellowheadtribalcollegealberta from '../../assets/universityData/yellowhead-tribal-college-alberta'
+import * as yellowquilluniversitycollegewinnipeg from '../../assets/universityData/yellowquill-university-college-winnipeg'
+import * as yeshivauniversitynewyork from '../../assets/universityData/yeshiva-university-new-york'
+import * as yevapaicollegearizona from '../../assets/universityData/yevapai-college-arizona'
+import * as yorkcollegenebraskausa from '../../assets/universityData/york-college-nebraska-usa'
+import * as yorkcollegeofpennsylvania from '../../assets/universityData/york-college-of-pennsylvania'
+import * as yorkstjohnuniversityengland from '../../assets/universityData/york-st-john-university-england'
+import * as yorktechnicalcollegesouthcarolina from '../../assets/universityData/york-technical-college-south-carolina'
+import * as yorkuniversityontario from '../../assets/universityData/york-university-ontario'
+import * as yorkvilleuniversityfredericton from '../../assets/universityData/yorkville-university-fredericton'
+import * as youngstownstateuniversityohio from '../../assets/universityData/youngstown-state-university-ohio'
+import * as yukonschoolofvisualartsyukonterritory from '../../assets/universityData/yukon-school-of-visual-arts-yukon-territory'
+import * as yukonuniversityyukonterritory from '../../assets/universityData/yukon-university-yukon-territory'
+
 
 
 export {
@@ -2056,6 +2075,11 @@ export {
     victoriauniversity,
     universityofcalgary,
     //christuniversitybangalore
+    amaltasinstituteofmedicalsciences,
+    governmentmedicalcollegechhindwara,
+    grantmedicalcollegemumbai,
+    indianinstituteofinformationtechnology,
+
     millenniaatlanticuniversity,
     millersvilleuniversitypennsylvania,
     milliganuniversitytennessee,
@@ -3198,6 +3222,19 @@ export {
     xavieruniversityoflouisiana,
     xavieruniversityohio,
     yaleuniversityconnecticut,
-    
+    yellowheadtribalcollegealberta,
+    yellowquilluniversitycollegewinnipeg,
+    yeshivauniversitynewyork,
+    yevapaicollegearizona,
+    yorkcollegenebraskausa,
+    yorkcollegeofpennsylvania,
+    yorkstjohnuniversityengland,
+    yorktechnicalcollegesouthcarolina,
+    yorkuniversityontario,
+    yorkvilleuniversityfredericton,
+    youngstownstateuniversityohio,
+    yukonschoolofvisualartsyukonterritory,
+    yukonuniversityyukonterritory,
+
 
 }

@@ -70,26 +70,26 @@ export const xavieruniversityohio = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "Courses and Fees",
             "info": "Xavier University offers more than 80 undergraduate majors and 39 graduate programs. The following tables provide information on the tuition and fees for undergraduate and graduate programs offered at Xavier University.",
             "textBelowInfo": "<b>Undergraduate Tuition and Fees</b>",
-            "data": [
-                "Tuition	$45,310",
-                "Fees	$2,088",
-                "Room & Board	$14,322",
-                "Total	$61,720",
+            "row": [
+                ["<b>Tuition </b>", "$45,310"],
+                ["<b>Fees </b>", "$2,088"],
+                ["<b>Room & Board </b>", "$14,322"],
+                ["<b>Total  </b>", "$61,720"]
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table-title",
             "title": "",
             "info": "Graduate Tuition and Fees",
-            "data": [
-                "Tuition	$18,570",
-                "Fees	$1,125",
-                "Room & Board	$11,240",
-                "Total	$30,935",
+            "row": [
+                ["<b>Tuition </b>", "$18,570"],
+                ["<b>Fees </b>", "$1,125"],
+                ["<b>Room & Board </b>", "$11,240"],
+                ["<b>Total  </b>", "$30,935"]
             ]
         },
         {
