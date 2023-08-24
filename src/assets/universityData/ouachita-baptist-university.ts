@@ -74,51 +74,157 @@ export const ouachitabaptistuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Undergraduate Programs",
-            "data": [
-                "Accounting Tuition & Fees: $32,540",
-                "Biblical Studies Tuition & Fees: $32,540",
-                "Biology Tuition & Fees: $32,540",
-                "Accounting Tuition & Fees: $32,540",
-                "Business Administration Tuition & Fees: $32,540",
-                "Chemistry Tuition & Fees: $32,540",
-                "Computer Science Tuition & Fees: $32,540",
-                "Criminal Justice Tuition & Fees: $32,540",
-                "Economics Tuition & Fees: $32,540",
-                "Elementary Education Tuition & Fees: $32,540",
-                "English Tuition & Fees: $32,540",
-                "Finance Tuition & Fees: $32,540",
-                "Health and Human Performance Tuition & Fees: $32,540",
-                "History Tuition & Fees: $32,540",
-                "International Studies Tuition & Fees: $32,540",
-                "Kinesiology Tuition & Fees: $32,540",
-                "Marketing Tuition & Fees: $32,540",
-                "Mathematics Tuition & Fees: $32,540",
-                "Music Tuition & Fees: $32,540",
-                "Philosophy Tuition & Fees: $32,540",
-                "Physics Tuition & Fees: $32,540",
-                "Political Science Tuition & Fees: $32,540",
-                "Psychology Tuition & Fees: $32,540",
-                "Secondary Education Tuition & Fees: $32,540",
-                "Sociology Tuition & Fees: $32,540",
-                "Theatre Arts Tuition & Fees: $32,540"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Biblical Studies",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Biology",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Chemistry",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Economics",
+                    "Tuition & Fees": "$32,540"
+                },
+                 {
+                    "Course": "Elementary Education",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "English",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Finance",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Health and Human Performance",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "History",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "International Studies",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Kinesiology",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Marketing",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Music",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Philosophy",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Physics",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Political Science",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Psychology",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Secondary Education",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Sociology",
+                    "Tuition & Fees": "$32,540"
+                },
+                {
+                    "Course": "Theatre Arts",
+                    "Tuition & Fees": "$32,540"
+                },
             ]
         },
-        {
-            "type": "list-bollet",
-            "title": '',
+         {
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Business Administration Tuition & Fees: $9,000",
-                "Christian Studies Tuition & Fees: $9,000",
-                "Counseling Tuition & Fees: $9,000",
-                "English Tuition & Fees: $9,000",
-                "Education Tuition & Fees: $9,000",
-                "Kinesiology Tuition & Fees: $9,000",
-                "Psychology Tuition & Fees: $9,000",
-                "Theatre Arts Tuition & Fees: $9,000",
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "Christian Studies",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "Counseling",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "English",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "Education",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "Kinesiology",
+                    "Tuition fee": "$9,000"
+                },
+                {
+                    "Course": "Psychology",
+                    "Tuition fee": "$9,000"
+                },  
+                {
+                    "Course": "Theatre Arts",
+                    "Tuition fee": "$9,000"
+                },
             ]
         },
         {

@@ -69,37 +69,105 @@ export const saintxavieruniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Undergraduate",
-            "data": [
-                "Accounting  Tuition & Fees - $30,600",
-                "Actuarial Science  Tuition & Fees - $30,600",
-                "Computer Science  Tuition & Fees - $30,600",
-                "Economics  Tuition & Fees - $30,600",
-                "Finance  Tuition & Fees - $30,600",
-                "Health Sciences  Tuition & Fees - $30,600",
-                "Information Technology  Tuition & Fees - $30,600",
-                "Management  Tuition & Fees - $30,600",
-                "Marketing  Tuition & Fees - $30,600",
-                "Psychology  Tuition & Fees - $30,600"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Actuarial Science",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Economics",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Finance",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Health Sciences",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Information Technology",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Management",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Marketing",
+                    "Tuition & Fees": "$30,600"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition & Fees": "$30,600"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate",
-            "data": [
-                "Accounting  Tuition & Fees - $22,731",
-                "Computer Science  Tuition & Fees - $22,731",
-                "Economics  Tuition & Fees - $22,731",
-                "Finance  Tuition & Fees - $22,731",
-                "Health Administration  Tuition & Fees - $22,731",
-                "Health Sciences  Tuition & Fees - $22,731",
-                "Information Technology  Tuition & Fees - $22,731",
-                "Management  Tuition & Fees - $22,731",
-                "Marketing  Tuition & Fees - $22,731",
-                "Psychology  Tuition & Fees - $22,731"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Economics",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Finance",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Health Administration",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Health Sciences",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Information Technology",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Management",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Marketing",
+                    "Tuition & Fees": "$22,731"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition & Fees": "$22,731"
+                }
             ]
         },
         {

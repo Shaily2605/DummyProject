@@ -71,38 +71,106 @@ export const morningsideuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Morningside University offers a variety of undergraduate and graduate programs in a wide range of disciplines. Below is a list of the courses offered with the corresponding fee structure:",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Business Administration - $7,500 per semester",
-                "Accounting - $7,500 per semester",
-                "Computer Science - $6,500 per semester",
-                "Psychology - $6,500 per semester",
-                "Nursing - $7,500 per semester",
-                "Education - $7,000 per semester",
-                "Criminal Justice - $7,000 per semester",
-                "Sport Management - $7,000 per semester",
-                "Economics - $7,000 per semester",
-                "Social Work - $7,000 per semester"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$7,500 per semester"
+                },
+                {
+                    "Course": "Accounting",
+                    "Fees": "$7,500 per semester"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$6,500 per semester"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$6,500 per semester"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$7,500 per semester"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$7,000 per semester"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Fees": "$7,000 per semester"
+                },
+                {
+                    "Course": "Sport Management",
+                    "Fees": "$7,000 per semester"
+                },
+                {
+                    "Course": "Economics",
+                    "Fees": "$7,000 per semester"
+                },
+                {
+                    "Course": "Social Work",
+                    "Fees": "$7,000 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Master of Business Administration (MBA) - $10,000 per semester",
-                "Master of Science in Nursing (MSN) - $10,000 per semester",
-                "Master of Education (M.Ed.) - $9,500 per semester",
-                "Master of Science in Criminal Justice (MSCJ) - $9,500 per semester",
-                "Master of Science in Sport Management (MSSM) - $9,500 per semester",
-                "Master of Science in Accounting (MSA) - $10,000 per semester",
-                "Master of Science in Computer Science (MSCS) - $10,000 per semester",
-                "Master of Science in Psychology (MSP) - $10,000 per semester",
-                "Master of Science in Economics (MSE) - $10,000 per semester",
-                "Master of Social Work (MSW) - $10,000 per semester"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Business Administration (MBA)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Nursing (MSN)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Education (M.Ed.)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Criminal Justice (MSCJ)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Sport Management (MSSM)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Accounting (MSA)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Computer Science (MSCS)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Psychology (MSP)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Science in Economics (MSE)",
+                    "Fees": "$10,000 per semester"
+                },
+                {
+                    "Course": "Master of Social Work (MSW)",
+                    "Fees": "$10,000 per semester"
+                },
             ]
         },
         {

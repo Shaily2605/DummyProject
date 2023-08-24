@@ -64,25 +64,68 @@ export const nhticoncordscommunitycollege = {
             type: "title",
             title: ""
         },
-        {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+         {
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "NHTI-Concord's Community College offers more than 70 academic programs in a variety of areas such as business, health sciences, technology, and more.",
             "textBelowInfo": "Below is the list of courses with fee structure of NHTI- Concord's Community College, New Hampshire, USA:",
-            "data": [
-                "Accounting: $6,551",
-                "Business Administration: $6,551",
-                "Computer Science: $6,551  ",
-                "Criminal Justice: $6,551   ",
-                "Engineering Technology: $6,551 ",
-                "Fire Science: $6,551 ",
-                "Graphic Design: $6,551  ",
-                "Health Information Technology: $6,551",
-                "Liberal Arts: $6,551  ",
-                "Marketing: $6,551",
-                "Nursing: $7,751 ",
-                "Paralegal Studies: $6,551",
-                "Veterinary Technology: $7,751"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Engineering Technology",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Fire Science",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Graphic Design",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Health Information Technology",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Liberal Arts",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Marketing",
+                    "Fees": "$6,551"
+                },
+                  {
+                    "Course": "Nursing",
+                    "Fees": "$7,751"
+                },
+                {
+                    "Course": "Paralegal Studies",
+                    "Fees": "$6,551"
+                },
+                {
+                    "Course": "Veterinary Technology",
+                    "Fees": "$7,751"
+                }
             ]
         },
         {

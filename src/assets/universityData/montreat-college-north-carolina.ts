@@ -68,33 +68,86 @@ export const montreatcollegenorthcarolina = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Montreat College offers a variety of courses. Below is a list of the courses and their associated fees:",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Bachelor of Arts/Bachelor of Science in Business Administration: $37,500",
-                "Bachelor of Arts/Bachelor of Science in Criminal Justice: $37,500",
-                "Bachelor of Arts/Bachelor of Science in Education: $37,500",
-                "Bachelor of Arts/Bachelor of Science in English: $37,500",
-                "Bachelor of Arts/Bachelor of Science in Psychology: $37,500",
-                "Bachelor of Arts/Bachelor of Science in Religious Studies: $37,500",
-                "Bachelor of Science in Pre-Medicine/Pre-Dentistry: $37,500",
-                "Bachelor of Arts/Bachelor of Science in Sport Management: $37,500"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Business Administration",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Criminal Justice",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Education",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in English",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Psychology",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Religious Studies",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Science in Pre-Medicine/Pre-Dentistry",
+                    "Fees": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Arts/Bachelor of Science in Sport Management",
+                    "Fees": "$37,500"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Master of Arts in Christian Ministry: $17,000",
-                "Master of Business Administration: $19,500",
-                "Master of Science in Counseling: $19,500 ",
-                "Master of Science in Education: $17,000 ",
-                "Master of Science in Nursing: $19,500",
-                "Doctor of Education: $25,000",
-                "Doctor of Ministry: $25,000"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Arts in Christian Ministry",
+                    "Fees": "$17,000"
+                },
+                {
+                    "Course": "Master of Business Administration",
+                    "Fees": "$19,000"
+                },
+                {
+                    "Course": "Master of Science in Counseling",
+                    "Fees": "$19,000"
+                },
+                {
+                    "Course": "Master of Science in Education",
+                    "Fees": "$17,000"
+                },
+                {
+                    "Course": "Master of Science in Nursing",
+                    "Fees": "$19,000"
+                },
+                {
+                    "Course": "Doctor of Education",
+                    "Fees": "$25,000"
+                },
+                {
+                    "Course": "Doctor of Ministry",
+                    "Fees": "$25,000"
+                },
             ]
         },
         {

@@ -68,54 +68,166 @@ export const muhlenbergcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Muhlenberg College offers a variety of undergraduate and graduate programs. Below is a list of the programs offered at Muhlenberg and their associated fee structures.",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Accounting: $37,490",
-                "Art: $37,490",
-                "Biochemistry: $37,490",
-                "Biology: $37,490",
-                "Business Administration: $37,490",
-                "Chemistry: $37,490",
-                "Computer Science: $37,490",
-                "Economics: $37,490",
-                "Education: $37,490",
-                "English: $37,490",
-                "Environmental Science: $37,490",
-                "French: $37,490",
-                "German: $37,490",
-                "History: $37,490",
-                "Information Systems: $37,490",
-                "International Studies: $37,490",
-                "Mathematics: $37,490",
-                "Music: $37,490",
-                "Philosophy: $37,490",
-                "Physics: $37,490",
-                "Political Science: $37,490",
-                "Psychology: $37,490",
-                "Religious Studies: $37,490",
-                "Sociology: $37,490",
-                "Spanish: $37,490",
-                "Theatre: $37,490"
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Art",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Biochemistry",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Biology",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Chemistry",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Economics",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Education",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "English",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Environmental Science",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "French",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "German",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "History",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Information Systems",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "International Studies",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Mathematics",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Music",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Philosophy",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Physics",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Political Science",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Psychology",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Sociology",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Spanish",
+                    "Fees": "$37,490"
+                },
+                {
+                    "Program": "Theatre",
+                    "Fees": "$37,490"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Business Administration: $20,610",
-                "Clinical Mental Health Counseling: $20,610",
-                "Education: $20,610",
-                "Environmental Policy & Management: $20,610",
-                "Health Administration: $20,610",
-                "Liberal Arts: $20,610",
-                "Nursing: $20,610",
-                "Physical Therapy (=DPT): $20,610",
-                "Physician Assistant Studies: $20,610",
-                "Science Education: $20,610"
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Business Administration",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Clinical Mental Health Counseling",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Education",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Environmental Policy & Management",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Health Administration",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Liberal Arts",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Nursing",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Physical Therapy (=DPT)",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Physician Assistant Studies",
+                    "Fees": "$20,610"
+                },
+                {
+                    "Program": "Science Education",
+                    "Fees": "$20,610"
+                }
             ]
         },
         {

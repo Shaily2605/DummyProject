@@ -77,34 +77,90 @@ export const rosehulmaninstituteoftechnology = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The following are the courses offered by Rose-Hulman Institute of Technology,Indiana,USA along with their fee structure:",
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-            "data": [
-                "Chemical Engineering: Tuition and Fees - $51,869",
-                "Civil Engineering: Tuition and Fees - $51,869",
-                "Computer Engineering: Tuition and Fees - $51,869",
-                "Computer Science: Tuition and Fees - $51,869",
-                "Electrical Engineering: Tuition and Fees - $51,869",
-                "Engineering Physics: Tuition and Fees - $51,869",
-                "Mathematics: Tuition and Fees - $51,869",
-                "Mechanical Engineering: Tuition and Fees - $51,869",
-                "Bioengineering: Tuition and Fees - $51,869",
-                "Software Engineering: Tuition and Fees - $51,869"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Chemical Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Civil Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Computer Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Electrical Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Engineering Physics",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Mechanical Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Bioengineering",
+                    "Tuition & Fees": "$51,869"
+                },
+                {
+                    "Course": "Software Engineering",
+                    "Tuition & Fees": "$51,869"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Bioengineering: Tuition and Fees - $37,344",
-                "Computer Science: Tuition and Fees - $37,344",
-                "Electrical and Computer Engineering: Tuition and Fees - $37,344",
-                "Engineering Management: Tuition and Fees - $37,344",
-                "Mechanical Engineering: Tuition and Fees - $37,344",
-                "Systems Engineering and Design: Tuition and Fees - $37,344"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bioengineering",
+                    "Tuition & Fees": "$37,344"
+                },
+                  {
+                    "Course": "Computer Science",
+                    "Tuition & Fees": "$37,344"
+                },
+                  {
+                    "Course": "Electrical and Computer Engineering",
+                    "Tuition & Fees": "$37,344"
+                },
+                {
+                    "Course": "Engineering Management",
+                    "Tuition & Fees": "$37,344"
+                },
+                {
+                    "Course": "Mechanical Engineering",
+                    "Tuition & Fees": "$37,344"
+                },
+                {
+                    "Course": "Systems Engineering and Design",
+                    "Tuition & Fees": "$37,344"
+                },
             ]
         },
         {

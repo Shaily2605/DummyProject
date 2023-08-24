@@ -69,24 +69,70 @@ export const northeastalabamacommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Northeast Alabama Community College offers the following courses and their corresponding fees:",
-            "data": [
-                "Associate of Arts Degree: $3,717",
-                "Associate of Science Degree: $3,717",
-                "Associate of Applied Science Degree: $4,617",
-                "Certificate Program: $1,835",
-                "Academic/Career Specialty Certificate Program: $1,835",
-                "Non-Credit Course: $25",
-                "Adult Education: $25",
-                "Adult Basic Education: $25",
-                "GED Preparation Course: $25",
-                "Online Courses: $25",
-                "Dual Enrollment: $25",
-                "High School Equivalency: $25",
-                "Corporate & Continuing Education: $25",
-                "Workforce Development: $25"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts Degree",
+                    "Fees": "$3,717"
+                },
+                {
+                    "Course": "Associate of Science Degree",
+                    "Fees": "$3,717"
+                },
+                {
+                    "Course": "Associate of Applied Science Degree",
+                    "Fees": "$4,617"
+                },
+                {
+                    "Course": "Certificate Program",
+                    "Fees": "$1,835"
+                },
+                {
+                    "Course": "Academic/Career Specialty Certificate Program",
+                    "Fees": "$1,835"
+                },
+                {
+                    "Course": "Non-Credit Course",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Adult Education",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Adult Basic Education",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "GED Preparation Course",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Online Courses",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Dual Enrollment",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "High School Equivalency",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Corporate & Continuing Education",
+                    "Fees": "$25"
+                },
+                {
+                    "Course": "Workforce Development",
+                    "Fees": "$25"
+                },
             ]
         },
         {

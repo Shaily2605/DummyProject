@@ -67,54 +67,170 @@ export const murraystateuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Murray State University offers a variety of undergraduate and graduate programs. Below is a list of all the courses offered at Murray State University along with their respective fee structures:",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "<b>Accounting</b> Fee Structure: $8,508 per year",
-                "<b>Agriculture</b> Fee Structure: $8,508 per year",
-                "<b>Art</b> Fee Structure: $8,508 per year",
-                "<b>Biochemistry</b> Fee Structure: $8,508 per year",
-                "<b>Biology</b> Fee Structure: $8,508 per year",
-                "<b>Business Administration</b> Fee Structure: $8,508 per year",
-                "<b>Chemistry</b> Fee Structure: $8,508 per year",
-                "<b>Computer Science</b> Fee Structure: $8,508 per year",
-                "<b>Economics</b> Fee Structure: $8,508 per year",
-                "<b>Education</b> Fee Structure: $8,508 per year",
-                "<b>Engineering</b> Fee Structure: $8,508 per year",
-                "<b>English</b> Fee Structure: $8,508 per year",
-                "<b>Environmental Science</b> Fee Structure: $8,508 per year",
-                "<b>Finance</b> Fee Structure: $8,508 per year",
-                "<b>Health Science</b> Fee Structure: $8,508 per year",
-                "<b>History</b> Fee Structure: $8,508 per year",
-                "<b>International Studies</b> Fee Structure: $8,508 per year",
-                "<b>Mathematics</b> Fee Structure: $8,508 per year",
-                "<b>Music</b> Fee Structure: $8,508 per year",
-                "<b>Nursing</b> Fee Structure: $8,508 per year",
-                "<b>Philosophy</b> Fee Structure: $8,508 per year",
-                "<b>Physics</b> Fee Structure: $8,508 per year",
-                "<b>Political Science</b> Fee Structure: $8,508 per year",
-                "<b>Psychology</b> Fee Structure: $8,508 per year",
-                "<b>Sociology</b> Fee Structure: $8,508 per year",
-                "<b>Theatre Arts</b> Fee Structure: $8,508 per year",
+            "col": [
+                "Courses",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Courses": "Accounting",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Agriculture",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Art",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Biochemistry",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Biology",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Business Administration",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Chemistry",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Computer Science",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Economics",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Education",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Engineering",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "English",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Environmental Science",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Finance",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Health Science",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "History",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "International Studies",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Mathematics",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Music",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Nursing",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Philosophy",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Physics",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Political Science",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Psychology",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Sociology",
+                    "Fees": "$8,508 per year"
+                },
+                {
+                    "Courses": "Theatre Arts",
+                    "Fees": "$8,508 per year"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "<b>Accounting</b> Fee Structure: $10,482 per year ",
-                "<b>Business Administration</b> Fee Structure: $10,482 per year ",
-                "<b>Education</b> Fee Structure: $10,482 per year ",
-                "<b>Engineering</b> Fee Structure: $10,482 per year ",
-                "<b>English</b> Fee Structure: $10,482 per year ",
-                "<b>Health Sciences</b> Fee Structure: $10,482 per year ",
-                "<b>Mathematics</b> Fee Structure: $10,482 per year ",
-                "<b>Nursing</b> Fee Structure: $10,482 per year ",
-                "<b>Psychology</b> Fee Structure: $10,482 per year ",
-                "<b>Public Administration</b> Fee Structure: $10,482 per year ",
+            "col": [
+                "Courses",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Courses": "Accounting",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Business Administration",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Education",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Engineering",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "English",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Health Sciences",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Mathematics",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Nursing",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Psychology",
+                    "Fees": "$10,482 per year"
+                },
+                {
+                    "Courses": "Public Administration",
+                    "Fees": "$10,482 per year"
+                }
             ]
         },
         {

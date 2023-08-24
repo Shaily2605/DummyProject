@@ -70,35 +70,94 @@ export const missouribaptistuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The following is a list of courses offered at Missouri Baptist University, Missouri, USA, with their corresponding fee structures:",
             "textBelowInfo": "<b>Undergraduate Programs </b>",
-            "data": [
-                "Business Administration – $675 per credit hour",
-                "Communication – $675 per credit hour",
-                "Computer Science – $675 per credit hour",
-                "Education – $680 per credit hour",
-                "English – $680 per credit hour",
-                "Exercise Science – $680 per credit hour",
-                "History – $680 per credit hour",
-                "Nursing – $675 per credit hour",
-                "Psychology – $680 per credit hour",
-                "Social Work – $680 per credit hour"
+            "col": [
+                "Course ",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course ": "Business Administration",
+                    "Fees": "$675 per credit hour"
+                },
+                {
+                    "Course ": "Communication",
+                    "Fees": "$675 per credit hour"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Fees": "$675 per credit hour"
+                },
+                {
+                    "Course ": "Education",
+                    "Fees": "$680 per credit hour"
+                },
+                {
+                    "Course ": "English",
+                    "Fees": "$680 per credit hour"
+                },
+                {
+                    "Course ": "Exercise Science",
+                    "Fees": "$680 per credit hour"
+                },
+                {
+                    "Course ": "History",
+                    "Fees": "$680 per credit hour"
+                },
+                {
+                    "Course ": "Nursing",
+                    "Fees": "$675 per credit hour"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Fees": "$680 per credit hour"
+                },
+                {
+                    "Course ": "Social Work",
+                    "Fees": "$680 per credit hour"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Accounting – $750 per credit hour",
-                "Business Administration – $750 per credit hour",
-                "Computer Science – $750 per credit hour",
-                "Education – $775 per credit hour",
-                "Nursing – $750 per credit hour",
-                "Psychology – $775 per credit hour",
-                "Social Work – $775 per credit hour"
+            "col": [
+                "Course ",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course ": "Accounting",
+                    "Fees": "$750 per credit hour"
+                },
+                {
+                    "Course ": "Business Administration",
+                    "Fees": "$750 per credit hour"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Fees": "$750 per credit hour"
+                },
+                {
+                    "Course ": "Education",
+                    "Fees": "$775 per credit hour"
+                },
+                {
+                    "Course ": "Nursing",
+                    "Fees": "$750 per credit hour"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Fees": "$775 per credit hour"
+                },
+                {
+                    "Course ": "Social Work",
+                    "Fees": "$775 per credit hour"
+                },
             ]
         },
         {

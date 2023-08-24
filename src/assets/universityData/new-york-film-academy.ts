@@ -70,72 +70,191 @@ export const newyorkfilmacademy = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "The New York Film Academy offers a wide range of diploma, certificate, and degree programs, as well as a variety of short-term workshops in filmmaking, acting for film, photography, digital editing, and other related fields.",
             "textBelowInfo": "<b>Diploma Programs</b>",
-            "data": [
-                "Filmmaking - Tuition: $22,000",
-                "Acting for Film - Tuition: $22,000",
-                "Documentary Filmmaking - Tuition: $17,000",
-                "3D Animation & Visual Effects - Tuition: $17,000",
-                "Cinematography - Tuition: $17,000",
-                "Digital Editing - Tuition: $17,000",
-                "Producing for Film & Television - Tuition: $17,000",
-                "Screenwriting - Tuition: $17,000"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "Filmmaking",
+                    "Tuition": "$22,000"
+                },
+                {
+                    "Program": "Acting for Film",
+                    "Tuition": "$22,000"
+                },
+                {
+                    "Program": "Documentary Filmmaking",
+                    "Tuition": "$17,000"
+                },
+                {
+                    "Program": "3D Animation & Visual Effects",
+                    "Tuition": "$17,000"
+                },
+                {
+                    "Program": "Cinematography",
+                    "Tuition": "$17,000"
+                },
+                {
+                    "Program": "Digital Editing",
+                    "Tuition": "$17,000"
+                },
+                {
+                    "Program": "Producing for Film & Television",
+                    "Tuition": "$17,000"
+                },
+                {
+                    "Program": "Screenwriting",
+                    "Tuition": "$17,000"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Certificate Programs",
-            "data": [
-                "Digital Filmmaking - Tuition: $12,000",
-                "3D Animation & Visual Effects - Tuition: $12,000",
-                "Cinematography - Tuition: $12,000",
-                "Digital Editing - Tuition: $12,000",
-                "Producing for Film & Television - Tuition: $12,000",
-                "Screenwriting - Tuition: $12,000",
-                "Acting for Film - Tuition: $12,000"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "Digital Filmmaking",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "3D Animation & Visual Effects",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "Cinematography",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "Digital Editing",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "Producing for Film & Television",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "Screenwriting",
+                    "Tuition": "$12,000"
+                },
+                {
+                    "Program": "Acting for Film",
+                    "Tuition": "$12,000"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Bachelor's Degree Programs",
-            "data": [
-                "Bachelor of Fine Arts in Filmmaking - Tuition: $73,000",
-                "Bachelor of Fine Arts in Acting for Film - Tuition: $73,000"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "Bachelor of Fine Arts in Filmmaking",
+                    "Tuition": "$73,000"
+                },
+                {
+                    "Program": "Bachelor of Fine Arts in Acting for Film",
+                    "Tuition": "$73,000"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Master's Degree Programs",
-            "data": [
-                "Master of Fine Arts in Filmmaking - Tuition: $93,000",
-                "Master of Fine Arts in Screenwriting - Tuition: $93,000",
-                "Master of Fine Arts in Producing - Tuition: $93,000",
-                "Master of Fine Arts in Cinematography - Tuition: $93,000",
-                "Master of Fine Arts in 3D Animation & Visual Effects - Tuition: $93,000",
-                "Master of Fine Arts in Digital Editing - Tuition: $93,000",
-                "Master of Fine Arts in Documentary Filmmaking - Tuition: $93,000",
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "Master of Fine Arts in Filmmaking",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in Screenwriting",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in Producing",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in Cinematography",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in 3D Animation & Visual Effects",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in Digital Editing",
+                    "Tuition": "$93,000"
+                },
+                {
+                    "Program": "Master of Fine Arts in Documentary Filmmaking",
+                    "Tuition": "$93,000"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Short-term Workshops",
-            "data": [
-                "Filmmaking - Tuition: $2,400",
-                "Documentary Filmmaking - Tuition: $2,400",
-                "Acting for Film - Tuition: $2,400 ",
-                "3D Animation & Visual Effects - Tuition: $2,400",
-                "Cinematography - Tuition: $2,400",
-                "Digital Editing - Tuition: $2,400",
-                "Producing for Film & Television - Tuition: $2,400",
-                "Screenwriting - Tuition: $2,400",
-                "Camera & Lighting - Tuition: $1,500"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "Filmmaking",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Documentary Filmmaking",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Acting for Film",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "3D Animation & Visual Effects",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Cinematography",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Digital Editing",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Producing for Film & Television",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Screenwriting",
+                    "Tuition": "$2,400"
+                },
+                {
+                    "Program": "Camera & Lighting",
+                    "Tuition": "$2,400"
+                }
             ]
         },
         {

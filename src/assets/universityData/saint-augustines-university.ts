@@ -81,25 +81,54 @@ export const saintaugustinesuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Saint Augustine's University offers a variety of degree-seeking and non-degree-seeking programs.",
             "textBelowInfo": "<b>Degree-Seeking Programs </b>",
-            "data": [
-                "Associate of Arts  Tuition & Fees: $6,750 per semester",
-                "Bachelor of Arts  Tuition & Fees: $9,875 per semester",
-                "Bachelor of Science  Tuition & Fees: $9,875 per semester",
-                "Master of Education  Tuition & Fees: $7,500 per semester",
-                "Master of Science in Organizational Leadership  Tuition & Fees: $7,500 per semester"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Associate of Arts",
+                    "Tuition & Fees": "$6,750 per semester"
+                },
+                {
+                    "Program": "Bachelor of Arts",
+                    "Tuition & Fees": "$9,875 per semester"
+                },
+                {
+                    "Program": "Bachelor of Science",
+                    "Tuition & Fees": "$9,875 per semester"
+                },
+                {
+                    "Program": "Master of Education",
+                    "Tuition & Fees": "$7,500 per semester"
+                },
+                {
+                    "Program": "Master of Science in Organizational Leadership",
+                    "Tuition & Fees": "$7,500 per semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Non-Degree-Seeking Programs",
-            "data": [
-                "Non-Degree-Seeking Certificate Programs  Tuition & Fees: $500 per course",
-                "Non-Degree-Seeking Coursework  Tuition & Fees: $500 per course"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Non-Degree-Seeking Certificate Programs",
+                    "Tuition & Fees": "$500 per course"
+                },
+                {
+                    "Program": "Non-Degree-Seeking Coursework",
+                    "Tuition & Fees": "$500 per course"
+                },
             ]
         },
         {

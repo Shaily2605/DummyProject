@@ -68,26 +68,78 @@ export const prattcommunitycollegekansas = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is the list of courses with fee structure for Pratt Community College,Kansas,USA:",
-            "data": [
-                "Associate of Arts Tuition and Fees: $110 per credit hour",
-                "Associate of Science Tuition and Fees: $110 per credit hour",
-                "Associate of Applied Science Tuition and Fees: $110 per credit hour",
-                "Accounting Tuition and Fees: $110 per credit hour",
-                "Agriculture Tuition and Fees: $110 per credit hour",
-                "Business Administration Tuition and Fees: $110 per credit hour",
-                "Computer Information Systems Tuition and Fees: $110 per credit hour",
-                "Criminal Justice Tuition and Fees: $110 per credit hour",
-                "Early Childhood Education Tuition and Fees: $110 per credit hour",
-                "Emergency Medical Services Technology Tuition and Fees: $110 per credit hour",
-                "Industrial Technology Tuition and Fees: $110 per credit hour",
-                "Medical Assisting Tuition and Fees: $110 per credit hour",
-                "Nursing Tuition and Fees: $110 per credit hour",
-                "Paramedic Technology Tuition and Fees: $110 per credit hour",
-                "Radiologic Technology Tuition and Fees: $110 per credit hour",
-                "Social Science Tuition and Fees: $110 per credit hour"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Associate of Science",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Associate of Applied Science",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Accounting",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Agriculture",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Computer Information Systems",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Early Childhood Education",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Emergency Medical Services Technology",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Industrial Technology",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Medical Assisting",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Nursing",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Paramedic Technology",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Radiologic Technology",
+                    "Tuition & Fees": "$110 per credit hour"
+                },
+                {
+                    "Course": "Social Science",
+                    "Tuition & Fees": "$110 per credit hour"
+                }
             ]
         },
         {

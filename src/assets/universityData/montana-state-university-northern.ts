@@ -70,34 +70,87 @@ export const montanastateuniversitynorthern = {
             type: "title",
             title: ""
         },
-        {
-            "type": "list-bollet",
+          {
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is the list of courses offered at Montana State University - Northern along with the fee structure:",
             "textBelowInfo": "<b>Undergraduate Courses</b>",
-            "data": [
-                "Accounting - $5,947",
-                "Business Administration - $5,947",
-                "Computer Science - $5,947",
-                "Criminal Justice - $5,947",
-                "Education - $5,947",
-                "Engineering Technology - $5,947",
-                "Health & Human Performance - $5,947",
-                "Nursing - $6,322",
-                "Social Science - $5,947",
-                "Visual & Performing Arts - $5,947"
+            "col": [
+                "Course",
+                "Fee structure",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Education",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Engineering Technology",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Health & Human Performance",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Social Science",
+                    "Fee structure": "$5,947"
+                },
+                {
+                    "Course": "Visual & Performing Arts",
+                    "Fee structure": "$5,947"
+                }
             ]
         },
-        {
-            "type": "list-bollet",
+         {
+            "type": "table",
             "title": "",
             "info": "Graduate Courses",
-            "data": [
-                "Business Administration & Management - $6,848",
-                "Education - $6,848",
-                "Health and Human Performance - $6,848",
-                "Nursing - $7,235",
-                "Social Science - $6,848"
+            "col": [
+                "Course",
+                "Fee structure",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration & Management",
+                    "Fee structure": "$6,848"
+                },
+                {
+                    "Course": "Education",
+                    "Fee structure": "$6,848"
+                },
+                {
+                    "Course": "Health and Human Performance",
+                    "Fee structure": "$6,848"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fee structure": "$6,848"
+                },
+                {
+                    "Course": "Social Science",
+                    "Fee structure": "$6,848"
+                },
             ]
         },
         {

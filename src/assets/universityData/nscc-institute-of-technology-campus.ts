@@ -70,21 +70,58 @@ export const nsccinstituteoftechnologycampus = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "NSCC Institute of Technology offers the following courses with their respective fee structures:",
-            "data": [
-                "Automotive Service Technician: Cost: $5,915",
-                "Civil Engineering Technology: Cost: $6,280",
-                "Computer Engineering Technology: Cost: $6,790",
-                "Electrical Engineering Technology: Cost: $6,790",
-                "Electronics Engineering Technology: Cost: $6,790",
-                "Industrial Automation Engineering Technology: Cost: $6,790",
-                "Mechanical Engineering Technology: Cost: $6,790",
-                "Petroleum Engineering Technology: Cost: $5,915",
-                "Process Automation Engineering Technology: Cost: $6,790",
-                "Renewable Resource Technology: Cost: $6,280",
-                "Web and Mobile Application Development: Cost: $6,280",
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts (AA)",
+                    "Fees": "$5,915"
+                },
+                {
+                    "Course": "Civil Engineering Technology",
+                    "Fees": "$6,280"
+                },
+                {
+                    "Course": "Computer Engineering Technology",
+                    "Fees": "$6,790"
+                },
+                {
+                    "Course": "Electrical Engineering Technology",
+                    "Fees": "$6,790"
+                },
+                {
+                    "Course": "Electronics Engineering Technology",
+                    "Fees": "$6,790"
+                },
+                {
+                    "Course": "Industrial Automation Engineering Technology",
+                    "Fees": "$6,790"
+                },
+                {
+                    "Course": "Mechanical Engineering Technology",
+                    "Fees": "$6,790"
+                },
+                {
+                    "Course": "Petroleum Engineering Technology",
+                    "Fees": "$5,915"
+                },
+                {
+                    "Course": "Process Automation Engineering Technology",
+                    "Fees": "$6,970"
+                },
+                {
+                    "Course": "Renewable Resource Technology",
+                    "Fees": "$6,280"
+                },
+                {
+                    "Course": "Web and Mobile Application Development",
+                    "Fees": "$6,280"
+                }
             ]
         },
         {

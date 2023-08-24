@@ -70,32 +70,82 @@ export const nipissinguniversityontario = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "The following is a list of the courses offered at Nipissing University, Ontario, Canada, along with their fee structure:",
             "textBelowInfo": "<b>Undergraduate Programs </b>",
-            "data": [
-                "Bachelor of Arts: $6,400 per year",
-                "Bachelor of Business Administration: $8,080 per year",
-                "Bachelor of Science: $7,500 per year",
-                "Bachelor of Science in Nursing: $6,400 per year",
-                "Bachelor of Education: $7,000 per year",
-                "Bachelor of Music: $6,600 per year",
-                "Bachelor of Physical and Health Education: $6,400 per year"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts",
+                    "Fees": "$6,400 per year"
+                },
+                {
+                    "Course": "Bachelor of Business Administration",
+                    "Fees": "$8,080 per year"
+                },
+                {
+                    "Course": "Bachelor of Science",
+                    "Fees": "$7,500 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Nursing",
+                    "Fees": "$6,400 per year"
+                },
+                {
+                    "Course": "Bachelor of Education",
+                    "Fees": "$7,000 per year"
+                },
+                {
+                    "Course": "Bachelor of Music",
+                    "Fees": "$6,600 per year"
+                },
+                {
+                    "Course": "Bachelor of Physical and Health Education",
+                    "Fees": "$6,400 per year"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Master of Arts: $6,400 per year",
-                "Master of Education: $7,000 per year",
-                "Master of Science in Nursing: $6,800 per year",
-                "Master of Business Administration: $8,800 per year",
-                "Master of Social Work: $7,000 per year",
-                "Master of Applied Science: $7,200 per year",
-                "Master of Science: $7,800 per year"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Arts",
+                    "Fees": "$6,400 per year"
+                },
+                {
+                    "Course": "Master of Education",
+                    "Fees": "$7,000 per year"
+                },
+                {
+                    "Course": "Master of Science in Nursing",
+                    "Fees": "$6,800 per year"
+                },
+                {
+                    "Course": "Master of Business Administration",
+                    "Fees": "$8,800 per year"
+                },
+                {
+                    "Course": "Master of Social Work",
+                    "Fees": "$7,000 per year"
+                },
+                {
+                    "Course": "Master of Applied Science",
+                    "Fees": "$7,200 per year"
+                },
+                {
+                    "Course": "Master of Science",
+                    "Fees": "$7,200 per year"
+                }
             ]
         },
         {

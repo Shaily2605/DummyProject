@@ -68,23 +68,66 @@ export const providenceuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The table below provides the details of the courses offered at Providence University College & Theological Seminary, Manitoba, Canada.",
-            "data": [
-                "Course Name: Bachelor of Arts <br> Tuition Fees: $11,880 ",
-                "Course Name: Bachelor of Arts in Music <br> Tuition Fees: $11,880 ",
-                "Course Name: Bachelor of Education <br> Tuition Fees: $13,760 ",
-                "Course Name: Bachelor of Human Services <br> Tuition Fees: $11,880 ",
-                "Course Name: Bachelor of Music <br> Tuition Fees: $13,760 ",
-                "Course Name: Bachelor of Science <br> Tuition Fees: $13,760 ",
-                "Course Name: Bachelor of Theology <br> Tuition Fees: $11,880 ",
-                "Course Name: Graduate Certificates <br> Tuition Fees: $600 per credit",
-                "Course Name: Master of Arts <br> Tuition Fees: $600 per credit",
-                "Course Name: Master of Divinity <br> Tuition Fees: $600 per credit",
-                "Course Name: Master of Science <br> Tuition Fees: $600 per credit",
-                "Course Name: Master of Theological Studies <br> Tuition Fees: $600 per credit",
-                "Course Name: Doctor of Ministry <br> Tuition Fees: $600 per credit",
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts",
+                    "Tuition & Fees": "$11,880"
+                },
+                {
+                    "Course": "Bachelor of Arts in Music",
+                    "Tuition & Fees": "$11,880"
+                },
+                {
+                    "Course": "Bachelor of Education",
+                    "Tuition & Fees": "$13,760"
+                },
+                {
+                    "Course": "Bachelor of Human Services",
+                    "Tuition & Fees": "$11,880"
+                },
+                {
+                    "Course": "Bachelor of Music",
+                    "Tuition & Fees": "$13,760"
+                },
+                {
+                    "Course": "Bachelor of Science",
+                    "Tuition & Fees": "$13,760"
+                },
+                {
+                    "Course": "Bachelor of Theology",
+                    "Tuition & Fees": "$11,880"
+                },
+                {
+                    "Course": "Graduate Certificates",
+                    "Tuition & Fees": "$600 per credit"
+                },
+                {
+                    "Course": "Master of Arts",
+                    "Tuition & Fees": "$600 per credit"
+                },
+                {
+                    "Course": "Master of Divinity",
+                    "Tuition & Fees": "$600 per credit"
+                },
+                {
+                    "Course": "Master of Science",
+                    "Tuition & Fees": "$600 per credit"
+                },
+                {
+                    "Course": "Master of Theological Studies",
+                    "Tuition & Fees": "$600 per credit"
+                },
+                {
+                    "Course": "Doctor of Ministry",
+                    "Tuition & Fees": "$600 per credit"
+                }
             ]
         },
         {

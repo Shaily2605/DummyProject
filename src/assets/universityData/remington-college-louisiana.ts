@@ -68,19 +68,50 @@ export const remingtoncollegelouisiana = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Remington College - Lafayette Campus offers the following programs:",
-            "data": [
-                "Associate of Applied Science in Business Administration  Tuition & Fees: $20,965  ",
-                "Associate of Applied Science in Criminal Justice   Tuition & Fees: $20,965   ",
-                "Associate of Applied Science in Health Information Technology   Tuition & Fees: $20,965  ",
-                "Associate of Applied Science in Medical Billing and Coding  Tuition & Fees: $20,965  ",
-                "Associate of Applied Science in Network Administration  Tuition & Fees: $20,965  ",
-                "Associate of Science in Computer Science   Tuition & Fees: $20,965  ",
-                "Diploma in Business Office Administration  Tuition & Fees: $13,965  ",
-                "Diploma in Computer Networking Technology  Tuition & Fees: $13,965  ",
-                "Diploma in Medical Billing and Coding  Tuition & Fees: $13,965 "
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Associate of Applied Science in Business Administration",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Associate of Applied Science in Criminal Justice",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Associate of Applied Science in Health Information Technology",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Associate of Applied Science in Medical Billing and Coding",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Associate of Applied Science in Network Administration",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Associate of Science in Computer Science",
+                    "Tuition & Fees": "$20,965"
+                },
+                {
+                    "Program": "Diploma in Business Office Administration",
+                    "Tuition & Fees": "$13,965"
+                },
+                {
+                    "Program": "Diploma in Computer Networking Technology",
+                    "Tuition & Fees": "$13,965"
+                },
+                {
+                    "Program": "Diploma in Medical Billing and Coding",
+                    "Tuition & Fees": "$13,965"
+                }
             ]
         },
         {

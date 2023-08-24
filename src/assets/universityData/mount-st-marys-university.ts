@@ -71,45 +71,134 @@ export const mountstmarysuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Mount St. Mary's University offers over 60 undergraduate programs and more than 20 graduate programs. The following is a list of all the courses offered with their respective fee structure (in US Dollars):",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Biology: $41,340",
-                "Computer Science: $41,340",
-                "Economics: $41,340",
-                "English: $41,340",
-                "International Studies: $41,340",
-                "Mathematics: $41,340",
-                "Philosophy: $41,340",
-                "Political Science: $41,340",
-                "Psychology: $41,340",
-                "Sociology: $41,340",
-                "Theology: $41,340",
-                "Business Administration: $44,340",
-                "Criminal Justice: $44,340",
-                "Early Childhood Education: $44,340",
-                "Elementary Education: $44,340",
-                "Health Sciences: $44,340",
-                "History: $44,340",
-                "Marketing: $44,340",
-                "Nursing: $44,340",
-                "Secondary Education: $44,340"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Biology",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Economics",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "English",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "International Studies",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Philosophy",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Political Science",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Sociology",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Theology",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Early Childhood Education",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Elementary Education",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Health Sciences",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "History",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Marketing",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$41,340"
+                },
+                {
+                    "Course": "Secondary Education",
+                    "Fees": "$41,340"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Business Administration: $29,500",
-                "Counseling: $29,500",
-                "Education: $29,500",
-                "Health Administration: $29,500",
-                "Nursing: $29,500",
-                "Social Work: $29,500",
-                "Theology: $29,500"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Counseling",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Health Administration",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Social Work",
+                    "Fees": "$29,500"
+                },
+                {
+                    "Course": "Theology",
+                    "Fees": "$29,500"
+                },
             ]
         },
         {

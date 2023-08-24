@@ -76,10 +76,8 @@ export const nationalmedicalcollege = {
             "title": 'Courses and Fees',
             "info": "National Medical College (NMC) is a private medical college in Nepal. It offers MBBS and MD/MS programs. The MBBS program is of 5 ½ years duration and MD/MS program is of 3 years duration.",
             "data": [
-                "MBBS Course (5 ½ Years):",
-                "The total fee for MBBS course at National Medical College is Rs. 13,49,000. This fee includes tuition fees, hostel fees, library fees, admission fees, and other miscellaneous fees.",
-                "MD/MS Course (3 Years):",
-                "The total fee for MD/MS course at National Medical College is Rs. 17,64,000. This fee includes tuition fees, hostel fees, library fees, admission fees, and other miscellaneous fees."
+                "MBBS Course (5 ½ Years):<br> The total fee for MBBS course at National Medical College is Rs. 13,49,000. This fee includes tuition fees, hostel fees, library fees, admission fees, and other miscellaneous fees.",
+                "MD/MS Course (3 Years):<br> The total fee for MD/MS course at National Medical College is Rs. 17,64,000. This fee includes tuition fees, hostel fees, library fees, admission fees, and other miscellaneous fees."
             ]
         },
         {

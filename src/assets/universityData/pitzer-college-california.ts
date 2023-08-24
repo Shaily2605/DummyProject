@@ -71,43 +71,126 @@ export const pitzercollegecalifornia = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Pitzer College offers a wide range of courses across various disciplines. Below is a list of courses offered at the college with their corresponding fee structures:",
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-            "data": [
-                "Accounting: $4,400",
-                "Anthropology: $4,400",
-                "Art History: $4,400",
-                "Business Administration: $4,400",
-                "Communication: $4,400",
-                "Computer Science: $4,400",
-                "Economics: $4,400",
-                "English: $4,400",
-                "Environmental Studies: $4,400",
-                "History: $4,400",
-                "Mathematics: $4,400",
-                "Music: $4,400",
-                "Neuroscience: $4,400",
-                "Philosophy: $4,400",
-                "Political Science: $4,400",
-                "Psychology: $4,400",
-                "Sociology: $4,400"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Anthropology",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Art History",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Communication",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Economics",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "English",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Environmental Studies",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "History",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Music",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Neuroscience",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Philosophy",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Political Science",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$4,400"
+                },
+                {
+                    "Course": "Sociology",
+                    "Fees": "$4,400"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Business Administration: $7,200",
-                "Clinical Psychology: $7,200",
-                "Education: $7,200",
-                "Environmental Analysis: $7,200",
-                "Media Studies: $7,200",
-                "Organizational Management: $7,200",
-                "Public Health: $7,200",
-                "Social Change: $7,200"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Clinical Psychology",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Environmental Analysis",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Media Studies",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Organizational Management",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Public Health",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Social Change",
+                    "Fees": "$7,200"
+                }
             ]
         },
         {

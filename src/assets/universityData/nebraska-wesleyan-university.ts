@@ -71,31 +71,78 @@ export const nebraskawesleyanuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Nebraska Wesleyan University has the following courses with the associated fee structure:",
             "textBelowInfo": "<b>Undergraduate Courses</b>",
-            "data": [
-                "Arts and Humanities: $32,020",
-                "Business: $32,020",
-                "Education: $32,020",
-                "Health and Wellness: $32,020",
-                "Natural and Applied Sciences: $32,020",
-                "Social Sciences: $32,020"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Arts and Humanities",
+                    "Fees": "$32,020"
+                },
+                {
+                    "Course": "Business",
+                    "Fees": "$32,020"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$32,020"
+                },
+                {
+                    "Course": "Health and Wellness",
+                    "Fees": "$32,020"
+                },
+                {
+                    "Course": "Natural and Applied Sciences",
+                    "Fees": "$32,020"
+                },
+                {
+                    "Course": "Social Sciences",
+                    "Fees": "$32,020"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Courses",
-            "data": [
-                "Business (MBA): $30,000",
-                "Education (MEd): $28,440",
-                "Communication Sciences and Disorders (MS): $28,440",
-                "Nursing (MSN): $36,360",
-                "Occupational Therapy (MSOT): $36,360",
-                "Physical Therapy (DPT): $36,360",
-                "Physician Assistant Studies (MPAS): $36,360"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Business (MBA)",
+                    "Fees": "$30,000"
+                },
+                {
+                    "Course": "Education (MEd)",
+                    "Fees": "$28,440"
+                },
+                {
+                    "Course": "Communication Sciences and Disorders (MS)",
+                    "Fees": "$28,440"
+                },
+                {
+                    "Course": "Nursing (MSN)",
+                    "Fees": "$36,360"
+                },
+                {
+                    "Course": "Occupational Therapy (MSOT)",
+                    "Fees": "$36,360"
+                },
+                {
+                    "Course": "Physical Therapy (DPT)",
+                    "Fees": "$36,360"
+                },
+                {
+                    "Course": "Physician Assistant Studies (MPAS)",
+                    "Fees": "$36,360"
+                }
             ]
         },
         {

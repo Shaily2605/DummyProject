@@ -70,58 +70,189 @@ export const newcollegeofflorida = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Undergraduate Courses",
-            "data": [
-                "Anthropology Art: $8,375",
-                "Art History: $8,375",
-                "Biology: $8,375",
-                "Chemistry: $8,375",
-                "Computer Science: $8,375",
-                "Drama: $8,375",
-                "Economics: $8,375",
-                "English: $8,375",
-                "Environmental Science: $8,375",
-                "Exercise Science: $8,375",
-                "Film Studies: $8,375",
-                "French: $8,375",
-                "Geography: $8,375",
-                "German: $8,375",
-                "History: $8,375",
-                "International Studies: $8,375",
-                "Mathematics: $8,375",
-                "Music: $8,375",
-                "Philosophy: $8,375",
-                "Physics: $8,375",
-                "Political Science: $8,375",
-                "Psychology: $8,375",
-                "Religious Studies: $8,375",
-                "Sociology: $8,375",
-                "Spanish: $8,375",
-                "Urban Studies: $8,375",
-                "Women's Studies: $8,375"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Anthropology Art",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Art History",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Biology",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Chemistry",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Drama",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Economics",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "English",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Environmental Science",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Exercise Science",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Film Studies",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "French",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Geography",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "German",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "History",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "International Studies",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Music",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Philosophy",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Physics",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Political Science",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Religious Studies",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Sociology",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Spanish",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Urban Studies",
+                    "Fees": "$8,375"
+                },
+                {
+                    "Course": "Women's Studies",
+                    "Fees": "$8,375"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Courses",
-            "data": [
-                "Art & Technology: $10,775",
-                "Business Administration: $10,775",
-                "Clinical Mental Health Counseling: $10,775",
-                "Communication: $10,775",
-                "Computer Science: $10,775",
-                "Education: $10,775",
-                "Humanities: $10,775",
-                "Interdisciplinary Studies: $10,775",
-                "Marine Science: $10,775",
-                "Nursing: $10,775",
-                "Psychology: $10,775",
-                "Public Administration: $10,775",
-                "Social Work: $10,775",
-                "Writing: $10,775"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Art & Technology",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Clinical Mental Health Counseling",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Art & Technology",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Communication",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Interdisciplinary Studies",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Marine Science",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Public Administration",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Social Work",
+                    "Fees": "$10,775"
+                },
+                {
+                    "Course": "Writing",
+                    "Fees": "$10,775"
+                },
             ]
         },
         {

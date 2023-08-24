@@ -70,20 +70,54 @@ export const northwestiowacommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Northwest Iowa Community College offers the following courses for the 2021-2022 academic year.",
-            "data": [
-                "Associate of Arts (AA) <br> Tuition and Fees: $6,936",
-                "Associate of Science (AS) <br> Tuition and Fees: $7,146",
-                "Associate of Applied Science (AAS) (AA) <br> Tuition and Fees: $7,146",
-                "Certificate Programs <br> Tuition and Fees: $7,146",
-                "Nursing <br> Tuition and Fees: $7,146",
-                "Online Courses <br> Tuition and Fees: $7,146",
-                "Professional & Technical Programs <br> Tuition and Fees: $7,146",
-                "Adult & Continuing Education <br> Tuition and Fees: $7,146",
-                "Dual Enrollment <br> Tuition and Fees: $7,146",
-                "Non-credit Courses <br> Tuition and Fees: Varies by course"
+            "col": [
+                "Course",
+                "Tuition and Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts (AA)",
+                    "Tuition and Fees": "$6,936"
+                },
+                {
+                    "Course": "Associate of Science (AS)",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Associate of Applied Science (AAS)",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Certificate Programs",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Nursing",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Online Courses",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Professional & Technical Programs",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Adult & Continuing Education",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Dual Enrollment",
+                    "Tuition and Fees": "$7,146"
+                },
+                {
+                    "Course": "Non-credit Courses",
+                    "Tuition and Fees": "Varies by course"
+                }
             ]
         },
         {

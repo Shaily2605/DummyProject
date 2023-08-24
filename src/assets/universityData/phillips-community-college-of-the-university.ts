@@ -69,18 +69,46 @@ export const phillipscommunitycollegeoftheuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Phillips Community College of the University of Arkansas offers a variety of courses and programs to help students achieve their educational goals. Below is the list of courses offered at Phillips Community College of the University of Arkansas along with their fee structure:",
-            "data": [
-                "Associate of Science in Nursing (ASN): Fee structure: $4,500 per semester",
-                "Associate of Applied Science (AAS): Fee structure: $2,000 per semester",
-                "Associate of Arts (AA): Fee structure: $1,500 per semester",
-                "Associate of Science (AS): Fee structure: $1,200 per semester",
-                "Certificate of Proficiency (CP): Fee structure: $800 per semester",
-                "Certificate of Technical Studies (CTS): Fee structure: $600 per semester",
-                "General Education Courses: Fee structure: $150 per credit hour",
-                "Non-Credit Courses: Fee structure: Varies depending on the course"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Science in Nursing (ASN)",
+                    "Fees": "$4,500 per semester"
+                },
+                {
+                    "Course": "Associate of Applied Science (AAS)",
+                    "Fees": "$2,000 per semester"
+                },
+                {
+                    "Course": "Associate of Arts (AA)",
+                    "Fees": "$1,500 per semester"
+                },
+                {
+                    "Course": "Associate of Science (AS)",
+                    "Fees": "$1,200 per semester"
+                },
+                {
+                    "Course": "Certificate of Proficiency (CP)",
+                    "Fees": "$800 per semester"
+                },
+                {
+                    "Course": "Certificate of Technical Studies (CTS)",
+                    "Fees": "$600 per semester"
+                },
+                {
+                    "Course": "General Education Courses",
+                    "Fees": "$150 per credit hour"
+                },
+                {
+                    "Course": "Non-Credit Courses",
+                    "Fees": "Varies depending on the course"
+                },
             ]
         },
         {

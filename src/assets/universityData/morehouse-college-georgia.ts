@@ -65,39 +65,110 @@ export const morehousecollegegeorgia = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Morehouse College, located in Atlanta, Georgia, offers a wide range of undergraduate and graduate degree programs. Below is a list of the academic programs offered at Morehouse College, along with their associated tuition and fees.",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "African American Studies: Tuition & Fees: $41,276",
-                "Biology: Tuition & Fees: $41,276",
-                "Business Administration: Tuition & Fees: $41,276",
-                "Chemistry: Tuition & Fees: $41,276",
-                "Computer Science: Tuition & Fees: $41,276",
-                "Economics: Tuition & Fees: $41,276",
-                "English: Tuition & Fees: $41,276",
-                "Entrepreneurship: Tuition & Fees: $41,276",
-                "History: Tuition & Fees: $41,276",
-                "Mathematics: Tuition & Fees: $41,276",
-                "Music: Tuition & Fees: $41,276",
-                "Political Science: Tuition & Fees: $41,276",
-                "Psychology: Tuition & Fees: $41,276",
-                "Sociology: Tuition & Fees: $41,276"
+            "col": [
+                "Programs",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Programs": "African American Studies",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Biology",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Business Administration",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Chemistry",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Computer Science",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Economics",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "English",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Entrepreneurship",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "History",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Mathematics",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Music",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Political Science",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Psychology",
+                    "Tuition & Fees": "$41,276"
+                },
+                {
+                    "Programs": "Sociology",
+                    "Tuition & Fees": "$41,276"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Master of Arts in Counseling: Tuition & Fees: $14,935",
-                "Master of Business Administration: Tuition & Fees: $20,735",
-                "Master of Public Administration: Tuition & Fees: $17,935",
-                "Master of Science in Cybersecurity: Tuition & Fees: $20,735",
-                "Master of Science in Data Science: Tuition & Fees: $20,735",
-                "Master of Science in Electrical Engineering: Tuition & Fees: $20,735",
-                "Master of Science in Mechanical Engineering: Tuition & Fees: $20,735"
+            "col": [
+                "Programs",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Programs": "Master of Arts in Counseling",
+                    "Tuition & Fees": "$14,935"
+                },
+                {
+                    "Programs": "Master of Business Administration",
+                    "Tuition & Fees": "$20,735"
+                },
+                {
+                    "Programs": "Master of Public Administration",
+                    "Tuition & Fees": "$20,735"
+                },
+                {
+                    "Programs": "Master of Science in Cybersecurity",
+                    "Tuition & Fees": "$20,735"
+                },
+                {
+                    "Programs": "Master of Science in Data Science",
+                    "Tuition & Fees": "$20,735"
+                },
+                {
+                    "Programs": "Master of Science in Electrical Engineering",
+                    "Tuition & Fees": "$20,735"
+                },
+                {
+                    "Programs": "Master of Science in Mechanical Engineering",
+                    "Tuition & Fees": "$20,735"
+                },
             ]
         },
         {

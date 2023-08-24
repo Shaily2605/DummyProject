@@ -73,25 +73,54 @@ export const portlandstateuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Portland offers a variety of undergraduate and graduate degree programs. The following table outlines the tuition and fees associated with each program.",
             "textBelowInfo": "<b>Undergraduate Programs </b>",
-            "data": [
-                "Program: Bachelor's Degree, Tuition & Fees: $44,910 per year "
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Bachelor's Degree",
+                    "Tuition & Fees": "$44,910 per year"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Program: MBA , Tuition & Fees: $1,260 per credit hour  ",
-                "Program: MS in Accounting , Tuition & Fees: $1,280 per credit hour  ",
-                "Program: MA in Counseling Psychology , Tuition & Fees: $1,320 per credit hour  ",
-                "Program: MS in Education , Tuition & Fees: $715 per credit hour  ",
-                "Program: Doctorate in Education , Tuition & Fees: $1,400 per credit hour  ",
-                "Program: Doctorate in Nursing Practice , Tuition & Fees: $1,291 per credit hour  ",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "MBA",
+                    "Tuition & Fees": "$1,260 per credit hour"
+                },
+                {
+                    "Program": "MS in Accounting",
+                    "Tuition & Fees": "$1,280 per credit hour"
+                },
+                {
+                    "Program": "MA in Counseling Psychology",
+                    "Tuition & Fees": "$1,320 per credit hour"
+                },
+                {
+                    "Program": "MS in Education",
+                    "Tuition & Fees": "$715 per credit hour"
+                },
+                {
+                    "Program": "Doctorate in Education",
+                    "Tuition & Fees": "$1,400 per credit hour"
+                },
+                {
+                    "Program": "Doctorate in Nursing Practice",
+                    "Tuition & Fees": "$1,291 per credit hour"
+                }
             ]
         },
         {

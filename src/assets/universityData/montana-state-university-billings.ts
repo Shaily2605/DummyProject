@@ -68,53 +68,146 @@ export const montanastateuniversitybillings = {
             type: "title",
             title: ""
         },
-        {
-            "type": "list-bollet",
+         {
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Montana State University Billings offers over 150 academic options at the undergraduate, graduate, and professional levels. Below is a list of the available degree programs and their associated tuition costs:",
             "textBelowInfo": "<b>Undergraduate Programs:</b>",
-            "data": [
-                "Accounting: $5,955 per semester ",
-                "Art: $5,955 per semester ",
-                "Biological Sciences: $5,955 per semester ",
-                "Business Administration: $5,955 per semester ",
-                "Chemistry: $5,955 per semester",
-                "Computer Science: $5,955 per semester ",
-                "Economics: $5,955 per semester ",
-                "Education: $5,955 per semester ",
-                "Engineering: $5,955 per semester ",
-                "English: $5,955 per semester ",
-                "History: $5,955 per semester ",
-                "Mathematics: $5,955 per semester ",
-                "Music: $5,955 per semester",
-                "Nursing: $5,955 per semester ",
-                "Philosophy: $5,955 per semester ",
-                "Political Science: $5,955 per semester ",
-                "Psychology: $5,955 per semester ",
-                "Sociology: $5,955 per semester ",
-                "Theatre Arts: $5,955 per semester "
+            "col": [
+                "Degree programs",
+                "Tuition cost",
+            ],
+            "row": [
+                {
+                    "Degree programs": "Accounting",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Art",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Biological Sciences",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Business Administration",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Chemistry",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Computer Science",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                  {
+                    "Degree programs": "Economics",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                  {
+                    "Degree programs": "Education",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Engineering",
+                    "Tuition cost": "$5,955 per semester"
+                },  
+                {
+                    "Degree programs": "English",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "History",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Mathematics",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                 {
+                    "Degree programs": "Music",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                 {
+                    "Degree programs": "Nursing",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Philosophy",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Political Science",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Psychology",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                {
+                    "Degree programs": "Sociology",
+                    "Tuition cost": "$5,955 per semester"
+                },
+                   {
+                    "Degree programs": "Theatre Arts",
+                    "Tuition cost": "$5,955 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
-            "info": "Graduate Programs: ",
-            "data": [
-                "Business Administration: $6,955 per semester",
-                "Education: $6,955 per semester ",
-                "Nursing: $6,955 per semester",
-                "Public Health: $6,955 per semester ",
-                "Social Work: $6,955 per semester "
+            "info": "Graduate Programs:",
+            "col": [
+                "Degree programs",
+                "Tuition cost",
+            ],
+            "row": [
+                {
+                    "Degree programs": "Business Administration",
+                    "Tuition cost": "$6,955 per semester"
+                },
+                 {
+                    "Degree programs": "Education",
+                    "Tuition cost": "$6,955 per semester"
+                },
+                 {
+                    "Degree programs": "Nursing",
+                    "Tuition cost": "$6,955 per semester"
+                },
+                {
+                    "Degree programs": "Public Health",
+                    "Tuition cost": "$6,955 per semester"
+                },
+                {
+                    "Degree programs": "Social Work",
+                    "Tuition cost": "$6,955 per semester"
+                },
             ]
         },
-        {
-            "type": "list-bollet",
+         {
+            "type": "table",
             "title": "",
             "info": "Professional Programs:",
-            "data": [
-                "Law: $9,955 per semester ",
-                "Medicine: $9,955 per semester ",
-                "Veterinary Medicine: $9,955 per semester"
+            "col": [
+                "Degree programs",
+                "Tuition cost",
+            ],
+            "row": [
+                {
+                    "Degree programs": "Law",
+                    "Tuition cost": "$9,955 per semester"
+                },
+                {
+                    "Degree programs": "Medicine",
+                    "Tuition cost": "$9,955 per semester"
+                },
+                {
+                    "Degree programs": "Veterinary Medicine",
+                    "Tuition cost": "$9,955 per semester"
+                },
             ]
         },
         {

@@ -70,30 +70,94 @@ export const reddeerpolytechnicuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The following are the courses offered by Red Deer Polytechnic University (Red Deer), Alberta, Canada along with their respective fee structures:",
-            "data": [
-                "Bachelor of Applied Science (BASc):  Tuition Fee: $5,910 per year ",
-                "Bachelor of Business Administration (BBA):  Tuition Fee: $6,125 per year",
-                "Bachelor of Arts (BA): Tuition Fee: $6,125 per year",
-                "Bachelor of Science (BSc):  Tuition Fee: $6,125 per year",
-                "Bachelor of Education (BEd):  Tuition Fee: $6,125 per year",
-                "Bachelor of Science in Nursing (BSN):  Tuition Fee: $6,125 per year",
-                "Bachelor of Fine Arts (BFA):  Tuition Fee: $6,125 per year",
-                "Diploma in Business Administration (DBA):  Tuition Fee: $5,310 per year",
-                "Diploma in Computer Systems Technology (DCST):  Tuition Fee: $5,310 per year",
-                "Diploma in Environmental Technology (DET):  Tuition Fee: $5,310 per year",
-                "Diploma in General Studies (DGS):  Tuition Fee: $5,310 per year",
-                "Diploma in Human Services (DHS):  Tuition Fee: $5,310 per year",
-                "Diploma in Justice Studies (DJS):  Tuition Fee: $5,310 per year",
-                "Diploma in Technology (DT):  Tuition Fee: $5,310 per year",
-                "Certificate in Business Administration (CBA): Tuition Fee: $3,010 per year",
-                "Certificate in Computer Systems Technology (CCST):  Tuition Fee: $3,010 per year",
-                "Certificate in Environmental Technology (CET):  Tuition Fee: $3,010 per year",
-                "Certificate in Human Services (CHS):  Tuition Fee: $3,010 per year",
-                "Certificate in Justice Studies (CJS):  Tuition Fee: $3,010 per year",
-                "Certificate in Technology (CT):  Tuition Fee: $3,010 per year"
+            "col": [
+                "Course",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Applied Science (BASc)",
+                    "Tuition Fee": "$5,910 per year"
+                },
+                {
+                    "Course": "Bachelor of Business Administration (BBA)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Bachelor of Arts (BA)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Bachelor of Science (BSc)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Bachelor of Education (BEd)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Nursing (BSN)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Bachelor of Fine Arts (BFA)",
+                    "Tuition Fee": "$6,125 per year"
+                },
+                {
+                    "Course": "Diploma in Business Administration (DBA)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in Computer Systems Technology (DCST)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in Environmental Technology (DET)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in General Studies (DGS)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in Human Services (DHS)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in Justice Studies (DJS)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Diploma in Technology (DT)",
+                    "Tuition Fee": "$5,310 per year"
+                },
+                {
+                    "Course": "Certificate in Business Administration (CBA)",
+                    "Tuition Fee": "$3,010 per year"
+                },
+                {
+                    "Course": "Certificate in Computer Systems Technology (CCST)",
+                    "Tuition Fee": "$3,010 per year"
+                },
+                {
+                    "Course": "Certificate in Environmental Technology (CET)",
+                    "Tuition Fee": "$3,010 per year"
+                },
+                {
+                    "Course": "Certificate in Human Services (CHS)",
+                    "Tuition Fee": "$3,010 per year"
+                },
+                {
+                    "Course": "Certificate in Justice Studies (CJS)",
+                    "Tuition Fee": "$3,010 per year"
+                },
+                {
+                    "Course": "Certificate in Technology (CT)",
+                    "Tuition Fee": "$3,010 per year"
+                },
             ]
         },
         {
@@ -318,9 +382,9 @@ export const reddeerpolytechnicuniversity = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>Red Deer Polytechnic University offers on-campus accommodation for students in the form of residence halls. The residence halls are fully equipped with modern amenities, including a communal kitchen, lounge, laundry facilities, and study space. The residence halls provide a safe, secure, and supportive living environment for students.",
-               "<b>Off-Campus Accommodation </b> <br>Red Deer Polytechnic University offers off-campus housing for students. Popular off-campus housing options for students include apartments, townhouses, and single-family homes. Students can search for off-campus housing options on the university’s website or through local real estate agents.",
-               "<b>Hostel Facilities </b> <br>Red Deer Polytechnic University does not offer hostel facilities. However, there are several hostels located in and around the city of Red Deer. The hostels offer a range of amenities, such as shared kitchen and lounge areas, laundry facilities, and private rooms."
+                "<b>On-Campus Accommodation </b> <br>Red Deer Polytechnic University offers on-campus accommodation for students in the form of residence halls. The residence halls are fully equipped with modern amenities, including a communal kitchen, lounge, laundry facilities, and study space. The residence halls provide a safe, secure, and supportive living environment for students.",
+                "<b>Off-Campus Accommodation </b> <br>Red Deer Polytechnic University offers off-campus housing for students. Popular off-campus housing options for students include apartments, townhouses, and single-family homes. Students can search for off-campus housing options on the university’s website or through local real estate agents.",
+                "<b>Hostel Facilities </b> <br>Red Deer Polytechnic University does not offer hostel facilities. However, there are several hostels located in and around the city of Red Deer. The hostels offer a range of amenities, such as shared kitchen and lounge areas, laundry facilities, and private rooms."
             ]
         },
         {

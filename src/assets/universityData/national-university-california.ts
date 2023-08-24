@@ -71,62 +71,186 @@ export const nationaluniversitycalifornia = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "National University offers over 70 degree and certificate programs. The following is a list of programs offered at National University with their corresponding fee structure:",
             "textBelowInfo": "<b>Undergraduate Program</b>",
-            "data": [
-                "Accounting: $7,250/semester",
-                "Business Administration: $7,250/semester",
-                "Criminal Justice: $7,250/semester",
-                "Elementary Education: $7,250/semester",
-                "Engineering Technology: $7,250/semester",
-                "English: $7,250/semester",
-                "Health Sciences: $7,250/semester",
-                "History: $7,250/semester",
-                "Humanities: $7,250/semester",
-                "Information Technology: $7,250/semester",
-                "Liberal Arts: $7,250/semester",
-                "Mathematics: $7,250/semester",
-                "Nursing: $7,250/semester",
-                "Psychology: $7,250/semester",
-                "Public Health: $7,250/semester",
-                "Public Relations: $7,250/semester",
-                "Sociology: $7,250/semester"
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Criminal Justice",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Elementary Education",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Engineering Technology",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "English",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Health Sciences",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "History",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Humanities",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Information Technology",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Liberal Arts",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Mathematics",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Nursing",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Psychology",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Public Health",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Public Relations",
+                    "Fees": "$7,250/semester"
+                },
+                {
+                    "Program": "Sociology",
+                    "Fees": "$7,250/semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Accounting: $8,250/semester",
-                "Business Administration: $8,250/semester",
-                "Data Science: $8,250/semester",
-                "Education: $8,250/semester",
-                "Engineering: $8,250/semester",
-                "Health Care Administration: $8,250/semester",
-                "Human Services: $8,250/semester",
-                "Information Systems: $8,250/semester",
-                "Nursing: $8,250/semester",
-                "Public Administration: $8,250/semester",
-                "Public Health: $8,250/semester ",
-                "Taxation: $8,250/semester "
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Data Science",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Education",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Engineering",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Health Care Administration",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Human Services",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Information Systems",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Nursing",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Public Administration",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Public Health",
+                    "Fees": "$8,250/semester"
+                },
+                {
+                    "Program": "Taxation",
+                    "Fees": "$8,250/semester"
+                },
+
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Certificate Programs",
-            "data": [
-                "Cybersecurity: $2,250/semester",
-                "Digital Marketing: $2,250/semester",
-                "Educational Technology: $2,250/semester",
-                "Health Informatics: $2,250/semester",
-                "Human Resources Management: $2,250/semester",
-                "Management: $2,250/semester",
-                "Project Management: $2,250/semester",
-                "Supply Chain Management: $2,250/semester"
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Cybersecurity",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Digital Marketing",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Educational Technology",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Health Informatics",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Human Resources Management",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Management",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Project Management",
+                    "Fees": "$2,250/semester"
+                },
+                {
+                    "Program": "Supply Chain Management",
+                    "Fees": "$2,250/semester"
+                }
             ]
         },
         {

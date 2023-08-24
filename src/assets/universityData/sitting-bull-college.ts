@@ -75,50 +75,120 @@ export const sittingbullcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Sitting Bull College offers a wide range of courses to its students. The courses are divided into four main areas: Associate Degree Programs, Certificates and Diplomas, Professional and Technical Programs, and Continuing Education Classes.",
             "textBelowInfo": "<b>Associate Degree Programs </b>",
-            "data": [
-                "Associate of Arts in Liberal Arts & Sciences Fee Structure: Tuition fee: $3,633 per semester ",
-                "Associate of Science in Business Administration Fee Structure: Tuition fee: $3,633 per semester",
-                "Associate of Science in Elementary Education Fee Structure: Tuition fee: $3,633 per semester ",
-                "Associate of Science in Nursing Fee Structure: Tuition fee: $3,633 per semester ",
-                "Associate of Applied Science in Business Fee Structure: Tuition fee: $3,633 per semester ",
-                "Associate of Applied Science in Accounting Fee Structure: Tuition fee: $3,633 per semester "
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts in Liberal Arts & Sciences",
+                    "Tuition fee": "$3,633 per semester"
+                },
+                {
+                    "Course": "Associate of Science in Business Administration",
+                    "Tuition fee": "$3,633 per semester"
+                },
+                {
+                    "Course": "Associate of Science in Elementary Education",
+                    "Tuition fee": "$3,633 per semester"
+                },
+                {
+                    "Course": "Associate of Science in Nursing",
+                    "Tuition fee": "$3,633 per semester"
+                },
+                {
+                    "Course": "Associate of Applied Science in Business",
+                    "Tuition fee": "$3,633 per semester"
+                },
+                {
+                    "Course": "Associate of Applied Science in Accounting",
+                    "Tuition fee": "$3,633 per semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Certificates and Diplomas",
-            "data": [
-                "Certificate in Business Administration Fee Structure: Tuition fee: $2,000 per semester ",
-                "Certificate in Office Technology Fee Structure: Tuition fee: $2,000 per semester ",
-                "Diploma in Business Administration Fee Structure: Tuition fee: $2,000 per semester ",
-                "Diploma in Office Technology Fee Structure: Tuition fee: $2,000 per semester "
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Certificate in Business Administration",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Certificate in Office Technology",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Diploma in Business Administration",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Diploma in Office Technology",
+                    "Tuition fee": "$2,000 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Professional and Technical Programs",
-            "data": [
-                "Professional Certificate in Entrepreneurship Fee Structure: Tuition fee: $2,000 per semester ",
-                "Professional Certificate in Project Management Fee Structure: Tuition fee: $2,000 per semester ",
-                "Technical Certificate in Computer Programming Fee Structure: Tuition fee: $2,000 per semester ",
-                "Technical Certificate in Network Administration Fee Structure: Tuition fee: $2,000 per semester "
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Professional Certificate in Entrepreneurship",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Professional Certificate in Project Management",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Technical Certificate in Computer Programming",
+                    "Tuition fee": "$2,000 per semester"
+                },
+                {
+                    "Course": "Technical Certificate in Network Administration",
+                    "Tuition fee": "$2,000 per semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Continuing Education Classes",
-            "data": [
-                "Certificate in Early Childhood Education Fee Structure: Tuition fee: $800 per semester ",
-                "Certificate in Health Care Management Fee Structure: Tuition fee: $800 per semester ",
-                "Certificate in Paralegal Studies Fee Structure: Tuition fee: $800 per semester ",
-                "Certificate in Web Design Fee Structure: Tuition fee: $800 per semester"
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Certificate in Early Childhood Education",
+                    "Tuition fee": "$800 per semester"
+                },
+                {
+                    "Course": "Certificate in Health Care Management",
+                    "Tuition fee": "$800 per semester"
+                },
+                {
+                    "Course": "Certificate in Paralegal Studies",
+                    "Tuition fee": "$800 per semester"
+                },
+                {
+                    "Course": "Certificate in Web Design",
+                    "Tuition fee": "$800 per semester"
+                }
             ]
         },
         {

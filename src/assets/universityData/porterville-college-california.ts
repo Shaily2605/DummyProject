@@ -71,15 +71,31 @@ export const portervillecollegecalifornia = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Porterville College in California offers several courses, including Associate of Arts, Associate of Science, Certificate of Achievement, and Certificate of Proficiency.",
             "textBelowInfo": "The following table provides an overview of the tuition and fees for all of the courses offered at Porterville College:",
-            "data": [
-                "Course : Associate of Arts , Tuition & Fees: $46 per unit",
-                "Course : Associate of Science , Tuition & Fees: $46 per unit",
-                "Course : Certificate of Achievement , Tuition & Fees: $36 per unit",
-                "Course : Certificate of Proficiency , Tuition & Fees: $36 per unit"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts",
+                    "Tuition & Fees": "$46 per unit"
+                },
+                {
+                    "Course": "Associate of Science",
+                    "Tuition & Fees": "$46 per unit"
+                },
+                {
+                    "Course": "Certificate of Achievement",
+                    "Tuition & Fees": "$36 per unit"
+                },
+                {
+                    "Course": "Certificate of Proficiency",
+                    "Tuition & Fees": "$36 per unit"
+                }
             ]
         },
         {

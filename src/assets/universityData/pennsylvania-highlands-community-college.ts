@@ -70,23 +70,66 @@ export const pennsylvaniahighlandscommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Pennsylvania Highlands Community College offers a variety of courses. Below is a list of courses with their respective fee structures:",
-            "data": [
-                "Associate of Arts Degree: $6,900",
-                "Associate of Science Degree: $6,900",
-                "Associate of Applied Science Degree: $7,200",
-                "Certificate Programs: $4,000 ",
-                "Non-credit Courses: $85-$250",
-                "Online Courses: $150-$300",
-                "Summer Courses: $150-$400",
-                "High School Equivalency Diploma: $50",
-                "English as a Second Language (ESL): $275",
-                "GED Test Preparation: $200",
-                "Adult Basic Education (ABE): $50",
-                "College Readiness (CR): $50",
-                "Customized Training: Varies"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts Degree",
+                    "Fees": "$6,900"
+                },
+                {
+                    "Course": "Associate of Science Degree",
+                    "Fees": "$6,900"
+                },
+                {
+                    "Course": "Associate of Applied Science Degree",
+                    "Fees": "$7,200"
+                },
+                {
+                    "Course": "Certificate Programs",
+                    "Fees": "$4,000"
+                },
+                {
+                    "Course": "Non-credit Courses",
+                    "Fees": "$85-$250"
+                },
+                {
+                    "Course": "Online Courses",
+                    "Fees": "$150-$300"
+                },
+                {
+                    "Course": "Summer Courses",
+                    "Fees": "$150-$400"
+                },
+                {
+                    "Course": "High School Equivalency Diploma",
+                    "Fees": "$50"
+                },
+                {
+                    "Course": "English as a Second Language (ESL)",
+                    "Fees": "$275"
+                },
+                {
+                    "Course": "GED Test Preparation",
+                    "Fees": "$200"
+                },
+                {
+                    "Course": "Adult Basic Education (ABE)",
+                    "Fees": "$50"
+                },
+                {
+                    "Course": "College Readiness (CR)",
+                    "Fees": "$50"
+                },
+                {
+                    "Course": "Customized Training",
+                    "Fees": "Varies"
+                }
             ]
         },
         {

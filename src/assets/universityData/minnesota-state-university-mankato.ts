@@ -71,58 +71,186 @@ export const minnesotastateuniversitymankato = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is a list of all the courses offered by Minnesota State University, Mankato, along with the corresponding tuition fees.",
             "textBelowInfo": "<b>Undergraduate Courses</b>:",
-            "data": [
-                "Actuarial Science: $3,719.00 per credit",
-                "Accounting: $3,719.00 per credit   ",
-                "Agricultural Business: $3,719.00 per credit",
-                "Anthropology: $3,719.00 per credit",
-                "Art: $3,719.00 per credit      ",
-                "Biology: $3,719.00 per credit   ",
-                "Business Administration: $3,719.00 per credit",
-                "Chemistry: $3,719.00 per credit      ",
-                "Communication Studies: $3,719.00 per credit",
-                "Computer Science: $3,719.00 per credit",
-                "Criminal Justice: $3,719.00 per credit  ",
-                "Economics: $3,719.00 per credit",
-                "Engineering: $3,719.00 per credit",
-                "English: $3,719.00 per credit    ",
-                "Environmental Studies: $3,719.00 per credit ",
-                "Finance: $3,719.00 per credit ",
-                "Geography: $3,719.00 per credit      ",
-                "History: $3,719.00 per credit  ",
-                "Information Systems: $3,719.00 per credit ",
-                "International Studies: $3,719.00 per credit  ",
-                "Journalism: $3,719.00 per credit ",
-                "Marketing: $3,719.00 per credit   ",
-                "Mathematics: $3,719.00 per credit  ",
-                "Music: $3,719.00 per credit  ",
-                "Philosophy: $3,719.00 per credit",
-                "Political Science: $3,719.00 per credit ",
-                "Psychology: $3,719.00 per credit  ",
-                "Sociology: $3,719.00 per credit",
-                "Theatre: $3,719.00 per credit"
+            "col": [
+                "Course ",
+                "Tuition Fees ",
+            ],
+            "row": [
+                {
+                    "Course ": "Actuarial Science",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Accounting",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Agricultural Business",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Anthropology",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Art",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Biology",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Business Administration",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Chemistry",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Communication Studies",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Criminal Justice",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Economics",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Engineering",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "English",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Environmental Studies",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Finance",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Geography",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "History",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Information Systems",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "International Studies",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Journalism",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Marketing",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Mathematics",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Music",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Philosophy",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Political Science",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Sociology",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
+                {
+                    "Course ": "Theatre",
+                    "Tuition Fees ": "$3,719.00 per credit"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Courses:",
-            "data": [
-                "Accounting: $5,606.00 per credit",
-                "Computer Science: $5,606.00 per credit",
-                "Environmental Science: $5,606.00 per credit",
-                "English: $5,606.00 per credit",
-                "Geography: $5,606.00 per credit",
-                "History: $5,606.00 per credit",
-                "Mathematics: $5,606.00 per credit",
-                "Philosophy: $5,606.00 per credit",
-                "Psychology: $5,606.00 per credit",
-                "Public Administration: $5,606.00 per credit",
-                "Social Work: $5,606.00 per credit"
+            "col": [
+                "Course ",
+                "Tuition Fees ",
+            ],
+            "row": [
+                {
+                    "Course ": "Accounting",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Computer Science",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Environmental Science",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "English",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Geography",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "History",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Mathematics",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Philosophy",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Psychology",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Public Administration",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
+                {
+                    "Course ": "Social Work",
+                    "Tuition Fees ": "$5,606.00 per credit"
+                },
             ]
         },
         {
@@ -167,12 +295,12 @@ export const minnesotastateuniversitymankato = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-                 "Visit the university's website and locate the 'Admissions' page.",
-                 'On the Admissions page, select "International Application".',
-                 "Create an account with the university's admissions portal and fill out the required application form.",
-                 "Submit all the necessary documents, such as transcripts, test scores, statement of purpose, etc.",
-                 "Pay the necessary application fee.",
-                 "Wait for the university to review your application and issue an admission decision."
+                "Visit the university's website and locate the 'Admissions' page.",
+                'On the Admissions page, select "International Application".',
+                "Create an account with the university's admissions portal and fill out the required application form.",
+                "Submit all the necessary documents, such as transcripts, test scores, statement of purpose, etc.",
+                "Pay the necessary application fee.",
+                "Wait for the university to review your application and issue an admission decision."
             ]
         },
         {

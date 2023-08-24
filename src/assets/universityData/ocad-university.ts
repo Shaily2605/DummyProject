@@ -71,31 +71,78 @@ export const ocaduniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Below is the fee structure of OCAD University for different courses:",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "Bachelor of Design (BDes): Tuition fee:  $7,966.80 per semester.",
-                "Bachelor of Fine Arts (BFA): Tuition fee:  $7,966.80 per semester.",
-                "Bachelor of Arts (BA): Tuition fee:  $7,966.80 per semester.",
-                "Bachelor of Arts in Interdisciplinary Studies (BAS): Tuition fee:  $7,966.80 per semester.",
-                "Bachelor of Design in Digital Futures (BDes): Tuition fee:  $7,966.80 per semester."
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Design (BDes)",
+                    "Tuition fee": "$7,966.80 per semester"
+                },
+                {
+                    "Course": "Bachelor of Fine Arts (BFA)",
+                    "Tuition fee": "$7,966.80 per semester"
+                },
+                {
+                    "Course": "Bachelor of Arts (BA)",
+                    "Tuition fee": "$7,966.80 per semester"
+                },
+                {
+                    "Course": "Bachelor of Arts in Interdisciplinary Studies (BAS)",
+                    "Tuition fee": "$7,966.80 per semester"
+                },
+                {
+                    "Course": "Bachelor of Design in Digital Futures (BDes)",
+                    "Tuition fee": "$7,966.80 per semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
-            "title": '',
+            "type": "table",
+            "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Master of Design (MDes): Tuition fee:  $8,285.60 per semester.",
-                "Master of Design in Strategic Foresight and Innovation (MDes): Tuition fee:  $8,285.60 per semester.",
-                "Master of Fine Arts (MFA): Tuition fee:  $8,285.60 per semester.",
-                "Master of Arts (MA): Tuition fee:  $8,285.60 per semester.",
-                "Master of Arts in Visual and Critical Studies (MA): Tuition fee:  $8,285.60 per semester.",
-                "Master of Professional Studies (MPS): Tuition fee:  $8,285.60 per semester.",
-                "Master of Digital Futures (MDF): Tuition fee:  $8,285.60 per semester.",
-                "Master of Inclusive Design (MID): Tuition fee:  $8,285.60 per semester.",
+            "col": [
+                "Course",
+                "Tuition fee",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Design (MDes)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Design in Strategic Foresight and Innovation (MDes)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Fine Arts (MFA)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Arts (MA)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Arts in Visual and Critical Studies (MA)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Professional Studies (MPS)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Digital Futures (MDF)",
+                    "Tuition fee": "$8,285.60 per semester"
+                },
+                {
+                    "Course": "Master of Inclusive Design (MID)",
+                    "Tuition fee": "$8,285.60 per semester"
+                }
             ]
         },
         {
@@ -342,10 +389,10 @@ export const ocaduniversity = {
             "info": "Hostel Facilities",
             "textBelowInfo": "There are several hostel facilities located near OCAD University in Toronto. These include: ",
             "data": [
-              "<b>Planet Traveler – </b>This hostel is located in downtown Toronto, within walking distance of the University. It offers private rooms, dorms, and a variety of amenities, including a guest kitchen and laundry facilities. ",
-              "<b>Hostelling International Toronto –</b> This hostel is located in downtown Toronto, and offers a variety of accommodations, including dorms, private rooms, and family rooms. It also features a variety of amenities, including a guest kitchen, laundry facilities, and a common room. ",
-              "<b>Five Stays – </b>Located a short walk from the University, this hostel offers dorms, private rooms, and apartments, as well as a variety of amenities, including a guest kitchen, laundry facilities, and a common room. ",
-              "<b>The Globe – </b>This hostel is located in downtown Toronto, within walking distance of the University. It offers dorms, private rooms, and apartments, as well as a variety of amenities, including a guest kitchen, laundry facilities, and a common room.",
+                "<b>Planet Traveler – </b>This hostel is located in downtown Toronto, within walking distance of the University. It offers private rooms, dorms, and a variety of amenities, including a guest kitchen and laundry facilities. ",
+                "<b>Hostelling International Toronto –</b> This hostel is located in downtown Toronto, and offers a variety of accommodations, including dorms, private rooms, and family rooms. It also features a variety of amenities, including a guest kitchen, laundry facilities, and a common room. ",
+                "<b>Five Stays – </b>Located a short walk from the University, this hostel offers dorms, private rooms, and apartments, as well as a variety of amenities, including a guest kitchen, laundry facilities, and a common room. ",
+                "<b>The Globe – </b>This hostel is located in downtown Toronto, within walking distance of the University. It offers dorms, private rooms, and apartments, as well as a variety of amenities, including a guest kitchen, laundry facilities, and a common room.",
             ]
         },
         {

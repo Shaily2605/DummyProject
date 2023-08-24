@@ -67,40 +67,114 @@ export const mountmercyuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
-            "title": 'Courses and Fees',
+            "type": "table",
+            "title": "Courses and Fees",
             "info": "Mount Mercy University offers a wide range of undergraduate and graduate courses in various fields. The estimated cost of attendance for full-time undergraduate students is around $35,000 per academic year (2020-2021). The cost of attendance includes tuition fees, room and board charges, and other fees. The following is a list of courses offered at Mount Mercy University and the associated fee structure:",
             "textBelowInfo": "<b>Undergraduate Courses</b>",
-            "data": [
-                "Accounting - $650 per credit hour",
-                "Biology - $650 per credit hour",
-                "Business Administration - $650 per credit hour",
-                "Computer Science - $650 per credit hour",
-                "Education - $650 per credit hour",
-                "English - $650 per credit hour",
-                "Finance - $650 per credit hour",
-                "Health Sciences - $650 per credit hour",
-                "History - $650 per credit hour",
-                "Human Resources - $650 per credit hour",
-                "Liberal Arts - $650 per credit hour",
-                "Mathematics - $650 per credit hour",
-                "Nursing - $650 per credit hour",
-                "Psychology - $650 per credit hour",
-                "Social Work - $650 per credit hour"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Biology",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "English",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Finance",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Health Sciences",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "History",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Human Resources",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Liberal Arts",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$650 per credit hour"
+                },
+                {
+                    "Course": "Social Work",
+                    "Fees": "$650 per credit hour"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Courses",
-            "data": [
-                "Accounting - $660 per credit hour",
-                "Business Administration - $660 per credit hour",
-                "Education - $660 per credit hour",
-                "Health Care Administration - $660 per credit hour",
-                "Nursing - $660 per credit hour",
-                "Psychology - $660 per credit hour",
-                "Social Work - $660 per credit hour"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Education",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Health Care Administration",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Psychology",
+                    "Fees": "$660 per credit hour"
+                },
+                {
+                    "Course": "Social Work",
+                    "Fees": "$660 per credit hour"
+                },
             ]
         },
         {
