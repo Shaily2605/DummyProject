@@ -73,16 +73,16 @@ export const thekingscollegenewyork = {
             "info": "The Kings College in New York, USA offers the following courses:",
             "textBelowInfo": "<b>Undergraduate Programmes </b>",
             "data": [
-                "Business Administration (B.A.)  Fee: $35,890 per year ",
-                "Digital Communication & Media (B.A.) Fee: $35,890 per year ",
-                "Government & International Relations (B.A.) Fee: $35,890 per year ",
-                "Economics (B.A.) Fee: $35,890 per year ",
-                "English (B.A.) Fee: $35,890 per year ",
-                "Health Care Management (B.A.) Fee: $35,890 per year ",
-                "History (B.A.) Fee: $35,890 per year ",
-                "Philosophy (B.A.) Fee: $35,890 per year ",
-                "Psychology (B.A.) Fee: $35,890 per year ",
-                "Theology (B.A.) Fee: $35,890 per year "
+                "Business Administration (B.A.) <br> Fee: $35,890 per year ",
+                "Digital Communication & Media (B.A.)  <br> Fee: $35,890 per year ",
+                "Government & International Relations (B.A.)  <br> Fee: $35,890 per year ",
+                "Economics (B.A.)  <br> Fee: $35,890 per year ",
+                "English (B.A.)  <br> Fee: $35,890 per year ",
+                "Health Care Management (B.A.)  <br> Fee: $35,890 per year ",
+                "History (B.A.)  <br> Fee: $35,890 per year ",
+                "Philosophy (B.A.)  <br> Fee: $35,890 per year ",
+                "Psychology (B.A.)  <br> Fee: $35,890 per year ",
+                "Theology (B.A.)  <br> Fee: $35,890 per year "
             ]
         },
         {
@@ -90,16 +90,16 @@ export const thekingscollegenewyork = {
             "title": "",
             "info": "Graduate Programmes",
             "data": [
-                "Business Administration (M.B.A.) Fee: $41,735 per year ",
-                "Digital Communication & Media (M.A.)  Fee: $41,735 per year ",
-                "Government & International Relations (M.A.) Fee: $41,735 per year ",
-                "Economics (M.A.) Fee: $41,735 per year ",
-                "English (M.A.) Fee: $41,735 per year ",
-                "Health Care Management (M.A.) Fee: $41,735 per year ",
-                "History (M.A.) Fee: $41,735 per year ",
-                "Philosophy (M.A.) Fee: $41,735 per year ",
-                "Psychology (M.A.) Fee: $41,735 per year ",
-                "Theology (M.A.) Fee: $41,735 per year"
+                "Business Administration (M.B.A.)  <br> Fee: $41,735 per year ",
+                "Digital Communication & Media (M.A.)   <br> Fee: $41,735 per year ",
+                "Government & International Relations (M.A.)  <br> Fee: $41,735 per year ",
+                "Economics (M.A.)  <br> Fee: $41,735 per year ",
+                "English (M.A.)  <br> Fee: $41,735 per year ",
+                "Health Care Management (M.A.)  <br> Fee: $41,735 per year ",
+                "History (M.A.)  <br> Fee: $41,735 per year ",
+                "Philosophy (M.A.)  <br> Fee: $41,735 per year ",
+                "Psychology (M.A.)  <br> Fee: $41,735 per year ",
+                "Theology (M.A.)  <br> Fee: $41,735 per year"
             ]
         },
         {

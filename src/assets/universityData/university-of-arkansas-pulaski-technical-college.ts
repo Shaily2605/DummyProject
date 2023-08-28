@@ -68,24 +68,47 @@ export const universityofarkansaspulaskitechnicalcollege = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Arkansas Pulaski Technical College offers a variety of programs designed to meet the educational needs of the community. Below is a list of courses with their respective fee structure:",
-            "data": [
-                "Associate of Arts Tuition & Fees: $2,970",
-                "Associate of Science Tuition & Fees: $2,970",
-                "Associate of Applied Science Tuition & Fees: $3,087",
-                "Certificate Programs Tuition & Fees: $2,743",
-                "Non-Credit Courses Tuition & Fees: Varies",
-                "General Education Tuition & Fees: $2,970",
-                "Career Education Tuition & Fees: Varies",
-                "Industry Certifications Tuition & Fees: Varies",
+            "col": [
+                "Course",
+                "Tuition & Fees"
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts",
+                    "Tuition & Fees": "$2,970"
+                },
+                {
+                    "Course": "Associate of Science",
+                    "Tuition & Fees": "$2,970"
+                },
+                {
+                    "Course": "Associate of Applied Science",
+                    "Tuition & Fees": "$3,087"
+                },
+                {
+                    "Course": "Certificate Programs",
+                    "Tuition & Fees": "$2,743"
+                },
+                {
+                    "Course": "Non-Credit Courses",
+                    "Tuition & Fees": "Varies"
+                },
+                {
+                    "Course": "General Education",
+                    "Tuition & Fees": "$2,970"
+                },
+                {
+                    "Course": "Career Education",
+                    "Tuition & Fees": "Varies"
+                },
+                {
+                    "Course": "Industry Certifications",
+                    "Tuition & Fees": "Varies"
+                }
             ]
         },
         {

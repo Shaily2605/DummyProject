@@ -73,12 +73,12 @@ export const universityofnorthtexastexas = {
             "info": "The University of North Texas offers more than 100 bachelor's, master's and doctoral degree programs, as well as certificate and other non-degree programs. The tuition fee for the academic year 2020-2021 for in-state students is $11,135 per semester and $18,927 per semester for out-of-state students. The tuition fees vary according to the program and course chosen.",
             "textBelowInfo": "<p>Below is the list of courses offered by the University of North Texas along with the fee structure:</p> <p><b>Undergraduate Programs:</b></p>",
             "data": [
-                "Accounting Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Art Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Biology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Business Administration Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Communication Studies Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Accounting <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Anthropology <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Art <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Biology <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Business Administration <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Communication Studies <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
             ]
         },
         {
@@ -86,12 +86,12 @@ export const universityofnorthtexastexas = {
             "title": "",
             "info": "Graduate Programs:",
             "data": [
-                "Accountin Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Business Administration Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Communication Studies Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Computer Science Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Counseling Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Accountin <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Anthropology <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Business Administration <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Communication Studies <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Computer Science <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Counseling <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
             ]
         },
         {
@@ -99,12 +99,12 @@ export const universityofnorthtexastexas = {
             "title": "",
             "info": "Doctoral Programs:",
             "data": [
-                "Accounting Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Anthropology Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Business Administration Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Communication Studies Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Computer Science Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
-                "Counseling Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Accounting <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Anthropology <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Business Administration <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Communication Studies <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Computer Science <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
+                "Counseling <br> Tuition: In-state: $11,135/semester; Out-of-state: $18,927/semester",
             ],
             "heading": "<p>For more detailed information about the fee structure and programs offered by the University of North Texas, please visit their official website: https://www.unt.edu/programs/tuition/</p>"
         },

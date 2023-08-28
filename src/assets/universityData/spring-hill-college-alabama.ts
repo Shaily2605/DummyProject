@@ -68,41 +68,118 @@ export const springhillcollegealabama = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Spring Hill College offers a range of undergraduate and graduate programs, many of which can be completed online or in combination with on-campus courses.",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "B.A. in Accounting Tuition: $34,200",
-                "B.A. in Art  Tuition: $34,200",
-                "B.A. in Biology Tuition: $34,200",
-                "B.A. in Business Administration  Tuition: $34,200",
-                "B.A. in Chemistry  Tuition: $34,200",
-                "B.A. in Creative Writing  Tuition: $34,200",
-                "B.A. in Economics  Tuition: $34,200",
-                "B.A. in English  Tuition: $34,200",
-                "B.A. in History  Tuition: $34,200",
-                "B.A. in Mathematics  Tuition: $34,200",
-                "B.A. in Philosophy  Tuition: $34,200",
-                "B.A. in Political Science  Tuition: $34,200",
-                "B.A. in Psychology  Tuition: $34,200",
-                "B.A. in Religious Studies  Tuition: $34,200",
-                "B.S. in Computer Science  Tuition: $34,200",
-                "B.S. in Exercise Science  Tuition: $34,200",
-                "B.S. in Nursing  Tuition: $34,200"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "B.A. in Accounting",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Art",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Biology",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Business Administration",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Chemistry",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Creative Writing",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Economics",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in English",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in History",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Mathematics",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Philosophy",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Political Science",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Psychology",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Religious Studies",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Computer Science",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Exercise Science",
+                    "Tuition": "$34,200"
+                },
+                {
+                    "Program": "B.A. in Nursing",
+                    "Tuition": "$34,200"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "M.S. in Accounting  Tuition: $32,400",
-                "M.A. in Education  Tuition: $28,800",
-                "M.A. in Theology  Tuition: $28,800",
-                "M.B.A.  Tuition: $32,400",
-                "M.S. in Nursing  Tuition: $32,400",
-                "M.S. in Sport Management  Tuition: $32,400"
+            "col": [
+                "Program",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Program": "M.S. in Accounting",
+                    "Tuition": "$32,400"
+                },
+                {
+                    "Program": "M.A. in Education",
+                    "Tuition": "$28,800"
+                },
+                {
+                    "Program": "M.A. in Theology",
+                    "Tuition": "$28,800"
+                },
+                {
+                    "Program": "M.B.A.",
+                    "Tuition": "$32,400"
+                },
+                {
+                    "Program": "M.S. in Nursing",
+                    "Tuition": "$32,400"
+                },
+                {
+                    "Program": "M.S. in Sport Management",
+                    "Tuition": "$32,400"
+                }
             ]
         },
         {

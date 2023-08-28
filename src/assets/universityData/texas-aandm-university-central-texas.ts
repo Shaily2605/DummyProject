@@ -71,62 +71,168 @@ export const texasaandmuniversitycentraltexas = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Texas A&M University-Central Texas provides a wide range of undergraduate and graduate degrees, certificates and endorsements. The following is a list of all the courses offered at the university and their corresponding fee structure:",
             "textBelowInfo": "<b>Undergraduate Degrees:</b>",
-            "data": [
-                "Applied Arts & Sciences: Tuition & Fees: $3,033 per semester ",
-                "Business Administration: Tuition & Fees: $3,033 per semester ",
-                "Education: Tuition & Fees: $3,033 per semester ",
-                "Health Sciences: Tuition & Fees: $3,033 per semester ",
-                "Information Technology: Tuition & Fees: $3,033 per semester ",
-                "Interdisciplinary Studies: Tuition & Fees: $3,033 per semester ",
-                "Kinesiology: Tuition & Fees: $3,033 per semester ",
-                "Liberal Arts: Tuition & Fees: $3,033 per semester ",
-                "Nursing: Tuition & Fees: $3,033 per semester "
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Applied Arts & Sciences",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Education",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Health Sciences",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Information Technology",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Interdisciplinary Studies",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Kinesiology",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Liberal Arts",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
+                {
+                    "Course": "Nursing",
+                    "Tuition & Fees": "$3,033 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Degrees:",
-            "data": [
-                "Applied Arts & Sciences (MAAS): Tuition & Fees: $3,936 per semester ",
-                "Business Administration (MBA): Tuition & Fees: $3,936 per semester ",
-                "Education (M.Ed.): Tuition & Fees: $3,936 per semester ",
-                "Health Sciences (MSHS): Tuition & Fees: $3,936 per semester ",
-                "Information Technology (MSIT): Tuition & Fees: $3,936 per semester ",
-                "Interdisciplinary Studies (MIS): Tuition & Fees: $3,936 per semester ",
-                "Kinesiology (MS): Tuition & Fees: $3,936 per semester ",
-                "Nursing (MSN): Tuition & Fees: $3,936 per semester ",
-                "Advanced Nursing Practice (DNP): Tuition & Fees: $4,104 per semester ",
-                "Executive Leadership (DEL): Tuition & Fees: $4,430 per semester "
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Applied Arts & Sciences (MAAS)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Business Administration (MBA)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Education (M.Ed.)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Health Sciences (MSHS)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Information Technology (MSIT)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Interdisciplinary Studies (MIS)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Kinesiology (MS)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Nursing (MSN)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Advanced Nursing Practice (DNP)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
+                {
+                    "Course": "Executive Leadership (DEL)",
+                    "Tuition & Fees": "$3,936 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Certificates:",
-            "data": [
-                "Applied Arts & Sciences: Tuition & Fees: $1,182 per semester ",
-                "Business Administration: Tuition & Fees: $1,182 per semester ",
-                "Education: Tuition & Fees: $1,182 per semester ",
-                "Health Sciences: Tuition & Fees: $1,182 per semester ",
-                "Information Technology: Tuition & Fees: $1,182 per semester ",
-                "Interdisciplinary Studies: Tuition & Fees: $1,182 per semester ",
-                "Kinesiology: Tuition & Fees: $1,182 per semester ",
-                "Liberal Arts: Tuition & Fees: $1,182 per semester ",
-                "Nursing: Tuition & Fees: $1,182 per semester "
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Applied Arts & Sciences",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Education",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Health Sciences",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Information Technology",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Interdisciplinary Studies",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Kinesiology",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Liberal Arts",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Nursing",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Endorsements:",
-            "data": [
-                "Principal: Tuition & Fees: $1,182 per semester ",
-                "Special Education: Tuition & Fees: $1,182 per semester"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Principal",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
+                {
+                    "Course": "Special Education",
+                    "Tuition & Fees": "$1,182 per semester"
+                },
             ]
         },
         {

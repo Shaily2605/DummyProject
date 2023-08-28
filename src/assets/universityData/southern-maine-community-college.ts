@@ -72,35 +72,90 @@ export const southernmainecommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Southern Maine Community College offers a wide variety of degrees and certificates. Below is a list of degrees, certificates and cost estimates for each program.",
             "textBelowInfo": "<b>Associate Degrees </b>",
-            "data": [
-                "Accounting  $4,800",
-                "Business Administration $4,800",
-                "Computer Networking $4,800",
-                "Digital Media Production $4,800",
-                "Early Childhood Education $4,800",
-                "General Studies $4,800",
-                "Nursing $7,200",
-                "Paralegal Studies $4,800",
-                "Physical Therapist Assistant $7,200"
-
+            "col": [
+                "Course",
+                "Cost",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Computer Networking",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Digital Media Production",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Early Childhood Education",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "General Studies",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Nursing",
+                    "Cost": "$7,200"
+                },
+                {
+                    "Course": "Paralegal Studies",
+                    "Cost": "$4,800"
+                },
+                {
+                    "Course": "Physical Therapist Assistant",
+                    "Cost": "$7,200"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Certificates",
-            "data": [
-                "Accounting $1,900",
-                "Business Administration $1,900",
-                "Computer Networking $1,900",
-                "Digital Media Production $1,900",
-                "Early Childhood Education $1,900",
-                "Paralegal Studies $1,900",
-                "Physical Therapist Assistant $3,100"
+            "col": [
+                "Course",
+                "Cost",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Computer Networking",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Digital Media Production",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Early Childhood Education",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Paralegal Studies",
+                    "Cost": "$1,900"
+                },
+                {
+                    "Course": "Physical Therapist Assistant",
+                    "Cost": "$3,100"
+                }
             ]
         },
         {

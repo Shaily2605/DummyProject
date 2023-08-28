@@ -68,48 +68,143 @@ export const universityofconnecticut = {
             type: "title",
             title: ""
         },
-        {
-            "type": "list-bollet",
+         {
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Connecticut offers more than 100 undergraduate majors, ranging from Anthropology to Visual Arts & Digital Media. Below is a listing of all the courses offered, with an estimated fee structure for each.",
             "textBelowInfo": "<b>Undergraduate Programs </b>",
-            "data": [
-                "<b>Accounting</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>African American Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Anthropology</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Art History</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Biochemistry</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Biology</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Business Administration</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Chemistry</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Computer Science</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Economics</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>English</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Environmental Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Finance</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>History</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Human Rights</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>International Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Journalism</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Marketing</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Mathematics</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Philosophy</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Physics</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Political Science</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Psychology</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Sociology</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Theatre</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Urban Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)",
-                "<b>Women's, Gender, and Sexuality Studies</b> Tuition and Fees: $17,532 (in-state), $38,634 (out-of-state)"
+            "col": [
+                "Course",
+                "Tuition and Fees"
+            ],
+            "row": [
+                {
+                    "Course": "<b>Accounting</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>African American Studies</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Anthropology</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Art History</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Biochemistry</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Biology</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Business Administration</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Chemistry</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Computer Science</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Economics</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>English</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Environmental Studies</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Finance</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>History</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Human Rights</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>International Studies</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Journalism</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Marketing</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Mathematics</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Philosophy</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Physics</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Political Science</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Psychology</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Sociology</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Theatre</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Urban Studies</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
+                {
+                    "Course": "<b>Women's, Gender, and Sexuality Studies</b>",
+                    "Tuition and Fees": "$17,532 (in-state), $38,634 (out-of-state)"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "<b>MBA</b> Tuition and Fees: $30,664 (in-state), $51,766 (out-of-state)",
-                "<b>MS in Accounting</b> Tuition and Fees: $30"
+            "col": [
+                "Course",
+                "Tuition and Fees"
+            ],
+            "row": [
+                {
+                    "Course": "<b>MBA</b>",
+                    "Tuition and Fees": "$30,664 (in-state), $51,766 (out-of-state)"
+                },
+                  {
+                    "Course": "<b>MS in Accounting</b>",
+                    "Tuition and Fees": "$30,664 (in-state), $51,766 (out-of-state)"
+                },
             ]
         },
         {

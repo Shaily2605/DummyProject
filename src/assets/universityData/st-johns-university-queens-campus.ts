@@ -72,14 +72,14 @@ export const stjohnsuniversityqueenscampus = {
             "title": "Courses and Fees",
             "info": "Undergraduate Programs",
             "data": [
-                "Bachelor of Arts Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Science Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Arts in Professional Studies Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Science in Professional Studies Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Business Administration Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Science in Nursing Tuition: $56,639 Fees: $1,719",
-                "Bachelor of Science in Nutrition Tuition: $51,812 Fees: $1,719",
-                "Bachelor of Science in Education Tuition: $51,812 Fees: $1,719"
+                "Bachelor of Arts <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Science <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Arts in Professional Studies <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Science in Professional Studies <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Business Administration <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Science in Nursing <br> Tuition: $56,639 <br> Fees: $1,719",
+                "Bachelor of Science in Nutrition <br> Tuition: $51,812 <br> Fees: $1,719",
+                "Bachelor of Science in Education <br> Tuition: $51,812 <br> Fees: $1,719"
             ]
         },
         {
@@ -87,11 +87,11 @@ export const stjohnsuniversityqueenscampus = {
             "title": "",
             "info": "Graduate Programs ",
             "data": [
-                "Master of Arts in Education Tuition: $1,122 per credit Fees: $50",
-                "Master of Arts in International Relations Tuition: $1,122 per credit Fees: $50",
-                "Master of Business Administration Tuition: $1,250 per credit Fees: $50",
-                "Master of Science in Nutrition Tuition: $1,122 per credit Fees: $50",
-                "Master of Social Work Tuition: $1,122 per credit Fees: $50"
+                "Master of Arts in Education <br> Tuition: $1,122 per credit <br> Fees: $50",
+                "Master of Arts in International Relations <br> Tuition: $1,122 per credit <br> Fees: $50",
+                "Master of Business Administration <br> Tuition: $1,250 per credit <br> Fees: $50",
+                "Master of Science in Nutrition <br> Tuition: $1,122 per credit <br> Fees: $50",
+                "Master of Social Work <br> Tuition: $1,122 per credit <br> Fees: $50"
             ]
         },
         {
@@ -99,7 +99,7 @@ export const stjohnsuniversityqueenscampus = {
             "title": "",
             "info": "Doctoral Programs",
             "data": [
-                "Doctor of Philosophy in Clinical Psychology Tuition: $1,250 per credit Fees: $50"
+                "Doctor of Philosophy in Clinical Psychology <br> Tuition: $1,250 per credit <br> Fees: $50"
             ]
         },
         {

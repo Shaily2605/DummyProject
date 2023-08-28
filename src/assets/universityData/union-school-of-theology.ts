@@ -66,17 +66,42 @@ export const unionschooloftheology = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Union School of Theology (Bridgend) offers a range of courses with varying fees depending on the particular programme.",
-            "data": [
-                "Bachelor of Theology (BA) Fees: £7,000 per year",
-                "Master of Theology (MA) Fees: £7,500 per year",
-                "Master of Divinity (MDiv) Fees: £8,000 per year",
-                "Doctor of Ministry (DMin) Fees: £7,000 per year",
-                "Doctor of Theology (ThD) Fees: £8,500 per year",
-                "Certificate in Christian Studies Fees: £3,500 per year",
-                "Certificate in Ministry Fees: £3,500 per year",
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Theology (BA)",
+                    "Fees": "£7,000 per year"
+                },
+                {
+                    "Course": "Master of Theology (MA)",
+                    "Fees": "£7,500 per year"
+                },
+                {
+                    "Course": "Master of Divinity (MDiv)",
+                    "Fees": "£8,000 per year"
+                },
+                {
+                    "Course": "Doctor of Ministry (DMin)",
+                    "Fees": "£7,000 per year"
+                },
+                {
+                    "Course": "Doctor of Theology (ThD)",
+                    "Fees": "£8,500 per year"
+                },
+                {
+                    "Course": "Certificate in Christian Studies",
+                    "Fees": "£3,500 per year"
+                },
+                {
+                    "Course": "Certificate in Ministry",
+                    "Fees": "£3,500 per year"
+                }
             ]
         },
         {

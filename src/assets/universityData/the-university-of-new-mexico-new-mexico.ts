@@ -70,32 +70,85 @@ export const theuniversityofnewmexiconewmexico = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Undergraduate courses",
-            "data": [
-                "Biology: Tuition Fee: $6,977 per semester ",
-                "Business Administration:  Tuition Fee: $7,039 per semester",
-                "Computer Science: Tuition Fee: $6,977 per semester",
-                "Economics: Tuition Fee: $6,977 per semester",
-                "English: Tuition Fee: $6,977 per semester",
-                "History: Tuition Fee: $6,977 per semester",
-                "Mathematics: Tuition Fee: $6,977 per semester",
-                "Psychology: Tuition Fee: $6,977 per semester",
-                "Sociology: Tuition Fee: $6,977 per semester",
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Biology",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition": "$7,039 per semester"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "Economics",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "English",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "History",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "Mathematics",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "Psychology",
+                    "Tuition": "$6,977 per semester"
+                },
+                {
+                    "Course": "Sociology",
+                    "Tuition": "$6,977 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate courses",
-            "data": [
-                "Business Administration: Tuition Fee: $8,051 per semester",
-                "Computer Science:Tuition Fee: $7,679 per semester",
-                "Economics:Tuition Fee: $7,679 per semester",
-                "Public Administration:Tuition Fee: $7,679 per semester",
-                "Psychology:Tuition Fee: $7,679 per semester",
-                "Sociology:Tuition Fee: $7,679 per semester",
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Business Administration",
+                    "Tuition": "$8,051 per semester"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Tuition": "$7,679 per semester"
+                },
+                {
+                    "Course": "Economics",
+                    "Tuition": "$7,679 per semester"
+                },
+                {
+                    "Course": "Public Administration",
+                    "Tuition": "$7,679 per semester"
+                },
+                {
+                    "Course": "Psychology",
+                    "Tuition": "$7,679 per semester"
+                },
+                {
+                    "Course": "Sociology",
+                    "Tuition": "$7,679 per semester"
+                },
             ]
         },
         {

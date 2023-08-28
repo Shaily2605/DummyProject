@@ -74,19 +74,19 @@ export const themastersuniversitycalifornia = {
             "info": "The Masters University (TMU) offers a variety of undergraduate, graduate, and certificate programs.",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
             "data": [
-                "Bachelor of Arts in Biblical Studies  Tuition: $28,800 per year ",
-                "Bachelor of Arts in Business Administration  Tuition: $28,800 per year ",
-                "Bachelor of Arts in Communication  Tuition: $28,800 per year ",
-                "Bachelor of Arts in Education  Tuition: $28,800 per year ",
-                "Bachelor of Arts in English  Tuition: $28,800 per year ",
-                "Bachelor of Arts in History  Tuition: $28, 800 per year ",
-                "Bachelor of Arts in Liberal Arts  Tuition: $28, 800 per year ",
-                "Bachelor of Arts in Music  Tuition: $28, 800 per year ",
-                "Bachelor of Arts in Psychology  Tuition: $28, 800 per year ",
-                "Bachelor of Science in Computer Science  Tuition: $28, 800 per year ",
-                "Bachelor of Science in Mathematics  Tuition: $28, 800 per year ",
-                "Bachelor of Science in Nursing  Tuition: $32, 800 per year ",
-                "Bachelor of Science in Sports Management Tuition: $28, 800 per year"
+                "Bachelor of Arts in Biblical Studies <br> Tuition: $28,800 per year ",
+                "Bachelor of Arts in Business Administration  <br> Tuition: $28,800 per year ",
+                "Bachelor of Arts in Communication  <br> Tuition: $28,800 per year ",
+                "Bachelor of Arts in Education  <br> Tuition: $28,800 per year ",
+                "Bachelor of Arts in English  <br> Tuition: $28,800 per year ",
+                "Bachelor of Arts in History  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Arts in Liberal Arts  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Arts in Music  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Arts in Psychology  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Science in Computer Science  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Science in Mathematics  <br> Tuition: $28, 800 per year ",
+                "Bachelor of Science in Nursing  <br> Tuition: $32, 800 per year ",
+                "Bachelor of Science in Sports Management <br> Tuition: $28, 800 per year"
             ]
         },
         {
@@ -94,13 +94,13 @@ export const themastersuniversitycalifornia = {
             "title": "",
             "info": "Graduate Programs: ",
             "data": [
-                "Master of Arts in Biblical Studies  Tuition: $12,900 per year ",
-                "Master of Arts in Education  Tuition: $12,900 per year ",
-                "Master of Arts in English  Tuition: $12,900 per year ",
-                "Master of Arts in History  Tuition: $12,900 per year ",
-                "Master of Arts in Psychology  Tuition: $12,900 per year ",
-                "Master of Science in Computer Science  Tuition: $12,900 per year ",
-                "Master of Science in Mathematics  Tuition: $12,900 per year "
+                "Master of Arts in Biblical Studies  <br> Tuition: $12,900 per year ",
+                "Master of Arts in Education  <br> Tuition: $12,900 per year ",
+                "Master of Arts in English  <br> Tuition: $12,900 per year ",
+                "Master of Arts in History  <br> Tuition: $12,900 per year ",
+                "Master of Arts in Psychology  <br> Tuition: $12,900 per year ",
+                "Master of Science in Computer Science  <br> Tuition: $12,900 per year ",
+                "Master of Science in Mathematics  <br> Tuition: $12,900 per year "
             ]
         },
         {
@@ -108,11 +108,11 @@ export const themastersuniversitycalifornia = {
             "title": "",
             "info": "Certificate Programs: ",
             "data": [
-                "Certificate in Biblical Studies  Tuition: $4,500 ",
-                "Certificate in Education  Tuition: $4,500 ",
-                "Certificate in English  Tuition: $4,500 ",
-                "Certificate in History  Tuition: $4,500 ",
-                "Certificate in Psychology  Tuition: $4,500"
+                "Certificate in Biblical Studies  <br> Tuition: $4,500 ",
+                "Certificate in Education  <br> Tuition: $4,500 ",
+                "Certificate in English  <br> Tuition: $4,500 ",
+                "Certificate in History  <br> Tuition: $4,500 ",
+                "Certificate in Psychology  <br> Tuition: $4,500"
             ]
         },
         {

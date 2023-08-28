@@ -69,16 +69,38 @@ export const southerncaliforniainstituteofarchitecture = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is the information about the courses offered by Southern California Institute of Architecture, California, USA and their respective fee structures: ",
-            "data": [
-                "Bachelor of Architecture (B.Arch) Tuition & Fees: $49,050/year",
-                "Master of Architecture (M.Arch) Tuition & Fees: $25,700/year",
-                "Master of Science in Architecture (MSArch) Tuition & Fees: $26,200/year",
-                "Master of Science in Design Technologies (MSDT) Tuition & Fees: $25,800/year",
-                "Professional Master of Architecture (P.M.Arch) Tuition & Fees: $29,200/year",
-                "Master of Science in Architecture + Urbanism (MSArch + U) Tuition & Fees: $25,800/year"
+            "col": [
+                "Course",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Architecture (B.Arch)",
+                    "Tuition & Fees": "$49,050/year"
+                },
+                {
+                    "Course": "Master of Architecture (M.Arch)",
+                    "Tuition & Fees": "$25,700/year"
+                },
+                {
+                    "Course": "Master of Science in Architecture (MSArch)",
+                    "Tuition & Fees": "$26,200/year"
+                },
+                {
+                    "Course": "Master of Science in Design Technologies (MSDT)",
+                    "Tuition & Fees": "$25,800/year"
+                },
+                {
+                    "Course": "Professional Master of Architecture (P.M.Arch)",
+                    "Tuition & Fees": "$29,200/year"
+                },
+                {
+                    "Course": "Master of Science in Architecture + Urbanism (MSArch + U)",
+                    "Tuition & Fees": "$25,800/year"
+                }
             ]
         },
         {

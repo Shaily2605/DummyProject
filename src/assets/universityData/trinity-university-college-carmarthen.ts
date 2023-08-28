@@ -77,13 +77,13 @@ export const trinityuniversitycollegecarmarthen = {
             "info": "The following is the list of courses offered by Trinity University College (Carmarthen), Wales, UK along with the fee structure:",
             "textBelowInfo": "<b>Undergraduate Courses: </b>",
             "data": [
-                "BA (Hons) Business & Management:  Tuition Fees: £9,250 per year",
-                "BA (Hons) Education & Teaching:  Tuition Fees: £9,250 per year",
-                "BA (Hons) Social Sciences:  Tuition Fees: £9,250 per year",
-                "BSc (Hons) Computing & Technology:  Tuition Fees: £9,250 per year",
-                "BSc (Hons) Health & Social Care:  Tuition Fees: £9,250 per year",
-                "BSc (Hons) Applied Sciences:  Tuition Fees: £9,250 per year",
-                "BSc (Hons) Sports Coaching & Physical Education:  Tuition Fees: £9,250 per year",
+                "BA (Hons) Business & Management: <br> Tuition Fees: £9,250 per year",
+                "BA (Hons) Education & Teaching:  <br> Tuition Fees: £9,250 per year",
+                "BA (Hons) Social Sciences:  <br> Tuition Fees: £9,250 per year",
+                "BSc (Hons) Computing & Technology:  <br> Tuition Fees: £9,250 per year",
+                "BSc (Hons) Health & Social Care:  <br> Tuition Fees: £9,250 per year",
+                "BSc (Hons) Applied Sciences:  <br> Tuition Fees: £9,250 per year",
+                "BSc (Hons) Sports Coaching & Physical Education:  <br> Tuition Fees: £9,250 per year",
             ]
         },
         {
@@ -91,12 +91,12 @@ export const trinityuniversitycollegecarmarthen = {
             "title": "",
             "info": "Postgraduate Courses: ",
             "data": [
-                "MA Education:  Tuition Fees: £6,400 per year",
-                "MA Leadership & Management:  Tuition Fees: £6,400 per year",
-                "MSc Applied Psychology:  Tuition Fees: £6,400 per year",
-                "MSc Computing & Technology:  Tuition Fees: £6,400 per year",
-                "MSc Health & Social Care:  Tuition Fees: £6,400 per year",
-                "MA Creative Writing:  Tuition Fees: £6,400 per year"
+                "MA Education:  <br> Tuition Fees: £6,400 per year",
+                "MA Leadership & Management:  <br> Tuition Fees: £6,400 per year",
+                "MSc Applied Psychology:  <br> Tuition Fees: £6,400 per year",
+                "MSc Computing & Technology:  <br> Tuition Fees: £6,400 per year",
+                "MSc Health & Social Care:  <br> Tuition Fees: £6,400 per year",
+                "MA Creative Writing:  <br> Tuition Fees: £6,400 per year"
             ]
         },
         {

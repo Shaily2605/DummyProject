@@ -69,26 +69,75 @@ export const uowcollegeaustraliajervisbayterritory = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "UOW College Australia, Jervis Bay Territory, Australia offers a range of courses to suit the needs of international and domestic students.",
             "textBelowInfo": "<b>Courses: </b>",
-            "data": [
-                "Diploma of Business <br> Fee: AUD $14,400 ",
-                "Diploma of Computing <br> Fee: AUD $14,400",
-                "Diploma of Early Childhood Education and Care <br> Fee: AUD $13,700",
-                "Diploma of Hotel Management <br> Fee: AUD $14,400",
-                "Diploma of Leadership and Management <br> Fee: AUD $13,400",
-                "Diploma of Nursing <br> Fee: AUD $14,400",
-                "Diploma of Project Management <br> Fee: AUD $13,400",
-                "Diploma of Tourism and Hospitality Management <br> Fee: AUD $14,400",
-                "Certificate IV in Accounting <br> Fee: AUD $4,800",
-                "Certificate IV in Business <br> Fee: AUD $4,800",
-                "Certificate IV in Leadership and Management <br> Fee: AUD $4,800",
-                "Certificate IV in New Small Business <br> Fee: AUD $4,800",
-                "Certificate IV in Project Management Practice <br> Fee: AUD $4,800",
-                "Certificate IV in Tourism <br> Fee: AUD $4,800",
-                "Certificate IV in Work Health and Safety <br> Fee: AUD $4,800",
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Diploma of Business",
+                    "Fees": "AUD $14,400"
+                },
+                {
+                    "Course": "Diploma of Computing",
+                    "Fees": "AUD $14,400"
+                },
+                {
+                    "Course": "Diploma of Early Childhood Education and Care",
+                    "Fees": "AUD $13,700"
+                },
+                {
+                    "Course": "Diploma of Hotel Management",
+                    "Fees": "AUD $14,400"
+                },
+                {
+                    "Course": "Diploma of Leadership and Management",
+                    "Fees": "AUD $13,400"
+                },
+                {
+                    "Course": "Diploma of Nursing",
+                    "Fees": "AUD $14,400"
+                },
+                {
+                    "Course": "Diploma of Project Management",
+                    "Fees": "AUD $13,400"
+                },
+                {
+                    "Course": "Diploma of Tourism and Hospitality Management",
+                    "Fees": "AUD $14,400"
+                },
+                {
+                    "Course": "Certificate IV in Accounting",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in Business",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in Leadership and Management",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in New Small Business",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in Project Management Practice",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in Tourism",
+                    "Fees": "AUD $4,800"
+                },
+                {
+                    "Course": "Certificate IV in Work Health and Safety",
+                    "Fees": "AUD $4,800"
+                }
             ]
         },
         {

@@ -69,38 +69,106 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Southern West Virginia Community & Technical College offers a variety of programs and courses for students to choose from. The college offers Associate Degree and Certificate programs in a wide range of fields including Business, Education, Engineering, Health Sciences, Human Services, Arts and Sciences and Information Technology.",
             "textBelowInfo": "<p>Below are the courses offered at Southern West Virginia Community & Technical College along with their fee structure.</p> <p><b>Associate Degree Programs:</b></p>",
-            "data": [
-                "Associate of Arts (AA)		 	        $6,200 (per year)",
-                "Associate of Science (AS)              $6,200 (per year) ",
-                "Associate of Applied Science (AAS)		$6,200 (per year)"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Arts (AA)",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Associate of Science (AS)",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Associate of Applied Science (AAS)",
+                    "Fees": "$6,200 (per year)"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Certificate Programs:",
-            "data": [
-                "Accounting				                $6,200 (per year)",
-                "Business Administration			    $6,200 (per year)",
-                "Computer Science				        $6,200 (per year)",
-                "Criminal Justice				        $6,200 (per year) ",
-                "Early Care and Education			    $6,200 (per year)",
-                "Emergency Medical Services			    $6,200 (per year)",
-                "Information Technology			        $6,200 (per year)",
-                "Management				                $6,200 (per year)  ",
-                "Medical Coding				            $6,200 (per year)",
-                "Network Administration			        $6,200 (per year)   ",
-                "Nursing					            $6,200 (per year)",
-                "Paralegal Studies				        $6,200 (per year)",
-                "Pharmacy Technology			        $6,200 (per year)",
-                "Radiologic Technology			        $6,200 (per year)",
-                "Respiratory Care				        $6,200 (per year)",
-                "Surgical Technology			        $6,200 (per year)",
-                "Web Development				        $6,200 (per year)"
+            "col": [
+                "Course",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Accounting",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Computer Science",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Criminal Justice",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Early Care and Education",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Emergency Medical Services",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Information Technology",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Management",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Medical Coding",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Network Administration",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Nursing",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Paralegal Studies",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Pharmacy Technology",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Radiologic Technology",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Respiratory Care",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Surgical Technology",
+                    "Fees": "$6,200 (per year)"
+                },
+                {
+                    "Course": "Web Development",
+                    "Fees": "$6,200 (per year)"
+                }
             ]
         },
         {
@@ -322,8 +390,8 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
             "title": "Hostel",
             "info": "",
             "data": [
-               "<b>On-Campus Accommodation </b> <br>Southern West Virginia Community & Technical College offers on-campus housing for students. The housing residence hall is located on the campus and is equipped with modern amenities and facilities. The residence hall has a capacity of accommodating up to 200 students and is available in single and double occupancy. The on-campus residence hall offers a variety of amenities such as a laundry room, study areas, Wi-Fi access, and a lounge.",
-               "<b>Off-Campus Accommodation </b> <br>Southern West Virginia Community & Technical College does not offer off-campus housing for students. However, there are several off-campus options available in the vicinity of the college. There are various apartments, hostels, and hotels in the area that offer accommodation services to students. The nearby hostels offer private and shared rooms with modern amenities and facilities."
+                "<b>On-Campus Accommodation </b> <br>Southern West Virginia Community & Technical College offers on-campus housing for students. The housing residence hall is located on the campus and is equipped with modern amenities and facilities. The residence hall has a capacity of accommodating up to 200 students and is available in single and double occupancy. The on-campus residence hall offers a variety of amenities such as a laundry room, study areas, Wi-Fi access, and a lounge.",
+                "<b>Off-Campus Accommodation </b> <br>Southern West Virginia Community & Technical College does not offer off-campus housing for students. However, there are several off-campus options available in the vicinity of the college. There are various apartments, hostels, and hotels in the area that offer accommodation services to students. The nearby hostels offer private and shared rooms with modern amenities and facilities."
             ]
         },
         {

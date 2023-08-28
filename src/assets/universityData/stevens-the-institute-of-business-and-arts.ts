@@ -68,30 +68,94 @@ export const stevenstheinstituteofbusinessandarts = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "",
-            "data": [
-                "Bachelor of Science in Business Administration Tuition Fee: $800 per credit hour",
-                "Bachelor of Science in Accounting Tuition Fee: $800 per credit hour",
-                "Bachelor of Science in Computer Science Tuition Fee: $800 per credit hour",
-                "Bachelor of Science in Computer Information Systems Tuition Fee: $800 per credit hour",
-                "Bachelor of Science in Management Tuition Fee: $800 per credit hour",
-                "Bachelor of Arts in Business Administration Tuition Fee: $800 per credit hour",
-                "Bachelor of Arts in Accounting Tuition Fee: $800 per credit hour",
-                "Bachelor of Arts in Computer Science Tuition Fee: $800 per credit hour",
-                "Bachelor of Arts in Computer Information Systems Tuition Fee: $800 per credit hour",
-                "Bachelor of Arts in Management Tuition Fee: $800 per credit hour",
-                "Master of Business Administration (MBA) Tuition Fee: $800 per credit hour",
-                "Master of Science in Computer Information Systems Tuition Fee: $800 per credit hour",
-                "Master of Science in Management Tuition Fee: $800 per credit hour",
-                "Master of Science in Accounting Tuition Fee: $800 per credit hour",
-                "Master of Science in Computer Science Tuition Fee: $800 per credit hour",
-                "Master of Arts in Business Administration Tuition Fee: $800 per credit hour",
-                "Master of Arts in Accounting Tuition Fee: $800 per credit hour",
-                "Master of Arts in Computer Science Tuition Fee: $800 per credit hour",
-                "Master of Arts in Computer Information Systems Tuition Fee: $800 per credit hour",
-                "Master of Arts in Management Tuition Fee: $800 per credit hour",
+            "col": [
+                "Course",
+                "Tuition Fee",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Science in Business Administration",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Science in Accounting",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Science in Computer Science",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Science in Computer Information Systems",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Arts in Business Administration",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Science in Management",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Arts in Accounting",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Arts in Computer Science",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Arts in Computer Information Systems",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Bachelor of Arts in Management",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Business Administration (MBA)",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Science in Computer Information Systems",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Science in Management",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Science in Accounting",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Science in Computer Science",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Arts in Business Administration",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Arts in Accounting",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Arts in Computer Science",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Arts in Computer Information Systems",
+                    "Tuition Fee": "$800 per credit hour"
+                },
+                {
+                    "Course": "Master of Arts in Management",
+                    "Tuition Fee": "$800 per credit hour"
+                }
             ]
         },
         {

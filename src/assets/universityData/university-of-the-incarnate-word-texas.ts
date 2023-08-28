@@ -69,56 +69,178 @@ export const universityoftheincarnatewordtexas = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "University of the Incarnate Word offers over 90 undergraduate, graduate, and doctoral programs.",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "Accounting <br> Tuition Fees: $30,440 ",
-                "Business Administration <br> Tuition Fees: $30,440 ",
-                "Communication <br> Tuition Fees: $30,440 ",
-                "Computer Science <br> Tuition Fees: $30,440 ",
-                "Criminal Justice <br> Tuition Fees: $30,440 ",
-                "Education <br> Tuition Fees: $30,440 ",
-                "English <br> Tuition Fees: $30,440 ",
-                "Fashion Merchandising <br> Tuition Fees: $30,440 ",
-                "Finance <br> Tuition Fees: $30,440 ",
-                "Health Care Management <br> Tuition Fees: $30,440 ",
-                "History <br> Tuition Fees: $30,440 ",
-                "Human Resources <br> Tuition Fees: $30,440 ",
-                "International Business <br> Tuition Fees: $30,440 ",
-                "Nursing <br> Tuition Fees: $30,440 ",
-                "Psychology <br> Tuition Fees: $30,440 ",
-                "Religious Studies <br> Tuition Fees: $30,440 ",
-                "Social Work <br> Tuition Fees: $30,440 ",
-                "Spanish <br> Tuition Fees: $30,440 ",
-                "Sport Management <br> Tuition Fees: $30,440 ",
+            "col": [
+                "Program",
+                "Tuition Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Communication",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Criminal Justice",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Education",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "English",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Fashion Merchandising",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Finance",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Health Care Management",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "History",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Human Resources",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "International Business",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Nursing",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Religious Studies",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Social Work",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Spanish",
+                    "Tuition Fees": "$30,440"
+                },
+                {
+                    "Program": "Sport Management",
+                    "Tuition Fees": "$30,440"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
-            "info": "Graduate Programs: ",
-            "data": [
-                "Accounting <br> Tuition Fees: $17,340 ",
-                "Business Administration <br> Tuition Fees: $17,340 ",
-                "Communication <br> Tuition Fees: $17,340 ",
-                "Computer Science <br> Tuition Fees: $17,340 ",
-                "Criminal Justice <br> Tuition Fees: $17,340 ",
-                "Education <br> Tuition Fees: $17,340 ",
-                "English <br> Tuition Fees: $17,340 ",
-                "Fashion Merchandising <br> Tuition Fees: $17,340 ",
-                "Finance <br> Tuition Fees: $17,340 ",
-                "Health Care Management <br> Tuition Fees: $17,340 ",
-                "History <br> Tuition Fees: $17,340 ",
-                "Human Resources <br> Tuition Fees: $17,340 ",
-                "International Business <br> Tuition Fees: $17,340 ",
-                "Nursing <br> Tuition Fees: $17,340 ",
-                "Psychology <br> Tuition Fees: $17,340 ",
-                "Religious Studies <br> Tuition Fees: $17,340 ",
-                "Social Work <br> Tuition Fees: $17,340 ",
-                "Spanish <br> Tuition Fees: $17,340 ",
-                "Sport Management <br> Tuition Fees: $17,340",
+            "info": "Graduate Programs:",
+            "col": [
+                "Program",
+                "Tuition Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Communication",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Criminal Justice",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Education",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "English",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Fashion Merchandising",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Finance",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Health Care Management",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "History",
+                    "Tuition Fees": "$17,340"
+                },
+                 {
+                    "Program": "Human Resources",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "International Business",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Nursing",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Religious Studies",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Social Work",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Spanish",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "Sport Management",
+                    "Tuition Fees": "$17,340"
+                }
             ]
         },
         {

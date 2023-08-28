@@ -70,39 +70,110 @@ export const unioncollegenebraska = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Union College is a private, four-year liberal arts college located in Lincoln, Nebraska. The college offers over 40 undergraduate and graduate degree programs in the areas of business, communication, education, engineering, human services, music, psychology, and more.",
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-            "data": [
-                "Accounting  Tuition & Fees: $37,150",
-                "Biology  Tuition & Fees: $37,150",
-                "Business Administration  Tuition & Fees: $37,150",
-                "Chemistry  Tuition & Fees: $37,150",
-                "Computer Science  Tuition & Fees: $37,150",
-                "Engineering  Tuition & Fees: $37,150",
-                "English  Tuition & Fees: $37,150",
-                "History  Tuition & Fees: $37,150",
-                "Mathematics  Tuition & Fees: $37,150",
-                "Music  Tuition & Fees: $37,150",
-                "Nursing  Tuition & Fees: $37,150",
-                "Psychology  Tuition & Fees: $37,150",
-                "Religion  Tuition & Fees: $37,150",
-                "Sociology  Tuition & Fees: $37,150"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Accounting",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Biology",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Business Administration",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Chemistry",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Computer Science",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Engineering",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "English",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "History",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Mathematics",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Music",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Nursing",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Religion",
+                    "Tuition & Fees": "$37,150"
+                },
+                {
+                    "Program": "Sociology",
+                    "Tuition & Fees": "$37,150"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Business Administration  Tuition & Fees: $21,600",
-                "Counseling Psychology  Tuition & Fees: $21,600",
-                "Education  Tuition & Fees: $21,600",
-                "Engineering  Tuition & Fees: $21,600",
-                "Music Education  Tuition & Fees: $21,600",
-                "Nursing  Tuition & Fees: $21,600",
-                "Psychology  Tuition & Fees: $21,600"
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Business Administration",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Counseling Psychology",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Education",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Engineering",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Music Education",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Nursing",
+                    "Tuition & Fees": "$21,600"
+                },
+                {
+                    "Program": "Psychology",
+                    "Tuition & Fees": "$21,600"
+                },
             ]
         },
         {

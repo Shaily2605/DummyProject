@@ -67,31 +67,78 @@ export const universityofmaineatpresqueisle = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Maine at Presque Isle offers several undergraduate and graduate degree programs. The university operates on a semester system and each academic program has a different tuition and fees structure.",
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-            "data": [
-                "Associate of Arts (AA)  Tuition and Fees: $13,822 ",
-                "Bachelor of Arts (BA)  Tuition and Fees: $14,902 ",
-                "Bachelor of Science (BS)  Tuition and Fees: $14,902 ",
-                "Bachelor of Science in Education (BSEd)  Tuition and Fees: $14,902 ",
-                "Bachelor of Science in Nursing (BSN)  Tuition and Fees: $15,476 ",
-                "Bachelor of Professional Studies (BPS)  Tuition and Fees: $14,902 ",
-                "Bachelor of Science in Environmental Science (BSES)  Tuition and Fees: $14,902 ",
+            "col": [
+                "Program",
+                "Tuition and Fees"
+            ],
+            "row": [
+                {
+                    "Program": "Associate of Arts (AA)",
+                    "Tuition and Fees": "$13,822"
+                },
+                {
+                    "Program": "Bachelor of Arts (BA)",
+                    "Tuition and Fees": "$14,902"
+                },
+                {
+                    "Program": "Bachelor of Science (BS)",
+                    "Tuition and Fees": "$14,902"
+                },
+                {
+                    "Program": "Bachelor of Science in Education (BSEd)",
+                    "Tuition and Fees": "$14,902"
+                },
+                {
+                    "Program": "Bachelor of Science in Nursing (BSN)",
+                    "Tuition and Fees": "$15,476"
+                },
+                {
+                    "Program": "Bachelor of Professional Studies (BPS)",
+                    "Tuition and Fees": "$14,902"
+                },
+                {
+                    "Program": "Bachelor of Science in Environmental Science (BSES)",
+                    "Tuition and Fees": "$14,902"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Master of Science in Education(MSE)  Tuition and Fees: $14, 668 ",
-                "Master of Science in Nursing(MSN)  Tuition and Fees: $18, 402 ",
-                "Master of Science in Environmental Science(MSES)  Tuition and Fees: $14, 668 ",
-                "Master of Arts in Teaching(MAT)  Tuition and Fees: $14, 668 ",
-                "Master of Business Administration(MBA)  Tuition and Fees: $15, 649 ",
-                "Master of Professional Studies(MPS)  Tuition and Fees: $14, 668",
+            "col": [
+                "Program",
+                "Tuition and Fees"
+            ],
+            "row": [
+                {
+                    "Program": "Master of Science in Education(MSE)",
+                    "Tuition and Fees": "$14,668"
+                },
+                {
+                    "Program": "Master of Science in Nursing(MSN)",
+                    "Tuition and Fees": "$18,402"
+                },
+                {
+                    "Program": "Master of Science in Environmental Science(MSES)",
+                    "Tuition and Fees": "$14,668"
+                },
+                {
+                    "Program": "Master of Arts in Teaching(MAT)",
+                    "Tuition and Fees": "$14,668"
+                },
+                {
+                    "Program": "Master of Business Administration(MBA)",
+                    "Tuition and Fees": "$15,649"
+                },
+                {
+                    "Program": "Master of Professional Studies(MPS)",
+                    "Tuition and Fees": "$14,668"
+                }
             ]
         },
         {

@@ -75,18 +75,18 @@ export const taylorcollegeandseminaryedmonton = {
             "info": "Taylor College & Seminary offers several programs that are designed to meet the needs of Christian leaders and further equip them for ministry.",
             "textBelowInfo": "The following are the courses offered by the college and their corresponding fees:",
             "data": [
-                "Bachelor of Arts in Christian Ministries: Tuition (per 3-credit course): $3,552",
-                "Master of Arts in Intercultural Studies: Tuition (per 3-credit course): $3,552",
-                "Master of Arts in Theological Studies: Tuition (per 3-credit course): $3,552",
-                "Master of Divinity: Tuition (per 3-credit course): $3,552",
-                "Doctor of Ministry: Tuition (per 3-credit course): $3,552",
-                "Doctor of Ministry with Emphasis in Global Leadership: Tuition (per 3-credit course): $3,552",
-                "Doctor of Ministry with Emphasis in Intercultural Studies: Tuition (per 3-credit course): $3,552",
-                "Doctor of Ministry with Emphasis in Transformational Leadership: Tuition (per 3-credit course): $3,552",
-                "Doctor of Philosophy in Intercultural Studies: Tuition (per 3-credit course): $3,552",
-                "Doctor of Philosophy in Theology and Cultural Engagement: Tuition (per 3-credit course): $3,552",
-                "Diploma in Christian Leadership: Tuition (per 3-credit course): $1,776",
-                "Certificate in Intercultural Studies: Tuition (per 3-credit course): $1,776"
+                "Bachelor of Arts in Christian Ministries:<br> Tuition (per 3-credit course): $3,552",
+                "Master of Arts in Intercultural Studies:<br> Tuition (per 3-credit course): $3,552",
+                "Master of Arts in Theological Studies:<br> Tuition (per 3-credit course): $3,552",
+                "Master of Divinity:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Ministry:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Ministry with Emphasis in Global Leadership:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Ministry with Emphasis in Intercultural Studies:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Ministry with Emphasis in Transformational Leadership:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Philosophy in Intercultural Studies:<br> Tuition (per 3-credit course): $3,552",
+                "Doctor of Philosophy in Theology and Cultural Engagement:<br> Tuition (per 3-credit course): $3,552",
+                "Diploma in Christian Leadership:<br> Tuition (per 3-credit course): $1,776",
+                "Certificate in Intercultural Studies:<br> Tuition (per 3-credit course): $1,776"
             ]
         },
         {

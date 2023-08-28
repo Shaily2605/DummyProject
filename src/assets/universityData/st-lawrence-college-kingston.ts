@@ -71,22 +71,62 @@ export const stlawrencecollegekingston = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is the list of courses with fee structure offered at St. Lawrence College (Kingston), Ontario, Canada:",
-            "data": [
-                "Academic English:  Tuition Fee Per Semester: $3,120",
-                "Business Administration:  Tuition Fee Per Semester: $3,120",
-                "Early Childhood Education:  Tuition Fee Per Semester: $3,120",
-                "Health Sciences:  Tuition Fee Per Semester: $3,120",
-                "Hospitality and Tourism Management:  Tuition Fee Per Semester: $3,120",
-                "Law Clerk:  Tuition Fee Per Semester: $3,120",
-                "Mechanical Techniques:  Tuition Fee Per Semester: $3,120",
-                "Police Foundations:  Tuition Fee Per Semester: $3,120",
-                "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees:  Tuition Fee Per Semester: $3,120",
-                "Pre-Service Firefighter Education and Training:  Tuition Fee Per Semester: $3,120",
-                "Social Service Worker:  Tuition Fee Per Semester: $3,120",
-                "Veterinary Technician:  Tuition Fee Per Semester: $3,120"
+            "col": [
+                "Course",
+                "Tuition Fee Per Semester",
+            ],
+            "row": [
+                {
+                    "Course": "Academic English",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Business Administration",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Early Childhood Education",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Health Sciences",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Hospitality and Tourism Management",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Law Clerk",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Mechanical Techniques",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Police Foundations",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Pre-Service Firefighter Education and Training",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Social Service Worker",
+                    "Tuition Fee Per Semester": "$3,120"
+                },
+                {
+                    "Course": "Veterinary Technician",
+                    "Tuition Fee Per Semester": "$3,120"
+                }
             ]
         },
         {

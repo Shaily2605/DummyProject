@@ -69,22 +69,62 @@ export const spartancollegeofaeronauticsandtechnology = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The Spartan College of Aeronautics and Technology, Oklahoma, USA offers the following courses: ",
-            "data": [
-                "Associate of Applied Science Degree in Aviation Maintenance Technology: Fee Structure - $37,500",
-                "Associate of Applied Science Degree in Aviation Technology: Fee Structure - $49,500",
-                "Associate of Applied Science Degree in Professional Pilot: Fee Structure - $54,500",
-                "Associate of Applied Science Degree in Unmanned Aerial Systems: Fee Structure - $37,500",
-                "Bachelor of Science Degree in Aviation Maintenance Administration: Fee Structure - $39,500",
-                "Bachelor of Science Degree in Aviation Management: Fee Structure - $39,500",
-                "Bachelor of Science Degree in Professional Pilot: Fee Structure - $59,500",
-                "Bachelor of Science Degree in Unmanned Aerial Systems: Fee Structure - $39,500",
-                "Master of Science Degree in Aviation Maintenance Administration: Fee Structure - $19,500",
-                "Master of Science Degree in Aviation Management: Fee Structure - $19,500",
-                "Master of Science Degree in Professional Pilot: Fee Structure - $19,500",
-                "Master of Science Degree in Unmanned Aerial Systems: Fee Structure - $19,500",
+            "col": [
+                "Course",
+                "Fee Structure",
+            ],
+            "row": [
+                {
+                    "Course": "Associate of Applied Science Degree in Aviation Maintenance Technology",
+                    "Fee Structure": "$37,500"
+                },
+                {
+                    "Course": "Associate of Applied Science Degree in Aviation Technology",
+                    "Fee Structure": "$49,500"
+                },
+                {
+                    "Course": "Associate of Applied Science Degree in Professional Pilot",
+                    "Fee Structure": "$54,500"
+                },
+                {
+                    "Course": "Associate of Applied Science Degree in Unmanned Aerial Systems",
+                    "Fee Structure": "$37,500"
+                },
+                {
+                    "Course": "Bachelor of Science Degree in Aviation Maintenance Administration",
+                    "Fee Structure": "$39,500"
+                },
+                {
+                    "Course": "Bachelor of Science Degree in Aviation Management",
+                    "Fee Structure": "$39,500"
+                },
+                {
+                    "Course": "Bachelor of Science Degree in Professional Pilot",
+                    "Fee Structure": "$59,500"
+                },
+                {
+                    "Course": "Bachelor of Science Degree in Unmanned Aerial Systems",
+                    "Fee Structure": "$39,500"
+                },
+                {
+                    "Course": "Master of Science Degree in Aviation Maintenance Administration",
+                    "Fee Structure": "$19,500"
+                },
+                {
+                    "Course": "Master of Science Degree in Aviation Management",
+                    "Fee Structure": "$19,500"
+                },
+                {
+                    "Course": "Master of Science Degree in Professional Pilot",
+                    "Fee Structure": "$19,500"
+                },
+                {
+                    "Course": "Master of Science Degree in Unmanned Aerial Systems",
+                    "Fee Structure": "$19,500"
+                }
             ]
         },
         {
@@ -115,15 +155,15 @@ export const spartancollegeofaeronauticsandtechnology = {
             "title": "Eligibility Requirements",
             "info": "To be eligible for admission at Spartan College of Aeronautics and Technology, Oklahoma, USA, an Indian student must meet the following criteria:",
             "data": [
-            "Have a valid Indian passport",
-            "Must be 18 years of age or older",
-            "Have at least a 10+2 level of education from a recognized institution",
-            "Meet the English language proficiency requirements for the program applied for",
-            "Submit a satisfactory score on either the TOEFL or IELTS exam",
-            "Submit official transcripts from all institutions attended",
-            "Provide valid proof of financial support to cover the cost of attendance",
-            "Have a valid student visa",
-            "Provide a valid medical certificate"
+                "Have a valid Indian passport",
+                "Must be 18 years of age or older",
+                "Have at least a 10+2 level of education from a recognized institution",
+                "Meet the English language proficiency requirements for the program applied for",
+                "Submit a satisfactory score on either the TOEFL or IELTS exam",
+                "Submit official transcripts from all institutions attended",
+                "Provide valid proof of financial support to cover the cost of attendance",
+                "Have a valid student visa",
+                "Provide a valid medical certificate"
             ]
         },
         {
@@ -131,7 +171,7 @@ export const spartancollegeofaeronauticsandtechnology = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-               "Students from India applying for admission at Spartan College of Aeronautics and Technology, Oklahoma, USA, must first meet all the admission requirements as listed on the college website. These include a completed application, high school transcripts, SAT or ACT scores, and a minimum GPA of 2.0 or above. Once these requirements are met, the student must then submit an international student application form, which includes a bank statement indicating sufficient funds to cover tuition and living expenses. Finally, the student must provide proof of English proficiency, such as a TOEFL score. Once all of the documents have been submitted, the student will receive an admission decision from the college."
+                "Students from India applying for admission at Spartan College of Aeronautics and Technology, Oklahoma, USA, must first meet all the admission requirements as listed on the college website. These include a completed application, high school transcripts, SAT or ACT scores, and a minimum GPA of 2.0 or above. Once these requirements are met, the student must then submit an international student application form, which includes a bank statement indicating sufficient funds to cover tuition and living expenses. Finally, the student must provide proof of English proficiency, such as a TOEFL score. Once all of the documents have been submitted, the student will receive an admission decision from the college."
             ]
         },
         {

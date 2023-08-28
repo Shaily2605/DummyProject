@@ -70,27 +70,22 @@ export const universityofarkansascommunitycollegeathope = {
             type: "title",
             title: ""
         },
-        // {
-        //     type: 'text',
-        //     title: 'Courses and Fees',
-        //     data: "<p></p>"
-        // },
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Below is the list of courses offered at the University of Arkansas Community College at Hope, Arkansas, USA along with the fee structure:",
             "data": [
-                "Associate of Applied Science in Business Administration: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Criminal Justice: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Early Childhood Education: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Emergency Medical Services: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Industrial Maintenance: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Nursing: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Office Systems Technology: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Applied Science in Telecommunications: Tuition and Fees: $2,500 - $3,500",
-                "Associate of General Studies: Tuition and Fees: $2,500 - $3,500",
-                "Associate of Science: Tuition and Fees: $2, 500 - $3, 500",
-                "Certificate Programs: Tuition and Fees: $1,000 - $2,000",
+                "Associate of Applied Science in Business Administration: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Criminal Justice: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Early Childhood Education: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Emergency Medical Services: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Industrial Maintenance: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Nursing: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Office Systems Technology: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Applied Science in Telecommunications: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of General Studies: <br> Tuition and Fees: $2,500 - $3,500",
+                "Associate of Science: <br> Tuition and Fees: $2, 500 - $3, 500",
+                "Certificate Programs: <br> Tuition and Fees: $1,000 - $2,000",
             ]
         },
         {

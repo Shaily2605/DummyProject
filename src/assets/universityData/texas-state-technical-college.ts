@@ -68,23 +68,66 @@ export const texasstatetechnicalcollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The following table provides a list of all the courses offered by Texas State Technical College, along with their respective fee structures.",
-            "data": [
-                "Automotive Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 	",
-                "Business Office Administration Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Computer Aided Drafting Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Computer and Network Support Technician Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Construction Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Cosmetology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Culinary Arts Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 		",
-                "Electrical Power & Controls Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Engineering Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Heating, Ventilation, Air Conditioning & Refrigeration Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Industrial Maintenance Technician Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Medical Coding & Billing Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			",
-                "Welding Technology Tuition & Fees: $3,250 (In-District), $3,850 (Out-of-District) 			"
+            "col": [
+                "Course",
+                "Fees Structure",
+            ],
+            "row": [
+                {
+                    "Course": "Automotive Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Business Office Administration",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Computer Aided Drafting",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Computer and Network Support Technician",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Construction Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Cosmetology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Culinary Arts",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Electrical Power & Controls Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Engineering Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Heating, Ventilation, Air Conditioning & Refrigeration Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Industrial Maintenance Technician",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Medical Coding & Billing",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                },
+                {
+                    "Course": "Welding Technology",
+                    "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
+                }
             ]
         },
         {

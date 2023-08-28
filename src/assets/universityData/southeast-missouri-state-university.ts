@@ -71,26 +71,61 @@ export const southeastmissouristateuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Undergraduate",
-            "data": [
-                "Bachelor of Arts: Tuition Fees: $9,918.00/Semester",
-                "Bachelor of Science: Tuition Fees: $9,918.00/Semester",
-                "Bachelor of Business Administration: Tuition Fees: $10,143.00/Semester",
-                "Bachelor of Nursing: Tuition Fees: $12,621.00/Semester"
+            "col": [
+                "Course",
+                "Tuition Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts",
+                    "Tuition Fees": "$9,918.00/Semester"
+                },
+                {
+                    "Course": "Bachelor of Science",
+                    "Tuition Fees": "$9,918.00/Semester"
+                },
+                {
+                    "Course": "Bachelor of Business Administration",
+                    "Tuition Fees": "$10,143.00/Semester"
+                },
+                {
+                    "Course": "Bachelor of Nursing",
+                    "Tuition Fees": "$12,621.00/Semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate",
-            "data": [
-                "Master of Public Administration: Tuition Fees: $10,848.00/Semester ",
-                "Master of Science in Nursing: Tuition Fees: $17,958.00/Semester",
-                "Master of Science in Education: Tuition Fees: $9,441.00/Semester",
-                "Master of Science in Criminal Justice: Tuition Fees: $9,441.00/Semester",
-                "Master of Business Administration: Tuition Fees: $10,848.00/Semester"
+            "col": [
+                "Course",
+                "Tuition Fees",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Public Administration",
+                    "Tuition Fees": "$10,848.00/Semester"
+                },
+                {
+                    "Course": "Master of Science in Nursing",
+                    "Tuition Fees": "$17,958.00/Semester"
+                },
+                {
+                    "Course": "Master of Science in Education",
+                    "Tuition Fees": "$9,441.00/Semester"
+                },
+                {
+                    "Course": "Master of Science in Criminal Justice",
+                    "Tuition Fees": "$9,441.00/Semester"
+                },
+                {
+                    "Course": "Master of Business Administration",
+                    "Tuition Fees": "$9,441.00/Semester"
+                },
             ]
         },
         {

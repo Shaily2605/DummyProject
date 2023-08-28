@@ -68,36 +68,98 @@ export const thekingsuniversityedmonton = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The Kings University (Edmonton), Alberta, Canada offers a variety of courses in various fields.",
             "textBelowInfo": "<b>Undergraduate </b>",
-            "data": [
-                "Bachelor of Arts in Biblical Studies: Tuition Fees: $15,180 per year",
-                "Bachelor of Arts in Business Administration: Tuition Fees: $15,180 per year",
-                "Bachelor of Science in Nursing: Tuition Fees: $17,000 per year",
-                "Bachelor of Science in Psychology: Tuition Fees: $15,180 per year",
-                "Bachelor of Arts in International Studies: Tuition Fees: $15,180 per year",
-                "Bachelor of Science in Computer Science: Tuition Fees: $15,180 per year",
-                "Bachelor of Science in Exercise Science: Tuition Fees: $17,000 per year",
-                "Bachelor of Science in Nutrition: Tuition Fees: $15,180 per year",
-                "Bachelor of Education: Tuition Fees: $15,180 per year"
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts in Biblical Studies",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Arts in Business Administration",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Nursing",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Psychology",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Arts in International Studies",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Computer Science",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Exercise Science",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Bachelor of Science in Nutrition",
+                    "Tuition": "$15,180 per year"
+                },
+                {
+                    "Course": "Bachelor of Education",
+                    "Tuition": "$15,180 per year"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate",
-            "data": [
-                "Master of Arts in Biblical Studies: Tuition Fees: $17,000 per year",
-                "Master of Arts in Education: Tuition Fees: $17,000 per year",
-                "Master of Education in Educational Administration: Tuition Fees: $17,000 per year",
-                "Master of Education in Counselling Psychology: Tuition Fees: $17,000 per year",
-                "Master of Education in Special Education: Tuition Fees: $17,000 per year",
-                "Master of Science in Nursing: Tuition Fees: $17,000 per year",
-                "Master of Science in Exercise Science: Tuition Fees: $17,000 per year",
-                "Master of Science in Nutrition: Tuition Fees: $17,000 per year",
-                "Master of Business Administration: Tuition Fees: $17,000 per year"
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Arts in Biblical Studies",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Arts in Education",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Education in Educational Administration",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Education in Counselling Psychology",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Education in Special Education",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Science in Nursing",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Science in Exercise Science",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Science in Nutrition",
+                    "Tuition": "$17,000 per year"
+                },
+                {
+                    "Course": "Master of Business Administration",
+                    "Tuition": "$17,000 per year"
+                },
             ]
         },
         {

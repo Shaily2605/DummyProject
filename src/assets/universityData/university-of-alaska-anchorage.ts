@@ -70,32 +70,98 @@ export const universityofalaskaanchorage = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The University of Alaska Anchorage (UAA) offers a range of degree and certificate programs. Below is a list of the degree and certificate programs offered at UAA and the associated tuition and fees.",
             "textBelowInfo": "<b>Degrees </b>",
-            "data": [
-                "Bachelor of Arts – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Bachelor of Science – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Bachelor of Business Administration – Tuition:$408.75 per credit hour, Fees:$43.08 per credit hour ",
-                "Master of Education – Tuition:$338.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Master of Science – Tuition:$338.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Master of Business Administration – Tuition:$444.75 per credit hour, Fees:$43.08 per credit hour ",
-                "Doctor of Education – Tuition:$489.00 per credit hour, Fees:$43.08 per credit hour ",
-                "Doctor of Nursing Practice – Tuition:$517.50 per credit hour, Fees:$43.08 per credit hour ",
+            "col": [
+                "Program",
+                "Tuition",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Bachelor of Arts",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Bachelor of Science",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Bachelor of Business Administration",
+                    "Tuition": "$408.75 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Master of Education",
+                    "Tuition": "$338.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Master of Science",
+                    "Tuition": "$338.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Master of Business Administration",
+                    "Tuition": "$444.75 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Doctor of Education",
+                    "Tuition": "$489.00 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Doctor of Nursing Practice",
+                    "Tuition": "$517.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
-            "info": "Certificates ",
-            "data": [
-                "Certificate in Alaska Native Languages – Tuition:$231.00 per credit hour, Fees:$43.08 per credit hour ",
-                "Certificate in Environmental Science – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Certificate in Geographic Information Systems – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Certificate in Health Care Management – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Certificate in Information Security – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour ",
-                "Certificate in Non-Profit Management – Tuition:$322.50 per credit hour, Fees:$43.08 per credit hour",
+            "info": "Certificates",
+            "col": [
+                "Program",
+                "Tuition",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "Certificate in Alaska Native Languages",
+                    "Tuition": "$231.00 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Certificate in Environmental Science",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Certificate in Geographic Information Systems",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Certificate in Health Care Management",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Certificate in Information Security",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                },
+                {
+                    "Program": "Certificate in Non-Profit Management",
+                    "Tuition": "$322.50 per credit hour",
+                    "Fees": "$43.08 per credit hour"
+                }
             ]
         },
         {

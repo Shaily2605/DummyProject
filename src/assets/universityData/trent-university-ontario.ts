@@ -67,26 +67,58 @@ export const trentuniversityontario = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "<p>Trent University offers a variety of courses with various fee structures.</p> <p>The following is the list of courses and the respective fee structure:</p>",
             "textBelowInfo": "<b>Undergraduate Courses:</b>",
-            "data": [
-                "Bachelor of Arts: Tuition Fee: $8,300 per semester ",
-                "Bachelor of Science: Tuition Fee: $8,500 per semester ",
-                "Bachelor of Business Administration: Tuition Fee: $9,400 per semester ",
-                "Bachelor of Education: Tuition Fee: $7,400 per semester"
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts",
+                    "Tuition": "$8,300 per semester"
+                },
+                {
+                    "Course": "Bachelor of Science",
+                    "Tuition": "$8,500 per semester"
+                },
+                {
+                    "Course": "Bachelor of Business Administration",
+                    "Tuition": "$9,400 per semester"
+                },
+                {
+                    "Course": "Bachelor of Education",
+                    "Tuition": "$7,400 per semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
-            "info": "Graduate Courses: ",
-            "data": [
-                "Master of Arts: Tuition Fee: $10,300 per semester ",
-                "Master of Science: Tuition Fee: $10,800 per semester ",
-                "Master of Business Administration: Tuition Fee: $12,400 per semester ",
-                "Master of Education: Tuition Fee: $9,400 per semester"
+            "info": "Graduate Courses:",
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Arts",
+                    "Tuition": "$10,300 per semester"
+                },
+                {
+                    "Course": "Master of Science",
+                    "Tuition": "$10,800 per semester"
+                },
+                {
+                    "Course": "Master of Business Administration",
+                    "Tuition": "$12,400 per semester"
+                },
+                {
+                    "Course": "Master of Education",
+                    "Tuition": "$9,400 per semester"
+                },
             ]
         },
         {

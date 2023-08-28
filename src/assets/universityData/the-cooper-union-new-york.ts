@@ -76,28 +76,66 @@ export const thecooperunionnewyork = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "The Cooper Union offers a variety of undergraduate and graduate degrees in art, architecture and engineering.",
             "textBelowInfo": "<b>Undergraduate Courses: </b>",
-            "data": [
-                "Bachelor of Arts (B.A.): Tuition: $49,450",
-                "Bachelor of Fine Arts (B.F.A.): Tuition: $51,450",
-                "Bachelor of Science (B.S.): Tuition: $45,450",
-                "Bachelor of Architecture (B.Arch.): Tuition: $52,450",
-                "Bachelor of Engineering (B.Eng.): Tuition: $46,450"
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Bachelor of Arts (B.A.)",
+                    "Tuition": "$49,450"
+                },
+                {
+                    "Course": "Bachelor of Fine Arts (B.F.A.)",
+                    "Tuition": "$51,450"
+                },
+                {
+                    "Course": "Bachelor of Science (B.S.)",
+                    "Tuition": "$45,450"
+                },
+                {
+                    "Course": "Bachelor of Architecture (B.Arch.)",
+                    "Tuition": "$52,450"
+                },
+                {
+                    "Course": "Bachelor of Engineering (B.Eng.)",
+                    "Tuition": "$46,450"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Courses:",
-            "data": [
-                "Master of Science in Engineering (M.S.E.): Tuition: $56,000",
-                "Master of Science in Architecture (M.S.Arch.): Tuition: $60,000",
-                "Master of Architecture (M.Arch.): Tuition: $64,000",
-                "Master of Fine Arts (M.F.A.): Tuition: $64,000",
-                "Master of Business Administration (M.B.A.): Tuition: $65,000"
+            "col": [
+                "Course",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Course": "Master of Science in Engineering (M.S.E.)",
+                    "Tuition": "$56,000"
+                },
+                {
+                    "Course": "Master of Science in Architecture (M.S.Arch.)",
+                    "Tuition": "$60,000"
+                },
+                {
+                    "Course": "Master of Architecture (M.Arch.)",
+                    "Tuition": "$64,000"
+                },
+                {
+                    "Course": "Master of Fine Arts (M.F.A.)",
+                    "Tuition": "$64,000"
+                },
+                {
+                    "Course": "Master of Business Administration (M.B.A.)",
+                    "Tuition": "$65,000"
+                },
             ]
         },
         {
