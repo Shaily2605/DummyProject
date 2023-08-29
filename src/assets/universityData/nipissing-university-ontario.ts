@@ -80,31 +80,31 @@ export const nipissinguniversityontario = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts",
+                    "Course": "<b>Bachelor of Arts </b>",
                     "Fees": "$6,400 per year"
                 },
                 {
-                    "Course": "Bachelor of Business Administration",
+                    "Course": "<b>Bachelor of Business Administration </b>",
                     "Fees": "$8,080 per year"
                 },
                 {
-                    "Course": "Bachelor of Science",
+                    "Course": "<b>Bachelor of Science </b>",
                     "Fees": "$7,500 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Nursing",
+                    "Course": "<b>Bachelor of Science in Nursing </b>",
                     "Fees": "$6,400 per year"
                 },
                 {
-                    "Course": "Bachelor of Education",
+                    "Course": "<b>Bachelor of Education </b>",
                     "Fees": "$7,000 per year"
                 },
                 {
-                    "Course": "Bachelor of Music",
+                    "Course": "<b>Bachelor of Music </b>",
                     "Fees": "$6,600 per year"
                 },
                 {
-                    "Course": "Bachelor of Physical and Health Education",
+                    "Course": "<b>Bachelor of Physical and Health Education </b>",
                     "Fees": "$6,400 per year"
                 }
             ]
@@ -119,31 +119,31 @@ export const nipissinguniversityontario = {
             ],
             "row": [
                 {
-                    "Course": "Master of Arts",
+                    "Course": "<b>Master of Arts </b>",
                     "Fees": "$6,400 per year"
                 },
                 {
-                    "Course": "Master of Education",
+                    "Course": "<b>Master of Education </b>",
                     "Fees": "$7,000 per year"
                 },
                 {
-                    "Course": "Master of Science in Nursing",
+                    "Course": "<b>Master of Science in Nursing </b>",
                     "Fees": "$6,800 per year"
                 },
                 {
-                    "Course": "Master of Business Administration",
+                    "Course": "<b>Master of Business Administration </b>",
                     "Fees": "$8,800 per year"
                 },
                 {
-                    "Course": "Master of Social Work",
+                    "Course": "<b>Master of Social Work </b>",
                     "Fees": "$7,000 per year"
                 },
                 {
-                    "Course": "Master of Applied Science",
+                    "Course": "<b>Master of Applied Science </b>",
                     "Fees": "$7,200 per year"
                 },
                 {
-                    "Course": "Master of Science",
+                    "Course": "<b>Master of Science </b>",
                     "Fees": "$7,200 per year"
                 }
             ]

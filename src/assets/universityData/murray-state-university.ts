@@ -77,107 +77,107 @@ export const murraystateuniversity = {
             ],
             "row": [
                 {
-                    "Courses": "Accounting",
+                    "Courses": "<b>Accounting </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Agriculture",
+                    "Courses": "<b>Agriculture </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Art",
+                    "Courses": "<b>Art </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Biochemistry",
+                    "Courses": "<b>Biochemistry </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Biology",
+                    "Courses": "<b>Biology </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Business Administration",
+                    "Courses": "<b>Business Administration </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Chemistry",
+                    "Courses": "<b>Chemistry </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Computer Science",
+                    "Courses": "<b>Computer Science </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Economics",
+                    "Courses": "<b>Economics </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Education",
+                    "Courses": "<b>Education </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Engineering",
+                    "Courses": "<b>Engineering </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "English",
+                    "Courses": "<b>English </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Environmental Science",
+                    "Courses": "<b>Environmental Science </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Finance",
+                    "Courses": "<b>Finance </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Health Science",
+                    "Courses": "<b>Health Science </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "History",
+                    "Courses": "<b>History </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "International Studies",
+                    "Courses": "<b>International Studies </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Mathematics",
+                    "Courses": "<b>Mathematics </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Music",
+                    "Courses": "<b>Music </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Nursing",
+                    "Courses": "<b>Nursing </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Philosophy",
+                    "Courses": "<b>Philosophy </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Physics",
+                    "Courses": "<b>Physics </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Political Science",
+                    "Courses": "<b>Political Science </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Psychology",
+                    "Courses": "<b>Psychology </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Sociology",
+                    "Courses": "<b>Sociology </b>",
                     "Fees": "$8,508 per year"
                 },
                 {
-                    "Courses": "Theatre Arts",
+                    "Courses": "<b>Theatre Arts </b>",
                     "Fees": "$8,508 per year"
                 },
             ]
@@ -192,43 +192,43 @@ export const murraystateuniversity = {
             ],
             "row": [
                 {
-                    "Courses": "Accounting",
+                    "Courses": "<b>Accounting </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Business Administration",
+                    "Courses": "<b>Business Administration </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Education",
+                    "Courses": "<b>Education </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Engineering",
+                    "Courses": "<b>Engineering </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "English",
+                    "Courses": "<b>English </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Health Sciences",
+                    "Courses": "<b>Health Sciences </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Mathematics",
+                    "Courses": "<b>Mathematics </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Nursing",
+                    "Courses": "<b>Nursing </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Psychology",
+                    "Courses": "<b>Psychology </b>",
                     "Fees": "$10,482 per year"
                 },
                 {
-                    "Courses": "Public Administration",
+                    "Courses": "<b>Public Administration </b>",
                     "Fees": "$10,482 per year"
                 }
             ]

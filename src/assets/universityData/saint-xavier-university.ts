@@ -78,43 +78,43 @@ export const saintxavieruniversity = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Actuarial Science",
+                    "Program": "<b>Actuarial Science </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Economics",
+                    "Program": "<b>Economics </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Finance",
+                    "Program": "<b>Finance </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Health Sciences",
+                    "Program": "<b>Health Sciences </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Information Technology",
+                    "Program": "<b>Information Technology </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Management",
+                    "Program": "<b>Management </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Marketing",
+                    "Program": "<b>Marketing </b>",
                     "Tuition & Fees": "$30,600"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Tuition & Fees": "$30,600"
                 }
             ]
@@ -129,43 +129,43 @@ export const saintxavieruniversity = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Economics",
+                    "Program": "<b>Economics </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Finance",
+                    "Program": "<b>Finance </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Health Administration",
+                    "Program": "<b>Health Administration </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Health Sciences",
+                    "Program": "<b>Health Sciences </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Information Technology",
+                    "Program": "<b>Information Technology </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Management",
+                    "Program": "<b>Management </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Marketing",
+                    "Program": "<b>Marketing </b>",
                     "Tuition & Fees": "$22,731"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Tuition & Fees": "$22,731"
                 }
             ]

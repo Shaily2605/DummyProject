@@ -77,31 +77,31 @@ export const universityofmaineatpresqueisle = {
             ],
             "row": [
                 {
-                    "Program": "Associate of Arts (AA)",
+                    "Program": "<b>Associate of Arts (AA) </b>",
                     "Tuition and Fees": "$13,822"
                 },
                 {
-                    "Program": "Bachelor of Arts (BA)",
+                    "Program": "<b>Bachelor of Arts (BA) </b>",
                     "Tuition and Fees": "$14,902"
                 },
                 {
-                    "Program": "Bachelor of Science (BS)",
+                    "Program": "<b>Bachelor of Science (BS) </b>",
                     "Tuition and Fees": "$14,902"
                 },
                 {
-                    "Program": "Bachelor of Science in Education (BSEd)",
+                    "Program": "<b>Bachelor of Science in Education (BSEd) </b>",
                     "Tuition and Fees": "$14,902"
                 },
                 {
-                    "Program": "Bachelor of Science in Nursing (BSN)",
+                    "Program": "<b>Bachelor of Science in Nursing (BSN) </b>",
                     "Tuition and Fees": "$15,476"
                 },
                 {
-                    "Program": "Bachelor of Professional Studies (BPS)",
+                    "Program": "<b>Bachelor of Professional Studies (BPS) </b>",
                     "Tuition and Fees": "$14,902"
                 },
                 {
-                    "Program": "Bachelor of Science in Environmental Science (BSES)",
+                    "Program": "<b>Bachelor of Science in Environmental Science (BSES) </b>",
                     "Tuition and Fees": "$14,902"
                 },
             ]
@@ -116,27 +116,27 @@ export const universityofmaineatpresqueisle = {
             ],
             "row": [
                 {
-                    "Program": "Master of Science in Education(MSE)",
+                    "Program": "<b>Master of Science in Education(MSE) </b>",
                     "Tuition and Fees": "$14,668"
                 },
                 {
-                    "Program": "Master of Science in Nursing(MSN)",
+                    "Program": "<b>Master of Science in Nursing(MSN) </b>",
                     "Tuition and Fees": "$18,402"
                 },
                 {
-                    "Program": "Master of Science in Environmental Science(MSES)",
+                    "Program": "<b>Master of Science in Environmental Science(MSES) </b>",
                     "Tuition and Fees": "$14,668"
                 },
                 {
-                    "Program": "Master of Arts in Teaching(MAT)",
+                    "Program": "<b>Master of Arts in Teaching(MAT) </b>",
                     "Tuition and Fees": "$14,668"
                 },
                 {
-                    "Program": "Master of Business Administration(MBA)",
+                    "Program": "<b>Master of Business Administration(MBA) </b>",
                     "Tuition and Fees": "$15,649"
                 },
                 {
-                    "Program": "Master of Professional Studies(MPS)",
+                    "Program": "<b>Master of Professional Studies(MPS) </b>",
                     "Tuition and Fees": "$14,668"
                 }
             ]

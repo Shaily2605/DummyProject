@@ -81,39 +81,39 @@ export const texasaandmuniversitycentraltexas = {
             ],
             "row": [
                 {
-                    "Course": "Applied Arts & Sciences",
+                    "Course": "<b>Applied Arts & Sciences </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Health Sciences",
+                    "Course": "<b>Health Sciences </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Information Technology",
+                    "Course": "<b>Information Technology </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Interdisciplinary Studies",
+                    "Course": "<b>Interdisciplinary Studies </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Kinesiology",
+                    "Course": "<b>Kinesiology </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Liberal Arts",
+                    "Course": "<b>Liberal Arts </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Tuition & Fees": "$3,033 per semester"
                 },
             ]
@@ -128,43 +128,43 @@ export const texasaandmuniversitycentraltexas = {
             ],
             "row": [
                 {
-                    "Course": "Applied Arts & Sciences (MAAS)",
+                    "Course": "<b>Applied Arts & Sciences (MAAS) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Business Administration (MBA)",
+                    "Course": "<b>Business Administration (MBA) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Education (M.Ed.)",
+                    "Course": "<b>Education (M.Ed.) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Health Sciences (MSHS)",
+                    "Course": "<b>Health Sciences (MSHS) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Information Technology (MSIT)",
+                    "Course": "<b>Information Technology (MSIT) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Interdisciplinary Studies (MIS)",
+                    "Course": "<b>Interdisciplinary Studies (MIS) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Kinesiology (MS)",
+                    "Course": "<b>Kinesiology (MS) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Nursing (MSN)",
+                    "Course": "<b>Nursing (MSN) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Advanced Nursing Practice (DNP)",
+                    "Course": "<b>Advanced Nursing Practice (DNP) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
                 {
-                    "Course": "Executive Leadership (DEL)",
+                    "Course": "<b>Executive Leadership (DEL) </b>",
                     "Tuition & Fees": "$3,936 per semester"
                 },
             ]
@@ -179,39 +179,39 @@ export const texasaandmuniversitycentraltexas = {
             ],
             "row": [
                 {
-                    "Course": "Applied Arts & Sciences",
+                    "Course": "<b>Applied Arts & Sciences </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Health Sciences",
+                    "Course": "<b>Health Sciences </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Information Technology",
+                    "Course": "<b>Information Technology </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Interdisciplinary Studies",
+                    "Course": "<b>Interdisciplinary Studies </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Kinesiology",
+                    "Course": "<b>Kinesiology </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Liberal Arts",
+                    "Course": "<b>Liberal Arts </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
             ]
@@ -226,11 +226,11 @@ export const texasaandmuniversitycentraltexas = {
             ],
             "row": [
                 {
-                    "Course": "Principal",
+                    "Course": "<b>Principal </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
                 {
-                    "Course": "Special Education",
+                    "Course": "<b>Special Education </b>",
                     "Tuition & Fees": "$1,182 per semester"
                 },
             ]

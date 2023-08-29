@@ -79,63 +79,63 @@ export const uowcollegeaustraliajervisbayterritory = {
             ],
             "row": [
                 {
-                    "Course": "Diploma of Business",
+                    "Course": "<b>Diploma of Business </b>",
                     "Fees": "AUD $14,400"
                 },
                 {
-                    "Course": "Diploma of Computing",
+                    "Course": "<b>Diploma of Computing </b>",
                     "Fees": "AUD $14,400"
                 },
                 {
-                    "Course": "Diploma of Early Childhood Education and Care",
+                    "Course": "<b>Diploma of Early Childhood Education and Care </b>",
                     "Fees": "AUD $13,700"
                 },
                 {
-                    "Course": "Diploma of Hotel Management",
+                    "Course": "<b>Diploma of Hotel Management </b>",
                     "Fees": "AUD $14,400"
                 },
                 {
-                    "Course": "Diploma of Leadership and Management",
+                    "Course": "<b>Diploma of Leadership and Management </b>",
                     "Fees": "AUD $13,400"
                 },
                 {
-                    "Course": "Diploma of Nursing",
+                    "Course": "<b>Diploma of Nursing </b>",
                     "Fees": "AUD $14,400"
                 },
                 {
-                    "Course": "Diploma of Project Management",
+                    "Course": "<b>Diploma of Project Management </b>",
                     "Fees": "AUD $13,400"
                 },
                 {
-                    "Course": "Diploma of Tourism and Hospitality Management",
+                    "Course": "<b>Diploma of Tourism and Hospitality Management </b>",
                     "Fees": "AUD $14,400"
                 },
                 {
-                    "Course": "Certificate IV in Accounting",
+                    "Course": "<b>Certificate IV in Accounting </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in Business",
+                    "Course": "<b>Certificate IV in Business </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in Leadership and Management",
+                    "Course": "<b>Certificate IV in Leadership and Management </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in New Small Business",
+                    "Course": "<b>Certificate IV in New Small Business </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in Project Management Practice",
+                    "Course": "<b>Certificate IV in Project Management Practice </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in Tourism",
+                    "Course": "<b>Certificate IV in Tourism </b>",
                     "Fees": "AUD $4,800"
                 },
                 {
-                    "Course": "Certificate IV in Work Health and Safety",
+                    "Course": "<b>Certificate IV in Work Health and Safety </b>",
                     "Fees": "AUD $4,800"
                 }
             ]

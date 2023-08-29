@@ -80,35 +80,35 @@ export const newyorkfilmacademy = {
             ],
             "row": [
                 {
-                    "Program": "Filmmaking",
+                    "Program": "<b>Filmmaking </b>",
                     "Tuition": "$22,000"
                 },
                 {
-                    "Program": "Acting for Film",
+                    "Program": "<b>Acting for Film </b>",
                     "Tuition": "$22,000"
                 },
                 {
-                    "Program": "Documentary Filmmaking",
+                    "Program": "<b>Documentary Filmmaking </b>",
                     "Tuition": "$17,000"
                 },
                 {
-                    "Program": "3D Animation & Visual Effects",
+                    "Program": "<b>3D Animation & Visual Effects </b>",
                     "Tuition": "$17,000"
                 },
                 {
-                    "Program": "Cinematography",
+                    "Program": "<b>Cinematography </b>",
                     "Tuition": "$17,000"
                 },
                 {
-                    "Program": "Digital Editing",
+                    "Program": "<b>Digital Editing </b>",
                     "Tuition": "$17,000"
                 },
                 {
-                    "Program": "Producing for Film & Television",
+                    "Program": "<b>Producing for Film & Television </b>",
                     "Tuition": "$17,000"
                 },
                 {
-                    "Program": "Screenwriting",
+                    "Program": "<b>Screenwriting </b>",
                     "Tuition": "$17,000"
                 },
             ]
@@ -123,31 +123,31 @@ export const newyorkfilmacademy = {
             ],
             "row": [
                 {
-                    "Program": "Digital Filmmaking",
+                    "Program": "<b>Digital Filmmaking </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "3D Animation & Visual Effects",
+                    "Program": "<b>3D Animation & Visual Effects </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "Cinematography",
+                    "Program": "<b>Cinematography </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "Digital Editing",
+                    "Program": "<b>Digital Editing </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "Producing for Film & Television",
+                    "Program": "<b>Producing for Film & Television </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "Screenwriting",
+                    "Program": "<b>Screenwriting </b>",
                     "Tuition": "$12,000"
                 },
                 {
-                    "Program": "Acting for Film",
+                    "Program": "<b>Acting for Film </b>",
                     "Tuition": "$12,000"
                 }
             ]
@@ -162,11 +162,11 @@ export const newyorkfilmacademy = {
             ],
             "row": [
                 {
-                    "Program": "Bachelor of Fine Arts in Filmmaking",
+                    "Program": "<b>Bachelor of Fine Arts in Filmmaking </b>",
                     "Tuition": "$73,000"
                 },
                 {
-                    "Program": "Bachelor of Fine Arts in Acting for Film",
+                    "Program": "<b>Bachelor of Fine Arts in Acting for Film </b>",
                     "Tuition": "$73,000"
                 }
             ]
@@ -181,31 +181,31 @@ export const newyorkfilmacademy = {
             ],
             "row": [
                 {
-                    "Program": "Master of Fine Arts in Filmmaking",
+                    "Program": "<b>Master of Fine Arts in Filmmaking </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in Screenwriting",
+                    "Program": "<b>Master of Fine Arts in Screenwriting </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in Producing",
+                    "Program": "<b>Master of Fine Arts in Producing </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in Cinematography",
+                    "Program": "<b>Master of Fine Arts in Cinematography </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in 3D Animation & Visual Effects",
+                    "Program": "<b>Master of Fine Arts in 3D Animation & Visual Effects </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in Digital Editing",
+                    "Program": "<b>Master of Fine Arts in Digital Editing </b>",
                     "Tuition": "$93,000"
                 },
                 {
-                    "Program": "Master of Fine Arts in Documentary Filmmaking",
+                    "Program": "<b>Master of Fine Arts in Documentary Filmmaking </b>",
                     "Tuition": "$93,000"
                 }
             ]
@@ -220,39 +220,39 @@ export const newyorkfilmacademy = {
             ],
             "row": [
                 {
-                    "Program": "Filmmaking",
+                    "Program": "<b>Filmmaking </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Documentary Filmmaking",
+                    "Program": "<b>Documentary Filmmaking </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Acting for Film",
+                    "Program": "<b>Acting for Film </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "3D Animation & Visual Effects",
+                    "Program": "<b>3D Animation & Visual Effects </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Cinematography",
+                    "Program": "<b>Cinematography </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Digital Editing",
+                    "Program": "<b>Digital Editing </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Producing for Film & Television",
+                    "Program": "<b>Producing for Film & Television </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Screenwriting",
+                    "Program": "<b>Screenwriting </b>",
                     "Tuition": "$2,400"
                 },
                 {
-                    "Program": "Camera & Lighting",
+                    "Program": "<b>Camera & Lighting </b>",
                     "Tuition": "$2,400"
                 }
             ]

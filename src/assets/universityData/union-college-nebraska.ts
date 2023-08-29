@@ -80,59 +80,59 @@ export const unioncollegenebraska = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Biology",
+                    "Program": "<b>Biology </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Chemistry",
+                    "Program": "<b>Chemistry </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Engineering",
+                    "Program": "<b>Engineering </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "English",
+                    "Program": "<b>English </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "History",
+                    "Program": "<b>History </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Mathematics",
+                    "Program": "<b>Mathematics </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Music",
+                    "Program": "<b>Music </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Religion",
+                    "Program": "<b>Religion </b>",
                     "Tuition & Fees": "$37,150"
                 },
                 {
-                    "Program": "Sociology",
+                    "Program": "<b>Sociology </b>",
                     "Tuition & Fees": "$37,150"
                 },
             ]
@@ -147,31 +147,31 @@ export const unioncollegenebraska = {
             ],
             "row": [
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Counseling Psychology",
+                    "Program": "<b>Counseling Psychology </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Engineering",
+                    "Program": "<b>Engineering </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Music Education",
+                    "Program": "<b>Music Education </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Tuition & Fees": "$21,600"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Tuition & Fees": "$21,600"
                 },
             ]

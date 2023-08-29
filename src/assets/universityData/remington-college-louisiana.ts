@@ -77,39 +77,39 @@ export const remingtoncollegelouisiana = {
             ],
             "row": [
                 {
-                    "Program": "Associate of Applied Science in Business Administration",
+                    "Program": "<b>Associate of Applied Science in Business Administration </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Associate of Applied Science in Criminal Justice",
+                    "Program": "<b>Associate of Applied Science in Criminal Justice </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Associate of Applied Science in Health Information Technology",
+                    "Program": "<b>Associate of Applied Science in Health Information Technology </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Associate of Applied Science in Medical Billing and Coding",
+                    "Program": "<b>Associate of Applied Science in Medical Billing and Coding </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Associate of Applied Science in Network Administration",
+                    "Program": "<b>Associate of Applied Science in Network Administration </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Associate of Science in Computer Science",
+                    "Program": "<b>Associate of Science in Computer Science </b>",
                     "Tuition & Fees": "$20,965"
                 },
                 {
-                    "Program": "Diploma in Business Office Administration",
+                    "Program": "<b>Diploma in Business Office Administration </b>",
                     "Tuition & Fees": "$13,965"
                 },
                 {
-                    "Program": "Diploma in Computer Networking Technology",
+                    "Program": "<b>Diploma in Computer Networking Technology </b>",
                     "Tuition & Fees": "$13,965"
                 },
                 {
-                    "Program": "Diploma in Medical Billing and Coding",
+                    "Program": "<b>Diploma in Medical Billing and Coding </b>",
                     "Tuition & Fees": "$13,965"
                 }
             ]

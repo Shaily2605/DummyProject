@@ -81,19 +81,19 @@ export const portervillecollegecalifornia = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts",
+                    "Course": "<b>Associate of Arts </b>",
                     "Tuition & Fees": "$46 per unit"
                 },
                 {
-                    "Course": "Associate of Science",
+                    "Course": "<b>Associate of Science </b>",
                     "Tuition & Fees": "$46 per unit"
                 },
                 {
-                    "Course": "Certificate of Achievement",
+                    "Course": "<b>Certificate of Achievement </b>",
                     "Tuition & Fees": "$36 per unit"
                 },
                 {
-                    "Course": "Certificate of Proficiency",
+                    "Course": "<b>Certificate of Proficiency </b>",
                     "Tuition & Fees": "$36 per unit"
                 }
             ]

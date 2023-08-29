@@ -77,83 +77,83 @@ export const stevenstheinstituteofbusinessandarts = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Science in Business Administration",
+                    "Course": "<b>Bachelor of Science in Business Administration </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Science in Accounting",
+                    "Course": "<b>Bachelor of Science in Accounting </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Science in Computer Science",
+                    "Course": "<b>Bachelor of Science in Computer Science </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Science in Computer Information Systems",
+                    "Course": "<b>Bachelor of Science in Computer Information Systems </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Arts in Business Administration",
+                    "Course": "<b>Bachelor of Arts in Business Administration </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Science in Management",
+                    "Course": "<b>Bachelor of Science in Management </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Arts in Accounting",
+                    "Course": "<b>Bachelor of Arts in Accounting </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Arts in Computer Science",
+                    "Course": "<b>Bachelor of Arts in Computer Science </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Arts in Computer Information Systems",
+                    "Course": "<b>Bachelor of Arts in Computer Information Systems </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Bachelor of Arts in Management",
+                    "Course": "<b>Bachelor of Arts in Management </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Business Administration (MBA)",
+                    "Course": "<b>Master of Business Administration (MBA) </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Science in Computer Information Systems",
+                    "Course": "<b>Master of Science in Computer Information Systems </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Science in Management",
+                    "Course": "<b>Master of Science in Management </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Science in Accounting",
+                    "Course": "<b>Master of Science in Accounting </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Science in Computer Science",
+                    "Course": "<b>Master of Science in Computer Science </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Arts in Business Administration",
+                    "Course": "<b>Master of Arts in Business Administration </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Arts in Accounting",
+                    "Course": "<b>Master of Arts in Accounting </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Arts in Computer Science",
+                    "Course": "<b>Master of Arts in Computer Science </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Arts in Computer Information Systems",
+                    "Course": "<b>Master of Arts in Computer Information Systems </b>",
                     "Tuition Fee": "$800 per credit hour"
                 },
                 {
-                    "Course": "Master of Arts in Management",
+                    "Course": "<b>Master of Arts in Management </b>",
                     "Tuition Fee": "$800 per credit hour"
                 }
             ]

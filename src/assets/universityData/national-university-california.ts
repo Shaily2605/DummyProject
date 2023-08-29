@@ -81,71 +81,71 @@ export const nationaluniversitycalifornia = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Criminal Justice",
+                    "Program": "<b>Criminal Justice </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Elementary Education",
+                    "Program": "<b>Elementary Education </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Engineering Technology",
+                    "Program": "<b>Engineering Technology </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "English",
+                    "Program": "<b>English </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Health Sciences",
+                    "Program": "<b>Health Sciences </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "History",
+                    "Program": "<b>History </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Humanities",
+                    "Program": "<b>Humanities </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Information Technology",
+                    "Program": "<b>Information Technology </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Liberal Arts",
+                    "Program": "<b>Liberal Arts </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Mathematics",
+                    "Program": "<b>Mathematics </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Public Health",
+                    "Program": "<b>Public Health </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Public Relations",
+                    "Program": "<b>Public Relations </b>",
                     "Fees": "$7,250/semester"
                 },
                 {
-                    "Program": "Sociology",
+                    "Program": "<b>Sociology </b>",
                     "Fees": "$7,250/semester"
                 },
             ]
@@ -160,51 +160,51 @@ export const nationaluniversitycalifornia = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Data Science",
+                    "Program": "<b>Data Science </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Engineering",
+                    "Program": "<b>Engineering </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Health Care Administration",
+                    "Program": "<b>Health Care Administration </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Human Services",
+                    "Program": "<b>Human Services </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Information Systems",
+                    "Program": "<b>Information Systems </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Public Administration",
+                    "Program": "<b>Public Administration </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Public Health",
+                    "Program": "<b>Public Health </b>",
                     "Fees": "$8,250/semester"
                 },
                 {
-                    "Program": "Taxation",
+                    "Program": "<b>Taxation </b>",
                     "Fees": "$8,250/semester"
                 },
 
@@ -220,35 +220,35 @@ export const nationaluniversitycalifornia = {
             ],
             "row": [
                 {
-                    "Program": "Cybersecurity",
+                    "Program": "<b>Cybersecurity </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Digital Marketing",
+                    "Program": "<b>Digital Marketing </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Educational Technology",
+                    "Program": "<b>Educational Technology </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Health Informatics",
+                    "Program": "<b>Health Informatics </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Human Resources Management",
+                    "Program": "<b>Human Resources Management </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Management",
+                    "Program": "<b>Management </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Project Management",
+                    "Program": "<b>Project Management </b>",
                     "Fees": "$2,250/semester"
                 },
                 {
-                    "Program": "Supply Chain Management",
+                    "Program": "<b>Supply Chain Management </b>",
                     "Fees": "$2,250/semester"
                 }
             ]

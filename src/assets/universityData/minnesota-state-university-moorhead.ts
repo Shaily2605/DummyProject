@@ -78,202 +78,202 @@ export const minnesotastateuniversitymoorhead = {
             ],
             "row": [
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting </b>",  
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Actuarial Science",
+                    "Course ": "<b>Actuarial Science </b>",  
                     "Tuition & Fees": "$10,874.00"
                 }, {
-                    "Course ": "Advertising & Public Relations",
+                    "Course ": "<b>Advertising & Public Relations </b>",  
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Animal Science",
+                    "Course ": "<b>Animal Science </b>",  
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Art",
+                    "Course ": "<b>Art </b>",  
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Athletic Training",
+                    "Course ": "<b>Athletic Training </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Biology",
+                    "Course ": "<b>Biology </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                  {
-                    "Course ": "Business Data Analytics",
+                    "Course ": "<b>Business Data Analytics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Chemistry",
+                    "Course ": "<b>Chemistry </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Communication Studies",
+                    "Course ": "<b>Communication Studies </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                  {
-                    "Course ": "Criminal Justice",
+                    "Course ": "<b>Criminal Justice </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                  {
-                    "Course ": "Dietetics",
+                    "Course ": "<b>Dietetics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Early Childhood Education",
+                    "Course ": "<b>Early Childhood Education </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Economics",
+                    "Course ": "<b>Economics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Education",
+                    "Course ": "<b>Education </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Elementary Education",
+                    "Course ": "<b>Elementary Education </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Engineering",
+                    "Course ": "<b>Engineering </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                   {
-                    "Course ": "Environmental Science",
+                    "Course ": "<b>Environmental Science </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Family & Consumer Science",
+                    "Course ": "<b>Family & Consumer Science </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Finance",
+                    "Course ": "<b>Finance </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Forensic Science",
+                    "Course ": "<b>Forensic Science </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Geography",
+                    "Course ": "<b>Geography </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Geology",
+                    "Course ": "<b>Geology </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Health Promotion",
+                    "Course ": "<b>Health Promotion </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Hospitality & Tourism Management",
+                    "Course ": "<b>Hospitality & Tourism Management </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Human Resource Management",
+                    "Course ": "<b>Human Resource Management </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Human Services",
+                    "Course ": "<b>Human Services </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "International Business",
+                    "Course ": "<b>International Business </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Journalism",
+                    "Course ": "<b>Journalism </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Mathematics",
+                    "Course ": "<b>Mathematics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Music",
+                    "Course ": "<b>Music </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Nursing",
+                    "Course ": "<b>Nursing </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                   {
-                    "Course ": "Organization Communication",
+                    "Course ": "<b>Organization Communication </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                   {
-                    "Course ": "Philosophy",
+                    "Course ": "<b>Philosophy </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Physical Education",
+                    "Course ": "<b>Physical Education </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Physics",
+                    "Course ": "<b>Physics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Political Science",
+                    "Course ": "<b>Political Science </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Public Health",
+                    "Course ": "<b>Public Health </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Rehabilitation & Addiction Studies",
+                    "Course ": "<b>Rehabilitation & Addiction Studies </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Science Education",
+                    "Course ": "<b>Science Education </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                   {
-                    "Course ": "Social Work",
+                    "Course ": "<b>Social Work </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Sociology",
+                    "Course ": "<b>Sociology </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Spanish",
+                    "Course ": "<b>Spanish </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Sport Management",
+                    "Course ": "<b>Sport Management </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
                 {
-                    "Course ": "Statistics",
+                    "Course ": "<b>Statistics </b>",
                     "Tuition & Fees": "$10,874.00"
                 },
             ]

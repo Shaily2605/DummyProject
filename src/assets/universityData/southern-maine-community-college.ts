@@ -82,39 +82,39 @@ export const southernmainecommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Computer Networking",
+                    "Course": "<b>Computer Networking </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Digital Media Production",
+                    "Course": "<b>Digital Media Production </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Early Childhood Education",
+                    "Course": "<b>Early Childhood Education </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "General Studies",
+                    "Course": "<b>General Studies </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Cost": "$7,200"
                 },
                 {
-                    "Course": "Paralegal Studies",
+                    "Course": "<b>Paralegal Studies </b>",
                     "Cost": "$4,800"
                 },
                 {
-                    "Course": "Physical Therapist Assistant",
+                    "Course": "<b>Physical Therapist Assistant </b>",
                     "Cost": "$7,200"
                 }
             ]
@@ -129,31 +129,31 @@ export const southernmainecommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Computer Networking",
+                    "Course": "<b>Computer Networking </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Digital Media Production",
+                    "Course": "<b>Digital Media Production </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Early Childhood Education",
+                    "Course": "<b>Early Childhood Education </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Paralegal Studies",
+                    "Course": "<b>Paralegal Studies </b>",
                     "Cost": "$1,900"
                 },
                 {
-                    "Course": "Physical Therapist Assistant",
+                    "Course": "<b>Physical Therapist Assistant </b>",
                     "Cost": "$3,100"
                 }
             ]

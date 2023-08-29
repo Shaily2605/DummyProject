@@ -79,83 +79,83 @@ export const reddeerpolytechnicuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Applied Science (BASc)",
+                    "Course": "<b>Bachelor of Applied Science (BASc) </b>",
                     "Tuition Fee": "$5,910 per year"
                 },
                 {
-                    "Course": "Bachelor of Business Administration (BBA)",
+                    "Course": "<b>Bachelor of Business Administration (BBA) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Bachelor of Arts (BA)",
+                    "Course": "<b>Bachelor of Arts (BA) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Bachelor of Science (BSc)",
+                    "Course": "<b>Bachelor of Science (BSc) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Bachelor of Education (BEd)",
+                    "Course": "<b>Bachelor of Education (BEd) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Nursing (BSN)",
+                    "Course": "<b>Bachelor of Science in Nursing (BSN) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Bachelor of Fine Arts (BFA)",
+                    "Course": "<b>Bachelor of Fine Arts (BFA) </b>",
                     "Tuition Fee": "$6,125 per year"
                 },
                 {
-                    "Course": "Diploma in Business Administration (DBA)",
+                    "Course": "<b>Diploma in Business Administration (DBA) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in Computer Systems Technology (DCST)",
+                    "Course": "<b>Diploma in Computer Systems Technology (DCST) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in Environmental Technology (DET)",
+                    "Course": "<b>Diploma in Environmental Technology (DET) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in General Studies (DGS)",
+                    "Course": "<b>Diploma in General Studies (DGS) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in Human Services (DHS)",
+                    "Course": "<b>Diploma in Human Services (DHS) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in Justice Studies (DJS)",
+                    "Course": "<b>Diploma in Justice Studies (DJS) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Diploma in Technology (DT)",
+                    "Course": "<b>Diploma in Technology (DT) </b>",
                     "Tuition Fee": "$5,310 per year"
                 },
                 {
-                    "Course": "Certificate in Business Administration (CBA)",
+                    "Course": "<b>Certificate in Business Administration (CBA) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
                 {
-                    "Course": "Certificate in Computer Systems Technology (CCST)",
+                    "Course": "<b>Certificate in Computer Systems Technology (CCST) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
                 {
-                    "Course": "Certificate in Environmental Technology (CET)",
+                    "Course": "<b>Certificate in Environmental Technology (CET) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
                 {
-                    "Course": "Certificate in Human Services (CHS)",
+                    "Course": "<b>Certificate in Human Services (CHS) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
                 {
-                    "Course": "Certificate in Justice Studies (CJS)",
+                    "Course": "<b>Certificate in Justice Studies (CJS) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
                 {
-                    "Course": "Certificate in Technology (CT)",
+                    "Course": "<b>Certificate in Technology (CT) </b>",
                     "Tuition Fee": "$3,010 per year"
                 },
             ]

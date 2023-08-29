@@ -69,33 +69,86 @@ export const wvutechhoganhallwestvirginia = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Below is the list of courses available at WVU Tech Hogan Hall, West Virginia, USA along with the fee structure. ",
             "textBelowInfo": "<b>Undergraduate Programs </b>",
-            "data": [
-                "Accounting: $8,400",
-                "Business Administration: $8,400",
-                "Computer Science: $8,400",
-                "Electrical and Computer Engineering: $9,100",
-                "Mechanical Engineering: $9,100",
-                "Nursing: $9,700",
-                "Information Technology: $8,400",
-                "Psychology: $7,900",
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Accounting </b>",
+                    "Fees": "$8,400"
+                },
+                {
+                    "Program": "<b>Business Administration </b>",
+                    "Fees": "$8,400"
+                },
+                {
+                    "Program": "<b>Computer Science </b>",
+                    "Fees": "$8,400"
+                },
+                {
+                    "Program": "<b>Electrical and Computer Engineering </b>",
+                    "Fees": "$9,100"
+                },
+                {
+                    "Program": "<b>Mechanical Engineering </b>",
+                    "Fees": "$9,100"
+                },
+                {
+                    "Program": "<b>Nursing </b>",
+                    "Fees": "$9,700"
+                },
+                {
+                    "Program": "<b>Information Technology </b>",
+                    "Fees": "$8,400"
+                },
+                {
+                    "Program": "<b>Psychology </b>",
+                    "Fees": "$7,900"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Master of Science in Accounting: $9,800",
-                "Master of Business Administration: $9,800",
-                "Master of Science in Computer Science: $9,800",
-                "Master of Science in Electrical and Computer Engineering: $10,500",
-                "Master of Science in Mechanical Engineering: $10,500",
-                "Master of Science in Nursing: $11,100",
-                "Master of Science in Information Technology: $9,800",
+            "col": [
+                "Program",
+                "Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Master of Science in Accounting </b>",
+                    "Fees": "$9,800"
+                },
+                {
+                    "Program": "<b>Master of Business Administration </b>",
+                    "Fees": "$9,800"
+                },
+                {
+                    "Program": "<b>Master of Science in Computer Science </b>",
+                    "Fees": "$9,800"
+                },
+                {
+                    "Program": "<b>Master of Science in Electrical and Computer Engineering </b>",
+                    "Fees": "$10,500"
+                },
+                {
+                    "Program": "<b>Master of Science in Mechanical Engineering </b>",
+                    "Fees": "$10,500"
+                },
+                {
+                    "Program": "<b>Master of Science in Nursing </b>",
+                    "Fees": "$11,100"
+                },
+                {
+                    "Program": "<b>Master of Science in Information Technology </b>",
+                    "Fees": "$9,800"
+                },
             ]
         },
         {

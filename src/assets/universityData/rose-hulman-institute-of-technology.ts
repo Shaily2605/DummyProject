@@ -87,43 +87,43 @@ export const rosehulmaninstituteoftechnology = {
             ],
             "row": [
                 {
-                    "Course": "Chemical Engineering",
+                    "Course": "<b>Chemical Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Civil Engineering",
+                    "Course": "<b>Civil Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Computer Engineering",
+                    "Course": "<b>Computer Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Electrical Engineering",
+                    "Course": "<b>Electrical Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Engineering Physics",
+                    "Course": "<b>Engineering Physics </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Mechanical Engineering",
+                    "Course": "<b>Mechanical Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Bioengineering",
+                    "Course": "<b>Bioengineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
                 {
-                    "Course": "Software Engineering",
+                    "Course": "<b>Software Engineering </b>",
                     "Tuition & Fees": "$51,869"
                 },
             ]
@@ -138,27 +138,27 @@ export const rosehulmaninstituteoftechnology = {
             ],
             "row": [
                 {
-                    "Course": "Bioengineering",
+                    "Course": "<b>Bioengineering </b>",
                     "Tuition & Fees": "$37,344"
                 },
                   {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Tuition & Fees": "$37,344"
                 },
                   {
-                    "Course": "Electrical and Computer Engineering",
+                    "Course": "<b>Electrical and Computer Engineering </b>",
                     "Tuition & Fees": "$37,344"
                 },
                 {
-                    "Course": "Engineering Management",
+                    "Course": "<b>Engineering Management </b>",
                     "Tuition & Fees": "$37,344"
                 },
                 {
-                    "Course": "Mechanical Engineering",
+                    "Course": "<b>Mechanical Engineering </b>",
                     "Tuition & Fees": "$37,344"
                 },
                 {
-                    "Course": "Systems Engineering and Design",
+                    "Course": "<b>Systems Engineering and Design </b>",
                     "Tuition & Fees": "$37,344"
                 },
             ]

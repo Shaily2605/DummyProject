@@ -79,39 +79,39 @@ export const theuniversityofnewmexiconewmexico = {
             ],
             "row": [
                 {
-                    "Course": "Biology",
+                    "Course": "<b>Biology </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition": "$7,039 per semester"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Tuition": "$6,977 per semester"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Tuition": "$6,977 per semester"
                 },
             ]
@@ -126,27 +126,27 @@ export const theuniversityofnewmexiconewmexico = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition": "$8,051 per semester"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Tuition": "$7,679 per semester"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Tuition": "$7,679 per semester"
                 },
                 {
-                    "Course": "Public Administration",
+                    "Course": "<b>Public Administration </b>",
                     "Tuition": "$7,679 per semester"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Tuition": "$7,679 per semester"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Tuition": "$7,679 per semester"
                 },
             ]

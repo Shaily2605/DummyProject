@@ -81,71 +81,71 @@ export const pitzercollegecalifornia = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Anthropology",
+                    "Course": "<b>Anthropology </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Art History",
+                    "Course": "<b>Art History </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Communication",
+                    "Course": "<b>Communication </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Environmental Studies",
+                    "Course": "<b>Environmental Studies </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Music",
+                    "Course": "<b>Music </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Neuroscience",
+                    "Course": "<b>Neuroscience </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Philosophy",
+                    "Course": "<b>Philosophy </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Political Science",
+                    "Course": "<b>Political Science </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$4,400"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Fees": "$4,400"
                 }
             ]
@@ -160,35 +160,35 @@ export const pitzercollegecalifornia = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Clinical Psychology",
+                    "Course": "<b>Clinical Psychology </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Environmental Analysis",
+                    "Course": "<b>Environmental Analysis </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Media Studies",
+                    "Course": "<b>Media Studies </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Organizational Management",
+                    "Course": "<b>Organizational Management </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Public Health",
+                    "Course": "<b>Public Health </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Social Change",
+                    "Course": "<b>Social Change </b>",
                     "Fees": "$7,200"
                 }
             ]

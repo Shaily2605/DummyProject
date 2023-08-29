@@ -91,23 +91,23 @@ export const saintaugustinesuniversity = {
             ],
             "row": [
                 {
-                    "Program": "Associate of Arts",
+                    "Program": "<b>Associate of Arts </b>",
                     "Tuition & Fees": "$6,750 per semester"
                 },
                 {
-                    "Program": "Bachelor of Arts",
+                    "Program": "<b>Bachelor of Arts </b>",
                     "Tuition & Fees": "$9,875 per semester"
                 },
                 {
-                    "Program": "Bachelor of Science",
+                    "Program": "<b>Bachelor of Science </b>",
                     "Tuition & Fees": "$9,875 per semester"
                 },
                 {
-                    "Program": "Master of Education",
+                    "Program": "<b>Master of Education </b>",
                     "Tuition & Fees": "$7,500 per semester"
                 },
                 {
-                    "Program": "Master of Science in Organizational Leadership",
+                    "Program": "<b>Master of Science in Organizational Leadership </b>",
                     "Tuition & Fees": "$7,500 per semester"
                 }
             ]
@@ -122,11 +122,11 @@ export const saintaugustinesuniversity = {
             ],
             "row": [
                 {
-                    "Program": "Non-Degree-Seeking Certificate Programs",
+                    "Program": "<b>Non-Degree-Seeking Certificate Programs </b>",
                     "Tuition & Fees": "$500 per course"
                 },
                 {
-                    "Program": "Non-Degree-Seeking Coursework",
+                    "Program": "<b>Non-Degree-Seeking Coursework </b>",
                     "Tuition & Fees": "$500 per course"
                 },
             ]

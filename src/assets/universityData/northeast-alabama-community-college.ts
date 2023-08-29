@@ -78,59 +78,59 @@ export const northeastalabamacommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts Degree",
+                    "Course": "<b>Associate of Arts Degree </b>",
                     "Fees": "$3,717"
                 },
                 {
-                    "Course": "Associate of Science Degree",
+                    "Course": "<b>Associate of Science Degree </b>",
                     "Fees": "$3,717"
                 },
                 {
-                    "Course": "Associate of Applied Science Degree",
+                    "Course": "<b>Associate of Applied Science Degree </b>",
                     "Fees": "$4,617"
                 },
                 {
-                    "Course": "Certificate Program",
+                    "Course": "<b>Certificate Program </b>",
                     "Fees": "$1,835"
                 },
                 {
-                    "Course": "Academic/Career Specialty Certificate Program",
+                    "Course": "<b>Academic/Career Specialty Certificate Program </b>",
                     "Fees": "$1,835"
                 },
                 {
-                    "Course": "Non-Credit Course",
+                    "Course": "<b>Non-Credit Course </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Adult Education",
+                    "Course": "<b>Adult Education </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Adult Basic Education",
+                    "Course": "<b>Adult Basic Education </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "GED Preparation Course",
+                    "Course": "<b>GED Preparation Course </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Online Courses",
+                    "Course": "<b>Online Courses </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Dual Enrollment",
+                    "Course": "<b>Dual Enrollment </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "High School Equivalency",
+                    "Course": "<b>High School Equivalency </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Corporate & Continuing Education",
+                    "Course": "<b>Corporate & Continuing Education </b>",
                     "Fees": "$25"
                 },
                 {
-                    "Course": "Workforce Development",
+                    "Course": "<b>Workforce Development </b>",
                     "Fees": "$25"
                 },
             ]

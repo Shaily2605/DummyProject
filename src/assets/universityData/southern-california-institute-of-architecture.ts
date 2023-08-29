@@ -78,27 +78,27 @@ export const southerncaliforniainstituteofarchitecture = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Architecture (B.Arch)",
+                    "Course": "<b>Bachelor of Architecture (B.Arch) </b>",
                     "Tuition & Fees": "$49,050/year"
                 },
                 {
-                    "Course": "Master of Architecture (M.Arch)",
+                    "Course": "<b>Master of Architecture (M.Arch) </b>",
                     "Tuition & Fees": "$25,700/year"
                 },
                 {
-                    "Course": "Master of Science in Architecture (MSArch)",
+                    "Course": "<b>Master of Science in Architecture (MSArch) </b>",
                     "Tuition & Fees": "$26,200/year"
                 },
                 {
-                    "Course": "Master of Science in Design Technologies (MSDT)",
+                    "Course": "<b>Master of Science in Design Technologies (MSDT) </b>",
                     "Tuition & Fees": "$25,800/year"
                 },
                 {
-                    "Course": "Professional Master of Architecture (P.M.Arch)",
+                    "Course": "<b>Professional Master of Architecture (P.M.Arch) </b>",
                     "Tuition & Fees": "$29,200/year"
                 },
                 {
-                    "Course": "Master of Science in Architecture + Urbanism (MSArch + U)",
+                    "Course": "<b>Master of Science in Architecture + Urbanism (MSArch + U) </b>",
                     "Tuition & Fees": "$25,800/year"
                 }
             ]

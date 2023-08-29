@@ -77,63 +77,63 @@ export const mountmercyuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Biology",
+                    "Course": "<b>Biology </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Finance",
+                    "Course": "<b>Finance </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Health Sciences",
+                    "Course": "<b>Health Sciences </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Human Resources",
+                    "Course": "<b>Human Resources </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Liberal Arts",
+                    "Course": "<b>Liberal Arts </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$650 per credit hour"
                 },
                 {
-                    "Course": "Social Work",
+                    "Course": "<b>Social Work </b>",
                     "Fees": "$650 per credit hour"
                 },
             ]
@@ -148,31 +148,31 @@ export const mountmercyuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Health Care Administration",
+                    "Course": "<b>Health Care Administration </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$660 per credit hour"
                 },
                 {
-                    "Course": "Social Work",
+                    "Course": "<b>Social Work </b>",
                     "Fees": "$660 per credit hour"
                 },
             ]

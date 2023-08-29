@@ -77,55 +77,55 @@ export const texasstatetechnicalcollege = {
             ],
             "row": [
                 {
-                    "Course": "Automotive Technology",
+                    "Course": "<b>Automotive Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Business Office Administration",
+                    "Course": "<b>Business Office Administration </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Computer Aided Drafting",
+                    "Course": "<b>Computer Aided Drafting </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Computer and Network Support Technician",
+                    "Course": "<b>Computer and Network Support Technician </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Construction Technology",
+                    "Course": "<b>Construction Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Cosmetology",
+                    "Course": "<b>Cosmetology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Culinary Arts",
+                    "Course": "<b>Culinary Arts </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Electrical Power & Controls Technology",
+                    "Course": "<b>Electrical Power & Controls Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Engineering Technology",
+                    "Course": "<b>Engineering Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Heating, Ventilation, Air Conditioning & Refrigeration Technology",
+                    "Course": "<b>Heating, Ventilation, Air Conditioning & Refrigeration Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Industrial Maintenance Technician",
+                    "Course": "<b>Industrial Maintenance Technician </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Medical Coding & Billing",
+                    "Course": "<b>Medical Coding & Billing </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 },
                 {
-                    "Course": "Welding Technology",
+                    "Course": "<b>Welding Technology </b>",
                     "Fees Structure": "$3,250 (In-District), $3,850 (Out-of-District)"
                 }
             ]

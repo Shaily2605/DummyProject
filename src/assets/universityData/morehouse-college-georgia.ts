@@ -75,59 +75,59 @@ export const morehousecollegegeorgia = {
             ],
             "row": [
                 {
-                    "Programs": "African American Studies",
+                    "Programs": "<b>African American Studies </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Biology",
+                    "Programs": "<b>Biology </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Business Administration",
+                    "Programs": "<b>Business Administration </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Chemistry",
+                    "Programs": "<b>Chemistry </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Computer Science",
+                    "Programs": "<b>Computer Science </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Economics",
+                    "Programs": "<b>Economics </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "English",
+                    "Programs": "<b>English </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Entrepreneurship",
+                    "Programs": "<b>Entrepreneurship </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "History",
+                    "Programs": "<b>History </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Mathematics",
+                    "Programs": "<b>Mathematics </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Music",
+                    "Programs": "<b>Music </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Political Science",
+                    "Programs": "<b>Political Science </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Psychology",
+                    "Programs": "<b>Psychology </b>",
                     "Tuition & Fees": "$41,276"
                 },
                 {
-                    "Programs": "Sociology",
+                    "Programs": "<b>Sociology </b>",
                     "Tuition & Fees": "$41,276"
                 },
             ]
@@ -142,31 +142,31 @@ export const morehousecollegegeorgia = {
             ],
             "row": [
                 {
-                    "Programs": "Master of Arts in Counseling",
+                    "Programs": "<b>Master of Arts in Counseling </b>",
                     "Tuition & Fees": "$14,935"
                 },
                 {
-                    "Programs": "Master of Business Administration",
+                    "Programs": "<b>Master of Business Administration </b>",
                     "Tuition & Fees": "$20,735"
                 },
                 {
-                    "Programs": "Master of Public Administration",
+                    "Programs": "<b>Master of Public Administration </b>",
                     "Tuition & Fees": "$20,735"
                 },
                 {
-                    "Programs": "Master of Science in Cybersecurity",
+                    "Programs": "<b>Master of Science in Cybersecurity </b>",
                     "Tuition & Fees": "$20,735"
                 },
                 {
-                    "Programs": "Master of Science in Data Science",
+                    "Programs": "<b>Master of Science in Data Science </b>",
                     "Tuition & Fees": "$20,735"
                 },
                 {
-                    "Programs": "Master of Science in Electrical Engineering",
+                    "Programs": "<b>Master of Science in Electrical Engineering </b>",
                     "Tuition & Fees": "$20,735"
                 },
                 {
-                    "Programs": "Master of Science in Mechanical Engineering",
+                    "Programs": "<b>Master of Science in Mechanical Engineering </b>",
                     "Tuition & Fees": "$20,735"
                 },
             ]

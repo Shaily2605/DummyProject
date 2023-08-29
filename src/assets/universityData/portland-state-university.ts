@@ -83,7 +83,7 @@ export const portlandstateuniversity = {
             ],
             "row": [
                 {
-                    "Program": "Bachelor's Degree",
+                    "Program": "<b>Bachelor's Degree</b>",
                     "Tuition & Fees": "$44,910 per year"
                 },
             ]
@@ -98,27 +98,27 @@ export const portlandstateuniversity = {
             ],
             "row": [
                 {
-                    "Program": "MBA",
+                    "Program": "<b>MBA </b>",
                     "Tuition & Fees": "$1,260 per credit hour"
                 },
                 {
-                    "Program": "MS in Accounting",
+                    "Program": "<b>MS in Accounting </b>",
                     "Tuition & Fees": "$1,280 per credit hour"
                 },
                 {
-                    "Program": "MA in Counseling Psychology",
+                    "Program": "<b>MA in Counseling Psychology </b>",
                     "Tuition & Fees": "$1,320 per credit hour"
                 },
                 {
-                    "Program": "MS in Education",
+                    "Program": "<b>MS in Education </b>",
                     "Tuition & Fees": "$715 per credit hour"
                 },
                 {
-                    "Program": "Doctorate in Education",
+                    "Program": "<b>Doctorate in Education </b>",
                     "Tuition & Fees": "$1,400 per credit hour"
                 },
                 {
-                    "Program": "Doctorate in Nursing Practice",
+                    "Program": "<b>Doctorate in Nursing Practice </b>",
                     "Tuition & Fees": "$1,291 per credit hour"
                 }
             ]

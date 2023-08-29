@@ -79,43 +79,43 @@ export const northwestiowacommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts (AA)",
+                    "Course": "<b>Associate of Arts (AA) </b>",
                     "Tuition and Fees": "$6,936"
                 },
                 {
-                    "Course": "Associate of Science (AS)",
+                    "Course": "<b>Associate of Science (AS) </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Associate of Applied Science (AAS)",
+                    "Course": "<b>Associate of Applied Science (AAS) </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Certificate Programs",
+                    "Course": "<b>Certificate Programs </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Online Courses",
+                    "Course": "<b>Online Courses </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Professional & Technical Programs",
+                    "Course": "<b>Professional & Technical Programs </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Adult & Continuing Education",
+                    "Course": "<b>Adult & Continuing Education </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Dual Enrollment",
+                    "Course": "<b>Dual Enrollment </b>",
                     "Tuition and Fees": "$7,146"
                 },
                 {
-                    "Course": "Non-credit Courses",
+                    "Course": "<b>Non-credit Courses </b>",
                     "Tuition and Fees": "Varies by course"
                 }
             ]

@@ -83,103 +83,103 @@ export const ouachitabaptistuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Biblical Studies",
+                    "Course": "<b>Biblical Studies </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Biology",
+                    "Course": "<b>Biology </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Chemistry",
+                    "Course": "<b>Chemistry </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Tuition & Fees": "$32,540"
                 },
                  {
-                    "Course": "Elementary Education",
+                    "Course": "<b>Elementary Education </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Finance",
+                    "Course": "<b>Finance </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Health and Human Performance",
+                    "Course": "<b>Health and Human Performance </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "International Studies",
+                    "Course": "<b>International Studies </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Kinesiology",
+                    "Course": "<b>Kinesiology </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Marketing",
+                    "Course": "<b>Marketing </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Music",
+                    "Course": "<b>Music </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Philosophy",
+                    "Course": "<b>Philosophy </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Physics",
+                    "Course": "<b>Physics </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Political Science",
+                    "Course": "<b>Political Science </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Secondary Education",
+                    "Course": "<b>Secondary Education </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Tuition & Fees": "$32,540"
                 },
                 {
-                    "Course": "Theatre Arts",
+                    "Course": "<b>Theatre Arts </b>",
                     "Tuition & Fees": "$32,540"
                 },
             ]
@@ -194,35 +194,35 @@ export const ouachitabaptistuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "Christian Studies",
+                    "Course": "<b>Christian Studies </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "Counseling",
+                    "Course": "<b>Counseling </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "Kinesiology",
+                    "Course": "<b>Kinesiology </b>",
                     "Tuition fee": "$9,000"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Tuition fee": "$9,000"
                 },  
                 {
-                    "Course": "Theatre Arts",
+                    "Course": "<b>Theatre Arts </b>",
                     "Tuition fee": "$9,000"
                 },
             ]

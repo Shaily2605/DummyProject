@@ -79,183 +79,183 @@ export const northernregionalcollegelarne = {
             ],
             "row": [
                 {
-                    "Course": "Access to Higher Education Diploma",
+                    "Course": "<b>Access to Higher Education Diploma </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "Access to Further Education Diploma",
+                    "Course": "<b>Access to Further Education Diploma </b>",
                     "Fees": "£1,100"
                 },
                 {
-                    "Course": "A Levels",
+                    "Course": "<b>A Levels </b>",
                     "Fees": "£3,000"
                 },
                 {
-                    "Course": "BTEC Diploma in Art & Design",
+                    "Course": "<b>BTEC Diploma in Art & Design </b>",
                     "Fees": "£1,600"
                 },
                 {
-                    "Course": "BTEC Diploma in Business",
+                    "Course": "<b>BTEC Diploma in Business </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "BTEC Diploma in Computing",
+                    "Course": "<b>BTEC Diploma in Computing </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "BTEC Diploma in Engineering",
+                    "Course": "<b>BTEC Diploma in Engineering </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "BTEC Diploma in Health & Social Care",
+                    "Course": "<b>BTEC Diploma in Health & Social Care </b>",
                     "Fees": "£1,600"
                 },
                 {
-                    "Course": "BTEC Diploma in Hair & Beauty",
+                    "Course": "<b>BTEC Diploma in Hair & Beauty </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "BTEC Diploma in Sport & Fitness",
+                    "Course": "<b>BTEC Diploma in Sport & Fitness </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Art & Design",
+                    "Course": "<b>BTEC Extended Diploma in Art & Design </b>",
                     "Fees": "£2,400"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Business",
+                    "Course": "<b>BTEC Extended Diploma in Business </b>",
                     "Fees": "£2,100"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Computing",
+                    "Course": "<b>BTEC Extended Diploma in Computing </b>",
                     "Fees": "£2,100"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Engineering",
+                    "Course": "<b>BTEC Extended Diploma in Engineering </b>",
                     "Fees": "£2,400"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Health & Social Care",
+                    "Course": "<b>BTEC Extended Diploma in Health & Social Care </b>",
                     "Fees": "£2,400"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Hair & Beauty",
+                    "Course": "<b>BTEC Extended Diploma in Hair & Beauty </b>",
                     "Fees": "£2,100"
                 },
                 {
-                    "Course": "BTEC Extended Diploma in Sport & Fitness",
+                    "Course": "<b>BTEC Extended Diploma in Sport & Fitness </b>",
                     "Fees": "£2,100"
                 },
                 {
-                    "Course": "Certificate in Digital Skills",
+                    "Course": "<b>Certificate in Digital Skills </b>",
                     "Fees": "£650"
                 },
                 {
-                    "Course": "Certificate in Employability Skills",
+                    "Course": "<b>Certificate in Employability Skills </b>",
                     "Fees": "£650"
                 },
                 {
-                    "Course": "Certificate in Introductory Maths",
+                    "Course": "<b>Certificate in Introductory Maths </b>",
                     "Fees": "£650"
                 },
                 {
-                    "Course": "City & Guilds Certificate in Bricklaying",
+                    "Course": "<b>City & Guilds Certificate in Bricklaying </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "City & Guilds Certificate in Carpentry & Joinery",
+                    "Course": "<b>City & Guilds Certificate in Carpentry & Joinery </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "City & Guilds Certificate in Electrical Installations",
+                    "Course": "<b>City & Guilds Certificate in Electrical Installations </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "City & Guilds Certificate in Plastering",
+                    "Course": "<b>City & Guilds Certificate in Plastering </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "City & Guilds Certificate in Plumbing",
+                    "Course": "<b>City & Guilds Certificate in Plumbing </b>",
                     "Fees": "£1,500"
                 },
                 {
-                    "Course": "Creative & Digital Media",
+                    "Course": "<b>Creative & Digital Media </b>",
                     "Fees": "£1,600"
                 },
                 {
-                    "Course": "Foundation Degree in Early Childhood Studies",
+                    "Course": "<b>Foundation Degree in Early Childhood Studies </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "Foundation Degree in Health & Social Care",
+                    "Course": "<b>Foundation Degree in Health & Social Care </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Business",
+                    "Course": "<b>HNC/HND in Business </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Computing",
+                    "Course": "<b>HNC/HND in Computing </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Engineering",
+                    "Course": "<b>HNC/HND in Engineering </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Health & Social Care",
+                    "Course": "<b>HNC/HND in Health & Social Care </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Hair & Beauty",
+                    "Course": "<b>HNC/HND in Hair & Beauty </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "HNC/HND in Sport & Fitness",
+                    "Course": "<b>HNC/HND in Sport & Fitness </b>",
                     "Fees": "£3,200"
                 },
                 {
-                    "Course": "NCFE Level 2 Certificate in Business Administration",
+                    "Course": "<b>NCFE Level 2 Certificate in Business Administration </b>",
                     "Fees": "£650"
                 },
                 {
-                    "Course": "NCFE Level 2 Certificate in Customer Service",
+                    "Course": "<b>NCFE Level 2 Certificate in Customer Service </b>",
                     "Fees": "£650"
                 },
                 {
-                    "Course": "NCFE Level 3 Diploma in Business Administration",
+                    "Course": "<b>NCFE Level 3 Diploma in Business Administration </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "NCFE Level 3 Diploma in Customer Service",
+                    "Course": "<b>NCFE Level 3 Diploma in Customer Service </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "NCFE Level 3 Diploma in Management",
+                    "Course": "<b>NCFE Level 3 Diploma in Management </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "NVQ Certificate & Diploma in Business Administration",
+                    "Course": "<b>NVQ Certificate & Diploma in Business Administration </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "NVQ Certificate & Diploma in Customer Service",
+                    "Course": "<b>NVQ Certificate & Diploma in Customer Service </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "NVQ Certificate & Diploma in Team Leading",
+                    "Course": "<b>NVQ Certificate & Diploma in Team Leading </b>",
                     "Fees": "£1,400"
                 },
                 {
-                    "Course": "Professional Cookery Diploma",
+                    "Course": "<b>Professional Cookery Diploma </b>",
                     "Fees": "£2,000"
                 },
                 {
-                    "Course": "Professional Patisserie Diploma",
+                    "Course": "<b>Professional Patisserie Diploma </b>",
                     "Fees": "£2,000"
                 },
                 {
-                    "Course": "Vocational Access Diploma",
+                    "Course": "<b>Vocational Access Diploma </b>",
                     "Fees": "£3,200"
                 }
             ]

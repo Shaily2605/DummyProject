@@ -81,43 +81,43 @@ export const morningsideuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$7,500 per semester"
                 },
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$7,500 per semester"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$6,500 per semester"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$6,500 per semester"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$7,500 per semester"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$7,000 per semester"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Fees": "$7,000 per semester"
                 },
                 {
-                    "Course": "Sport Management",
+                    "Course": "<b>Sport Management </b>",
                     "Fees": "$7,000 per semester"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Fees": "$7,000 per semester"
                 },
                 {
-                    "Course": "Social Work",
+                    "Course": "<b>Social Work </b>",
                     "Fees": "$7,000 per semester"
                 },
             ]
@@ -132,43 +132,43 @@ export const morningsideuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Master of Business Administration (MBA)",
+                    "Course": "<b>Master of Business Administration (MBA) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Nursing (MSN)",
+                    "Course": "<b>Master of Science in Nursing (MSN) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Education (M.Ed.)",
+                    "Course": "<b>Master of Education (M.Ed.) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Criminal Justice (MSCJ)",
+                    "Course": "<b>Master of Science in Criminal Justice (MSCJ) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Sport Management (MSSM)",
+                    "Course": "<b>Master of Science in Sport Management (MSSM) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Accounting (MSA)",
+                    "Course": "<b>Master of Science in Accounting (MSA) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Computer Science (MSCS)",
+                    "Course": "<b>Master of Science in Computer Science (MSCS) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Psychology (MSP)",
+                    "Course": "<b>Master of Science in Psychology (MSP) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Science in Economics (MSE)",
+                    "Course": "<b>Master of Science in Economics (MSE) </b>",
                     "Fees": "$10,000 per semester"
                 },
                 {
-                    "Course": "Master of Social Work (MSW)",
+                    "Course": "<b>Master of Social Work (MSW) </b>",
                     "Fees": "$10,000 per semester"
                 },
             ]

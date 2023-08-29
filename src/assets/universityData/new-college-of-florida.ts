@@ -79,111 +79,111 @@ export const newcollegeofflorida = {
             ],
             "row": [
                 {
-                    "Course": "Anthropology Art",
+                    "Course": "<b>Anthropology Art </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Art History",
+                    "Course": "<b>Art History </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Biology",
+                    "Course": "<b>Biology </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Chemistry",
+                    "Course": "<b>Chemistry </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Drama",
+                    "Course": "<b>Drama </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Environmental Science",
+                    "Course": "<b>Environmental Science </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Exercise Science",
+                    "Course": "<b>Exercise Science </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Film Studies",
+                    "Course": "<b>Film Studies </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "French",
+                    "Course": "<b>French </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Geography",
+                    "Course": "<b>Geography </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "German",
+                    "Course": "<b>German </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "International Studies",
+                    "Course": "<b>International Studies </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Music",
+                    "Course": "<b>Music </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Philosophy",
+                    "Course": "<b>Philosophy </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Physics",
+                    "Course": "<b>Physics </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Political Science",
+                    "Course": "<b>Political Science </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Religious Studies",
+                    "Course": "<b>Religious Studies </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Spanish",
+                    "Course": "<b>Spanish </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Urban Studies",
+                    "Course": "<b>Urban Studies </b>",
                     "Fees": "$8,375"
                 },
                 {
-                    "Course": "Women's Studies",
+                    "Course": "<b>Women's Studies </b>",
                     "Fees": "$8,375"
                 },
             ]
@@ -198,59 +198,59 @@ export const newcollegeofflorida = {
             ],
             "row": [
                 {
-                    "Course": "Art & Technology",
+                    "Course": "<b>Art & Technology </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Clinical Mental Health Counseling",
+                    "Course": "<b>Clinical Mental Health Counseling </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Art & Technology",
+                    "Course": "<b>Art & Technology </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Communication",
+                    "Course": "<b>Communication </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Interdisciplinary Studies",
+                    "Course": "<b>Interdisciplinary Studies </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Marine Science",
+                    "Course": "<b>Marine Science </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Public Administration",
+                    "Course": "<b>Public Administration </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Social Work",
+                    "Course": "<b>Social Work </b>",
                     "Fees": "$10,775"
                 },
                 {
-                    "Course": "Writing",
+                    "Course": "<b>Writing </b>",
                     "Fees": "$10,775"
                 },
             ]

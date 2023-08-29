@@ -78,35 +78,35 @@ export const universityofarkansaspulaskitechnicalcollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts",
+                    "Course": "<b>Associate of Arts </b>",
                     "Tuition & Fees": "$2,970"
                 },
                 {
-                    "Course": "Associate of Science",
+                    "Course": "<b>Associate of Science </b>",
                     "Tuition & Fees": "$2,970"
                 },
                 {
-                    "Course": "Associate of Applied Science",
+                    "Course": "<b>Associate of Applied Science </b>",
                     "Tuition & Fees": "$3,087"
                 },
                 {
-                    "Course": "Certificate Programs",
+                    "Course": "<b>Certificate Programs </b>",
                     "Tuition & Fees": "$2,743"
                 },
                 {
-                    "Course": "Non-Credit Courses",
+                    "Course": "<b>Non-Credit Courses </b>",
                     "Tuition & Fees": "Varies"
                 },
                 {
-                    "Course": "General Education",
+                    "Course": "<b>General Education </b>",
                     "Tuition & Fees": "$2,970"
                 },
                 {
-                    "Course": "Career Education",
+                    "Course": "<b>Career Education </b>",
                     "Tuition & Fees": "Varies"
                 },
                 {
-                    "Course": "Industry Certifications",
+                    "Course": "<b>Industry Certifications </b>",
                     "Tuition & Fees": "Varies"
                 }
             ]

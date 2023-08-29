@@ -81,83 +81,83 @@ export const mountstmarysuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Biology",
+                    "Course": "<b>Biology </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Economics",
+                    "Course": "<b>Economics </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "English",
+                    "Course": "<b>English </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "International Studies",
+                    "Course": "<b>International Studies </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Mathematics",
+                    "Course": "<b>Mathematics </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Philosophy",
+                    "Course": "<b>Philosophy </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Political Science",
+                    "Course": "<b>Political Science </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Psychology",
+                    "Course": "<b>Psychology </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Sociology",
+                    "Course": "<b>Sociology </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Theology",
+                    "Course": "<b>Theology </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Early Childhood Education",
+                    "Course": "<b>Early Childhood Education </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Elementary Education",
+                    "Course": "<b>Elementary Education </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Health Sciences",
+                    "Course": "<b>Health Sciences </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "History",
+                    "Course": "<b>History </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Marketing",
+                    "Course": "<b>Marketing </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$41,340"
                 },
                 {
-                    "Course": "Secondary Education",
+                    "Course": "<b>Secondary Education </b>",
                     "Fees": "$41,340"
                 },
             ]
@@ -172,31 +172,31 @@ export const mountstmarysuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Counseling",
+                    "Course": "<b>Counseling </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Health Administration",
+                    "Course": "<b>Health Administration </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Social Work",
+                    "Course": "<b>Social Work </b>",
                     "Fees": "$29,500"
                 },
                 {
-                    "Course": "Theology",
+                    "Course": "<b>Theology </b>",
                     "Fees": "$29,500"
                 },
             ]

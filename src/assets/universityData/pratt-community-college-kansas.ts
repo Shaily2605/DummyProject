@@ -77,67 +77,67 @@ export const prattcommunitycollegekansas = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts",
+                    "Course": "<b>Associate of Arts </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Associate of Science",
+                    "Course": "<b>Associate of Science </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Associate of Applied Science",
+                    "Course": "<b>Associate of Applied Science </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Agriculture",
+                    "Course": "<b>Agriculture </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Computer Information Systems",
+                    "Course": "<b>Computer Information Systems </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Early Childhood Education",
+                    "Course": "<b>Early Childhood Education </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Emergency Medical Services Technology",
+                    "Course": "<b>Emergency Medical Services Technology </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Industrial Technology",
+                    "Course": "<b>Industrial Technology </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Medical Assisting",
+                    "Course": "<b>Medical Assisting </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Paramedic Technology",
+                    "Course": "<b>Paramedic Technology </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Radiologic Technology",
+                    "Course": "<b>Radiologic Technology </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 },
                 {
-                    "Course": "Social Science",
+                    "Course": "<b>Social Science </b>",
                     "Tuition & Fees": "$110 per credit hour"
                 }
             ]

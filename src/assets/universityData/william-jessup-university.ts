@@ -72,30 +72,74 @@ export const williamjessupuniversity = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "William Jessup University offers a variety of undergraduate and graduate degree programs. Below is a list of the degree programs offered along with their estimated tuition and fees. ",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "Bachelor of Arts (BA): Tuition & Fees: $33,800 ",
-                "Bachelor of Science (BS): Tuition & Fees: $33,800 ",
-                "Bachelor of Business Administration (BBA): Tuition & Fees: $35,100 ",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Bachelor of Arts (BA) </b>",
+                    "Tuition & Fees": "$33,800"
+                },
+                {
+                    "Program": "<b>Bachelor of Science (BS) </b>",
+                    "Tuition & Fees": "$33,800"
+                },
+                {
+                    "Program": "<b>Bachelor of Business Administration (BBA) </b>",
+                    "Tuition & Fees": "$35,100"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs: ",
-            "data": [
-                "Master of Arts in Organizational Leadership (MAOL): Tuition & Fees: $19,500 ",
-                "Master of Business Administration (MBA): Tuition & Fees: $21,000 ",
-                "Master of Science in Education (MSE): Tuition & Fees: $19,500 ",
-                "Master of Science in Nursing (MSN): Tuition & Fees: $20,500 ",
-                "Master of Science in Counseling (MSC): Tuition & Fees: $22,500 ",
-                "Master of Science in Teaching (MST): Tuition & Fees: $19,500 ",
-                "Doctor of Education (EdD): Tuition & Fees: $27,500 ",
-                "Doctor of Ministry (DMin): Tuition & Fees: $22,000 ",
-                "Doctor of Philosophy (PhD): Tuition & Fees: $27,500",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Master of Arts in Organizational Leadership (MAOL) </b>",
+                    "Tuition & Fees": "$19,500"
+                },
+                {
+                    "Program": "<b>Master of Business Administration (MBA) </b>",
+                    "Tuition & Fees": "$21,000"
+                },
+                {
+                    "Program": "<b>Master of Science in Education (MSE) </b>",
+                    "Tuition & Fees": "$19,500"
+                },
+                {
+                    "Program": "<b>Master of Science in Nursing (MSN) </b>",
+                    "Tuition & Fees": "$20,500"
+                },
+                {
+                    "Program": "<b>Master of Science in Counseling (MSC) </b>",
+                    "Tuition & Fees": "$22,500"
+                },
+                {
+                    "Program": "<b>Master of Science in Teaching (MST) </b>",
+                    "Tuition & Fees": "$19,500"
+                },
+                {
+                    "Program": "<b>Doctor of Education (EdD) </b>",
+                    "Tuition & Fees": "$27,500"
+                },
+                {
+                    "Program": "<b>Doctor of Ministry (DMin) </b>",
+                    "Tuition & Fees": "$22,500"
+                },
+                {
+                    "Program": "<b>Doctor of Philosophy (PhD) </b>",
+                    "Tuition & Fees": "$27,500"
+                },
             ]
         },
         {
@@ -144,7 +188,7 @@ export const williamjessupuniversity = {
             "title": "How to Apply ?",
             "info": "",
             "data": [
-              "Students from India can apply for admission at William Jessup University in California, USA through their online application portal. Applicants must submit all necessary documents, including official transcripts and test scores, a completed international student application, a personal statement, an official English language proficiency test score, and proof of adequate financial support. Additional requirements may apply for certain programs."
+                "Students from India can apply for admission at William Jessup University in California, USA through their online application portal. Applicants must submit all necessary documents, including official transcripts and test scores, a completed international student application, a personal statement, an official English language proficiency test score, and proof of adequate financial support. Additional requirements may apply for certain programs."
             ]
         },
         {
@@ -313,9 +357,9 @@ export const williamjessupuniversity = {
             "title": "Hostel",
             "info": "",
             "data": [
-             "<b>On-campus accommodation: </b> <br> William Jessup University offers on-campus accommodation for undergraduate students. The on-campus accommodation is provided in three residence halls, which are fully furnished with air-conditioning, cable TV, high-speed internet, laundry facilities and a fitness center. The residence halls also have study rooms, computer labs, and a recreation area.",
-             "<b>Off-campus accommodations: </b> <br> William Jessup University also offers off-campus housing options for its students. There are several off-campus housing options available close to the university, such as apartments, townhouses, and houses. These off-campus accommodation options come with a range of amenities such as fully furnished rooms, air-conditioning, cable TV, high-speed internet, and laundry facilities.",
-             "<b>Hostel Facilities: </b> <br> William Jessup University does not have any on-campus hostel facilities. However, there are several off-campus hostels available near the university. These hostels offer basic amenities such as single or shared rooms, shared bathrooms, and laundry facilities."
+                "<b>On-campus accommodation: </b> <br> William Jessup University offers on-campus accommodation for undergraduate students. The on-campus accommodation is provided in three residence halls, which are fully furnished with air-conditioning, cable TV, high-speed internet, laundry facilities and a fitness center. The residence halls also have study rooms, computer labs, and a recreation area.",
+                "<b>Off-campus accommodations: </b> <br> William Jessup University also offers off-campus housing options for its students. There are several off-campus housing options available close to the university, such as apartments, townhouses, and houses. These off-campus accommodation options come with a range of amenities such as fully furnished rooms, air-conditioning, cable TV, high-speed internet, and laundry facilities.",
+                "<b>Hostel Facilities: </b> <br> William Jessup University does not have any on-campus hostel facilities. However, there are several off-campus hostels available near the university. These hostels offer basic amenities such as single or shared rooms, shared bathrooms, and laundry facilities."
             ]
         },
         {

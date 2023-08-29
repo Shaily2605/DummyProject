@@ -79,79 +79,79 @@ export const universityoftheincarnatewordtexas = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Communication",
+                    "Program": "<b>Communication </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Criminal Justice",
+                    "Program": "<b>Criminal Justice </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "English",
+                    "Program": "<b>English </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Fashion Merchandising",
+                    "Program": "<b>Fashion Merchandising </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Finance",
+                    "Program": "<b>Finance </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Health Care Management",
+                    "Program": "<b>Health Care Management </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "History",
+                    "Program": "<b>History </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Human Resources",
+                    "Program": "<b>Human Resources </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "International Business",
+                    "Program": "<b>International Business </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Religious Studies",
+                    "Program": "<b>Religious Studies </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Social Work",
+                    "Program": "<b>Social Work </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Spanish",
+                    "Program": "<b>Spanish </b>",
                     "Tuition Fees": "$30,440"
                 },
                 {
-                    "Program": "Sport Management",
+                    "Program": "<b>Sport Management </b>",
                     "Tuition Fees": "$30,440"
                 }
             ]
@@ -166,79 +166,79 @@ export const universityoftheincarnatewordtexas = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Communication",
+                    "Program": "<b>Communication </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Criminal Justice",
+                    "Program": "<b>Criminal Justice </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "English",
+                    "Program": "<b>English </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Fashion Merchandising",
+                    "Program": "<b>Fashion Merchandising </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Finance",
+                    "Program": "<b>Finance </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Health Care Management",
+                    "Program": "<b>Health Care Management </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "History",
-                    "Tuition Fees": "$17,340"
-                },
-                 {
-                    "Program": "Human Resources",
+                    "Program": "<b>History </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "International Business",
+                    "Program": "<b>Human Resources </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>International Business </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Nursing </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Religious Studies",
+                    "Program": "<b>Psychology </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Social Work",
+                    "Program": "<b>Religious Studies </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Spanish",
+                    "Program": "<b>Social Work </b>",
                     "Tuition Fees": "$17,340"
                 },
                 {
-                    "Program": "Sport Management",
+                    "Program": "<b>Spanish </b>",
+                    "Tuition Fees": "$17,340"
+                },
+                {
+                    "Program": "<b>Sport Management </b>",
                     "Tuition Fees": "$17,340"
                 }
             ]

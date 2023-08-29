@@ -81,119 +81,119 @@ export const minnesotastateuniversitymankato = {
             ],
             "row": [
                 {
-                    "Course ": "Actuarial Science",
+                    "Course ": "<b>Actuarial Science</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Agricultural Business",
+                    "Course ": "<b>Agricultural Business</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Anthropology",
+                    "Course ": "<b>Anthropology</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Art",
+                    "Course ": "<b>Art</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Biology",
+                    "Course ": "<b>Biology</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Chemistry",
+                    "Course ": "<b>Chemistry </b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Communication Studies",
+                    "Course ": "<b>Communication Studies </b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Criminal Justice",
+                    "Course ": "<b>Criminal Justice </b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Economics",
+                    "Course ": "<b>Economics</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Engineering",
+                    "Course ": "<b>Engineering</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Environmental Studies",
+                    "Course ": "<b>Environmental Studies</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Finance",
+                    "Course ": "<b>Finance</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Geography",
+                    "Course ": "<b>Geography</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Information Systems",
+                    "Course ": "<b>Information Systems</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "International Studies",
+                    "Course ": "<b>International Studies</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Journalism",
+                    "Course ": "<b>Journalism</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Marketing",
+                    "Course ": "<b>Marketing</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Mathematics",
+                    "Course ": "<b>Mathematics</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Music",
+                    "Course ": "<b>Music</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Philosophy",
+                    "Course ": "<b>Philosophy</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Political Science",
+                    "Course ": "<b>Political Science</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Sociology",
+                    "Course ": "<b>Sociology</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
                 {
-                    "Course ": "Theatre",
+                    "Course ": "<b>Theatre</b>",
                     "Tuition Fees ": "$3,719.00 per credit"
                 },
             ]
@@ -208,47 +208,47 @@ export const minnesotastateuniversitymankato = {
             ],
             "row": [
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Environmental Science",
+                    "Course ": "<b>Environmental Science</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Geography",
+                    "Course ": "<b>Geography</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Mathematics",
+                    "Course ": "<b>Mathematics</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Philosophy",
+                    "Course ": "<b>Philosophy</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Public Administration",
+                    "Course ": "<b>Public Administration</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
                 {
-                    "Course ": "Social Work",
+                    "Course ": "<b>Social Work</b>",
                     "Tuition Fees ": "$5,606.00 per credit"
                 },
             ]

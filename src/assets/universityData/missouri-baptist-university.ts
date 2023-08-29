@@ -80,43 +80,43 @@ export const missouribaptistuniversity = {
             ],
             "row": [
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Fees": "$675 per credit hour"
                 },
                 {
-                    "Course ": "Communication",
+                    "Course ": "<b>Communication </b>",
                     "Fees": "$675 per credit hour"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Fees": "$675 per credit hour"
                 },
                 {
-                    "Course ": "Education",
+                    "Course ": "<b>Education </b>",
                     "Fees": "$680 per credit hour"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English </b>",
                     "Fees": "$680 per credit hour"
                 },
                 {
-                    "Course ": "Exercise Science",
+                    "Course ": "<b>Exercise Science </b>",
                     "Fees": "$680 per credit hour"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History </b>",
                     "Fees": "$680 per credit hour"
                 },
                 {
-                    "Course ": "Nursing",
+                    "Course ": "<b>Nursing </b>",
                     "Fees": "$675 per credit hour"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology </b>",
                     "Fees": "$680 per credit hour"
                 },
                 {
-                    "Course ": "Social Work",
+                    "Course ": "<b>Social Work </b>",
                     "Fees": "$680 per credit hour"
                 },
             ]
@@ -131,31 +131,31 @@ export const missouribaptistuniversity = {
             ],
             "row": [
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting </b>",
                     "Fees": "$750 per credit hour"
                 },
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Fees": "$750 per credit hour"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Fees": "$750 per credit hour"
                 },
                 {
-                    "Course ": "Education",
+                    "Course ": "<b>Education </b>",
                     "Fees": "$775 per credit hour"
                 },
                 {
-                    "Course ": "Nursing",
+                    "Course ": "<b>Nursing </b>",
                     "Fees": "$750 per credit hour"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology </b>",
                     "Fees": "$775 per credit hour"
                 },
                 {
-                    "Course ": "Social Work",
+                    "Course ": "<b>Social Work </b>",
                     "Fees": "$775 per credit hour"
                 },
             ]

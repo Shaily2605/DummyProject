@@ -80,51 +80,51 @@ export const stlawrencecollegekingston = {
             ],
             "row": [
                 {
-                    "Course": "Academic English",
+                    "Course": "<b>Academic English </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Early Childhood Education",
+                    "Course": "<b>Early Childhood Education </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Health Sciences",
+                    "Course": "<b>Health Sciences </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Hospitality and Tourism Management",
+                    "Course": "<b>Hospitality and Tourism Management </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Law Clerk",
+                    "Course": "<b>Law Clerk </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Mechanical Techniques",
+                    "Course": "<b>Mechanical Techniques </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Police Foundations",
+                    "Course": "<b>Police Foundations </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Pre-Health Sciences Pathway to Advanced Diplomas and Degrees",
+                    "Course": "<b>Pre-Health Sciences Pathway to Advanced Diplomas and Degrees </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Pre-Service Firefighter Education and Training",
+                    "Course": "<b>Pre-Service Firefighter Education and Training </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Social Service Worker",
+                    "Course": "<b>Social Service Worker </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 },
                 {
-                    "Course": "Veterinary Technician",
+                    "Course": "<b>Veterinary Technician </b>",
                     "Tuition Fee Per Semester": "$3,120"
                 }
             ]

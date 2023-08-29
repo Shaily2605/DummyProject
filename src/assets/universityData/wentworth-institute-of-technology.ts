@@ -85,71 +85,71 @@ export const wentworthinstituteoftechnology = {
             ],
             "row": [
                 {
-                    "Course ": "Bachelor of Science in Architecture",
+                    "Course ": "<b>Bachelor of Science in Architecture </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Civil Engineering",
+                    "Course ": "<b>Bachelor of Science in Civil Engineering </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Electrical Engineering",
+                    "Course ": "<b>Bachelor of Science in Electrical Engineering </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Mechanical Engineering",
+                    "Course ": "<b>Bachelor of Science in Mechanical Engineering </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Computer Science",
+                    "Course ": "<b>Bachelor of Science in Computer Science </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Computer Engineering",
+                    "Course ": "<b>Bachelor of Science in Computer Engineering </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Information Technology",
+                    "Course ": "<b>Bachelor of Science in Information Technology </b>",
                     "Tuition Fees ": "$47,958"
                 },
                 {
-                    "Course ": "Bachelor of Science in Construction Management",
+                    "Course ": "<b>Bachelor of Science in Construction Management</b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Construction Management and Design",
+                    "Course ": "<b>Bachelor of Science in Construction Management and Design</b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Interior Design",
+                    "Course ": "<b>Bachelor of Science in Interior Design</b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Manufacturing Engineering",
+                    "Course ": "<b>Bachelor of Science in Manufacturing Engineering</b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Robotics Engineering",
+                    "Course ": "<b>Bachelor of Science in Robotics Engineering </b>",
                     "Tuition Fees ": "$48,908"
                 },
                 {
-                    "Course ": "Bachelor of Science in Management",
+                    "Course ": "<b>Bachelor of Science in Management </b>",
                     "Tuition Fees ": "$45,738"
                 },
                 {
-                    "Course ": "Bachelor of Science in Business Administration",
+                    "Course ": "<b>Bachelor of Science in Business Administration </b>",
                     "Tuition Fees ": "$45,738"
                 },
                 {
-                    "Course ": "Bachelor of Science in Innovation and Design",
+                    "Course ": "<b>Bachelor of Science in Innovation and Design </b>",
                     "Tuition Fees ": "$45,738"
                 },
                 {
-                    "Course ": "Bachelor of Science in Digital Media",
+                    "Course ": "<b>Bachelor of Science in Digital Media </b>",
                     "Tuition Fees ": "$45,738"
                 },
                 {
-                    "Course ": "Bachelor of Science in Network Security and Information Assurance",
+                    "Course ": "<b>Bachelor of Science in Network Security and Information Assurance </b>",
                     "Tuition Fees ": "$45,738"
                 },
             ]

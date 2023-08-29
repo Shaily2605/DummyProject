@@ -79,47 +79,47 @@ export const nsccinstituteoftechnologycampus = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts (AA)",
+                    "Course": "<b>Associate of Arts (AA) </b>",
                     "Fees": "$5,915"
                 },
                 {
-                    "Course": "Civil Engineering Technology",
+                    "Course": "<b>Civil Engineering Technology </b>",
                     "Fees": "$6,280"
                 },
                 {
-                    "Course": "Computer Engineering Technology",
+                    "Course": "<b>Computer Engineering Technology </b>",
                     "Fees": "$6,790"
                 },
                 {
-                    "Course": "Electrical Engineering Technology",
+                    "Course": "<b>Electrical Engineering Technology </b>",
                     "Fees": "$6,790"
                 },
                 {
-                    "Course": "Electronics Engineering Technology",
+                    "Course": "<b>Electronics Engineering Technology </b>",
                     "Fees": "$6,790"
                 },
                 {
-                    "Course": "Industrial Automation Engineering Technology",
+                    "Course": "<b>Industrial Automation Engineering Technology </b>",
                     "Fees": "$6,790"
                 },
                 {
-                    "Course": "Mechanical Engineering Technology",
+                    "Course": "<b>Mechanical Engineering Technology </b>",
                     "Fees": "$6,790"
                 },
                 {
-                    "Course": "Petroleum Engineering Technology",
+                    "Course": "<b>Petroleum Engineering Technology </b>",
                     "Fees": "$5,915"
                 },
                 {
-                    "Course": "Process Automation Engineering Technology",
+                    "Course": "<b>Process Automation Engineering Technology </b>",
                     "Fees": "$6,970"
                 },
                 {
-                    "Course": "Renewable Resource Technology",
+                    "Course": "<b>Renewable Resource Technology </b>",
                     "Fees": "$6,280"
                 },
                 {
-                    "Course": "Web and Mobile Application Development",
+                    "Course": "<b>Web and Mobile Application Development </b>",
                     "Fees": "$6,280"
                 }
             ]

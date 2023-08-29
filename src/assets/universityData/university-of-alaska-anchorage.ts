@@ -81,42 +81,42 @@ export const universityofalaskaanchorage = {
             ],
             "row": [
                 {
-                    "Program": "Bachelor of Arts",
+                    "Program": "<b>Bachelor of Arts </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Bachelor of Science",
+                    "Program": "<b>Bachelor of Science </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Bachelor of Business Administration",
+                    "Program": "<b>Bachelor of Business Administration </b>",
                     "Tuition": "$408.75 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Master of Education",
+                    "Program": "<b>Master of Education </b>",
                     "Tuition": "$338.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Master of Science",
+                    "Program": "<b>Master of Science </b>",
                     "Tuition": "$338.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Master of Business Administration",
+                    "Program": "<b>Master of Business Administration </b>",
                     "Tuition": "$444.75 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Doctor of Education",
+                    "Program": "<b>Doctor of Education </b>",
                     "Tuition": "$489.00 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Doctor of Nursing Practice",
+                    "Program": "<b>Doctor of Nursing Practice </b>",
                     "Tuition": "$517.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 }
@@ -133,32 +133,32 @@ export const universityofalaskaanchorage = {
             ],
             "row": [
                 {
-                    "Program": "Certificate in Alaska Native Languages",
+                    "Program": "<b>Certificate in Alaska Native Languages </b>",
                     "Tuition": "$231.00 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Certificate in Environmental Science",
+                    "Program": "<b>Certificate in Environmental Science </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Certificate in Geographic Information Systems",
+                    "Program": "<b>Certificate in Geographic Information Systems </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Certificate in Health Care Management",
+                    "Program": "<b>Certificate in Health Care Management </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Certificate in Information Security",
+                    "Program": "<b>Certificate in Information Security </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 },
                 {
-                    "Program": "Certificate in Non-Profit Management",
+                    "Program": "<b>Certificate in Non-Profit Management </b>",
                     "Tuition": "$322.50 per credit hour",
                     "Fees": "$43.08 per credit hour"
                 }

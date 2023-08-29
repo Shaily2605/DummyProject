@@ -77,19 +77,19 @@ export const trentuniversityontario = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts",
+                    "Course": "<b>Bachelor of Arts </b>",
                     "Tuition": "$8,300 per semester"
                 },
                 {
-                    "Course": "Bachelor of Science",
+                    "Course": "<b>Bachelor of Science </b>",
                     "Tuition": "$8,500 per semester"
                 },
                 {
-                    "Course": "Bachelor of Business Administration",
+                    "Course": "<b>Bachelor of Business Administration </b>",
                     "Tuition": "$9,400 per semester"
                 },
                 {
-                    "Course": "Bachelor of Education",
+                    "Course": "<b>Bachelor of Education </b>",
                     "Tuition": "$7,400 per semester"
                 },
             ]
@@ -104,19 +104,19 @@ export const trentuniversityontario = {
             ],
             "row": [
                 {
-                    "Course": "Master of Arts",
+                    "Course": "<b>Master of Arts </b>",
                     "Tuition": "$10,300 per semester"
                 },
                 {
-                    "Course": "Master of Science",
+                    "Course": "<b>Master of Science </b>",
                     "Tuition": "$10,800 per semester"
                 },
                 {
-                    "Course": "Master of Business Administration",
+                    "Course": "<b>Master of Business Administration </b>",
                     "Tuition": "$12,400 per semester"
                 },
                 {
-                    "Course": "Master of Education",
+                    "Course": "<b>Master of Education </b>",
                     "Tuition": "$9,400 per semester"
                 },
             ]

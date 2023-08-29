@@ -78,39 +78,39 @@ export const thekingsuniversityedmonton = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts in Biblical Studies",
+                    "Course": "<b>Bachelor of Arts in Biblical Studies </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Arts in Business Administration",
+                    "Course": "<b>Bachelor of Arts in Business Administration </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Nursing",
+                    "Course": "<b>Bachelor of Science in Nursing </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Psychology",
+                    "Course": "<b>Bachelor of Science in Psychology </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Arts in International Studies",
+                    "Course": "<b>Bachelor of Arts in International Studies </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Computer Science",
+                    "Course": "<b>Bachelor of Science in Computer Science </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Exercise Science",
+                    "Course": "<b>Bachelor of Science in Exercise Science </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Bachelor of Science in Nutrition",
+                    "Course": "<b>Bachelor of Science in Nutrition </b>",
                     "Tuition": "$15,180 per year"
                 },
                 {
-                    "Course": "Bachelor of Education",
+                    "Course": "<b>Bachelor of Education </b>",
                     "Tuition": "$15,180 per year"
                 }
             ]
@@ -125,39 +125,39 @@ export const thekingsuniversityedmonton = {
             ],
             "row": [
                 {
-                    "Course": "Master of Arts in Biblical Studies",
+                    "Course": "<b>Master of Arts in Biblical Studies </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Arts in Education",
+                    "Course": "<b>Master of Arts in Education </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Education in Educational Administration",
+                    "Course": "<b>Master of Education in Educational Administration </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Education in Counselling Psychology",
+                    "Course": "<b>Master of Education in Counselling Psychology </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Education in Special Education",
+                    "Course": "<b>Master of Education in Special Education </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Science in Nursing",
+                    "Course": "<b>Master of Science in Nursing </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Science in Exercise Science",
+                    "Course": "<b>Master of Science in Exercise Science </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Science in Nutrition",
+                    "Course": "<b>Master of Science in Nutrition </b>",
                     "Tuition": "$17,000 per year"
                 },
                 {
-                    "Course": "Master of Business Administration",
+                    "Course": "<b>Master of Business Administration </b>",
                     "Tuition": "$17,000 per year"
                 },
             ]

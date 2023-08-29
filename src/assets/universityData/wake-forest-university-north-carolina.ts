@@ -79,47 +79,150 @@ export const wakeforestuniversitynorthcarolina = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Wake Forest University offers a wide range of undergraduate, graduate, and professional degree programs. Each program has its own tuition and fees structure.",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "Arts & Science: Tuition: $48,856; Fees: $2,214",
-                "Business: Tuition: $51,288; Fees: $2,214",
-                "Education: Tuition: $41,156; Fees: $2,214",
-                "Health & Exercise Science: Tuition: $50,872; Fees: $2,214",
-                "Humanities & Social Sciences: Tuition: $48,856; Fees: $2,214",
-                "Mathematics & Computer Science: Tuition: $48,856; Fees: $2,214",
-                "Nursing: Tuition: $55,260; Fees: $2,214",
-                "Pre-Professional: Tuition: $48,856; Fees: $2,214",
-                "Science & Technology: Tuition: $48,856; Fees: $2,214",
-                "Visual & Performing Arts: Tuition: $48,856; Fees: $2,214"
+            "col": [
+                "Program",
+                "Tuition",
+                "Fees"
+            ],
+            "row": [
+                {
+                    "Program": "<b>Arts & Science </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Business </b>",
+                    "Tuition": "$51,288",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Education </b>",
+                    "Tuition": "$41,156",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Health & Exercise Science </b>",
+                    "Tuition": "$50,872",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Humanities & Social Sciences </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Mathematics & Computer Science </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Nursing </b>",
+                    "Tuition": "$55,260",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Pre-Professional </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Science & Technology </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
+                {
+                    "Program": "<b>Visual & Performing Arts </b>",
+                    "Tuition": "$48,856",
+                    "Fees": "$2,214"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Accounting: Tuition: $1,020 per credit; Fees: $500",
-                "Business: Tuition: $1,020 per credit; Fees: $500",
-                "Education: Tuition: $820 per credit; Fees: $500",
-                "Health Sciences: Tuition: $1,020 per credit; Fees: $500",
-                "Law: Tuition: $1,280 per credit; Fees: $250",
-                "Medical Sciences: Tuition: $1,020 per credit; Fees: $500",
-                "Nursing: Tuition: $820 per credit; Fees: $500",
-                "Social Work: Tuition: $1,020 per credit; Fees: $400",
+            "col": [
+                "Program",
+                "Tuition",
+                "Fees"
+            ],
+            "row": [
+                {
+                    "Program": "<b>Accounting </b>",
+                    "Tuition": "$1,020",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Business </b>",
+                    "Tuition": "$1,020",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Education </b>",
+                    "Tuition": "$820",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Health Sciences </b>",
+                    "Tuition": "$1,020",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Law </b>",
+                    "Tuition": "$1,280",
+                    "Fees": "$250"
+                },
+                {
+                    "Program": "<b>Medical Sciences </b>",
+                    "Tuition": "$1,020",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Nursing </b>",
+                    "Tuition": "$820",
+                    "Fees": "$500"
+                },
+                {
+                    "Program": "<b>Social Work </b>",
+                    "Tuition": "$820",
+                    "Fees": "$400"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Professional Programs:",
-            "data": [
-                "Doctor of Medicine: Tuition: $58,926; Fees: $1,214",
-                "Doctor of Physical Therapy: Tuition: $54,624; Fees: $1,214",
-                "Physician Assistant: Tuition: $58,926; Fees: $1,214",
-                "Doctor of Ministry: Tuition: $1,020 per credit; Fees: $500",
+            "col": [
+                "Program",
+                "Tuition",
+                "Fees"
+            ],
+            "row": [
+                {
+                    "Program": "<b>Doctor of Medicine </b>",
+                    "Tuition": "$58,926",
+                    "Fees": "$1,214"
+                },
+                {
+                    "Program": "<b>Doctor of Physical Therapy </b>",
+                    "Tuition": "$54,624",
+                    "Fees": "$1,214"
+                },
+                {
+                    "Program": "<b>Physician Assistant </b>",
+                    "Tuition": "$58,926",
+                    "Fees": "$1,214"
+                },
+                {
+                    "Program": "<b>Doctor of Ministry </b>",
+                    "Tuition": "$1,020 per credit",
+                    "Fees": "$500"
+                },
             ]
         },
         {

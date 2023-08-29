@@ -79,79 +79,79 @@ export const montanastateuniversitybillings = {
             ],
             "row": [
                 {
-                    "Degree programs": "Accounting",
+                    "Degree programs": "<b>Accounting </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Art",
+                    "Degree programs": "<b>Art </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Biological Sciences",
+                    "Degree programs": "<b>Biological Sciences </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Business Administration",
+                    "Degree programs": "<b>Business Administration </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Chemistry",
+                    "Degree programs": "<b>Chemistry </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Computer Science",
+                    "Degree programs": "<b>Computer Science </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                   {
-                    "Degree programs": "Economics",
+                    "Degree programs": "<b>Economics </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                   {
-                    "Degree programs": "Education",
+                    "Degree programs": "<b>Education </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Engineering",
+                    "Degree programs": "<b>Engineering </b>",
                     "Tuition cost": "$5,955 per semester"
                 },  
                 {
-                    "Degree programs": "English",
+                    "Degree programs": "<b>English </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "History",
+                    "Degree programs": "<b>History </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Mathematics",
+                    "Degree programs": "<b>Mathematics </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                  {
-                    "Degree programs": "Music",
+                    "Degree programs": "<b>Music </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                  {
-                    "Degree programs": "Nursing",
+                    "Degree programs": "<b>Nursing </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Philosophy",
+                    "Degree programs": "<b>Philosophy </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Political Science",
+                    "Degree programs": "<b>Political Science </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Psychology",
+                    "Degree programs": "<b>Psychology </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                 {
-                    "Degree programs": "Sociology",
+                    "Degree programs": "<b>Sociology </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
                    {
-                    "Degree programs": "Theatre Arts",
+                    "Degree programs": "<b>Theatre Arts </b>",
                     "Tuition cost": "$5,955 per semester"
                 },
             ]
@@ -166,23 +166,23 @@ export const montanastateuniversitybillings = {
             ],
             "row": [
                 {
-                    "Degree programs": "Business Administration",
+                    "Degree programs": "<b>Business Administration </b>",
                     "Tuition cost": "$6,955 per semester"
                 },
                  {
-                    "Degree programs": "Education",
+                    "Degree programs": "<b>Education </b>",
                     "Tuition cost": "$6,955 per semester"
                 },
                  {
-                    "Degree programs": "Nursing",
+                    "Degree programs": "<b>Nursing </b>",
                     "Tuition cost": "$6,955 per semester"
                 },
                 {
-                    "Degree programs": "Public Health",
+                    "Degree programs": "<b>Public Health </b>",
                     "Tuition cost": "$6,955 per semester"
                 },
                 {
-                    "Degree programs": "Social Work",
+                    "Degree programs": "<b>Social Work </b>",
                     "Tuition cost": "$6,955 per semester"
                 },
             ]
@@ -197,15 +197,15 @@ export const montanastateuniversitybillings = {
             ],
             "row": [
                 {
-                    "Degree programs": "Law",
+                    "Degree programs": "<b>Law </b>",
                     "Tuition cost": "$9,955 per semester"
                 },
                 {
-                    "Degree programs": "Medicine",
+                    "Degree programs": "<b>Medicine </b>",
                     "Tuition cost": "$9,955 per semester"
                 },
                 {
-                    "Degree programs": "Veterinary Medicine",
+                    "Degree programs": "<b>Veterinary Medicine </b>",
                     "Tuition cost": "$9,955 per semester"
                 },
             ]

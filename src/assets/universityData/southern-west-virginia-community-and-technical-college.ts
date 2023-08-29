@@ -79,15 +79,15 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts (AA)",
+                    "Course": "<b>Associate of Arts (AA) </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Associate of Science (AS)",
+                    "Course": "<b>Associate of Science (AS) </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Associate of Applied Science (AAS)",
+                    "Course": "<b>Associate of Applied Science (AAS) </b>",
                     "Fees": "$6,200 (per year)"
                 }
             ]
@@ -102,71 +102,71 @@ export const southernwestvirginiacommunityandtechnicalcollege = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Early Care and Education",
+                    "Course": "<b>Early Care and Education </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Emergency Medical Services",
+                    "Course": "<b>Emergency Medical Services </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Information Technology",
+                    "Course": "<b>Information Technology </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Management",
+                    "Course": "<b>Management </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Medical Coding",
+                    "Course": "<b>Medical Coding </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Network Administration",
+                    "Course": "<b>Network Administration </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Paralegal Studies",
+                    "Course": "<b>Paralegal Studies </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Pharmacy Technology",
+                    "Course": "<b>Pharmacy Technology </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Radiologic Technology",
+                    "Course": "<b>Radiologic Technology </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Respiratory Care",
+                    "Course": "<b>Respiratory Care </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Surgical Technology",
+                    "Course": "<b>Surgical Technology </b>",
                     "Fees": "$6,200 (per year)"
                 },
                 {
-                    "Course": "Web Development",
+                    "Course": "<b>Web Development </b>",
                     "Fees": "$6,200 (per year)"
                 }
             ]

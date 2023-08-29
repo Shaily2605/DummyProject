@@ -77,55 +77,55 @@ export const providenceuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts",
+                    "Course": "<b>Bachelor of Arts </b>",
                     "Tuition & Fees": "$11,880"
                 },
                 {
-                    "Course": "Bachelor of Arts in Music",
+                    "Course": "<b>Bachelor of Arts in Music </b>",
                     "Tuition & Fees": "$11,880"
                 },
                 {
-                    "Course": "Bachelor of Education",
+                    "Course": "<b>Bachelor of Education </b>",
                     "Tuition & Fees": "$13,760"
                 },
                 {
-                    "Course": "Bachelor of Human Services",
+                    "Course": "<b>Bachelor of Human Services </b>",
                     "Tuition & Fees": "$11,880"
                 },
                 {
-                    "Course": "Bachelor of Music",
+                    "Course": "<b>Bachelor of Music </b>",
                     "Tuition & Fees": "$13,760"
                 },
                 {
-                    "Course": "Bachelor of Science",
+                    "Course": "<b>Bachelor of Science </b>",
                     "Tuition & Fees": "$13,760"
                 },
                 {
-                    "Course": "Bachelor of Theology",
+                    "Course": "<b>Bachelor of Theology </b>",
                     "Tuition & Fees": "$11,880"
                 },
                 {
-                    "Course": "Graduate Certificates",
+                    "Course": "<b>Graduate Certificates </b>",
                     "Tuition & Fees": "$600 per credit"
                 },
                 {
-                    "Course": "Master of Arts",
+                    "Course": "<b>Master of Arts </b>",
                     "Tuition & Fees": "$600 per credit"
                 },
                 {
-                    "Course": "Master of Divinity",
+                    "Course": "<b>Master of Divinity </b>",
                     "Tuition & Fees": "$600 per credit"
                 },
                 {
-                    "Course": "Master of Science",
+                    "Course": "<b>Master of Science </b>",
                     "Tuition & Fees": "$600 per credit"
                 },
                 {
-                    "Course": "Master of Theological Studies",
+                    "Course": "<b>Master of Theological Studies </b>",
                     "Tuition & Fees": "$600 per credit"
                 },
                 {
-                    "Course": "Doctor of Ministry",
+                    "Course": "<b>Doctor of Ministry </b>",
                     "Tuition & Fees": "$600 per credit"
                 }
             ]

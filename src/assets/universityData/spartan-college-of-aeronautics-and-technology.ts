@@ -78,51 +78,51 @@ export const spartancollegeofaeronauticsandtechnology = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Applied Science Degree in Aviation Maintenance Technology",
+                    "Course": "<b>Associate of Applied Science Degree in Aviation Maintenance Technology </b>",
                     "Fee Structure": "$37,500"
                 },
                 {
-                    "Course": "Associate of Applied Science Degree in Aviation Technology",
+                    "Course": "<b>Associate of Applied Science Degree in Aviation Technology </b>",
                     "Fee Structure": "$49,500"
                 },
                 {
-                    "Course": "Associate of Applied Science Degree in Professional Pilot",
+                    "Course": "<b>Associate of Applied Science Degree in Professional Pilot </b>",
                     "Fee Structure": "$54,500"
                 },
                 {
-                    "Course": "Associate of Applied Science Degree in Unmanned Aerial Systems",
+                    "Course": "<b>Associate of Applied Science Degree in Unmanned Aerial Systems </b>",
                     "Fee Structure": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Science Degree in Aviation Maintenance Administration",
+                    "Course": "<b>Bachelor of Science Degree in Aviation Maintenance Administration </b>",
                     "Fee Structure": "$39,500"
                 },
                 {
-                    "Course": "Bachelor of Science Degree in Aviation Management",
+                    "Course": "<b>Bachelor of Science Degree in Aviation Management </b>",
                     "Fee Structure": "$39,500"
                 },
                 {
-                    "Course": "Bachelor of Science Degree in Professional Pilot",
+                    "Course": "<b>Bachelor of Science Degree in Professional Pilot </b>",
                     "Fee Structure": "$59,500"
                 },
                 {
-                    "Course": "Bachelor of Science Degree in Unmanned Aerial Systems",
+                    "Course": "<b>Bachelor of Science Degree in Unmanned Aerial Systems </b>",
                     "Fee Structure": "$39,500"
                 },
                 {
-                    "Course": "Master of Science Degree in Aviation Maintenance Administration",
+                    "Course": "<b>Master of Science Degree in Aviation Maintenance Administration </b>",
                     "Fee Structure": "$19,500"
                 },
                 {
-                    "Course": "Master of Science Degree in Aviation Management",
+                    "Course": "<b>Master of Science Degree in Aviation Management </b>",
                     "Fee Structure": "$19,500"
                 },
                 {
-                    "Course": "Master of Science Degree in Professional Pilot",
+                    "Course": "<b>Master of Science Degree in Professional Pilot </b>",
                     "Fee Structure": "$19,500"
                 },
                 {
-                    "Course": "Master of Science Degree in Unmanned Aerial Systems",
+                    "Course": "<b>Master of Science Degree in Unmanned Aerial Systems </b>",
                     "Fee Structure": "$19,500"
                 }
             ]

@@ -81,23 +81,23 @@ export const ocaduniversity = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Design (BDes)",
+                    "Course": "<b>Bachelor of Design (BDes) </b>",
                     "Tuition fee": "$7,966.80 per semester"
                 },
                 {
-                    "Course": "Bachelor of Fine Arts (BFA)",
+                    "Course": "<b>Bachelor of Fine Arts (BFA) </b>",
                     "Tuition fee": "$7,966.80 per semester"
                 },
                 {
-                    "Course": "Bachelor of Arts (BA)",
+                    "Course": "<b>Bachelor of Arts (BA) </b>",
                     "Tuition fee": "$7,966.80 per semester"
                 },
                 {
-                    "Course": "Bachelor of Arts in Interdisciplinary Studies (BAS)",
+                    "Course": "<b>Bachelor of Arts in Interdisciplinary Studies (BAS) </b>",
                     "Tuition fee": "$7,966.80 per semester"
                 },
                 {
-                    "Course": "Bachelor of Design in Digital Futures (BDes)",
+                    "Course": "<b>Bachelor of Design in Digital Futures (BDes) </b>",
                     "Tuition fee": "$7,966.80 per semester"
                 }
             ]
@@ -112,35 +112,35 @@ export const ocaduniversity = {
             ],
             "row": [
                 {
-                    "Course": "Master of Design (MDes)",
+                    "Course": "<b>Master of Design (MDes) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Design in Strategic Foresight and Innovation (MDes)",
+                    "Course": "<b>Master of Design in Strategic Foresight and Innovation (MDes) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Fine Arts (MFA)",
+                    "Course": "<b>Master of Fine Arts (MFA) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Arts (MA)",
+                    "Course": "<b>Master of Arts (MA) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Arts in Visual and Critical Studies (MA)",
+                    "Course": "<b>Master of Arts in Visual and Critical Studies (MA) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Professional Studies (MPS)",
+                    "Course": "<b>Master of Professional Studies (MPS) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Digital Futures (MDF)",
+                    "Course": "<b>Master of Digital Futures (MDF) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 },
                 {
-                    "Course": "Master of Inclusive Design (MID)",
+                    "Course": "<b>Master of Inclusive Design (MID) </b>",
                     "Tuition fee": "$8,285.60 per semester"
                 }
             ]

@@ -85,27 +85,27 @@ export const sittingbullcollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts in Liberal Arts & Sciences",
+                    "Course": "<b>Associate of Arts in Liberal Arts & Sciences </b>",
                     "Tuition fee": "$3,633 per semester"
                 },
                 {
-                    "Course": "Associate of Science in Business Administration",
+                    "Course": "<b>Associate of Science in Business Administration </b>",
                     "Tuition fee": "$3,633 per semester"
                 },
                 {
-                    "Course": "Associate of Science in Elementary Education",
+                    "Course": "<b>Associate of Science in Elementary Education </b>",
                     "Tuition fee": "$3,633 per semester"
                 },
                 {
-                    "Course": "Associate of Science in Nursing",
+                    "Course": "<b>Associate of Science in Nursing </b>",
                     "Tuition fee": "$3,633 per semester"
                 },
                 {
-                    "Course": "Associate of Applied Science in Business",
+                    "Course": "<b>Associate of Applied Science in Business </b>",
                     "Tuition fee": "$3,633 per semester"
                 },
                 {
-                    "Course": "Associate of Applied Science in Accounting",
+                    "Course": "<b>Associate of Applied Science in Accounting </b>",
                     "Tuition fee": "$3,633 per semester"
                 }
             ]
@@ -120,19 +120,19 @@ export const sittingbullcollege = {
             ],
             "row": [
                 {
-                    "Course": "Certificate in Business Administration",
+                    "Course": "<b>Certificate in Business Administration </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Certificate in Office Technology",
+                    "Course": "<b>Certificate in Office Technology </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Diploma in Business Administration",
+                    "Course": "<b>Diploma in Business Administration </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Diploma in Office Technology",
+                    "Course": "<b>Diploma in Office Technology </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
             ]
@@ -147,19 +147,19 @@ export const sittingbullcollege = {
             ],
             "row": [
                 {
-                    "Course": "Professional Certificate in Entrepreneurship",
+                    "Course": "<b>Professional Certificate in Entrepreneurship </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Professional Certificate in Project Management",
+                    "Course": "<b>Professional Certificate in Project Management </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Technical Certificate in Computer Programming",
+                    "Course": "<b>Technical Certificate in Computer Programming </b>",
                     "Tuition fee": "$2,000 per semester"
                 },
                 {
-                    "Course": "Technical Certificate in Network Administration",
+                    "Course": "<b>Technical Certificate in Network Administration </b>",
                     "Tuition fee": "$2,000 per semester"
                 }
             ]
@@ -174,19 +174,19 @@ export const sittingbullcollege = {
             ],
             "row": [
                 {
-                    "Course": "Certificate in Early Childhood Education",
+                    "Course": "<b>Certificate in Early Childhood Education </b>",
                     "Tuition fee": "$800 per semester"
                 },
                 {
-                    "Course": "Certificate in Health Care Management",
+                    "Course": "<b>Certificate in Health Care Management </b>",
                     "Tuition fee": "$800 per semester"
                 },
                 {
-                    "Course": "Certificate in Paralegal Studies",
+                    "Course": "<b>Certificate in Paralegal Studies </b>",
                     "Tuition fee": "$800 per semester"
                 },
                 {
-                    "Course": "Certificate in Web Design",
+                    "Course": "<b>Certificate in Web Design </b>",
                     "Tuition fee": "$800 per semester"
                 }
             ]

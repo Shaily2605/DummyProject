@@ -78,35 +78,35 @@ export const phillipscommunitycollegeoftheuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Science in Nursing (ASN)",
+                    "Course": "<b>Associate of Science in Nursing (ASN) </b>",
                     "Fees": "$4,500 per semester"
                 },
                 {
-                    "Course": "Associate of Applied Science (AAS)",
+                    "Course": "<b>Associate of Applied Science (AAS) </b>",
                     "Fees": "$2,000 per semester"
                 },
                 {
-                    "Course": "Associate of Arts (AA)",
+                    "Course": "<b>Associate of Arts (AA) </b>",
                     "Fees": "$1,500 per semester"
                 },
                 {
-                    "Course": "Associate of Science (AS)",
+                    "Course": "<b>Associate of Science (AS) </b>",
                     "Fees": "$1,200 per semester"
                 },
                 {
-                    "Course": "Certificate of Proficiency (CP)",
+                    "Course": "<b>Certificate of Proficiency (CP) </b>",
                     "Fees": "$800 per semester"
                 },
                 {
-                    "Course": "Certificate of Technical Studies (CTS)",
+                    "Course": "<b>Certificate of Technical Studies (CTS) </b>",
                     "Fees": "$600 per semester"
                 },
                 {
-                    "Course": "General Education Courses",
+                    "Course": "<b>General Education Courses </b>",
                     "Fees": "$150 per credit hour"
                 },
                 {
-                    "Course": "Non-Credit Courses",
+                    "Course": "<b>Non-Credit Courses </b>",
                     "Fees": "Varies depending on the course"
                 },
             ]

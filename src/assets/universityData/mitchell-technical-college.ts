@@ -79,92 +79,92 @@ export const mitchelltechnicalcollege = {
             ],
             "row": [
                 {
-                    "Programs": "Agribusiness Management",
+                    "Programs": "<b>Agribusiness Management </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Automotive Technology",
+                    "Programs": "<b>Automotive Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Business Administration",
+                    "Programs": "<b>Business Administration </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Civil Engineering Technology",
+                    "Programs": "<b>Civil Engineering Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Computer and Network Technology",
+                    "Programs": "<b>Computer and Network Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Construction Technology",
+                    "Programs": "<b>Construction Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Diesel Technology",
+                    "Programs": "<b>Diesel Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Electrical Technology",
+                    "Programs": "<b>Electrical Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Electronics Technology",
+                    "Programs": "<b>Electronics Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Graphic Design & Printing Technology",
+                    "Programs": "<b>Graphic Design & Printing Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Heating, Ventilation and Air Conditioning Technology",
-                    "Tuition fees": "$4,184.50"
-                },   
-                {
-                    "Programs": "Industrial Technology",
-                    "Tuition fees": "$4,184.50"
-                },   
-                {
-                    "Programs": "Machine Tool Technology",
+                    "Programs": "<b>Heating, Ventilation and Air Conditioning Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Mechatronics Technology",
+                    "Programs": "<b>Industrial Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Medical Assistant",
+                    "Programs": "<b>Machine Tool Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Medical Coding",
+                    "Programs": "<b>Mechatronics Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Nursing Assistant (CNA)",
+                    "Programs": "<b>Medical Assistant </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Practical Nursing (LPN)",
+                    "Programs": "<b>Medical Coding </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Precision Machining Technology",
+                    "Programs": "<b>Nursing Assistant (CNA) </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Robotics",
+                    "Programs": "<b>Practical Nursing (LPN) </b>",
                     "Tuition fees": "$4,184.50"
                 },
                 {
-                    "Programs": "Wind Energy and Turbine Technology",
+                    "Programs": "<b>Precision Machining Technology </b>",
+                    "Tuition fees": "$4,184.50"
+                },
+                {
+                    "Programs": "<b>Robotics </b>",
+                    "Tuition fees": "$4,184.50"
+                },
+                {
+                    "Programs": "<b>Wind Energy and Turbine Technology </b>",
                     "Tuition fees": "$4,184.50"
                 },
             ]
         },
-         {
+        {
             "type": "table",
             "title": "",
             "info": "Certificate Programs:",
@@ -174,79 +174,79 @@ export const mitchelltechnicalcollege = {
             ],
             "row": [
                 {
-                    "Programs": "Accounting",
+                    "Programs": "<b>Accounting </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Automotive Technology",
+                    "Programs": "<b>Automotive Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Civil Engineering Technology",
+                    "Programs": "<b>Civil Engineering Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Computer Network Technology",
+                    "Programs": "<b>Computer Network Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Construction Technology",
+                    "Programs": "<b>Construction Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Diesel Technology",
+                    "Programs": "<b>Diesel Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Electrical Technology",
+                    "Programs": "<b>Electrical Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Electronics Technology",
+                    "Programs": "<b>Electronics Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Graphic Design & Printing Technology",
+                    "Programs": "<b>Graphic Design & Printing Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Heating, Ventilation, and Air Conditioning Technology",
+                    "Programs": "<b>Heating, Ventilation, and Air Conditioning Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Industrial Technology",
+                    "Programs": "<b>Industrial Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Machine Tool Technology",
+                    "Programs": "<b>Machine Tool Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Mechatronics Technology",
+                    "Programs": "<b>Mechatronics Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Medical Coding",
+                    "Programs": "<b>Medical Coding </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Nursing Assistant (CNA)",
+                    "Programs": "<b>Nursing Assistant (CNA) </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Practical Nursing (LPN)",
+                    "Programs": "<b>Practical Nursing (LPN) </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Precision Machining Technology",
+                    "Programs": "<b>Precision Machining Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Robotics",
+                    "Programs": "<b>Robotics </b>",
                     "Tuition fees": "$2,092.25"
                 },
                 {
-                    "Programs": "Wind Energy and Turbine Technology",
+                    "Programs": "<b>Wind Energy and Turbine Technology </b>",
                     "Tuition fees": "$2,092.25"
                 },
             ]

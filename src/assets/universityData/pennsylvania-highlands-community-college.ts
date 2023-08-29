@@ -79,55 +79,55 @@ export const pennsylvaniahighlandscommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Associate of Arts Degree",
+                    "Course": "<b>Associate of Arts Degree </b>",
                     "Fees": "$6,900"
                 },
                 {
-                    "Course": "Associate of Science Degree",
+                    "Course": "<b>Associate of Science Degree </b>",
                     "Fees": "$6,900"
                 },
                 {
-                    "Course": "Associate of Applied Science Degree",
+                    "Course": "<b>Associate of Applied Science Degree </b>",
                     "Fees": "$7,200"
                 },
                 {
-                    "Course": "Certificate Programs",
+                    "Course": "<b>Certificate Programs </b>",
                     "Fees": "$4,000"
                 },
                 {
-                    "Course": "Non-credit Courses",
+                    "Course": "<b>Non-credit Courses </b>",
                     "Fees": "$85-$250"
                 },
                 {
-                    "Course": "Online Courses",
+                    "Course": "<b>Online Courses </b>",
                     "Fees": "$150-$300"
                 },
                 {
-                    "Course": "Summer Courses",
+                    "Course": "<b>Summer Courses </b>",
                     "Fees": "$150-$400"
                 },
                 {
-                    "Course": "High School Equivalency Diploma",
+                    "Course": "<b>High School Equivalency Diploma </b>",
                     "Fees": "$50"
                 },
                 {
-                    "Course": "English as a Second Language (ESL)",
+                    "Course": "<b>English as a Second Language (ESL) </b>",
                     "Fees": "$275"
                 },
                 {
-                    "Course": "GED Test Preparation",
+                    "Course": "<b>GED Test Preparation </b>",
                     "Fees": "$200"
                 },
                 {
-                    "Course": "Adult Basic Education (ABE)",
+                    "Course": "<b>Adult Basic Education (ABE) </b>",
                     "Fees": "$50"
                 },
                 {
-                    "Course": "College Readiness (CR)",
+                    "Course": "<b>College Readiness (CR) </b>",
                     "Fees": "$50"
                 },
                 {
-                    "Course": "Customized Training",
+                    "Course": "<b>Customized Training </b>",
                     "Fees": "Varies"
                 }
             ]

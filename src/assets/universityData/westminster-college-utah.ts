@@ -67,43 +67,106 @@ export const westminstercollegeutah = {
             type: "title",
             title: ""
         },
-        {
-            "type": "list-bollet",
+         {
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Westminster College offers a variety of undergraduate, graduate, and certificate programs. The following is a list of the most popular programs with their associated tuition and fees for 2020-2021. ",
             "textBelowInfo": "<b>Undergraduate Programs</b>",
-            "data": [
-                "Bachelor of Arts: Tuition & Fees: $43,570 ",
-                "Bachelor of Science: Tuition & Fees: $43,570 ",
-                "Bachelor of Science in Nursing: Tuition & Fees: $54,490 ",
-                "Bachelor of Business Administration: Tuition & Fees: $43,570",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Bachelor of Arts </b>",
+                    "Tuition & Fees": "$43,570"
+                },
+                {
+                    "Program": "<b>Bachelor of Science </b>",
+                    "Tuition & Fees": "$43,570"
+                },
+                {
+                    "Program": "<b>Bachelor of Science in Nursing </b>",
+                    "Tuition & Fees": "$54,490"
+                },
+                {
+                    "Program": "<b>Bachelor of Business Administration </b>",
+                    "Tuition & Fees": "$43,570"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs",
-            "data": [
-                "Master of Business Administration: Tuition & Fees: $18,720 ",
-                "Master of Science in Cyber Security: Tuition & Fees: $18,720 ",
-                "Master of Science in Data Science: Tuition & Fees: $18,720 ",
-                "Master of Science in Nursing: Tuition & Fees: $19,920 ",
-                "Master of Education: Tuition & Fees: $18,720 ",
-                "Master of Arts in Global Studies: Tuition & Fees: $18,720 ",
-                "Master of Arts in Counseling Psychology: Tuition & Fees: $18,720",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Master of Business Administration </b>",
+                    "Tuition & Fees": "$18,720"
+                },
+                {
+                    "Program": "<b>Master of Science in Cyber Security </b>",
+                    "Tuition & Fees": "$18,720"
+                },
+                {
+                    "Program": "<b>Master of Science in Data Science </b>",
+                    "Tuition & Fees": "$18,720"
+                },
+                {
+                    "Program": "<b>Master of Science in Nursing </b>",
+                    "Tuition & Fees": "$19,920"
+                },
+                {
+                    "Program": "<b>Master of Education </b>",
+                    "Tuition & Fees": "$18,720"
+                },
+                {
+                    "Program": "<b>Master of Arts in Global Studies </b>",
+                    "Tuition & Fees": "$18,720"
+                },
+                  {
+                    "Program": "<b>Master of Arts in Counseling Psychology </b>",
+                    "Tuition & Fees": "$18,720"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Certificate Programs",
-            "data": [
-                "Cyber Security Certificate: Tuition & Fees: $6,240 ",
-                "Data Science Certificate: Tuition & Fees: $6,240 ",
-                "Nursing Education Certificate: Tuition & Fees: $6,240 ",
-                "Accounting Certificate: Tuition & Fees: $6,240 ",
-                "Early Childhood Education Certificate: Tuition & Fees: $6,240 ",
-                "Educational Leadership Certificate: Tuition & Fees: $6,240",
+            "col": [
+                "Program",
+                "Tuition & Fees",
+            ],
+            "row": [
+                {
+                    "Program": "<b>Cyber Security Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
+                {
+                    "Program": "<b>Data Science Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
+                {
+                    "Program": "<b>Nursing Education Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
+                {
+                    "Program": "<b>Accounting Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
+                {
+                    "Program": "<b>Early Childhood Education Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
+                {
+                    "Program": "<b>Educational Leadership Certificate </b>",
+                    "Tuition & Fees": "$6,240"
+                },
             ]
         },
         {

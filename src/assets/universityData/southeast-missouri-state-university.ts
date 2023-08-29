@@ -80,19 +80,19 @@ export const southeastmissouristateuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts",
+                    "Course": "<b>Bachelor of Arts </b>",
                     "Tuition Fees": "$9,918.00/Semester"
                 },
                 {
-                    "Course": "Bachelor of Science",
+                    "Course": "<b>Bachelor of Science </b>",
                     "Tuition Fees": "$9,918.00/Semester"
                 },
                 {
-                    "Course": "Bachelor of Business Administration",
+                    "Course": "<b>Bachelor of Business Administration </b>",
                     "Tuition Fees": "$10,143.00/Semester"
                 },
                 {
-                    "Course": "Bachelor of Nursing",
+                    "Course": "<b>Bachelor of Nursing </b>",
                     "Tuition Fees": "$12,621.00/Semester"
                 }
             ]
@@ -107,23 +107,23 @@ export const southeastmissouristateuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Master of Public Administration",
+                    "Course": "<b>Master of Public Administration </b>",
                     "Tuition Fees": "$10,848.00/Semester"
                 },
                 {
-                    "Course": "Master of Science in Nursing",
+                    "Course": "<b>Master of Science in Nursing </b>",
                     "Tuition Fees": "$17,958.00/Semester"
                 },
                 {
-                    "Course": "Master of Science in Education",
+                    "Course": "<b>Master of Science in Education </b>",
                     "Tuition Fees": "$9,441.00/Semester"
                 },
                 {
-                    "Course": "Master of Science in Criminal Justice",
+                    "Course": "<b>Master of Science in Criminal Justice </b>",
                     "Tuition Fees": "$9,441.00/Semester"
                 },
                 {
-                    "Course": "Master of Business Administration",
+                    "Course": "<b>Master of Business Administration </b>",
                     "Tuition Fees": "$9,441.00/Semester"
                 },
             ]

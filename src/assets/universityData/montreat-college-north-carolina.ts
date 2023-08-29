@@ -78,35 +78,35 @@ export const montreatcollegenorthcarolina = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Business Administration",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Business Administration </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Criminal Justice",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Criminal Justice </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Education",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Education </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in English",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in English </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Psychology",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Psychology </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Religious Studies",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Religious Studies </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Science in Pre-Medicine/Pre-Dentistry",
+                    "Course": "<b>Bachelor of Science in Pre-Medicine/Pre-Dentistry </b>",
                     "Fees": "$37,500"
                 },
                 {
-                    "Course": "Bachelor of Arts/Bachelor of Science in Sport Management",
+                    "Course": "<b>Bachelor of Arts/Bachelor of Science in Sport Management </b>",
                     "Fees": "$37,500"
                 },
             ]
@@ -121,31 +121,31 @@ export const montreatcollegenorthcarolina = {
             ],
             "row": [
                 {
-                    "Course": "Master of Arts in Christian Ministry",
+                    "Course": "<b>Master of Arts in Christian Ministry </b>",
                     "Fees": "$17,000"
                 },
                 {
-                    "Course": "Master of Business Administration",
+                    "Course": "<b>Master of Business Administration </b>",
                     "Fees": "$19,000"
                 },
                 {
-                    "Course": "Master of Science in Counseling",
+                    "Course": "<b>Master of Science in Counseling </b>",
                     "Fees": "$19,000"
                 },
                 {
-                    "Course": "Master of Science in Education",
+                    "Course": "<b>Master of Science in Education </b>",
                     "Fees": "$17,000"
                 },
                 {
-                    "Course": "Master of Science in Nursing",
+                    "Course": "<b>Master of Science in Nursing </b>",
                     "Fees": "$19,000"
                 },
                 {
-                    "Course": "Doctor of Education",
+                    "Course": "<b>Doctor of Education </b>",
                     "Fees": "$25,000"
                 },
                 {
-                    "Course": "Doctor of Ministry",
+                    "Course": "<b>Doctor of Ministry </b>",
                     "Fees": "$25,000"
                 },
             ]

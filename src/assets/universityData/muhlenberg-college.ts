@@ -78,103 +78,103 @@ export const muhlenbergcollege = {
             ],
             "row": [
                 {
-                    "Program": "Accounting",
+                    "Program": "<b>Accounting </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Art",
+                    "Program": "<b>Art </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Biochemistry",
+                    "Program": "<b>Biochemistry </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Biology",
+                    "Program": "<b>Biology </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Chemistry",
+                    "Program": "<b>Chemistry </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Computer Science",
+                    "Program": "<b>Computer Science </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Economics",
+                    "Program": "<b>Economics </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "English",
+                    "Program": "<b>English </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Environmental Science",
+                    "Program": "<b>Environmental Science </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "French",
+                    "Program": "<b>French </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "German",
+                    "Program": "<b>German </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "History",
+                    "Program": "<b>History </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Information Systems",
+                    "Program": "<b>Information Systems </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "International Studies",
+                    "Program": "<b>International Studies </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Mathematics",
+                    "Program": "<b>Mathematics </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Music",
+                    "Program": "<b>Music </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Philosophy",
+                    "Program": "<b>Philosophy </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Physics",
+                    "Program": "<b>Physics </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Political Science",
+                    "Program": "<b>Political Science </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Psychology",
+                    "Program": "<b>Psychology </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Sociology",
+                    "Program": "<b>Sociology </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Spanish",
+                    "Program": "<b>Spanish </b>",
                     "Fees": "$37,490"
                 },
                 {
-                    "Program": "Theatre",
+                    "Program": "<b>Theatre </b>",
                     "Fees": "$37,490"
                 },
             ]
@@ -189,43 +189,43 @@ export const muhlenbergcollege = {
             ],
             "row": [
                 {
-                    "Program": "Business Administration",
+                    "Program": "<b>Business Administration </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Clinical Mental Health Counseling",
+                    "Program": "<b>Clinical Mental Health Counseling </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Education",
+                    "Program": "<b>Education </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Environmental Policy & Management",
+                    "Program": "<b>Environmental Policy & Management </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Health Administration",
+                    "Program": "<b>Health Administration </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Liberal Arts",
+                    "Program": "<b>Liberal Arts </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Nursing",
+                    "Program": "<b>Nursing </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Physical Therapy (=DPT)",
+                    "Program": "<b>Physical Therapy (=DPT) </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Physician Assistant Studies",
+                    "Program": "<b>Physician Assistant Studies </b>",
                     "Fees": "$20,610"
                 },
                 {
-                    "Program": "Science Education",
+                    "Program": "<b>Science Education </b>",
                     "Fees": "$20,610"
                 }
             ]

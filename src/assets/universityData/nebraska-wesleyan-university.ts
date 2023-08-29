@@ -81,27 +81,27 @@ export const nebraskawesleyanuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Arts and Humanities",
+                    "Course": "<b>Arts and Humanities </b>",
                     "Fees": "$32,020"
                 },
                 {
-                    "Course": "Business",
+                    "Course": "<b>Business </b>",
                     "Fees": "$32,020"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fees": "$32,020"
                 },
                 {
-                    "Course": "Health and Wellness",
+                    "Course": "<b>Health and Wellness </b>",
                     "Fees": "$32,020"
                 },
                 {
-                    "Course": "Natural and Applied Sciences",
+                    "Course": "<b>Natural and Applied Sciences </b>",
                     "Fees": "$32,020"
                 },
                 {
-                    "Course": "Social Sciences",
+                    "Course": "<b>Social Sciences </b>",
                     "Fees": "$32,020"
                 }
             ]
@@ -116,31 +116,31 @@ export const nebraskawesleyanuniversity = {
             ],
             "row": [
                 {
-                    "Course": "Business (MBA)",
+                    "Course": "<b>Business (MBA) </b>",
                     "Fees": "$30,000"
                 },
                 {
-                    "Course": "Education (MEd)",
+                    "Course": "<b>Education (MEd) </b>",
                     "Fees": "$28,440"
                 },
                 {
-                    "Course": "Communication Sciences and Disorders (MS)",
+                    "Course": "<b>Communication Sciences and Disorders (MS) </b>",
                     "Fees": "$28,440"
                 },
                 {
-                    "Course": "Nursing (MSN)",
+                    "Course": "<b>Nursing (MSN) </b>",
                     "Fees": "$36,360"
                 },
                 {
-                    "Course": "Occupational Therapy (MSOT)",
+                    "Course": "<b>Occupational Therapy (MSOT) </b>",
                     "Fees": "$36,360"
                 },
                 {
-                    "Course": "Physical Therapy (DPT)",
+                    "Course": "<b>Physical Therapy (DPT) </b>",
                     "Fees": "$36,360"
                 },
                 {
-                    "Course": "Physician Assistant Studies (MPAS)",
+                    "Course": "<b>Physician Assistant Studies (MPAS) </b>",
                     "Fees": "$36,360"
                 }
             ]

@@ -86,23 +86,23 @@ export const thecooperunionnewyork = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Arts (B.A.)",
+                    "Course": "<b>Bachelor of Arts (B.A.) </b>",
                     "Tuition": "$49,450"
                 },
                 {
-                    "Course": "Bachelor of Fine Arts (B.F.A.)",
+                    "Course": "<b>Bachelor of Fine Arts (B.F.A.) </b>",
                     "Tuition": "$51,450"
                 },
                 {
-                    "Course": "Bachelor of Science (B.S.)",
+                    "Course": "<b>Bachelor of Science (B.S.) </b>",
                     "Tuition": "$45,450"
                 },
                 {
-                    "Course": "Bachelor of Architecture (B.Arch.)",
+                    "Course": "<b>Bachelor of Architecture (B.Arch.) </b>",
                     "Tuition": "$52,450"
                 },
                 {
-                    "Course": "Bachelor of Engineering (B.Eng.)",
+                    "Course": "<b>Bachelor of Engineering (B.Eng.) </b>",
                     "Tuition": "$46,450"
                 },
             ]
@@ -117,23 +117,23 @@ export const thecooperunionnewyork = {
             ],
             "row": [
                 {
-                    "Course": "Master of Science in Engineering (M.S.E.)",
+                    "Course": "<b>Master of Science in Engineering (M.S.E.) </b>",
                     "Tuition": "$56,000"
                 },
                 {
-                    "Course": "Master of Science in Architecture (M.S.Arch.)",
+                    "Course": "<b>Master of Science in Architecture (M.S.Arch.) </b>",
                     "Tuition": "$60,000"
                 },
                 {
-                    "Course": "Master of Architecture (M.Arch.)",
+                    "Course": "<b>Master of Architecture (M.Arch.) </b>",
                     "Tuition": "$64,000"
                 },
                 {
-                    "Course": "Master of Fine Arts (M.F.A.)",
+                    "Course": "<b>Master of Fine Arts (M.F.A.) </b>",
                     "Tuition": "$64,000"
                 },
                 {
-                    "Course": "Master of Business Administration (M.B.A.)",
+                    "Course": "<b>Master of Business Administration (M.B.A.) </b>",
                     "Tuition": "$65,000"
                 },
             ]

@@ -75,55 +75,55 @@ export const nhticoncordscommunitycollege = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Engineering Technology",
+                    "Course": "<b>Engineering Technology </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Fire Science",
+                    "Course": "<b>Fire Science </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Graphic Design",
+                    "Course": "<b>Graphic Design </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Health Information Technology",
+                    "Course": "<b>Health Information Technology </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Liberal Arts",
+                    "Course": "<b>Liberal Arts </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Marketing",
+                    "Course": "<b>Marketing </b>",
                     "Fees": "$6,551"
                 },
                   {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fees": "$7,751"
                 },
                 {
-                    "Course": "Paralegal Studies",
+                    "Course": "<b>Paralegal Studies </b>",
                     "Fees": "$6,551"
                 },
                 {
-                    "Course": "Veterinary Technology",
+                    "Course": "<b>Veterinary Technology </b>",
                     "Fees": "$7,751"
                 }
             ]

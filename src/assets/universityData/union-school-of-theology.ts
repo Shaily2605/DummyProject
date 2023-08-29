@@ -75,31 +75,31 @@ export const unionschooloftheology = {
             ],
             "row": [
                 {
-                    "Course": "Bachelor of Theology (BA)",
+                    "Course": "<b>Bachelor of Theology (BA) </b>",
                     "Fees": "£7,000 per year"
                 },
                 {
-                    "Course": "Master of Theology (MA)",
+                    "Course": "<b>Master of Theology (MA) </b>",
                     "Fees": "£7,500 per year"
                 },
                 {
-                    "Course": "Master of Divinity (MDiv)",
+                    "Course": "<b>Master of Divinity (MDiv) </b>",
                     "Fees": "£8,000 per year"
                 },
                 {
-                    "Course": "Doctor of Ministry (DMin)",
+                    "Course": "<b>Doctor of Ministry (DMin) </b>",
                     "Fees": "£7,000 per year"
                 },
                 {
-                    "Course": "Doctor of Theology (ThD)",
+                    "Course": "<b>Doctor of Theology (ThD) </b>",
                     "Fees": "£8,500 per year"
                 },
                 {
-                    "Course": "Certificate in Christian Studies",
+                    "Course": "<b>Certificate in Christian Studies </b>",
                     "Fees": "£3,500 per year"
                 },
                 {
-                    "Course": "Certificate in Ministry",
+                    "Course": "<b>Certificate in Ministry </b>",
                     "Fees": "£3,500 per year"
                 }
             ]

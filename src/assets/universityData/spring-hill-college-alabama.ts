@@ -78,71 +78,71 @@ export const springhillcollegealabama = {
             ],
             "row": [
                 {
-                    "Program": "B.A. in Accounting",
+                    "Program": "<b>B.A. in Accounting </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Art",
+                    "Program": "<b>B.A. in Art </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Biology",
+                    "Program": "<b>B.A. in Biology </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Business Administration",
+                    "Program": "<b>B.A. in Business Administration </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Chemistry",
+                    "Program": "<b>B.A. in Chemistry </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Creative Writing",
+                    "Program": "<b>B.A. in Creative Writing </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Economics",
+                    "Program": "<b>B.A. in Economics </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in English",
+                    "Program": "<b>B.A. in English </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in History",
+                    "Program": "<b>B.A. in History </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Mathematics",
+                    "Program": "<b>B.A. in Mathematics </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Philosophy",
+                    "Program": "<b>B.A. in Philosophy </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Political Science",
+                    "Program": "<b>B.A. in Political Science </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Psychology",
+                    "Program": "<b>B.A. in Psychology </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Religious Studies",
+                    "Program": "<b>B.A. in Religious Studies </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Computer Science",
+                    "Program": "<b>B.A. in Computer Science </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Exercise Science",
+                    "Program": "<b>B.A. in Exercise Science </b>",
                     "Tuition": "$34,200"
                 },
                 {
-                    "Program": "B.A. in Nursing",
+                    "Program": "<b>B.A. in Nursing </b>",
                     "Tuition": "$34,200"
                 }
             ]
@@ -157,27 +157,27 @@ export const springhillcollegealabama = {
             ],
             "row": [
                 {
-                    "Program": "M.S. in Accounting",
+                    "Program": "<b>M.S. in Accounting </b>",
                     "Tuition": "$32,400"
                 },
                 {
-                    "Program": "M.A. in Education",
+                    "Program": "<b>M.A. in Education </b>",
                     "Tuition": "$28,800"
                 },
                 {
-                    "Program": "M.A. in Theology",
+                    "Program": "<b>M.A. in Theology </b>",
                     "Tuition": "$28,800"
                 },
                 {
-                    "Program": "M.B.A.",
+                    "Program": "<b>M.B.A. </b>",
                     "Tuition": "$32,400"
                 },
                 {
-                    "Program": "M.S. in Nursing",
+                    "Program": "<b>M.S. in Nursing </b>",
                     "Tuition": "$32,400"
                 },
                 {
-                    "Program": "M.S. in Sport Management",
+                    "Program": "<b>M.S. in Sport Management </b>",
                     "Tuition": "$32,400"
                 }
             ]

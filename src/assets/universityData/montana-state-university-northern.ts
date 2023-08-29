@@ -81,43 +81,43 @@ export const montanastateuniversitynorthern = {
             ],
             "row": [
                 {
-                    "Course": "Accounting",
+                    "Course": "<b>Accounting </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Business Administration",
+                    "Course": "<b>Business Administration </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Computer Science",
+                    "Course": "<b>Computer Science </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Criminal Justice",
+                    "Course": "<b>Criminal Justice </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Engineering Technology",
+                    "Course": "<b>Engineering Technology </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Health & Human Performance",
+                    "Course": "<b>Health & Human Performance </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Social Science",
+                    "Course": "<b>Social Science </b>",
                     "Fee structure": "$5,947"
                 },
                 {
-                    "Course": "Visual & Performing Arts",
+                    "Course": "<b>Visual & Performing Arts </b>",
                     "Fee structure": "$5,947"
                 }
             ]
@@ -132,23 +132,23 @@ export const montanastateuniversitynorthern = {
             ],
             "row": [
                 {
-                    "Course": "Business Administration & Management",
+                    "Course": "<b>Business Administration & Management </b>",
                     "Fee structure": "$6,848"
                 },
                 {
-                    "Course": "Education",
+                    "Course": "<b>Education </b>",
                     "Fee structure": "$6,848"
                 },
                 {
-                    "Course": "Health and Human Performance",
+                    "Course": "<b>Health and Human Performance </b>",
                     "Fee structure": "$6,848"
                 },
                 {
-                    "Course": "Nursing",
+                    "Course": "<b>Nursing </b>",
                     "Fee structure": "$6,848"
                 },
                 {
-                    "Course": "Social Science",
+                    "Course": "<b>Social Science </b>",
                     "Fee structure": "$6,848"
                 },
             ]
