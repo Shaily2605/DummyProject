@@ -371,8 +371,9 @@ export const northwesterncollegeiowa = {
         },
         {
             "type": "list-bollet",
-            "title": "On-Campus Housing",
-            "info": "Northwestern College offers residence halls, apartments, and townhouses on-campus. All students in the residence halls are required to have a meal plan. The on-campus housing options include:",
+            "title": "",
+            "info": "On-Campus Housing",
+            "textBelowInfo": "<b>Northwestern College offers residence halls, apartments, and townhouses on-campus. All students in the residence halls are required to have a meal plan. The on-campus housing options include:</b>",
             "data": [
                 "4-Person Apartments ",
                 "2-Person Apartments ",
@@ -382,8 +383,9 @@ export const northwesterncollegeiowa = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Housing",
-            "info": "Northwestern College also provides off-campus housing options for students. These options include:",
+            "title": "",
+            "info": "Off-Campus Housing",
+            "textBelowInfo": "<b>Northwestern College also provides off-campus housing options for students. These options include:</b>",
             "data": [
                 "Orange City Apartments ",
                 "Orange City Townhomes ",
@@ -393,9 +395,9 @@ export const northwesterncollegeiowa = {
             ]
         },
         {
-            "type": "list-bollet",
-            "title": "Hostel Facilities",
-            "info": "",
+            "type": "text",
+            "title": "",
+            "info": "Hostel Facilities",
             "data": [
                 "There are no hostel facilities on-campus or off-campus at Northwestern College."
             ]

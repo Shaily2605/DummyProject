@@ -111,8 +111,9 @@ export const northwesternstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": 'Summer 2020',
-            "info": "Per Semester",
+            "title": "",
+            "info": 'Summer 2020',
+            "textBelowInfo": "<b>Per Semester</b>",
             "data": [
                 "Tuition: $1,150.00",
                 "Technology Fee: $25.00",
@@ -123,9 +124,9 @@ export const northwesternstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Tuition and Fees',
-            "info": "Fall 2019- Spring 2020",
-            "textBelowInfo": "<b>Per Semester</b>",
+            "title": '',
+            "info": "Graduate Tuition and Fees",
+            "textBelowInfo": "<p><b>Fall 2019- Spring 2020</b></p> <p><b>Per Semester</b></p>",
             "data": [
                 "Tuition: $2,700.00",
                 "Technology Fee: $50.00",
@@ -136,8 +137,9 @@ export const northwesternstateuniversity = {
         },
         {
             "type": "list-bollet",
-            "title": 'Summer 2020',
-            "info": "Per Semester",
+            "title": "",
+            "info": 'Summer 2020',
+            "textBelowInfo": "<b>Per Semester</b>",
             "data": [
                 "Tuition: $1,350.00",
                 "Technology Fee: $25.00",

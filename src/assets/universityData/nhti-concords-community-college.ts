@@ -68,7 +68,7 @@ export const nhticoncordscommunitycollege = {
             "type": "table",
             "title": "Courses and Fees",
             "info": "NHTI-Concord's Community College offers more than 70 academic programs in a variety of areas such as business, health sciences, technology, and more.",
-            "textBelowInfo": "Below is the list of courses with fee structure of NHTI- Concord's Community College, New Hampshire, USA:",
+            "textBelowInfo": "<b>Below is the list of courses with fee structure of NHTI- Concord's Community College, New Hampshire, USA:</b>",
             "col": [
                 "Course",
                 "Fees",

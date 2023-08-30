@@ -116,8 +116,9 @@ export const northpointbiblecollege = {
         },
         {
             "type": "list-bollet",
-            "title": 'Graduate Programs:',
-            "info": "Master of Arts in Biblical Studies:",
+            "title": "",
+            "info": 'Graduate Programs:',
+            "textBelowInfo": "<b>Master of Arts in Biblical Studies:</b>",
             "data": [
                 "Tuition: $5,500/semester ",
                 "Fees: $400/semester"

@@ -357,8 +357,8 @@ export const mountwestcommunityandtechnicalcollege = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
+            "textBelowInfo": "Mountwest Community & Technical College, West Virginia, USA offers on-campus accommodation for students in the form of student housing. The college has two student housing facilities - the Residence Hall and the Townhouses.",
             "data": [
-                "Mountwest Community & Technical College, West Virginia, USA offers on-campus accommodation for students in the form of student housing. The college has two student housing facilities - the Residence Hall and the Townhouses.",
                 "<b>Residence Hall:</b> The Residence Hall offers student housing for around 150 students. The facilities include a common lounge, study rooms, and laundry rooms.",
                 "<b>Townhouses:</b> The Townhouses are made up of 10 two-bedroom apartments. The facilities include a kitchen, living room, and laundry facilities."
             ]

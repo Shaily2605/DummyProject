@@ -149,7 +149,7 @@ export const northislandcollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "North Island College (NIC) welcomes international students from around the world. Admission requirements for Indian students are the same as for all international students.",
-            "textBelowInfo": "To be eligible for admission to NIC, you must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission to NIC, you must meet the following criteria:</b>",
             "data": [
                 "Be at least 18 years old.",
                 "Have a valid study permit.",

@@ -153,7 +153,7 @@ export const morlingcollegenewsouthwales = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Morling College is a Christian higher education institution located in Sydney, New South Wales, Australia.",
-            "textBelowInfo": "<p>The college offers a range of undergraduate and postgraduate programs in theology, ministry, education, counselling and leadership.</p> <br> <p>In order to be eligible to apply for admission to Morling College, Indian students must meet the following criteria:</p>",
+            "textBelowInfo": "<p><b>The college offers a range of undergraduate and postgraduate programs in theology, ministry, education, counselling and leadership.</b></p> <p><b>In order to be eligible to apply for admission to Morling College, Indian students must meet the following criteria:</b></p>",
             "data": [
                 "Must have a minimum of an undergraduate degree in any discipline from a recognized university. ",
                 "Must have evidence of English language proficiency (IELTS 6.0 or equivalent). ",

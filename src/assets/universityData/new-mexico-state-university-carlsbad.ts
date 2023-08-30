@@ -316,7 +316,7 @@ export const newmexicostateuniversitycarlsbad = {
             "type": "list-bollet",
             "title": 'Hostel',
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "New Mexico State University Carlsbad offers on-campus housing for students. The on-campus housing options include: ",
+            "textBelowInfo": "<b>New Mexico State University Carlsbad offers on-campus housing for students. The on-campus housing options include: </b>",
             "data": [
                 "University Suites – two-bedroom, two-bathroom apartments ",
                 "University Village – one-bedroom and two-bedroom apartments",
@@ -327,7 +327,7 @@ export const newmexicostateuniversitycarlsbad = {
             "type": "list-bollet",
             "title": '',
             "info": "Off-Campus Housing",
-            "textBelowInfo": "New Mexico State University Carlsbad also provides off-campus housing options for students. Off-campus housing options include: ",
+            "textBelowInfo": "<b>New Mexico State University Carlsbad also provides off-campus housing options for students. Off-campus housing options include: </b>",
             "data": [
                 "Apartments and houses for rent ",
                 "Roommates and sublets ",
@@ -338,7 +338,7 @@ export const newmexicostateuniversitycarlsbad = {
             "type": "list-bollet",
             "title": '',
             "info": "Hostel Facilities",
-            "textBelowInfo": "There are no hostel facilities on-campus at New Mexico State University Carlsbad. However, there are several local hostels in the area that may be a good option for students looking for affordable accommodation. Some of the local hostels include: ",
+            "textBelowInfo": "<b>There are no hostel facilities on-campus at New Mexico State University Carlsbad. However, there are several local hostels in the area that may be a good option for students looking for affordable accommodation. Some of the local hostels include: </b>",
             "data": [
                 "Carlsbad Hostel ",
                 "The Grand Inn & Suites Carlsbad ",

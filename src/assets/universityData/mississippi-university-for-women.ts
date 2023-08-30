@@ -327,7 +327,7 @@ export const mississippiuniversityforwomen = {
             "type": "list-bollet",
             "title": 'Hostel',
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "Mississippi University for Women offers on-campus accommodation for students. The university features seven residence halls which include:",
+            "textBelowInfo": "<b>Mississippi University for Women offers on-campus accommodation for students. The university features seven residence halls which include:</b>",
             "data": [
                 "Sampson Hall",
                 "Welty Hall",
@@ -343,7 +343,7 @@ export const mississippiuniversityforwomen = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Hostels",
-            "textBelowInfo": "For students looking for an off-campus hostel option, there are several hostels within a short driving distance of Mississippi University for Women. Popular hostels include:",
+            "textBelowInfo": "<b>For students looking for an off-campus hostel option, there are several hostels within a short driving distance of Mississippi University for Women. Popular hostels include:</b>",
             "data": [
                 "Hi-Ho Hostel (Columbus, MS)",
                 "Hostel Mississippi (Tupelo, MS)",

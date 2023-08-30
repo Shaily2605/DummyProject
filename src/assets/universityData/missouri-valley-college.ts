@@ -137,7 +137,7 @@ export const missourivalleycollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Admission to Missouri Valley College is open to all qualified students regardless of ethnic origin, religion, gender, or age.",
-            "textBelowInfo": "For international students, eligibility criteria include:",
+            "textBelowInfo": "<b>For international students, eligibility criteria include:</b>",
             "data": [
                 "A high school diploma or equivalent",
                 "A minimum grade point average of 2.0 or better",

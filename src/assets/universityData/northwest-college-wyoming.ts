@@ -69,7 +69,7 @@ export const northwestcollegewyoming = {
             title: ""
         },
         {
-            "type": "text",
+            "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Northwest College, Wyoming, USA offers over 100 certificate, diploma, and degree programs. The college has three different campus locations: Powell, Cody, and Sheridan.",
             "textBelowInfo": "<b>Fee Structure</b>",
@@ -115,7 +115,7 @@ export const northwestcollegewyoming = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": '',
             "info": "Financial Aid",
             "data": [
@@ -149,7 +149,7 @@ export const northwestcollegewyoming = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Northwest College does not have any specific eligibility criteria for Indian students. The college follows the same admission requirements for all international applicants.",
-            "textBelowInfo": "To be eligible for admission to Northwest College, international applicants must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission to Northwest College, international applicants must meet the following criteria:</b>",
             "data": [
                 "Be at least 18 years of age ",
                 "Have a high school diploma or equivalent  ",

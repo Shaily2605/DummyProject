@@ -73,7 +73,7 @@ export const mohawkcollegeontario = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Mohawk College offers more than 130 full-time and 140 part-time programs. The college also offers a variety of continuing education, certificate and apprenticeship programs. The fee structure varies depending on the program you choose.",
-            "textBelowInfo": "Full-Time Programs:",
+            "textBelowInfo": "<b>Full-Time Programs:</b>",
             "data": [
                 "Accountancy and Business: $8,500 - $11,000",
                 "Aerospace Engineering: $8,500 - $11,000",

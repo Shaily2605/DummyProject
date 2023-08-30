@@ -367,9 +367,9 @@ export const nipissinguniversityontario = {
         },
         {
             "type": "list-bollet",
-            "title": "Residences",
-            "info": "The on-campus accommodation options include traditional residence buildings, suites, and apartments. All residence buildings are co-ed and have shared washrooms and kitchen facilities. There are also laundry facilities, security, programming, and support staff on-site. ",
-            "textBelowInfo": "The following residence buildings are available: ",
+            "title": "",
+            "info": "Residences",
+            "textBelowInfo": "<p><b>The on-campus accommodation options include traditional residence buildings, suites, and apartments. All residence buildings are co-ed and have shared washrooms and kitchen facilities. There are also laundry facilities, security, programming, and support staff on-site. </b></p> <p><b>The following residence buildings are available:</b></p>",
             "data": [
                 "The Village – traditional residence building ",
                 "The Suites – suite-style residence building with two-bedroom suites ",
@@ -388,7 +388,7 @@ export const nipissinguniversityontario = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "textBelowInfo": "Nipissing University also offers off-campus accommodation options for students who are not able to stay on campus.",
+            "textBelowInfo": "<b>Nipissing University also offers off-campus accommodation options for students who are not able to stay on campus.</b>",
             "data": [
                 "<b>Apartments and Houses </b> <br>There are a variety of apartments and houses available for rent in the North Bay area. These include both furnished and unfurnished options, as well as single, double, and triple occupancy rooms.",
                 "<b>Homestays </b> <br>Nipissing University also offers a homestay program for students who are looking for more of a home-like environment. Through this program, students are placed with a host family who will provide them with meals and a place to stay.",

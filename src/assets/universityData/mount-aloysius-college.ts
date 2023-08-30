@@ -136,7 +136,7 @@ export const mountaloysiuscollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Mount Aloysius College is a Catholic-affiliated college located in Cresson, Pennsylvania. The college offers a variety of bachelor’s and associate’s degrees, as well as certificate programs.",
-            "textBelowInfo": "To be eligible for admission as an international student, you must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission as an international student, you must meet the following criteria:</b>",
             "data": [
                 "You must have completed secondary or high school education in your home country or have the equivalent of a U.S. high school diploma",
                 "You must submit official educational records (transcripts and diplomas) from all secondary and post-secondary institutions attended",

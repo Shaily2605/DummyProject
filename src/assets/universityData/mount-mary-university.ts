@@ -174,7 +174,7 @@ export const mountmaryuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Mount Mary University offers various graduate and undergraduate degree programs. All prospective students must meet the eligibility criteria for admission to the university.",
-            "textBelowInfo": "<p>Eligibility Criteria for Indian Students:</p> <p><b>Undergraduate Programs:</b></p>",
+            "textBelowInfo": "<p><b>Eligibility Criteria for Indian Students:</b></p> <p><b>Undergraduate Programs:</b></p>",
             "data": [
                 "Indian students must have completed their secondary education with a minimum grade of 70% in all major subjects.",
                 "Students must provide proof of proficiency in English with a minimum TOEFL score of 79 (iBT) or IELTS score of 6.5.",

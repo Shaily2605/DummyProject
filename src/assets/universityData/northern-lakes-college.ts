@@ -73,7 +73,7 @@ export const northernlakescollege = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "The Northern Lakes College offers a variety of courses for different levels and programs. The college offers certificate and diploma programs, as well as degree programs in collaboration with other universities.",
-            "textBelowInfo": "<p>Below is the list of programs offered by Northern Lakes College and their respective fee structure.</p> <p><b>Certificate Programs</b></p>",
+            "textBelowInfo": "<p><b>Below is the list of programs offered by Northern Lakes College and their respective fee structure.</b></p> <p><b>Certificate Programs</b></p>",
             "data": [
                 "Business Administration - $1,690",
                 "Accounting and Payroll Administration - $2,440",

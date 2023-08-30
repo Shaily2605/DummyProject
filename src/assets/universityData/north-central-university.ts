@@ -131,7 +131,7 @@ export const northcentraluniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Admission to North Central University, Minnesota, USA for Indian students is open to all international students who meet the university's admissions criteria.",
-            "textBelowInfo": "Admission Requirements:",
+            "textBelowInfo": "<b>Admission Requirements:</b>",
             "data": [
                 "Completed Application",
                 "Transcripts from all previously attended institutions",

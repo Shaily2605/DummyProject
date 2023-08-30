@@ -330,8 +330,9 @@ export const newbrunswickcollegeofcraftanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostel",
-            "info": "There are several hostels located near the New Brunswick College of Craft & Design, including:",
+            "title": "",
+            "info": "Hostel",
+            "textBelowInfo": "<b>There are several hostels located near the New Brunswick College of Craft & Design, including:</b>",
             "data": [
                 "The Brunswick Hostel",
                 "The Globe Hostel",

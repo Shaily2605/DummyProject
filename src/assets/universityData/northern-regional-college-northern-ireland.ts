@@ -343,7 +343,7 @@ export const northernregionalcollegenorthernireland = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "Northern Regional College has on-campus accommodation to suit everyone, offering a wide range of facilities, including:",
+            "textBelowInfo": "<b>Northern Regional College has on-campus accommodation to suit everyone, offering a wide range of facilities, including:</b>",
             "data": [
                 "En-suite rooms with private bathrooms",
                 "Fully-furnished shared kitchen and living area",
@@ -358,20 +358,15 @@ export const northernregionalcollegenorthernireland = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "textBelowInfo": "Northern Regional College also offers a wide range of off-campus accommodation options, including:",
+            "textBelowInfo": "<b>Northern Regional College also offers a wide range of off-campus accommodation options, including:</b>",
             "data": [
                 "Private rented accommodation ",
                 "Shared student houses and flats  ",
                 "Student halls of residence  ",
                 "Hostels and guesthouses  ",
                 "Hotels  ",
-                "Bed and breakfasts "
+                "Bed and breakfasts <br><br>You may also be able to find accommodation through property websites such as Rightmove and Zoopla, or through local newspapers."
             ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>You may also be able to find accommodation through property websites such as Rightmove and Zoopla, or through local newspapers.</p>"
         },
         {
             type: "meta",

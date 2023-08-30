@@ -146,7 +146,7 @@ export const mississippivalleystateuniversity = {
                 "You must hold a valid passport from India.",
                 "You must have a minimum grade point average of 2.5 or higher on a 4-point scale.",
                 "You must submit official secondary and postsecondary transcripts to the Office of Admissions. ",
-                "You must provide proof of English proficiency through one of the following:<br>1.TOEFL (Test of English as a Foreign Language) score of at least 550 (paper-based), 213 (computer-based) or 79 (internet-based)<br> 2.IELTS (International English Language Testing System) score of at least 6.0.<br> 3.SAT Evidence-Based Reading and Writing score of at least 480.<br> 4.ACT English score of at least 19.",
+                "You must provide proof of English proficiency through one of the following:<br>1. TOEFL (Test of English as a Foreign Language) score of at least 550 (paper-based), 213 (computer-based) or 79 (internet-based)<br> 2. IELTS (International English Language Testing System) score of at least 6.0.<br> 3. SAT Evidence-Based Reading and Writing score of at least 480.<br> 4. ACT English score of at least 19.",
                 "You must submit the official financial statement and bank statement to prove that you have enough money to cover your tuition and living expenses for at least one year of study.",
                 "You must submit proof of health insurance.",
                 "You must submit a completed International Student Application form."

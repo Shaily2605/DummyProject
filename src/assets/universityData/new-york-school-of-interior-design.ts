@@ -324,8 +324,9 @@ export const newyorkschoolofinteriordesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "The school provides a list of recommended off-campus housing options. These include:",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>The school provides a list of recommended off-campus housing options. These include:</b>",
             "data": [
                 "<b>NYC Student Housing -</b> An off-campus student housing service that offers both shared and private rooms near the school. ",
                 "<b>The International Student Suites -</b> A furnished residence for international students located close to the school. ",
@@ -335,8 +336,9 @@ export const newyorkschoolofinteriordesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostel Facilities",
-            "info": "New York School of Interior Design does not offer hostel facilities. However, there are a number of hostels located near the school, including:",
+            "title": "",
+            "info": "Hostel Facilities",
+            "textBelowInfo": "<b>New York School of Interior Design does not offer hostel facilities. However, there are a number of hostels located near the school, including:</b>",
             "data": [
                 "<b>The Pod 39 Hotel -</b> A hostel located in the heart of Manhattan, near the school.",
                 "<b>Larchmont Hotel -</b> A hostel located close to the school, offering both private and shared rooms. ",

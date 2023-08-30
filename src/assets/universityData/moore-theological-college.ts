@@ -327,7 +327,7 @@ export const mooretheologicalcollege = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Hostels",
-            "textBelowInfo": "There are several hostels in the local area that may be suitable for students at Moore Theological College. These include:",
+            "textBelowInfo": "<b>There are several hostels in the local area that may be suitable for students at Moore Theological College. These include:</b>",
             "data": [
                 "<b>St Barnabas Hostel</b> – a co-ed hostel located in Newtown, just a short walk from the college",
                 "<b>Bondi Junction Hostel</b> – a hostel located in the heart of Bondi Junction, less than 10 minutes from the college by public transport",

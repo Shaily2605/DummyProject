@@ -104,7 +104,7 @@ export const nationalparalegalcollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "The National Paralegal College, Inc., offers an online law degree program and many other courses to students in the United States and around the world. The college is accredited by the Distance Education Accrediting Commission (DEAC).",
-            "textBelowInfo": "To be eligible to apply for admission to National Paralegal College, Inc., you must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible to apply for admission to National Paralegal College, Inc., you must meet the following criteria:</b>",
             "data": [
                 "You must be at least 18 years of age",
                 "You must have a high school diploma/GED or equivalent",

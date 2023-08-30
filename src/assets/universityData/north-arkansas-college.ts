@@ -131,7 +131,7 @@ export const northarkansascollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "North Arkansas College accepts applications for admission from students around the world, including India.",
-            "textBelowInfo": "Eligibility Criteria for Indian Students:",
+            "textBelowInfo": "<b>Eligibility Criteria for Indian Students:</b>",
             "data": [
                 "Must have a valid Indian passport",
                 "Must have graduated from a recognized Indian high school or equivalent institution",

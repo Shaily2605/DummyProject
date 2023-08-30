@@ -72,7 +72,7 @@ export const millikinuniversityillinois = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Undergraduate Tuition & Fees",
-            "textBelowInfo": "Tuition & Fees Per Semester:",
+            "textBelowInfo": "<b>Tuition & Fees Per Semester:</b>",
             "data": [
                 "Full-Time (12-18 credit hours) - $17,646",
                 "Part-Time (1-11 credit hours) - $1,062 per credit hour"
@@ -80,8 +80,9 @@ export const millikinuniversityillinois = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Tuition & Fees ",
-            "info": "Tuition & Fees Per Semester:",
+            "title": "",
+            "info": "Graduate Tuition & Fees ",
+            "textBelowInfo": "<b>Tuition & Fees Per Semester:</b>",
             "data": [
                 "Full-Time (9-15 credit hours) - $12,945",
                 "Part-Time (1-8 credit hours) - $1,062 per credit hour"

@@ -107,7 +107,7 @@ export const mountcarmelcollegeofnursing = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Mount Carmel College of Nursing does not currently offer admission to Indian students. The college does offer online nursing programs for US residents, but international students are not eligible for admission.",
-            "textBelowInfo": "To be eligible for admission to Mount Carmel College of Nursing, students must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission to Mount Carmel College of Nursing, students must meet the following criteria:</b>",
             "data": [
                 "Have a high school diploma or GED",
                 "Be a U.S. citizen or permanent resident",

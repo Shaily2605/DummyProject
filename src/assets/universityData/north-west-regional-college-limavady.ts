@@ -316,7 +316,7 @@ export const northwestregionalcollegelimavady = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "North West Regional College Limavady offers on-campus accommodation for students in purpose-built student residence, which includes:",
+            "textBelowInfo": "<b>North West Regional College Limavady offers on-campus accommodation for students in purpose-built student residence, which includes:</b>",
             "data": [
                 "Single rooms with en suite and communal bathrooms",
                 "Shared kitchen and living space",
@@ -330,7 +330,7 @@ export const northwestregionalcollegelimavady = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation:",
-            "textBelowInfo": "The college also has an accommodation and hostel search facility, which can help students find off-campus housing in the local area. This search facility lists many different types of accommodation, including:",
+            "textBelowInfo": "<b>The college also has an accommodation and hostel search facility, which can help students find off-campus housing in the local area. This search facility lists many different types of accommodation, including:</b>",
             "data": [
                 "Private rented housing",
                 "Hostels and guesthouses",

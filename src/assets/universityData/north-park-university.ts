@@ -152,7 +152,7 @@ export const northparkuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "North Park University is a private, Christian university located in Chicago, Illinois. The university is open to students from all backgrounds and faiths, and they offer more than 60 undergraduate majors and several graduate degrees.",
-            "textBelowInfo": "For Indian students, the eligibility criteria to take admission to North Park University is as follows:",
+            "textBelowInfo": "<b>For Indian students, the eligibility criteria to take admission to North Park University is as follows:</b>",
             "data": [
                 "Students must have completed the equivalent of a US high school diploma, as well as have at least a 3.0 GPA on a 4-point scale.",
                 "Students must provide official transcripts from all secondary and post-secondary institutions attended.",

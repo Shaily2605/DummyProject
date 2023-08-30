@@ -114,7 +114,7 @@ export const mountallisonuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Mount Allison University (MTA) offers admission to international students from all over the world.",
-            "textBelowInfo": "To be eligible for admission to MTA, Indian students must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission to MTA, Indian students must meet the following criteria:</b>",
             "data": [
                 "Applicants must have completed 12 years of education.",
                 "Applicants must have obtained a minimum of 65% in their higher secondary school examination (12th standard/Senior Secondary School Certificate). ",

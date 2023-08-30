@@ -80,7 +80,7 @@ export const naitalberta = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "The Northern Alberta Institute of Technology (NAIT) offers over 200 programs, both full-time and part-time, to international students. International students can choose from a wide range of career-oriented diploma, certificate, and applied degree programs in over 40 different subject areas.",
-            "textBelowInfo": "<p>The following are the courses offered by NAIT, along with their tuition fees and other related fees:</p> <br> <p><b>Diploma Programs:</b></p>",
+            "textBelowInfo": "<p><b>The following are the courses offered by NAIT, along with their tuition fees and other related fees:</b></p> <p><b>Diploma Programs:</b></p>",
             "data": [
                 "Business Administration – $17,219.00",
                 "Computer Engineering Technology – $20,749.00",
@@ -339,7 +339,7 @@ export const naitalberta = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "NAIT offers a variety of on-campus accommodation options to suit all needs.",
+            "textBelowInfo": "<b>NAIT offers a variety of on-campus accommodation options to suit all needs.</b>",
             "data": [
                 "<b>NAIT Residence:</b> NAIT Residence is a secure, convenient and comfortable option for students attending NAIT. It offers single and double occupancy rooms, with a fully-equipped kitchen and a common area. It also provides a variety of services such as laundry, Wi-Fi and cable TV.",
                 "<b>Residence Hall:</b> Residence Hall is another on-campus accommodation option for NAIT students. It offers single and double occupancy rooms, with a fully-equipped kitchen and a shared common area. It also offers a variety of services such as laundry, Wi-Fi and cable TV."

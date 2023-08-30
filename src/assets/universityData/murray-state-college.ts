@@ -73,7 +73,7 @@ export const murraystatecollege = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Murray State College offers Associate of Arts and Associate of Science degrees, as well as certificates in a variety of career-oriented fields.",
-            "textBelowInfo": "<p>Tuition and fees at Murray State College are dependent on the program and number of credit hours taken. The following are estimated tuition and fees for the 2020-2021 academic year:</p> <br> <p></b>Undergraduate Tuition and Fees</b></p>",
+            "textBelowInfo": "<p><b>Tuition and fees at Murray State College are dependent on the program and number of credit hours taken. The following are estimated tuition and fees for the 2020-2021 academic year:</b></p> <p><b>Undergraduate Tuition and Fees</b></p>",
             "data": [
                 "In-state tuition and fees: $3,076 per year",
                 "Out-of-state tuition and fees: $4,738 per year"
@@ -145,7 +145,7 @@ export const murraystatecollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "Murray State College is an open access institution, which means that there are no special requirements for admission. All applicants must complete the online application and submit official transcripts from all previous institutions attended.",
-            "textBelowInfo": "To be eligible for admission as an international student, you must:",
+            "textBelowInfo": "<b>To be eligible for admission as an international student, you must:</b>",
             "data": [
                 "Submit an application for admission ",
                 "Submit evidence of English proficiency",

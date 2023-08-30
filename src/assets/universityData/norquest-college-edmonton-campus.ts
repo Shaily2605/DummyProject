@@ -151,7 +151,7 @@ export const norquestcollegeedmontoncampus = {
             "data": [
                 "International students from India can apply for admission at NorQuest College Edmonton Campus by visiting the college website.",
                 "They must complete the International Student Application form and submit it with the required supporting documents.",
-                "They must submit the required documents such as transcripts, proof of language proficiency, passport, and other documents as specif=ied in the online application.",
+                "They must submit the required documents such as transcripts, proof of language proficiency, passport, and other documents as specified in the online application.",
                 "The students must also submit a non-refundable application fee.",
                 "After submitting the required documents, the students can wait for their application to be processed.",
                 "If they are accepted, they need to submit a tuition fee deposit and make arrangements for visa processing.",

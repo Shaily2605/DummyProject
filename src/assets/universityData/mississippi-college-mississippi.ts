@@ -80,14 +80,10 @@ export const mississippicollegemississippi = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Mississippi College offers over 100 undergraduate and graduate programs in the fields of Arts & Sciences, Business, Christian Studies, Education, Nursing, and more.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs",
-            "info": "Arts and Sciences",
+            "title": "Courses and Fees",
+            "info": "Mississippi College offers over 100 undergraduate and graduate programs in the fields of Arts & Sciences, Business, Christian Studies, Education, Nursing, and more.",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>Arts and Sciences</b></p>",
             "data": [
                 "Art",
                 "Biology",
@@ -198,12 +194,8 @@ export const mississippicollegemississippi = {
                 "An international student application fee of $50",
                 "Completed Certification of Finances Form",
                 "A Declaration and Certification of Finances form signed and supported by appropriate evidence of the student’s financial resources."
-            ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>In addition, some departments may have additional requirements, such as a minimum GPA, that must be met in order to be admitted. Please contact the admissions office for more information.</p>"
+            ],
+            "heading": "<p>In addition, some departments may have additional requirements, such as a minimum GPA, that must be met in order to be admitted. Please contact the admissions office for more information.</p>"
         },
         {
             "type": "list-bollet",

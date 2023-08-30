@@ -70,14 +70,10 @@ export const molloycollegenewyork = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Courses and Fees',
-            data: "<p>Molloy College offers a variety of undergraduate and graduate degree programs. Below is a list of the programs, along with their tuition and fees for the 2020-2021 academic year.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "Undergraduate Programs:",
-            "info": "Accounting:",
+            "title": "Courses and Fees",
+            "info": "Molloy College offers a variety of undergraduate and graduate degree programs. Below is a list of the programs, along with their tuition and fees for the 2020-2021 academic year.",
+            "textBelowInfo": "<p><b>Undergraduate Programs:</b></p> <p><b>Accounting:</b></p>",
             "data": [
                 "Tuition: $38,860",
                 "Fees: $1,680"
@@ -202,8 +198,9 @@ export const molloycollegenewyork = {
         },
         {
             "type": "list-bollet",
-            "title": "Graduate Programs:",
-            "info": "Business Administration:",
+            "title": "",
+            "info": "Graduate Programs:",
+            "textBelowInfo": "<b>Business Administration:</b>",
             "data": [
                 "Tuition: $1,030 per credit",
                 "Fees: $650"
@@ -487,7 +484,8 @@ export const molloycollegenewyork = {
         },
         {
             type: 'text',
-            title: 'Hostel Facilities:',
+            title: "",
+            info: 'Hostel Facilities:',
             data: "<p>Molloy College does not offer hostel facilities on-campus. However, there are several hostels located near the college that offer a variety of amenities, such as private or shared rooms, kitchen facilities, and laundry facilities.</p>"
         },
         {

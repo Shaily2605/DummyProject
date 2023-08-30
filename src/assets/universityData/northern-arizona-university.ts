@@ -75,7 +75,7 @@ export const northernarizonauniversity = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Northern Arizona University offers more than 150 degree programs, including bachelor’s, master’s, doctoral, and certificate programs. You can browse all of the courses offered at NAU online at https://nau.edu/academics/.",
-            "textBelowInfo": "Below is a list of some of the popular courses offered by NAU along with their tuition fee:",
+            "textBelowInfo": "<b>Below is a list of some of the popular courses offered by NAU along with their tuition fee:</b>",
             "data": [
                 "Bachelor of Science in Business Administration: $8,800/semester",
                 "Bachelor of Science in Engineering: $8,700/semester",
@@ -309,7 +309,7 @@ export const northernarizonauniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "Northern Arizona University offers on-campus accommodation in the form of residence halls, apartments, and student family housing.",
+            "textBelowInfo": "<b>Northern Arizona University offers on-campus accommodation in the form of residence halls, apartments, and student family housing.</b>",
             "data": [
                 "<b>Residence Halls:</b> NAU offers 14 residence halls, including traditional style and suite-style residence halls. All residences are fully furnished, and the majority have kitchens, laundry facilities, and a community lounge.",
                 "<b>Apartments:</b> NAU offers on-campus apartments for upper-class students. These apartments are fully furnished and include a kitchen, living room, bathroom, and bedroom.",
@@ -320,7 +320,7 @@ export const northernarizonauniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Hostels",
-            "textBelowInfo": "There are several off-campus hostels located near Northern Arizona University. Some of the most popular hostels include:",
+            "textBelowInfo": "<b>There are several off-campus hostels located near Northern Arizona University. Some of the most popular hostels include:</b>",
             "data": [
                 "<b>Flagstaff Hostel:</b> Located just two miles from NAU, this hostel offers affordable accommodations for travelers.",
                 "<b>Grand Canyon International Hostel:</b> Located in Flagstaff, this hostel is just a 10-minute drive from NAU.",

@@ -186,7 +186,7 @@ export const northwestarkansascommunitycollege = {
                 "<b>Application for Admission:</b> All Indian students must submit an online application for admission to NWACC through the college website.",
                 "<b>English Language Requirement:</b> All Indian students must demonstrate English proficiency by providing an official TOEFL or IELTS score. The minimum scores required are: TOEFL - 79 (Internet-based), IELTS - 6.0",
                 "<b>Financial Documents:</b> All Indian students must submit official financial documents to demonstrate adequate funds to cover tuition and living expenses for the duration of their studies.",
-                "<b>Academic Credentials:</b> All Indian students must submit the following documents:<br> <b>a. Official High School Transcripts: </b>All Indian students must submit official transcripts from the last secondary school attended.<br> <b>b. Official College Transcripts: </b>If applicable, students must submit official transcripts from all colleges/universities attended.<br> <b>c. Official Test Scores: </b>All Indian students must submit official scores from national tests such as SAT, ACT, SAT II, etc.",
+                "<b>Academic Credentials:</b> All Indian students must submit the following documents:<br> a. Official High School Transcripts: All Indian students must submit official transcripts from the last secondary school attended.<br> b. Official College Transcripts: If applicable, students must submit official transcripts from all colleges/universities attended.<br> c. Official Test Scores: All Indian students must submit official scores from national tests such as SAT, ACT, SAT II, etc.",
                 "<b>Copy of Passport:</b> All Indian students must submit a copy of their valid passport.",
                 "<b>Copy of Visa:</b> All Indian students must submit a copy of their valid visa.",
                 "<b>Transfer Evaluation:</b> If applicable, students must submit a transfer evaluation report from an approved credential evaluation agency."
@@ -367,7 +367,7 @@ export const northwestarkansascommunitycollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
             "info": "ON-CAMPUS:",
             "data": [
@@ -378,7 +378,7 @@ export const northwestarkansascommunitycollege = {
             "type": "list-bollet",
             "title": "",
             "info": "OFF-CAMPUS:",
-            "textBelowInfo": "There are many hostel and accommodation options available near the college campus.",
+            "textBelowInfo": "<b>There are many hostel and accommodation options available near the college campus. </b>",
             "data": [
                 "<b>Quality Inn & Suites - Fayetteville </b> <br>This hotel is located just 6.7 miles away from the college campus and offers a range of amenities such as free WiFi, free breakfast, and an outdoor pool.",
                 "<b>Fairfield Inn & Suites Springdale </b> <br>This hotel is located 5.4 miles away from the college campus and offers a range of amenities such as free WiFi, a fitness center, and an outdoor pool.",

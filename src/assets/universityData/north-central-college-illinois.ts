@@ -351,14 +351,10 @@ export const northcentralcollegeillinois = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "<p><b>On-Campus Accommodation</b></p> <p>North Central College offers a variety of on-campus living options, including traditional residence halls, apartments, and suites. All residence halls have air conditioning, and each room is equipped with a bed, dresser, desk, chair, and closet or wardrobe.</p>"
-        },
-        {
             "type": "list-bollet",
-            "title": "",
-            "info": "Traditional Residence Halls ",
+            "title": "Hostel",
+            "info": "<p>On-Campus Accommodation</p> <p>North Central College offers a variety of on-campus living options, including traditional residence halls, apartments, and suites. All residence halls have air conditioning, and each room is equipped with a bed, dresser, desk, chair, and closet or wardrobe.</p>",
+            "textBelowInfo": "<b>Traditional Residence Halls </b>",
             "data": [
                 "Schoenherr Hall",
                 "Kolze Hall",
@@ -379,8 +375,9 @@ export const northcentralcollegeillinois = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "North Central College has a variety of off-campus housing options for students. Off-campus housing options include apartments, duplexes, and townhouses.",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>North Central College has a variety of off-campus housing options for students. Off-campus housing options include apartments, duplexes, and townhouses.</b>",
             "data": [
                 "Tallgrass Apartments ",
                 "Meadowbrook Apartments ",
@@ -397,7 +394,7 @@ export const northcentralcollegeillinois = {
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "",
             "info": "Hostel Facilities",
             "data": [

@@ -141,7 +141,7 @@ export const northamericanuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "North American University (NAU) considers applications from international students who hold a valid passport from a country other than the United States.",
-            "textBelowInfo": "Eligibility criteria for admission at North American University (NAU) for Indian students are as follows: ",
+            "textBelowInfo": "<b>Eligibility criteria for admission at North American University (NAU) for Indian students are as follows: </b>",
             "data": [
                 "A minimum cumulative grade point average (GPA) of 2.5 in a 4.0 grading system for Indian applicants. ",
                 "Must submit a completed application form along with all required documents.  ",

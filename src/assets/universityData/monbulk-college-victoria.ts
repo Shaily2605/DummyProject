@@ -341,7 +341,7 @@ export const monbulkcollegevictoria = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "textBelowInfo": "Monbulk College does not provide off-campus accommodation for students. However, there are many hostel and accommodation options available in the surrounding area. These include:",
+            "textBelowInfo": "<b>Monbulk College does not provide off-campus accommodation for students. However, there are many hostel and accommodation options available in the surrounding area. These include:</b>",
             "data": [
                 "The Monbulk Hotel – a comfortable and affordable hotel located just minutes from Monbulk College.",
                 "The Monbulk Caravan Park – an affordable and conveniently located caravan park.",

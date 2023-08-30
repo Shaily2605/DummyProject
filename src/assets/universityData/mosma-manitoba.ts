@@ -296,58 +296,41 @@ export const mosmamanitoba = {
             title: ""
         },
         {
-            type: 'text',
-            title: 'Hostel',
-            data: "",
-        },
-        {
             "type": "list-bollet",
-            "title": "On-Campus Accommodation",
-            "info": "MOSMA offers on-campus housing for students. The on-campus residences provide a variety of residential living options, including:",
+            "title": 'Hostel',
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>MOSMA offers on-campus housing for students. The on-campus residences provide a variety of residential living options, including:</b>",
             "data": [
                 "Single-room occupancy units ",
                 "Shared room units ",
                 "Two and four bedroom suites ",
-                "Apartment style units "
+                "Apartment style units <br><br> Each residence hall has a Resident Coordinator and Resident Assistants, who are available to help students with any questions or concerns."
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>Each residence hall has a Resident Coordinator and Resident Assistants, who are available to help students with any questions or concerns.</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "MOSMA offers a range of off-campus accommodation options for students, including hostels, apartments, and houses. Some of the off-campus housing options available include:",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>MOSMA offers a range of off-campus accommodation options for students, including hostels, apartments, and houses. Some of the off-campus housing options available include:</b>",
             "data": [
                 "Student Hostels ",
                 "Private Apartments ",
-                "Houses "
+                "Houses <br><br> Students can also find off-campus housing through private rental companies, or through online rental marketplaces such as Craigslist or Kijiji."
             ]
         },
         {
-            type: 'text',
-            title: '',
-            data: "<p>Students can also find off-campus housing through private rental companies, or through online rental marketplaces such as Craigslist or Kijiji.</p>",
-        },
-        {
             "type": "list-bollet",
-            "title": "Hostel Facilities ",
-            "info": "MOSMA hostels provide basic amenities for students, including: ",
+            "title": "",
+            "info": "Hostel Facilities ",
+            "textBelowInfo": "<b>MOSMA hostels provide basic amenities for students, including: </b>",
             "data": [
                 "Private and shared rooms ",
                 "Wi-Fi access ",
                 "On-site laundry facilities ",
                 "Common areas for studying, socializing, and recreation ",
                 "Fully equipped kitchen ",
-                "24-hour security "
+                "24-hour security  <br><br> Hostel staff are always available to assist students with any questions or concerns."
             ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>Hostel staff are always available to assist students with any questions or concerns.</p>",
         },
         {
             type: "meta",

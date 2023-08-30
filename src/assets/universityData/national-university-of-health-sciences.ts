@@ -117,7 +117,7 @@ export const nationaluniversityofhealthsciences = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "National University of Health Sciences (NUHS) in Illinois, USA admits international students.",
-            "textBelowInfo": "To be eligible for admission, applicants must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission, applicants must meet the following criteria:</b>",
             "data": [
                 "Possess a valid visa for study in the United States.",
                 "Have a high school diploma or equivalent from a recognized educational institution.",

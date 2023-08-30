@@ -71,7 +71,7 @@ export const nationalcollegeofvocationaleducation = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "The National College of Vocational Education (NCVE) offers a range of courses and qualifications. All courses are accredited under the Australian Qualifications Framework (AQF).",
-            "textBelowInfo": "The courses and their respective fees are as follows:",
+            "textBelowInfo": "<b>The courses and their respective fees are as follows:</b>",
             "data": [
                 "Certificate IV in Business: $3,500",
                 "Diploma of Business: $5,500",

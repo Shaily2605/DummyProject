@@ -71,7 +71,8 @@ export const millsapscollegemississippi = {
         {
             type: 'text',
             title: 'Courses and Fees',
-            data: "<p> Undergraduate Programs <br>Millsaps College offers 36 majors, 10 minors, and 24 pre-professional programs.</p>",
+            info: "Undergraduate Programs",
+            data: "<p>Millsaps College offers 36 majors, 10 minors, and 24 pre-professional programs.</p>",
         },
         {
             "type": "list-bollet",

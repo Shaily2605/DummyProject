@@ -90,71 +90,71 @@ export const universityoforegonoregon = {
             ],
             "row": [
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Anthropology",
+                    "Course ": "<b>Anthropology </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Art History, Theory and Criticism",
+                    "Course ": "<b>Art History, Theory and Criticism </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Biology",
+                    "Course ": "<b>Biology </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Chemistry",
+                    "Course ": "<b>Chemistry </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Economics",
+                    "Course ": "<b>Economics </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Environmental Studies",
+                    "Course ": "<b>Environmental Studies </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Mathematics",
+                    "Course ": "<b>Mathematics </b>",
                     "Fees": "$13,818"
                 },
                  {
-                    "Course ": "Philosophy",
+                    "Course ": "<b>Philosophy </b>",
                     "Fees": "$13,818"
                 },
                   {
-                    "Course ": "Physics",
+                    "Course ": "<b>Physics </b>",
                     "Fees": "$13,818"
                 },  
                 {
-                    "Course ": "Political Science",
+                    "Course ": "<b>Political Science </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology </b>",
                     "Fees": "$13,818"
                 },
                 {
-                    "Course ": "Sociology",
+                    "Course ": "<b>Sociology </b>",
                     "Fees": "$13,818"
                 },
             ]
@@ -169,71 +169,71 @@ export const universityoforegonoregon = {
             ],
             "row": [
                 {
-                    "Course ": "Accounting",
+                    "Course ": "<b>Accounting </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Anthropology",
+                    "Course ": "<b>Anthropology </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Art History, Theory and Criticism",
+                    "Course ": "<b>Art History, Theory and Criticism </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Biology",
+                    "Course ": "<b>Biology </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Business Administration",
+                    "Course ": "<b>Business Administration </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Chemistry",
+                    "Course ": "<b>Chemistry </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Computer Science",
+                    "Course ": "<b>Computer Science </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Economics",
+                    "Course ": "<b>Economics </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "English",
+                    "Course ": "<b>English </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Environmental Studies",
+                    "Course ": "<b>Environmental Studies </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "History",
+                    "Course ": "<b>History </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Mathematics",
+                    "Course ": "<b>Mathematics </b>",
                     "Fees": "$17,719"
                 },
                  {
-                    "Course ": "Philosophy",
+                    "Course ": "<b>Philosophy </b>",
                     "Fees": "$17,719"
                 },
                   {
-                    "Course ": "Physics",
+                    "Course ": "<b>Physics </b>",
                     "Fees": "$17,719"
                 },  
                 {
-                    "Course ": "Political Science",
+                    "Course ": "<b>Political Science </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Psychology",
+                    "Course ": "<b>Psychology </b>",
                     "Fees": "$17,719"
                 },
                 {
-                    "Course ": "Sociology",
+                    "Course ": "<b>Sociology </b>",
                     "Fees": "$17,719"
                 },
             ]

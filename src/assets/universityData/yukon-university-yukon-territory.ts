@@ -70,46 +70,121 @@ export const yukonuniversityyukonterritory = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "Courses and Fees",
             "info": "Yukon University offers a wide range of undergraduate, graduate, and diploma programs. The following is a list of courses offered by Yukon University, along with their associated tuition fees.",
             "textBelowInfo": "<b>Undergraduate Programs: </b>",
-            "data": [
-                "Bachelor of Arts – Tuition: $4,200.00/semester ",
-                "Bachelor of Business Administration – Tuition: $4,200.00/semester ",
-                "Bachelor of Education – Tuition: $4,800.00/semester ",
-                "Bachelor of Environmental & Natural Resource Sciences – Tuition: $4,800.00/semester ",
-                "Bachelor of Science – Tuition: $4,800.00/semester ",
-                "Bachelor of Social Work – Tuition: $4,800.00/semester ",
-                "Bachelor of Trades & Technology – Tuition: $4,200.00/semester",
+            "col": [
+                "Programs",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Programs": "<b>Bachelor of Arts </b>",
+                    "Tuition": "$4,200.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Business Administration </b>",
+                    "Tuition": "$4,200.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Education </b>",
+                    "Tuition": "$4,800.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Environmental & Natural Resource Sciences </b>",
+                    "Tuition": "$4,800.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Science </b>",
+                    "Tuition": "$4,800.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Social Work </b>",
+                    "Tuition": "$4,800.00/semester"
+                },
+                {
+                    "Programs": "<b>Bachelor of Trades & Technology </b>",
+                    "Tuition": "$4,200.00/semester"
+                }
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Graduate Programs:",
-            "data": [
-                "Master of Arts – Tuition: $5,700.00/semester ",
-                "Master of Business Administration – Tuition: $6,400.00/semester ",
-                "Master of Education – Tuition: $5,700.00/semester ",
-                "Master of Environmental & Natural Resource Sciences – Tuition: $5,700.00/semester ",
-                "Master of Science – Tuition: $5,700.00/semester ",
-                "Master of Social Work – Tuition: $5,700.00/semester ",
-                "Master of Trades & Technology – Tuition: $5,700.00/semester",
+            "col": [
+                "Programs",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Programs": "<b>Master of Arts </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Business Administration </b>",
+                    "Tuition": "$6,400.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Education </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Environmental & Natural Resource Sciences </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Science </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Social Work </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
+                {
+                    "Programs": "<b>Master of Trades & Technology </b>",
+                    "Tuition": "$5,700.00/semester"
+                },
             ]
         },
         {
-            "type": "list-bollet",
+            "type": "table",
             "title": "",
             "info": "Diploma Programs:",
-            "data": [
-                "Diploma in Arts – Tuition: $1,800.00/semester ",
-                "Diploma in Business Administration – Tuition: $2,100.00/semester ",
-                "Diploma in Education – Tuition: $2,100.00/semester ",
-                "Diploma in Environmental & Natural Resource Sciences – Tuition: $2,100.00/semester ",
-                "Diploma in Science – Tuition: $2,100.00/semester ",
-                "Diploma in Social Work – Tuition: $2,100.00/semester ",
-                "Diploma in Trades & Technology – Tuition: $1,800.00/semester",
+            "col": [
+                "Programs",
+                "Tuition",
+            ],
+            "row": [
+                {
+                    "Programs": "<b>Diploma in Arts </b>",
+                    "Tuition": "$1,800.00/semester"
+                },
+                  {
+                    "Programs": "<b>Diploma in Business Administration </b>",
+                    "Tuition": "$2,100.00/semester"
+                },
+                {
+                    "Programs": "<b>Diploma in Education </b>",
+                    "Tuition": "$2,100.00/semester"
+                },
+                {
+                    "Programs": "<b>Diploma in Environmental & Natural Resource Sciences </b>",
+                    "Tuition": "$2,100.00/semester"
+                },
+                {
+                    "Programs": "<b>Diploma in Science </b>",
+                    "Tuition": "$2,100.00/semester"
+                },
+                {
+                    "Programs": "<b>Diploma in Social Work </b>",
+                    "Tuition": "$2,100.00/semester"
+                },
+                {
+                    "Programs": "<b>Diploma in Trades & Technology </b>",
+                    "Tuition": "$1,800.00/semester"
+                },
             ]
         },
         {

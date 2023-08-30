@@ -180,7 +180,7 @@ export const northscotlandcollege = {
             "type": "list-bollet",
             "title": "Eligibility Requirement",
             "info": "The North Scotland College does not have a campus in Scotland, UK.",
-            "textBelowInfo": "In order to apply for admission at North Scotland College, Indian students must meet the following eligibility criteria:",
+            "textBelowInfo": "<b>In order to apply for admission at North Scotland College, Indian students must meet the following eligibility criteria:</b>",
             "data": [
                 "Be aged 16 and over ",
                 "Have a minimum of 5 GCSEs at grade C or above (including Maths and English) ",
