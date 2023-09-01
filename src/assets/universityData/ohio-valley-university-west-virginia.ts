@@ -74,7 +74,7 @@ export const ohiovalleyuniversitywestvirginia = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Ohio Valley University offers more than 50 degrees and programs of study. The university offers undergraduate and graduate degree programs in the fields of business, education, psychology, and more.",
-            "textBelowInfo": "<p>Below are the courses offered by Ohio Valley University along with the fee structure:</p> <p><b>Undergraduate Programs </b></p>",
+            "textBelowInfo": "<p><b>Below are the courses offered by Ohio Valley University along with the fee structure:</b></p> <p><b>Undergraduate Programs </b></p>",
             "data": [
                 "Accounting –  $11,496 per semester ",
                 "Biology –  $11,496 per semester ",
@@ -128,7 +128,7 @@ export const ohiovalleyuniversitywestvirginia = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Ohio Valley University in West Virginia is a Christian college that offers degree programs to both domestic and international students. The university has specific requirements that all students must meet to be considered eligible for admission, including those from India.",
-            "textBelowInfo": "To be eligible for admission to Ohio Valley University, Indian students must meet the following requirements:",
+            "textBelowInfo": "<b>To be eligible for admission to Ohio Valley University, Indian students must meet the following requirements:</b>",
             "data": [
                 "Have a valid passport and visa",
                 "Completed an official secondary school education or equivalent",

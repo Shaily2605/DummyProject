@@ -73,7 +73,7 @@ export const redrivercollegeprincessstreet = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Red River College offers more than 200 full-time and part-time diploma, certificate and post-diploma programs and more than 1000 continuing education courses.",
-            "textBelowInfo": "<p>Below is the list of courses offered by Red River College with fee structure:</p> <p><b>Diploma Programs:</b></p>",
+            "textBelowInfo": "<p><b>Below is the list of courses offered by Red River College with fee structure:</b></p> <p><b>Diploma Programs:</b></p>",
             "data": [
                 "Business Administration: $11,000",
                 "Computer Systems Technology: $11,000",
@@ -393,13 +393,20 @@ export const redrivercollegeprincessstreet = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-campus Accommodation",
+            "textBelowInfo": "<b>Red River College offers on-campus housing for students at three of its campuses. The Paterson GlobalFoods Institute, Notre Dame Campus, and Exchange District Campus all offer student accommodation.</b>",
             "data": [
-                "<b>On-campus Accommodation </b> <br>Red River College offers on-campus housing for students at three of its campuses. The Paterson GlobalFoods Institute, Notre Dame Campus, and Exchange District Campus all offer student accommodation.",
                 "<b>Paterson GlobalFoods Institute </b> <br>The Paterson GlobalFoods Institute offers apartment-style housing for students. Each apartment includes a kitchen, living room, and bathroom, and is furnished with a refrigerator, stove, and beds.",
                 "<b>Notre Dame Campus </b> <br>The Notre Dame Campus offers single occupancy rooms in one of its residence buildings. These rooms are furnished with a bed, desk, and chair.",
                 "<b>Exchange District Campus </b> <br>The Exchange District Campus also offers single occupancy rooms in one of its residence buildings. These rooms are furnished with a bed, desk, and chair, and have access to a shared kitchen.",
-                "<b>Off-campus Accommodation </b> <br>Red River College also provides information on off-campus accommodation. The College has compiled a list of nearby accommodations, including hotels, hostels, and apartments. ",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-campus Accommodation",
+            "textBelowInfo": "<b>Red River College also provides information on off-campus accommodation. The College has compiled a list of nearby accommodations, including hotels, hostels, and apartments.</b>",
+            "data": [
                 "<b>Hotels </b> <br>The College has compiled a list of nearby hotels, including the Alt Hotel Winnipeg, the Radisson Hotel Winnipeg Downtown, and the Victoria Inn Winnipeg.",
                 "<b>Hostels </b> <br>The College has compiled a list of nearby hostels, including the HI Winnipeg Hostel and the AHI Winnipeg Hostel.",
                 "<b>Apartments </b> <br>The College has compiled a list of nearby apartments, including the Exchange District Apartments, the St. James Apartments, and the Fort Garry Apartments.",

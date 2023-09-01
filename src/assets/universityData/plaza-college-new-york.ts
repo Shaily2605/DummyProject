@@ -75,7 +75,7 @@ export const plazacollegenewyork = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Plaza College is a private, non-profit college located in Jackson Heights, Queens, New York. It offers degrees in a variety of disciplines, ranging from Associate's and Bachelor's Degrees to Doctoral and Professional Certificates.",
-            "textBelowInfo": "<p>The following is a list of courses offered at Plaza College, along with the associated tuition and fees.</p> <br> <p><b>ASSOCIATE DEGREES:</b></p>",
+            "textBelowInfo": "<p><b>The following is a list of courses offered at Plaza College, along with the associated tuition and fees.</b></p> <br> <p><b>ASSOCIATE DEGREES:</b></p>",
             "data": [
                 "Associate in Arts (AA): Tuition: $16,500 | Fees: $400",
                 "Associate in Science (AS): Tuition: $16,500 | Fees: $400",
@@ -156,7 +156,7 @@ export const plazacollegenewyork = {
             "type": "list-bollet",
             "title": "How to Apply ?",
             "info": "Students from India who are interested in applying for admission to Plaza College, New York, USA, should first contact the college's Admissions Office to find out about the application process and requirements. The Admissions Office will provide students with an application package, which includes the online application form, a list of required documents, and instructions on how to submit the application.",
-            "textBelowInfo": "To complete the application, students must provide the following documents:",
+            "textBelowInfo": "<b>To complete the application, students must provide the following documents:</b>",
             "data": [
                 "Official transcripts from schools previously attended",
                 "Official English language proficiency test scores",

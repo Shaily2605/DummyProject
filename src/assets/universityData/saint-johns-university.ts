@@ -171,7 +171,7 @@ export const saintjohnsuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Admission to Saint John’s University is based on a holistic review of each student’s academic record, test scores, extracurricular activities and personal qualities.",
-            "textBelowInfo": "The general eligibility criteria for Indian students are as follows:",
+            "textBelowInfo": "<b>The general eligibility criteria for Indian students are as follows:</b>",
             "data": [
                 "Students must have a minimum of 75% or equivalent in 12th standard Indian Board exam.",
                 "Students must have a valid passport.",
@@ -358,9 +358,8 @@ export const saintjohnsuniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation:",
-            "textBelowInfo": "Saint John’s University offers a variety of on-campus housing options. All rooms and apartments are furnished and include a kitchenette, private bathroom, and Internet access. On-campus housing is available in apartment-style, suite-style, and traditional residence hall rooms.",
+            "textBelowInfo": "<p>Saint John’s University offers a variety of on-campus housing options. All rooms and apartments are furnished and include a kitchenette, private bathroom, and Internet access. On-campus housing is available in apartment-style, suite-style, and traditional residence hall rooms.</p> <p>On-campus housing is available for undergraduate and graduate students, including summer term. The on-campus housing options are:</p>",
             "data": [
-                "On-campus housing is available for undergraduate and graduate students, including summer term. The on-campus housing options are:",
                 "<b>Apartments:</b> four-bedroom apartments with a living room, full kitchen, and two bathrooms.",
                 "<b>Suites:</b> two- or four-bedroom suites with a living room, full kitchen, and two bathrooms.",
                 "<b>Traditional residence halls:</b> two- or four-bedroom rooms with a shared kitchen and bathroom."

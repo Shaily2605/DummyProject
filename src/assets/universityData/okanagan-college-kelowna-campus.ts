@@ -35,19 +35,6 @@ export const okanagancollegekelownacampus = {
             "title": "Benefits",
             "info": "",
             "data": [
-                "Outstanding Academics: Ohio Wesleyan offers a rigorous and diverse academic experience with more than 90 majors, minors, and special programs. The university has an excellent faculty that is dedicated to providing students with the best learning experience possible.",
-                "Diverse Student Body: Ohio Wesleyan University has students from all over the world, representing more than 40 different countries and cultures. This diversity creates a unique and vibrant learning environment.",
-                "Affordable Tuition: Ohio Wesleyan offers a competitive tuition rate, making it an affordable choice for students looking to pursue a quality education.",
-                "Unique Learning Opportunities: Ohio Wesleyan offers a wide range of unique learning opportunities, including internships, study abroad programs, and research projects.",
-                "Campus Life: Ohio Wesleyan has a vibrant campus life, with a variety of student organizations, clubs, and activities to get involved in.",
-                "Supportive Environment: Ohio Wesleyan provides a supportive environment for all students, with dedicated staff and faculty to help them succeed academically and socially."
-            ]
-        },
-        {
-            "type": "list-bollet",
-            "title": "Alumni",
-            "info": "",
-            "data": [
                 "Affordable tuition fees",
                 "Quality education",
                 "Experienced and dedicated faculty",
@@ -64,7 +51,24 @@ export const okanagancollegekelownacampus = {
                 "Numerous recreational and cultural activities",
                 "Opportunities to work on campus and gain valuable work experience",
                 "Access to research opportunities",
-                "Proximity to world-class recreational activities"
+                "Proximity to world-class recreational activities",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "Alumni",
+            "info": "",
+            "data": [
+                "Victoria Duffield - Singer, songwriter",
+                "Dean Vukovich - Actor, comedian",
+                "Trish Stratus - Professional wrestler, television personality",
+                "Ryan Jespersen - Radio and television personality",
+                "Kurt Browning - Figure skater, choreographer, commentator",
+                "Robert Naylor - Actor",
+                "Steve Smith - Actor, comedian",
+                "Brad Turner - Film director, producer, cinematographer",
+                "Ryan O'Reilly - Professional hockey player",
+                "Chad Brownlee - Country music singer, songwriter"
             ]
         },
     ],

@@ -73,7 +73,7 @@ export const ohiochristianuniversity = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Ohio Christian University offers more than 100 undergraduate and graduate degree programs in a wide range of disciplines. The university is structured into four schools: College of Adult and Graduate Studies, College of Health and Public Administration, College of Humanities and Social Sciences, and College of Natural, Social and Applied Sciences.",
-            "textBelowInfo": "<p>The following is the list of courses offered at Ohio Christian University, along with their respective fee structure:</p> <p><b>Undergraduate Courses: </b></p>",
+            "textBelowInfo": "<p><b>The following is the list of courses offered at Ohio Christian University, along with their respective fee structure:</b></p> <p><b>Undergraduate Courses: </b></p>",
             "data": [
                 "Business Administration: $7,740 per semester",
                 "Computer Science: $7,740 per semester",

@@ -330,8 +330,8 @@ export const providencecollegerhodeisland = {
         },
         {
             "type": "text",
-            "title": "Hostel <br> On-Campus Accommodation",
-            "info": "",
+            "title": "Hostel",
+            "info": "On-Campus Accommodation",
             "data": [
                 "Providence College offers a variety of on-campus housing options for undergraduate and graduate students. All on-campus housing is available with a meal plan."
             ]
@@ -358,8 +358,9 @@ export const providencecollegerhodeisland = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Accommodation",
-            "info": "Providence College also offers a variety of off-campus housing options for students. These include:",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>Providence College also offers a variety of off-campus housing options for students. These include:</b>",
             "data": [
                 "<b>Private Housing:</b> Students can search for private apartments, houses, and other types of housing near the campus.",
                 "<b>University-Affiliated Housing:</b> The University offers a variety of university-affiliated housing options, including apartments, dormitories, and other types of housing.",
@@ -368,8 +369,8 @@ export const providencecollegerhodeisland = {
         },
         {
             "type": "text",
-            "title": "Hostel Facilities",
-            "info": "",
+            "title": "",
+            "info": "Hostel Facilities",
             "data": [
                 "Providence College does not have any hostel facilities on campus. However, there are a number of hostels located in the city of Providence that offer students comfortable and affordable accommodation. These include the Providence Hostel, the Johnson & Wales University Hostel, and the Rhode Island School of Design Hostel."
             ]

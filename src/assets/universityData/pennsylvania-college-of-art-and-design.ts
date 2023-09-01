@@ -94,7 +94,7 @@ export const pennsylvaniacollegeofartanddesign = {
                 "Master of Fine Arts in Illustration",
                 "Master of Fine Arts in Visual Studies"
             ],
-            "heading": "<p>The tuition for the graduate programs is $31,500 per academic year. This fee includes tuition, fees, and housing.</p><br> <p>Additional fees may include an application fee, student health insurance, and books and supplies.</p>"
+            "heading": "<p>The tuition for the graduate programs is $31,500 per academic year. This fee includes tuition, fees, and housing.</p> <p>Additional fees may include an application fee, student health insurance, and books and supplies.</p>"
         },
         {
             type: "meta",
@@ -313,8 +313,9 @@ export const pennsylvaniacollegeofartanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Off-Campus Housing",
-            "info": "PCA&D does not offer on-campus housing, but there are several off-campus housing options in the Lancaster area. These include:",
+            "title": "",
+            "info": "Off-Campus Housing",
+            "textBelowInfo": "<b>PCA&D does not offer on-campus housing, but there are several off-campus housing options in the Lancaster area. These include:</b>",
             "data": [
                 "<b>University Apartments –</b> Offers furnished and unfurnished apartments for both short-term and long-term stays.",
                 "<b>Lancaster Hostel –</b> A budget-friendly option located just a few blocks from PCA&D.",
@@ -326,8 +327,9 @@ export const pennsylvaniacollegeofartanddesign = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostels",
-            "info": "There are several local hostels in the Lancaster area that offer budget-friendly accommodations. These include:",
+            "title": "",
+            "info": "Hostels",
+            "textBelowInfo": "<b>There are several local hostels in the Lancaster area that offer budget-friendly accommodations. These include:</b>",
             "data": [
                 "<b>Lancaster Hostel –</b> Located just a few blocks from PCA&D.",
                 "<b>Lancaster Hostel & Inn –</b> Offers both hostel-style and hotel-style accommodation.",

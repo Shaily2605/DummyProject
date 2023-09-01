@@ -74,7 +74,7 @@ export const portervillecollegecalifornia = {
             "type": "table",
             "title": "Courses and Fees",
             "info": "Porterville College in California offers several courses, including Associate of Arts, Associate of Science, Certificate of Achievement, and Certificate of Proficiency.",
-            "textBelowInfo": "The following table provides an overview of the tuition and fees for all of the courses offered at Porterville College:",
+            "textBelowInfo": "<b>The following table provides an overview of the tuition and fees for all of the courses offered at Porterville College:</b>",
             "col": [
                 "Course",
                 "Tuition & Fees",
@@ -125,7 +125,7 @@ export const portervillecollegecalifornia = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Porterville College admits students who are United States citizens, Permanent Residents, refugees, asylees, and holders of certain types of non-immigrant visas.",
-            "textBelowInfo": "International students must meet the following requirements for admission to Porterville College:",
+            "textBelowInfo": "<b>International students must meet the following requirements for admission to Porterville College:</b>",
             "data": [
                 "Be 18 years of age or older",
                 "Submit evidence of sufficient financial resources to cover tuition and living expenses",

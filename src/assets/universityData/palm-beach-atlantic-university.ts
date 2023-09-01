@@ -366,8 +366,8 @@ export const palmbeachatlanticuniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Palm Beach Atlantic University offers a range of on-campus accommodation options for students. The university offers traditional residence halls, apartments and suite-style living.</b>",
             "data": [
-                "Palm Beach Atlantic University offers a range of on-campus accommodation options for students. The university offers traditional residence halls, apartments and suite-style living. ",
                 "<b>Traditional Residence Halls:</b> The traditional residence halls offer suite style living for students. Each suite contains four single bedrooms and a shared living area, bathroom and kitchenette. The residence hall also has a laundry room, study lounge and computer lab.",
                 "<b>Apartments:</b> The on-campus apartments offer a variety of options for students, including one, two and three bedroom units. Each apartment includes a full kitchen, living room, dining area and private bathroom. ",
                 "<b>Suite-Style Living:</b> The suite-style living is a popular option for students. The suites offer two bedrooms, a shared living area, bathroom and kitchenette."
@@ -377,7 +377,7 @@ export const palmbeachatlanticuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Hostels",
-            "textBelowInfo": "Palm Beach Atlantic University does not offer any off-campus hostels. However, there are several hostels and hotels located near the university that offer accommodation for students. Some of the hostels and hotels include: ",
+            "textBelowInfo": "<b>Palm Beach Atlantic University does not offer any off-campus hostels. However, there are several hostels and hotels located near the university that offer accommodation for students. Some of the hostels and hotels include: </b>",
             "data": [
                 "Hostel Florida West Palm Beach ",
                 "Hotel Boca Raton ",

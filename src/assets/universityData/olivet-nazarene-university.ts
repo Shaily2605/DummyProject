@@ -330,7 +330,7 @@ export const olivetnazareneuniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "Olivet Nazarene University offers a range of on-campus accommodation options for students.",
+            "textBelowInfo": "<b>Olivet Nazarene University offers a range of on-campus accommodation options for students.</b>",
             "data": [
                 "<b>On-Campus Residence Halls:</b> The traditional residence hall is the most common type of on-campus accommodation offered by Olivet Nazarene University. These buildings are typically shared by multiple students and provide a range of amenities, including single, double and triple occupancy rooms, study areas and lounges, kitchens, laundry facilities and computer labs.",
                 "<b>Apartments:</b> Apartments are available for both undergraduate and graduate students. These apartments typically include full kitchens, living rooms, and bathrooms and may have multiple bedrooms.",
@@ -341,7 +341,7 @@ export const olivetnazareneuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "textBelowInfo": "Olivet Nazarene University also offers a range of off-campus accommodation options for students.",
+            "textBelowInfo": "<b>Olivet Nazarene University also offers a range of off-campus accommodation options for students.</b>",
             "data": [
                 "<b>Off-Campus Apartments:</b> Off-campus apartments are typically owned and managed by private companies and provide a range of amenities. These apartments typically include full kitchens, living rooms, and bathrooms and may have multiple bedrooms.",
                 "<b>Off-Campus Houses:</b> Off-campus houses are typically owned and managed by private companies and provide a range of amenities. These houses typically include full kitchens, living rooms, and bathrooms and may have multiple bedrooms.",

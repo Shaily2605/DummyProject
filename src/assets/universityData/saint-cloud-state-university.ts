@@ -327,7 +327,7 @@ export const saintcloudstateuniversity = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation",
-            "textBelowInfo": "At Saint Cloud State University, students have a variety of on-campus accommodation options. On-campus housing is provided in the form of traditional dormitory style residence halls and townhouse-style apartment communities. The university's residence halls are divided into four different areas: East, West, North and South.<br> <b>East Halls:</b>",
+            "textBelowInfo": "<p><b>At Saint Cloud State University, students have a variety of on-campus accommodation options. On-campus housing is provided in the form of traditional dormitory style residence halls and townhouse-style apartment communities. The university's residence halls are divided into four different areas: East, West, North and South.</b></p> <p><b>East Halls:</b></p>",
             "data": [
                 "Atwood Hall",
                 "Payne Hall ",
@@ -391,7 +391,7 @@ export const saintcloudstateuniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Hostel Facilities",
-            "textBelowInfo": "Saint Cloud State University does not offer any hostel facilities on or off-campus. However, there are a few hostel facilities in the nearby city of Saint Cloud. These include:",
+            "textBelowInfo": "<b>Saint Cloud State University does not offer any hostel facilities on or off-campus. However, there are a few hostel facilities in the nearby city of Saint Cloud. These include:</b>",
             "data": [
                 "Hostel International",
                 "Cloud 9 Hostel   ",
@@ -401,13 +401,8 @@ export const saintcloudstateuniversity = {
                 "The Comfort Inn & Suites",
                 "The AmericInn  ",
                 "The Days Inn  ",
-                "The Country Inn & Suites"
+                "The Country Inn & Suites<br><br> These hostels offer comfortable and affordable accommodation for visitors and students alike."
             ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>These hostels offer comfortable and affordable accommodation for visitors and students alike.</p>"
         },
         {
             type: "meta",

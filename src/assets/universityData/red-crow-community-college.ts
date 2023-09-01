@@ -72,7 +72,7 @@ export const redcrowcommunitycollege = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Unfortunately, Red Crow Community College does not provide any information about the courses it offers and their fee structures. You can contact the college directly for more information.",
-            "textBelowInfo": "The contact information of the college is:",
+            "textBelowInfo": "<b>The contact information of the college is:</b>",
             "data": [
                 "Red Crow Community College <br>PO Box 459, <br>Cardston, Alberta, Canada <br>T0K 0K0 <br>Phone: (403) 653-4411 <br> Fax: (403) 653-4444 <br>Email: info@rcc.ab.ca"
             ]

@@ -82,27 +82,27 @@ export const oklahomacityuniversity = {
             ],
             "row": [
                 {
-                    "Program ": "Bachelor of Arts",
+                    "Program ": "<b>Bachelor of Arts</b>",
                     "Tuition Fee": "$32,000"
                 },
                 {
-                    "Program ": "Bachelor of Science",
+                    "Program ": "<b>Bachelor of Science</b>",
                     "Tuition Fee": "$32,000"
                 },
                 {
-                    "Program ": "Bachelor of Business Administration",
+                    "Program ": "<b>Bachelor of Business Administration</b>",
                     "Tuition Fee": "$32,000"
                 },
                 {
-                    "Program ": "Bachelor of Music",
+                    "Program ": "<b>Bachelor of Music</b>",
                     "Tuition Fee": "$36,000"
                 },
                 {
-                    "Program ": "Bachelor of Science in Nursing",
+                    "Program ": "<b>Bachelor of Science in Nursing</b>",
                     "Tuition Fee": "$28,500"
                 },
                 {
-                    "Program ": "Bachelor of Science in Social Work",
+                    "Program ": "<b>Bachelor of Science in Social Work</b>",
                     "Tuition Fee": "$33,600"
                 },
             ]
@@ -117,23 +117,23 @@ export const oklahomacityuniversity = {
             ],
             "row": [
                 {
-                    "Program ": "Master of Arts",
+                    "Program ": "<b>Master of Arts</b>",
                     "Tuition Fee": "$22,500"
                 },
                 {
-                    "Program ": "Master of Science",
+                    "Program ": "<b>Master of Science</b>",
                     "Tuition Fee": "$22,500"
                 },
                 {
-                    "Program ": "Master of Business Administration",
+                    "Program ": "<b>Master of Business Administration</b>",
                     "Tuition Fee": "$30,000"
                 },
                 {
-                    "Program ": "Master of Science in Nursing",
+                    "Program ": "<b>Master of Science in Nursing</b>",
                     "Tuition Fee": "$24,000"
                 },
                 {
-                    "Program ": "Master of Science in Social Work",
+                    "Program ": "<b>Master of Science in Social Work</b>",
                     "Tuition Fee": "$22,500"
                 },
             ]
@@ -148,23 +148,23 @@ export const oklahomacityuniversity = {
             ],
             "row": [
                 {
-                    "Program ": "Doctor of Business Administration",
+                    "Program ": "<b>Doctor of Business Administration</b>",
                     "Tuition Fee": "$42,000"
                 },
                 {
-                    "Program ": "Doctor of Education",
+                    "Program ": "<b>Doctor of Education</b>",
                     "Tuition Fee": "$44,000"
                 },
                 {
-                    "Program ": "Doctor of Nursing Practice",
+                    "Program ": "<b>Doctor of Nursing Practice</b>",
                     "Tuition Fee": "$41,000"
                 },
                 {
-                    "Program ": "Doctor of Physical Therapy",
+                    "Program ": "<b>Doctor of Physical Therapy</b>",
                     "Tuition Fee": "$44,000"
                 },
                 {
-                    "Program ": "Doctor of Psychology",
+                    "Program ": "<b>Doctor of Psychology</b>",
                     "Tuition Fee": "$44,000"
                 },
             ]

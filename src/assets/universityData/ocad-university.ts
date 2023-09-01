@@ -180,7 +180,7 @@ export const ocaduniversity = {
                 "Must have proof of English language proficiency if English is not the applicant’s primary language. ",
                 "International students who have completed a secondary school education outside of Canada must have their transcripts and documents evaluated for equivalence to the Ontario Secondary School Diploma. OCAD University requires an evaluation from World Education Services (WES) or International Credential Assessment Service (ICAS)."
             ],
-            "heading": "<p>Note: OCAD University reserves the right to ask for additional documents or information to assess the applicant's eligibility.</p>"
+            "heading": "<p><b>Note:</b> OCAD University reserves the right to ask for additional documents or information to assess the applicant's eligibility.</p>"
         },
         {
             "type": "list-bollet",
@@ -374,7 +374,7 @@ export const ocaduniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
-            "textBelowInfo": "OCAD University has partnered with student housing providers to offer a variety of off-campus housing options. These include:",
+            "textBelowInfo": "<b>OCAD University has partnered with student housing providers to offer a variety of off-campus housing options. These include:</b>",
             "data": [
                 "<b>University Village Residence –</b> Located just steps away from the University, University Village offers on-site amenities, including a 24-hour front desk, study rooms, and a fitness centre. ",
                 "<b>The Commons –</b> Located within walking distance of the University, this student housing facility offers suites and apartments with a variety of features, including private bathrooms, full kitchens, and modern furnishings. ",
@@ -387,7 +387,7 @@ export const ocaduniversity = {
             "type": "list-bollet",
             "title": "",
             "info": "Hostel Facilities",
-            "textBelowInfo": "There are several hostel facilities located near OCAD University in Toronto. These include: ",
+            "textBelowInfo": "<b>There are several hostel facilities located near OCAD University in Toronto. These include: </b>",
             "data": [
                 "<b>Planet Traveler – </b>This hostel is located in downtown Toronto, within walking distance of the University. It offers private rooms, dorms, and a variety of amenities, including a guest kitchen and laundry facilities. ",
                 "<b>Hostelling International Toronto –</b> This hostel is located in downtown Toronto, and offers a variety of accommodations, including dorms, private rooms, and family rooms. It also features a variety of amenities, including a guest kitchen, laundry facilities, and a common room. ",

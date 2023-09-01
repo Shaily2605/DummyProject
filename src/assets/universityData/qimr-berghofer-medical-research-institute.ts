@@ -74,7 +74,7 @@ export const qimrberghofermedicalresearchinstitute = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The QIMR Berghofer Medical Research Institute has a range of courses and programs, which can be found on their website.",
-            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p>QIMR Berghofer Medical Research Institute offers a range of undergraduate programs, including: </p>",
+            "textBelowInfo": "<p><b>Undergraduate Programs</b></p> <p><b>QIMR Berghofer Medical Research Institute offers a range of undergraduate programs, including: </b></p>",
             "data": [
                 "Bachelor of Science (Medical Science)",
                 "Bachelor of Biomedical Science ",
@@ -94,7 +94,7 @@ export const qimrberghofermedicalresearchinstitute = {
             "type": "list-bollet",
             "title": "",
             "info": "Postgraduate Programs",
-            "textBelowInfo": "QIMR Berghofer Medical Research Institute also offers a range of postgraduate programs, including:",
+            "textBelowInfo": "<b>QIMR Berghofer Medical Research Institute also offers a range of postgraduate programs, including:</b>",
             "data": [
                 "Master of Science (Medical Science)",
                 "Master of Biomedical Science",
@@ -137,7 +137,7 @@ export const qimrberghofermedicalresearchinstitute = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "QIMR Berghofer Medical Research Institute offers a range of courses and programs to suit the needs of a diverse range of students. Indian students are eligible to apply for admission to the institute, provided they meet certain criteria.",
-            "textBelowInfo": "To be eligible to apply for admission to QIMR Berghofer Medical Research Institute, Indian students must: ",
+            "textBelowInfo": "<b>To be eligible to apply for admission to QIMR Berghofer Medical Research Institute, Indian students must: </b>",
             "data": [
                 "Hold a valid visa or have applied for a valid visa.",
                 "Meet the English language proficiency requirement (IELTS 6.5 or equivalent).",

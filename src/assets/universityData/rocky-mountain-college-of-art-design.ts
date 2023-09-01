@@ -366,12 +366,19 @@ export const rockymountaincollegeofartdesign = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Rocky Mountain College of Art + Design offers on-campus accommodation to its students.The college has two on-campus residence halls: The Residence at RMCAD and The Lofts.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>Rocky Mountain College of Art + Design offers on-campus accommodation to its students.The college has two on-campus residence halls: The Residence at RMCAD and The Lofts.",
                 "<b>The Residence at RMCAD: </b> <br>The Residence at RMCAD is a student housing facility located on the RMCAD campus. It offers fully furnished rooms with all utilities included. It also has a communal kitchen, living and recreation area, laundry room, and a study room.",
                 "<b>The Lofts: </b> <br>The Lofts is a student housing facility located in the nearby area of RMCAD. It offers fully furnished apartments with all utilities included. It also features a communal kitchen, living and recreation area, and a study room.",
-                "<b>Off-Campus Accommodation </b> <br>Rocky Mountain College of Art + Design does not offer off-campus accommodation. However, there are a number of housing options available in the nearby area. These include shared apartments, independent living apartments, and hostels.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>Rocky Mountain College of Art + Design does not offer off-campus accommodation. However, there are a number of housing options available in the nearby area. These include shared apartments, independent living apartments, and hostels.</b>",
+            "data": [
                 "<b>Shared Apartments: </b> <br>Shared apartments are a great option for students looking for affordable off-campus housing. These apartments are typically shared by two or more people and offer all the amenities of an independent living apartment.",
                 "<b>Independent Living Apartments: </b> <br>Independent living apartments are a great option for students looking for a more private living experience. These apartments typically come fully furnished and include all utilities.",
                 "<b>Hostels: </b> <br>Hostels are a great option for students looking for a more budget-friendly living experience. Hostels typically offer shared dormitory rooms with basic amenities.",

@@ -377,7 +377,7 @@ export const oultoncollegemoncton = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-campus Accommodation",
-            "textBelowInfo": "Oulton College offers on-campus accommodation for students. They offer the following options:",
+            "textBelowInfo": "<b>Oulton College offers on-campus accommodation for students. They offer the following options:</b>",
             "data": [
                 "<b>Shared dormitory-style rooms:</b> These rooms are fully furnished and include two separate beds, two desks, two closets, and two dressers. ",
                 "<b>Private dormitory-style rooms:</b> These rooms are fully furnished and include one bed, one desk, one closet, and one dresser.",
@@ -394,8 +394,9 @@ export const oultoncollegemoncton = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostels",
-            "info": "There are several hostels in the Moncton area that offer affordable accommodation for students. Some examples include:",
+            "title": "",
+            "info": "Hostels",
+            "textBelowInfo": "<b>There are several hostels in the Moncton area that offer affordable accommodation for students. Some examples include:</b>",
             "data": [
                 "Moncton Hostel ",
                 "City Centre Hostel ",
@@ -406,8 +407,9 @@ export const oultoncollegemoncton = {
         },
         {
             "type": "list-bollet",
-            "title": "Hostels",
-            "info": "The Moncton area also has a variety of hotels that offer accommodation for students. Some examples include: ",
+            "title": "",
+            "info": "Hostels",
+            "textBelowInfo": "<b>The Moncton area also has a variety of hotels that offer accommodation for students. Some examples include: </b>",
             "data": [
                 "Comfort Inn ",
                 "Holiday Inn Express ",

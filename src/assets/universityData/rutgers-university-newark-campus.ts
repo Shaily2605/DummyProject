@@ -339,13 +339,20 @@ export const rutgersuniversitynewarkcampus = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Rutgers University–Newark provides a variety of on-campus housing options for students. The on-campus housing options include traditional residence halls, suites, and apartment-style living. </b>",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>Rutgers University–Newark provides a variety of on-campus housing options for students. The on-campus housing options include traditional residence halls, suites, and apartment-style living. ",
                 "<b>Traditional Residence Halls: </b> <br>Traditional residence halls are available for upperclassmen and incoming first-year students. These residence halls offer double and single rooms and are typically co-ed. Each residence hall has a lounge and kitchenette, as well as laundry facilities. ",
                 "<b>Suites: </b> <br>Suites are available for upperclassmen. Suites are typically two- or four-person configurations, with a shared living space and bathroom. Each suite also has a kitchenette and laundry facilities. ",
                 "<b>Apartments: </b> <br>Apartments are available for upperclassmen and graduate students. The apartments are typically one- or two-bedroom units with a living room and kitchen. Each apartment also has a laundry facility.",
-                "<b>Off-Campus Accommodation: </b> <br>Rutgers University–Newark also offers off-campus housing options for students. The off-campus housing options include private apartments, houses, and hostels.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>Rutgers University–Newark also offers off-campus housing options for students. The off-campus housing options include private apartments, houses, and hostels.</b>",
+            "data": [
                 "<b>Private Apartments: </b> <br>Private apartments are available for students who wish to live off-campus. Private apartments typically range from one- to four-bedroom units, with a living room and kitchen. ",
                 "<b>Houses: </b> <br>Houses are available for students who wish to live off-campus. Houses typically range from one- to four-bedroom units, with a living room and kitchen. ",
                 "<b>Hostels: </b> <br>Hostels are available for students who wish to live off-campus. Hostels are typically shared dormitory-style rooms, with private or shared bathrooms.",

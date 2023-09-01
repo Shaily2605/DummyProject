@@ -315,14 +315,28 @@ export const saintanselmcollege = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Saint Anselm College has a variety of on-campus housing options, ranging from traditional residence halls to suites and apartments. All of the residence halls are co-ed, and there are also several gender-inclusive floors. First-year students are typically required to live on campus, while upperclassmen have the option to either live on campus or off.</b>",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>Saint Anselm College has a variety of on-campus housing options, ranging from traditional residence halls to suites and apartments. All of the residence halls are co-ed, and there are also several gender-inclusive floors. First-year students are typically required to live on campus, while upperclassmen have the option to either live on campus or off. ",
                 "<b>Residence Halls: </b> <br>The college has a total of nine residence halls, all of which are co-ed. Each residence hall has a kitchen, laundry facilities, and common spaces. ",
                 "<b>Suites: </b> <br>The college also offers two suite-style residence halls, which offer more privacy and space than traditional residence halls. They are typically reserved for upperclassmen and are available in both single and double occupancy. ",
-                "<b>Apartments: </b> <br>The college also offers apartment-style housing for upperclassmen. These apartments are typically two bedrooms, with a shared living room, kitchen, and bathroom. Each apartment also has its own private balcony. ",
-                "<b>Off-Campus Accommodation: </b> <br>Saint Anselm College also offers off-campus housing options. There are a variety of apartments and houses available within walking distance of the college. Most of these off-campus housing options are furnished and include amenities like laundry facilities, kitchens, and common spaces. ",
-                "<b>Hostel Facilities: </b> <br>Saint Anselm College does not have any hostel facilities on-campus or off-campus. However, there are several hostels located in the nearby cities of Manchester and Nashua. These hostels offer a variety of amenities, including private rooms, shared rooms, and common areas."
+                "<b>Apartments: </b> <br>The college also offers apartment-style housing for upperclassmen. These apartments are typically two bedrooms, with a shared living room, kitchen, and bathroom. Each apartment also has its own private balcony. "
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "Saint Anselm College also offers off-campus housing options. There are a variety of apartments and houses available within walking distance of the college. Most of these off-campus housing options are furnished and include amenities like laundry facilities, kitchens, and common spaces. ",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Hostel Facilities",
+            "data": [
+                "Saint Anselm College does not have any hostel facilities on-campus or off-campus. However, there are several hostels located in the nearby cities of Manchester and Nashua. These hostels offer a variety of amenities, including private rooms, shared rooms, and common areas."
             ]
         },
         {

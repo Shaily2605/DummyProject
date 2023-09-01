@@ -89,7 +89,7 @@ export const oregonstateuniversity = {
             "type": "list-bollet",
             "title": 'Courses and Fees',
             "info": "Oregon State University offers over 200 undergraduate and graduate degree programs, and the tuition fee varies according to the course and program.",
-            "textBelowInfo": "<p>Below are some of the courses and their fee structure:</p> <p><b>Undergraduate Courses:  </b></p>",
+            "textBelowInfo": "<p><b>Below are some of the courses and their fee structure:</b></p> <p><b>Undergraduate Courses:  </b></p>",
             "data": [
                 "Business Administration (B.S.): $13,420 - $17,190 per year ",
                 "Civil Engineering (B.S.): $13,420 - $17,190 per year  ",

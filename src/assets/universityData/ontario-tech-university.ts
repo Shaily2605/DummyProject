@@ -143,7 +143,7 @@ export const ontariotechuniversity = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Ontario Tech University has specific requirements for admission of international students, including Indian students. ",
-            "textBelowInfo": "To be eligible for admission, international students must meet the following criteria: ",
+            "textBelowInfo": "<b>To be eligible for admission, international students must meet the following criteria: </b>",
             "data": [
                 "Submit a completed application and all required documents ",
                 "Have sufficient funds to cover tuition and living expenses ",
@@ -157,7 +157,7 @@ export const ontariotechuniversity = {
                 "Provide proof of immunization records ",
                 "Present documents demonstrating any scholarships or awards "
             ],
-            "heading": "<p>In addition, students must be in good academic standing and may be required to submit additional documents to the university depending on their program.</p><br> <p>For more information, please visit the Ontario Tech University's International Admissions page.</p>"
+            "heading": "<p>In addition, students must be in good academic standing and may be required to submit additional documents to the university depending on their program.</p> <p>For more information, please visit the Ontario Tech University's International Admissions page.</p>"
         },
         {
             "type": "list-bollet",

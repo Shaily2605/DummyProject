@@ -344,13 +344,20 @@ export const pointlomanazareneuniversitycalifornia = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Point Loma Nazarene University offers a variety of on-campus housing options for students. The dorms available include traditional residence halls, apartment-style housing, and Greek housing. All residence halls are co-ed, with each floor divided into male and female wings.</b>",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>Point Loma Nazarene University offers a variety of on-campus housing options for students. The dorms available include traditional residence halls, apartment-style housing, and Greek housing. All residence halls are co-ed, with each floor divided into male and female wings.",
                 "<b>Traditional Residence Halls: </b> <br>These residence halls provide a traditional style of living with shared common areas, bathrooms, and laundry facilities. Each room is furnished and includes basic amenities.",
                 "<b>Apartment-Style Housing: </b> <br>The apartment-style housing options are a bit more spacious than the traditional residence halls with more amenities. These apartments have private bedrooms and bathrooms, as well as a full kitchen, living room, and laundry facilities.",
                 "<b>Greek Housing: </b> <br>Greek housing is available for students who are members of a Greek organization. These houses have private bedrooms and bathrooms, as well as a common area for social activities.",
-                "<b>Off-Campus Accommodation: </b> <br>Point Loma Nazarene University also offers a variety of off-campus housing options for students. These include apartments, houses, and student housing complexes. There are a variety of amenities available, including pet-friendly units and furnished apartments. ",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>Point Loma Nazarene University also offers a variety of off-campus housing options for students. These include apartments, houses, and student housing complexes. There are a variety of amenities available, including pet-friendly units and furnished apartments.</b>",
+            "data": [
                 "<b>Apartments: </b> <br>There are a variety of apartments in the area that are close to the university. These apartments range from studio apartments to four-bedroom units. Many of these apartments are pet-friendly and some are fully furnished.",
                 "<b>Houses: </b> <br>There are also a variety of houses available in the area. These houses range from single-family homes to multi-family homes. These houses are usually pet-friendly and some are furnished.",
                 "<b>Student Housing Complexes: </b> <br>There are also student housing complexes in the area that offer a variety of amenities. These complexes usually have furnished units, amenities such as swimming pools and fitness centers, and social activities."

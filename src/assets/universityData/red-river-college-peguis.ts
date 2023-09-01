@@ -284,7 +284,7 @@ export const redrivercollegepeguis = {
         {
             type: 'text',
             title: 'Hostel',
-            data: "<p>Red River College offers both on-campus and off-campus accommodation for students.</p>"
+            data: "<p><b>Red River College offers both on-campus and off-campus accommodation for students.</b></p>"
         },
         {
             "type": "text",

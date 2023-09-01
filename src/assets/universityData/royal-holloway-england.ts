@@ -391,12 +391,19 @@ export const royalhollowayengland = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Royal Holloway offers a variety of on-campus accommodation for students, including self-catered halls of residence and catered halls of residence. All accommodation is designed to provide a comfortable living environment for students.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>Royal Holloway offers a variety of on-campus accommodation for students, including self-catered halls of residence and catered halls of residence. All accommodation is designed to provide a comfortable living environment for students. ",
                 "<b>Self-Catered Halls </b> <br>The self-catered halls of residence at Royal Holloway are available for undergraduate and postgraduate students. All rooms are single occupancy and are equipped with a private bathroom, kitchenette and study space.",
-                "<b>Catered Halls </b> <br>The catered halls of residence at Royal Holloway provide students with three meals per day, as well as a private kitchenette in every room. These halls are available for both undergraduate and postgraduate students.",
-                "<b>Off-Campus Accommodation </b> <br>Royal Holloway also offers a range of off-campus accommodation options, including private housing and student hostels. Private housing is typically rented on a monthly basis and can be found in the nearby towns and villages. Student hostels provide an affordable accommodation option and are often located close to the university campus."
+                "<b>Catered Halls </b>  <br>The catered halls of residence at Royal Holloway provide students with three meals per day, as well as a private kitchenette in every room. These halls are available for both undergraduate and postgraduate students.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "Royal Holloway also offers a range of off-campus accommodation options, including private housing and student hostels. Private housing is typically rented on a monthly basis and can be found in the nearby towns and villages. Student hostels provide an affordable accommodation option and are often located close to the university campus."
             ]
         },
         {

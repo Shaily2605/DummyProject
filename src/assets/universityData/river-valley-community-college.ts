@@ -290,10 +290,17 @@ export const rivervalleycommunitycollege = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
             "data": [
-                "<b>On-Campus Accommodation: </b> River Valley Community College does not offer on-campus accommodation for students.",
-                "<b>Off-Campus Accommodation: </b> There are several off-campus accommodation options available for students of River Valley Community College. These include hotels, motels, apartments, and student hostels.",
+                "River Valley Community College does not offer on-campus accommodation for students.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>There are several off-campus accommodation options available for students of River Valley Community College. These include hotels, motels, apartments, and student hostels.</b>",
+            "data": [
                 "<b>Hotels: </b> There are several hotels located near River Valley Community College, including the Comfort Inn & Suites, Hampton Inn & Suites, and Holiday Inn Express & Suites. All of these offer comfortable, affordable accommodations for students. ",
                 "<b>Motels: </b> There are also several motels located near the college, including the Rodeway Inn and Super 8. These provide comfortable, budget-friendly rooms for students.",
                 "<b>Apartments: </b> Apartments are also available near River Valley Community College. These include the University Park Apartments and Riverbend Apartments. They offer a range of sizes and amenities, including on-site laundry and parking.",

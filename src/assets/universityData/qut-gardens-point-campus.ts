@@ -344,8 +344,8 @@ export const qutgardenspointcampus = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>There are several off-campus accommodation options close to QUT Gardens Point Campus. These include private student apartments, hostels, and hotels.</b>",
             "data": [
-                "There are several off-campus accommodation options close to QUT Gardens Point Campus. These include private student apartments, hostels, and hotels.",
                 "<b>Private Student Apartments –</b> There are several private student apartment buildings located close to the campus, such as the Brisbane Student Apartments and the Urbanest Student Apartments. These offer a range of self-contained apartments, from studios to dormitory-style rooms.",
                 "<b>Hostels –</b> There are a number of hostels located close to the campus, such as the Brisbane International Backpackers, Base Backpackers and the Brisbane City YHA. These offer a range of accommodation options, from private rooms to dormitory-style rooms.",
                 "<b>Hotels –</b> There are a number of hotels close to the campus, such as the Ibis Brisbane, the Hilton Brisbane and the Treasury Hotel. These offer a range of accommodation options, from standard rooms to suites."
