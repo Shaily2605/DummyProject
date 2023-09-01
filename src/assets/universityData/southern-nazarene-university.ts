@@ -329,13 +329,20 @@ export const southernnazareneuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Southern Nazarene University offers a variety of on-campus housing options, including traditional residence halls, suite-style apartments, and a graduate/family housing apartment complex. All on-campus housing is equipped with WiFi, cable television, and a variety of amenities to ensure the comfort of students.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>Southern Nazarene University offers a variety of on-campus housing options, including traditional residence halls, suite-style apartments, and a graduate/family housing apartment complex. All on-campus housing is equipped with WiFi, cable television, and a variety of amenities to ensure the comfort of students.",
                 "<b>Traditional Residence Halls </b> <br>The traditional residence halls on campus provide a variety of living spaces, from single rooms to double suites. All residence halls are smoke-free and provide common living spaces, laundry facilities, and 24-hour security.",
                 "<b>Suite-Style Apartments </b> <br>The suite-style apartments on campus offer a variety of living spaces, from single rooms to four-bedroom apartments. The apartments are designed for upper-level students and feature full kitchens and bathrooms, as well as cable television and WiFi.",
                 "<b>Graduate/Family Housing </b> <br>The graduate/family housing apartment complex provides a safe, comfortable living environment for graduate students, married couples, and families. The complex includes one- and two-bedroom apartments, as well as a community center and playground.",
-                "<b>Off-Campus Hostel Facilities </b> <br>For those wishing to stay off-campus, there are a variety of hostel facilities located in the surrounding area. The hostels provide a variety of amenities, from comfortable dorm-style rooms to private rooms with kitchenettes, televisions, and WiFi. Some hostels offer discounts for long-term stays, and all provide 24-hour security."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Hostel Facilities",
+            "data": [
+                "For those wishing to stay off-campus, there are a variety of hostel facilities located in the surrounding area. The hostels provide a variety of amenities, from comfortable dorm-style rooms to private rooms with kitchenettes, televisions, and WiFi. Some hostels offer discounts for long-term stays, and all provide 24-hour security."
             ]
         },
         {

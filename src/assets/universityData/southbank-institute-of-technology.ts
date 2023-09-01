@@ -137,7 +137,7 @@ export const southbankinstituteoftechnology = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Southbank Institute of Technology, Queensland, Australia offers a variety of courses for students from India. The eligibility criteria for admission depend on the type of course chosen.",
-            "textBelowInfo": "For most courses, the following requirements must be met in order to be eligible for admission:",
+            "textBelowInfo": "<b>For most courses, the following requirements must be met in order to be eligible for admission:</b>",
             "data": [
                 "Must have completed at least 12 years of schooling from an accredited Indian school",
                 "Must have achieved the equivalent of an Australian Year 12 or higher qualification",
@@ -325,16 +325,24 @@ export const southbankinstituteoftechnology = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus",
             "data": [
-                "<b>On-Campus </b> <br>Southbank Institute of Technology does not offer on-campus accommodation.",
-                "<b>Off-Campus </b> <br>There are a range of accommodation options available off-campus for students of Southbank Institute of Technology. "
+                "Southbank Institute of Technology does not offer on-campus accommodation.",
             ]
         },
         {
             "type": "list-bollet",
-            "title": "Hostels",
-            "info": "There are a range of hostels available near Southbank Institute of Technology, offering a variety of services and amenities. These include:",
+            "title": "",
+            "info": "Off-Campus",
+            "data": [
+                "There are a range of accommodation options available off-campus for students of Southbank Institute of Technology. "
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Hostels",
+            "textBelowInfo": "<b>There are a range of hostels available near Southbank Institute of Technology, offering a variety of services and amenities. These include:</b>",
             "data": [
                 "<b>Urban Central Accommodation:</b> This hostel is located in the heart of the city, just a short walk from Southbank Institute of Technology. It offers single, twin and dormitory rooms, as well as all-inclusive packages. ",
                 "<b>Backpackers World Travel:</b> This hostel is located close to the CBD and offers single, twin and dormitory rooms, as well as all-inclusive packages. ",
@@ -343,8 +351,9 @@ export const southbankinstituteoftechnology = {
         },
         {
             "type": "list-bollet",
-            "title": "Other Accommodation ",
-            "info": "There are a range of accommodation options available for students of Southbank Institute of Technology. These include: ",
+            "title": "",
+            "info": "Other Accommodation ",
+            "textBelowInfo": "<b>There are a range of accommodation options available for students of Southbank Institute of Technology. These include: </b>",
             "data": [
                 "<b>Student apartments:</b> There are a range of student apartments located close to Southbank Institute of Technology. These apartments offer a range of amenities, such as shared kitchens, living spaces, and laundry facilities. ",
                 "<b>Hotels:</b> There are a range of hotels located close to Southbank Institute of Technology. These hotels offer a range of amenities, such as restaurants, bars, and fitness centers. ",

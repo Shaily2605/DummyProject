@@ -324,16 +324,16 @@ export const southtexascollegepecancampus = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
             "data": [
-              "<b>On-Campus Accommodation </b> <br>South Texas College - Pecan Campus does not offer on-campus housing.",
-              "<b>Off-Campus Accommodation </b> <br>The following are some off-campus accommodation and hostel options in the area of South Texas College - Pecan Campus, Texas, USA:"
+              "South Texas College - Pecan Campus does not offer on-campus housing.",
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "1. The Inn of McAllen ",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<p>The following are some off-campus accommodation and hostel options in the area of South Texas College - Pecan Campus, Texas, USA:</p> <p><b>1. The Inn of McAllen</b></p>",
             "data": [
              "Address: 803 South Main Street, McAllen, Texas 78501 <br>Phone: +1 956-687-4444 "
             ]

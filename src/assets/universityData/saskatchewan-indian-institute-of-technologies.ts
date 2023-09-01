@@ -333,16 +333,16 @@ export const saskatchewanindianinstituteoftechnologies = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>SIIT Head Office does not provide on-campus accommodation.",
-                "<b>Off-Campus Accommodation: </b> <br>There are a number of hotels, motels, and hostels located near the SIIT Head Office in Saskatchewan. Some of the closest include:"
+                "SIIT Head Office does not provide on-campus accommodation.",
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
-            "info": "Hotels/Motels",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<p><b>There are a number of hotels, motels, and hostels located near the SIIT Head Office in Saskatchewan. Some of the closest include:</b></p> <p><b>Hotels/Motels</b></p>",
             "data": [
                 "<b>Days Inn by Wyndham Saskatoon South:</b> Located less than 3 km from the SIIT Head Office.",
                 "<b>Comfort Inn Saskatoon:</b> Located less than 5 km from the SIIT Head Office.",

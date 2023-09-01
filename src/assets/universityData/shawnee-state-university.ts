@@ -336,14 +336,28 @@ export const shawneestateuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Shawnee State University offers on-campus accommodations for students in the form of residence halls, apartments, and suite-style housing.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br> Shawnee State University offers on-campus accommodations for students in the form of residence halls, apartments, and suite-style housing. ",
                 "<b>Residence Halls </b> <br> The on-campus residence halls provide students with both single and double-occupancy rooms. Each residence hall also includes a lounge, laundry facilities, and community kitchen.",
                 "<b>Apartments </b> <br> The on-campus apartments are available for upperclassmen and graduate students. Each apartment includes a full kitchen, living room, and a private bedroom.",
                 "<b>Suite-Style Housing </b> <br> The suite-style housing provides students with the opportunity to live in a suite with four to six other students. Each suite includes a private bathroom, a living room, and a kitchenette.",
-                "<b>Off-Campus Accommodation </b> <br> Shawnee State University also offers off-campus accommodation for students. Students can choose to live in private apartments, houses, and hostels. ",
-                "<b>Hostels </b> <br> The off-campus hostels provide students with an affordable accommodation option. The hostels offer both private and shared rooms and provide students with access to common areas, such as a lounge, kitchen, and laundry facilities."
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "Shawnee State University also offers off-campus accommodation for students. Students can choose to live in private apartments, houses, and hostels. ",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Hostels",
+            "data": [
+                "The off-campus hostels provide students with an affordable accommodation option. The hostels offer both private and shared rooms and provide students with access to common areas, such as a lounge, kitchen, and laundry facilities."
             ]
         },
         {

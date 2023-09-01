@@ -148,7 +148,7 @@ export const southernutahuniversityutah = {
             "type": "list-bollet",
             "title": "Eligibility Requirements",
             "info": "Southern Utah University is a public university located in Cedar City, Utah, United States and is accredited by the Northwest Commission on Colleges and Universities.",
-            "textBelowInfo": "To be eligible for admission to Southern Utah University, Indian students must meet the following criteria:",
+            "textBelowInfo": "<b>To be eligible for admission to Southern Utah University, Indian students must meet the following criteria:</b>",
             "data": [
                 "Must hold a bachelor's degree from an accredited university in India or another country recognized by Southern Utah University.",
                 "Must provide evidence of English language proficiency.",
@@ -343,9 +343,9 @@ export const southernutahuniversityutah = {
             "title": "Hostel",
             "info": "",
             "data": [
-                "<b>On-Campus Accommodation </b> Southern Utah University has four on-campus residence halls: Cedar, Juniper, Pine, and Sage. Cedar and Juniper are traditional-style residence halls, while Pine and Sage are suite-style residence halls. All four residence halls provide single and double occupancy living options, air conditioning, laundry facilities, and Wi-Fi. ",
-                "<b>Off-Campus Accommodation </b> Southern Utah University does not have any off-campus housing but there are several options for off-campus housing near the university. These include apartments, condos, and houses for rent, as well as student housing such as The Village at South Campus, Southview Apartments, and University Village. ",
-                "<b>Hostel Facilities  </b> There are no hostels located on or near the Southern Utah University campus. However, there are several hostels in the nearby city of St. George, which is approximately an hour’s drive from the university. These include The St. George Hostel and The Zion Basecamp Hostel."
+                "<b>On-Campus Accommodation </b> <br>Southern Utah University has four on-campus residence halls: Cedar, Juniper, Pine, and Sage. Cedar and Juniper are traditional-style residence halls, while Pine and Sage are suite-style residence halls. All four residence halls provide single and double occupancy living options, air conditioning, laundry facilities, and Wi-Fi. ",
+                "<b>Off-Campus Accommodation </b> <br>Southern Utah University does not have any off-campus housing but there are several options for off-campus housing near the university. These include apartments, condos, and houses for rent, as well as student housing such as The Village at South Campus, Southview Apartments, and University Village. ",
+                "<b>Hostel Facilities  </b> <br>There are no hostels located on or near the Southern Utah University campus. However, there are several hostels in the nearby city of St. George, which is approximately an hour’s drive from the university. These include The St. George Hostel and The Zion Basecamp Hostel."
             ]
         },
         {

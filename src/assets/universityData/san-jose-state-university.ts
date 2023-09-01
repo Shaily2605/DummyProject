@@ -301,13 +301,27 @@ export const sanjosestateuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>San Jose State University provides on-campus accommodation in the form of residence halls and apartments.</b>",
             "data": [
-                "<b>On-Campus Accommodation: </b> <br>San Jose State University provides on-campus accommodation in the form of residence halls and apartments. ",
                 "<b>Residence Halls: </b> <br>On-campus residence halls are located on South Campus, and are divided into six residential learning community areas. Each residence hall is fully furnished and includes a kitchenette, living room and private bedrooms.",
                 "<b>Apartments: </b> <br>The university also provides on-campus apartments for students. The on-campus apartments are located on North Campus and are divided into two residential living areas. The apartments are fully furnished and include a kitchen, living room and private bedrooms.",
-                "<b>Off-Campus Accommodation: </b> <br>San Jose State University also provides off-campus accommodation for students. The university offers a wide range of student housing options including apartments, houses, and townhouses. These off-campus housing options are located close to the university and provide students with a convenient and comfortable living environment.",
-                "<b>Hostel Facilities: </b> <br>San Jose State University does not provide hostel facilities on-campus. However, there are a number of hostels located in the city that provide comfortable and affordable accommodation for students. These hostels are located close to the university and provide a great way for students to save money while also having access to all the amenities they need.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "San Jose State University also provides off-campus accommodation for students. The university offers a wide range of student housing options including apartments, houses, and townhouses. These off-campus housing options are located close to the university and provide students with a convenient and comfortable living environment.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Hostel Facilities",
+            "data": [
+                "San Jose State University does not provide hostel facilities on-campus. However, there are a number of hostels located in the city that provide comfortable and affordable accommodation for students. These hostels are located close to the university and provide a great way for students to save money while also having access to all the amenities they need.",
             ]
         },
         {

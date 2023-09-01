@@ -74,7 +74,7 @@ export const schreineruniversity = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Schreiner University offers more than 50 majors, minors, concentrations and pre-professional programs in areas such as business, communication, education, fine arts, health sciences, humanities and social sciences.",
-            "textBelowInfo": "<p>The following is the list of courses and the corresponding fee structure:</p> <p><b>Undergraduate Courses: </b></p>",
+            "textBelowInfo": "<p><b>The following is the list of courses and the corresponding fee structure:</b></p> <p><b>Undergraduate Courses: </b></p>",
             "data": [
                 "Bachelor of Arts (BA): $31,830 ",
                 "Bachelor of Business Administration (BBA): $31,830 ",

@@ -355,16 +355,30 @@ export const southdakotamines = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>South Dakota Mines offers a variety of on-campus accommodation options for students. On-campus housing is available for freshmen, sophomores, juniors, seniors, and graduate students. The on-campus housing options include residence halls, apartments, and townhouses.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>South Dakota Mines offers a variety of on-campus accommodation options for students. On-campus housing is available for freshmen, sophomores, juniors, seniors, and graduate students. The on-campus housing options include residence halls, apartments, and townhouses.",
                 "<b>Residence Halls </b> <br>The residence halls at South Dakota Mines provide traditional style accommodations for students. All residence halls are equipped with air conditioning, wireless internet, and basic furnishings.",
                 "<b>Apartment and Townhouse Options </b> <br>South Dakota Mines also offers a variety of apartment and townhouse options for students. The apartments and townhouses are fully furnished and include air conditioning, wireless internet, laundry facilities, and other amenities.",
-                "<b>Off-Campus Accommodation </b> <br>South Dakota Mines also offers off-campus accommodation options for students. Off-campus housing options include student apartments, private apartments, and single-family homes. ",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>South Dakota Mines also offers off-campus accommodation options for students. Off-campus housing options include student apartments, private apartments, and single-family homes.</b>",
+            "data": [
                 "<b>Student Apartments </b> <br>The student apartments near South Dakota Mines provide furnished and unfurnished accommodations for students. All student apartments are equipped with air conditioning, wireless internet, and basic furnishings.",
                 "<b>Private Apartments </b> <br>Students can also find private apartments near South Dakota Mines. Private apartments are fully furnished and include air conditioning, wireless internet, and other amenities.",
                 "<b>Single-Family Homes </b> <br>South Dakota Mines also offers single-family homes for rent near campus. These homes are fully furnished and include air conditioning, wireless internet, and other amenities.",
-                "<b>Hostel Facilities </b> <br>South Dakota Mines does not offer any hostel facilities on-campus or off-campus. However, students can find a variety of hostel accommodations in the nearby city of Rapid City.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Hostel Facilities",
+            "data": [
+                "South Dakota Mines does not offer any hostel facilities on-campus or off-campus. However, students can find a variety of hostel accommodations in the nearby city of Rapid City.",
             ]
         },
         {

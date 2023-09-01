@@ -289,12 +289,19 @@ export const shoalhavenrivercollege = {
             title: ""
         },
         {
-            "type": "list-bollet",
+            "type": "text",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>Shoalhaven River College does not offer on-campus accommodation.",
-                "<b>Off-Campus Accommodation </b> <br>There are a range of off-campus accommodation options available in and around Jervis Bay Territory.",
+                "Shoalhaven River College does not offer on-campus accommodation.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "data": [
+                "There are a range of off-campus accommodation options available in and around Jervis Bay Territory.",
             ]
         },
         {

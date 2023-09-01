@@ -313,7 +313,7 @@ export const southeastcollegesaskatchewan = {
             "type": "list-bollet",
             "title": "Hostel",
             "info": "On-Campus Accommodation ",
-            "textBelowInfo": "Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. ",
+            "textBelowInfo": "<b>Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. </b>",
             "data": [
                 "<b>Weyburn:</b> Southeast College Weyburn Campus offers dormitory-style accommodation in the student residence. It includes a single room with a bed, desk, and chair, a shared kitchen and living room, and a shared bathroom.",
                 "<b>Estevan:</b> Southeast College Estevan Campus features two residence buildings: the main residence, which offers individual rooms with kitchenettes, and the suite-style residence, which offers two-bedroom and four-bedroom suites."
@@ -323,7 +323,7 @@ export const southeastcollegesaskatchewan = {
             "type": "list-bollet",
             "title": "",
             "info": "Off-Campus Accommodation ",
-            "textBelowInfo": "Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. ",
+            "textBelowInfo": "<b>Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. </b>",
             "data": [
                 "<b>Weyburn:</b> There are a number of off-campus housing options available in Weyburn, including apartments, condos, and houses for rent.",
                 "<b>Estevan:</b> In Estevan, there are a variety of off-campus housing options, such as apartments, condos, and houses for rent."
@@ -333,16 +333,11 @@ export const southeastcollegesaskatchewan = {
             "type": "list-bollet",
             "title": "",
             "info": "Hostel Facilities",
-            "textBelowInfo": "Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. ",
+            "textBelowInfo": "<b>Southeast College offers on-campus accommodation for students in Weyburn and Estevan, Saskatchewan. </b>",
             "data": [
                 "<b>Weyburn:</b> Southeast College Weyburn Campus does not have any hostel facilities on-site. ",
-                "<b>Estevan:</b> Southeast College Estevan Campus does not have any hostel facilities on-site. "
+                "<b>Estevan:</b> Southeast College Estevan Campus does not have any hostel facilities on-site. <br><br> However, there are a number of hostels located in the surrounding area, including the Moose Jaw Hostel and the Regina Hostel."
             ]
-        },
-        {
-            type: 'text',
-            title: '',
-            data: "<p>However, there are a number of hostels located in the surrounding area, including the Moose Jaw Hostel and the Regina Hostel.</p>"
         },
         {
             type: "meta",

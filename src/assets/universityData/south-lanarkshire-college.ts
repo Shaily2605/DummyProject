@@ -72,8 +72,8 @@ export const southlanarkshirecollege = {
         {
             "type": "list-bollet",
             "title": "Courses and Fees",
-            "info": "South Lanarkshire College offers a range of courses in a variety of disciplines. The college's full-time courses are available for learners aged 16 and over, with some exceptions for certain courses.</p> <p>The college offers a variety of different types of courses, including academic qualifications such as HNCs, HNDs, and Access to Higher Education programmes, as well as vocational qualifications such as SVQs, NVQs and Apprenticeships.</p> <p>The fees for full-time courses depend on the level of the course and whether the student is a UK/EU or international student. UK/EU students may be eligible for student funding, while international students must pay full fees.",
-            "textBelowInfo": "The full-time course fees for UK/EU students are as follows: ",
+            "info": "<p>South Lanarkshire College offers a range of courses in a variety of disciplines. The college's full-time courses are available for learners aged 16 and over, with some exceptions for certain courses.</p> ",
+            "textBelowInfo": "<p>The college offers a variety of different types of courses, including academic qualifications such as HNCs, HNDs, and Access to Higher Education programmes, as well as vocational qualifications such as SVQs, NVQs and Apprenticeships.</p> <p>The fees for full-time courses depend on the level of the course and whether the student is a UK/EU or international student. UK/EU students may be eligible for student funding, while international students must pay full fees.</p> <p><b>The full-time course fees for UK/EU students are as follows: </b></p>",
             "data": [
                 "Access to Higher Education - £1,100",
                 "HNC/HND - £2,000",

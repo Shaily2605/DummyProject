@@ -73,7 +73,7 @@ export const santafecommunitycollege = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "Santa Fe Community College offers more than 90 degree and certificate programs, as well as non-credit classes in a variety of areas.",
-            "textBelowInfo": "<p>Below is the list of courses offered by Santa Fe Community College, New Mexico, USA, along with their fee structure:</p> <p><b>Undergraduate Courses:</b></p>",
+            "textBelowInfo": "<p><b>Below is the list of courses offered by Santa Fe Community College, New Mexico, USA, along with their fee structure:</b></p> <p><b>Undergraduate Courses:</b></p>",
             "data": [
                 "Associate in Arts (AA) - $150 per credit hour",
                 "Associate in Science (AS) - $150 per credit hour",

@@ -321,14 +321,21 @@ export const simmonsuniversity = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On-Campus Accommodation",
+            "textBelowInfo": "<b>Simmons University offers a selection of on-campus residential options for students including traditional residence halls, suite-style residence halls, apartment-style residence halls, and graduate residences. All on-campus housing is smoke-free and alcohol-free.</b>",
             "data": [
-                "<b>On-Campus Accommodation </b> <br>Simmons University offers a selection of on-campus residential options for students including traditional residence halls, suite-style residence halls, apartment-style residence halls, and graduate residences. All on-campus housing is smoke-free and alcohol-free. ",
                 "<b>Traditional Residence Halls </b> <br>The traditional residence halls offer single and double occupancy dorm rooms with common bathroom facilities. Some of the amenities offered in the residence halls include an in-room cable outlet, high-speed internet access, and a shared kitchenette.",
                 "<b>Suite-Style Residence Halls </b> <br>The suite-style residence halls are designed with suites that include two bedrooms, a private bathroom, and a living room. Each suite has a kitchenette and lounge area, as well as a cable outlet and high-speed internet access.",
                 "<b>Apartment-Style Residence Halls </b> <br>The apartment-style residence halls offer students two-bedroom apartments with a living room, kitchen, and private bathroom. Each apartment also comes with a cable outlet and high-speed internet access.",
                 "<b>Graduate Residences </b> <br>The graduate residences offer two-bedroom apartments with a living room, kitchen, and private bathroom. Each apartment is equipped with a cable outlet and high-speed internet access.",
-                "<b>Off-Campus Accommodation </b> <br>Simmons University has a number of off-campus housing options for students, including shared apartments, single-family homes, and student hostels.",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>Simmons University has a number of off-campus housing options for students, including shared apartments, single-family homes, and student hostels.</b>",
+            "data": [
                 "<b>Shared Apartments </b> <br>Shared apartments are a popular option for students, as they offer a lower cost alternative to traditional apartments. Shared apartments usually consist of a kitchen, living room, and two or more bedrooms.",
                 "<b>Single-Family Homes </b> <br>Single-family homes offer more space and privacy than shared apartments, but are often more expensive. These homes usually include a kitchen, living room, and several bedrooms.",
                 "<b>Student Hostels</b> <br>Student hostels are a great option for students who want to stay close to campus but don't want to commit to a long-term lease. Hostels are typically dorm-style accommodations with shared bathrooms and common living spaces."

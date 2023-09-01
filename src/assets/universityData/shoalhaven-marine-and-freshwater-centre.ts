@@ -72,7 +72,7 @@ export const shoalhavenmarineandfreshwatercentre = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The Shoalhaven Marine & Freshwater Centre offers a range of courses to suit all levels of experience, knowledge and interest in aquaculture and fisheries.",
-            "textBelowInfo": "<p>Below is a list of the courses offered, along with the associated fees:</p> <p><b>1. Aquaculture:</b></p>",
+            "textBelowInfo": "<p><b>Below is a list of the courses offered, along with the associated fees:</b></p> <p><b>1. Aquaculture:</b></p>",
             "data": [
                 "Introduction to Aquaculture: $200",
                 "Advanced Aquaculture: $500",
@@ -354,8 +354,8 @@ export const shoalhavenmarineandfreshwatercentre = {
             "title": "Hostel",
             "info": "Accommodation and Hostel Options On-Campus",
             "data": [
-                "Shoalhaven Marine & Freshwater Centre Accommodation – The Shoalhaven Marine & Freshwater Centre has on-site accommodation for students and visitors. This includes single, double, and family rooms. All rooms are self-contained and come with a flat-screen TV, tea and coffee making facilities, and a fridge. There is also a laundry, kitchen, and dining area available.",
-                "Shoalhaven Marine & Freshwater Centre Hostel – The Shoalhaven Marine & Freshwater Centre also offers a hostel for students and visitors. This hostel has single, double, and family rooms. All rooms have access to shared bathrooms, a communal kitchen, and a lounge area."
+                "<b>Shoalhaven Marine & Freshwater Centre Accommodation </b>– The Shoalhaven Marine & Freshwater Centre has on-site accommodation for students and visitors. This includes single, double, and family rooms. All rooms are self-contained and come with a flat-screen TV, tea and coffee making facilities, and a fridge. There is also a laundry, kitchen, and dining area available.",
+                "<b>Shoalhaven Marine & Freshwater Centre Hostel </b>– The Shoalhaven Marine & Freshwater Centre also offers a hostel for students and visitors. This hostel has single, double, and family rooms. All rooms have access to shared bathrooms, a communal kitchen, and a lounge area."
             ]
         },
         {
@@ -363,10 +363,10 @@ export const shoalhavenmarineandfreshwatercentre = {
             "title": "",
             "info": "Off-Campus Accommodation and Hostel Options",
             "data": [
-                "Shoalhaven Heads Holiday Park – A holiday park located in Shoalhaven Heads, just a few minutes’ drive away from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
-                "Greenwell Point Holiday Park – Another holiday park located in Greenwell Point, just a few minutes’ drive from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
-                "Huskisson Beach Holiday Park – A holiday park located in Huskisson, just a few minutes’ drive away from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
-                "Beachcomber Holiday Park – Beachcomber Holiday Park is located in Jervis Bay, just a few minutes’ drive from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground."
+                "<b>Shoalhaven Heads Holiday Park </b>– A holiday park located in Shoalhaven Heads, just a few minutes’ drive away from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
+                "<b>Greenwell Point Holiday Park </b>– Another holiday park located in Greenwell Point, just a few minutes’ drive from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
+                "<b>Huskisson Beach Holiday Park </b>– A holiday park located in Huskisson, just a few minutes’ drive away from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground.",
+                "<b>Beachcomber Holiday Park </b>– Beachcomber Holiday Park is located in Jervis Bay, just a few minutes’ drive from the Shoalhaven Marine & Freshwater Centre. The park offers a range of accommodation options including cabins, powered sites, and tent sites. The park also has a swimming pool, laundry facilities, and a playground."
             ]
         },
         {

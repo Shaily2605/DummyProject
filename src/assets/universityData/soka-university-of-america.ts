@@ -73,7 +73,7 @@ export const sokauniversityofamerica = {
             "type": "list-bollet",
             "title": "Courses and Fees",
             "info": "The cost of attending Soka University of America, California, USA varies depending upon the type of program you choose. For undergraduate programs, the estimated cost for tuition and fees for the 2020-2021 academic year is $51,250. For graduate programs, the estimated cost for tuition and fees for the 2020-2021 academic year ranges from $43,000 - $50,000.",
-            "textBelowInfo": "<p>Below is a list of courses offered at Soka University of America, California, USA:</p> <p><b>Undergraduate Programs: </b></p>",
+            "textBelowInfo": "<p><b>Below is a list of courses offered at Soka University of America, California, USA:</b></p> <p><b>Undergraduate Programs: </b></p>",
             "data": [
                 "Bachelor of Arts in Liberal Arts ",
                 "Bachelor of Science in Environmental Science ",

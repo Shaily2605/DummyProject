@@ -308,13 +308,20 @@ export const southernillinoisuniversitycarbondale = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "",
+            "info": "On Campus Accommodation",
+            "textBelowInfo": "<b>Southern Illinois University Carbondale (SIUC) offers on-campus accommodation for students in the form of dormitories, apartments, and Greek housing. All on-campus accommodation options are within easy walking distance of the main campus and are equipped with modern amenities.</b>",
             "data": [
-               "<b>On Campus Accommodation </b> <br>Southern Illinois University Carbondale (SIUC) offers on-campus accommodation for students in the form of dormitories, apartments, and Greek housing. All on-campus accommodation options are within easy walking distance of the main campus and are equipped with modern amenities.",
                "<b>Dormitories </b> <br>SIUC offers traditional dormitory-style housing in two complexes: the Campus Living Center and the New Residence Hall Complex. Both complexes offer single, double, and suite-style rooms with a variety of amenities, including high-speed internet, laundry facilities, and study lounges.",
                "<b>Apartments </b> <br>SIUC also offers apartment-style housing in its University Apartments. The apartments are available in two- and four-bedroom units and come equipped with full kitchens, internet access, and laundry facilities.",
                "<b>Greek Housing </b> <br>SIUC also offers housing for its fraternity and sorority members. The Greek Houses are located in the same complex as the University Apartments.",
-               "<b>Off-Campus Accommodation </b> <br>In addition to on-campus accommodation, SIUC offers students the option of living off-campus in the Carbondale area. Popular off-campus housing options include apartments, houses, and dormitories. ",
+            ]
+        },
+        {
+            "type": "list-bollet",
+            "title": "",
+            "info": "Off-Campus Accommodation",
+            "textBelowInfo": "<b>In addition to on-campus accommodation, SIUC offers students the option of living off-campus in the Carbondale area. Popular off-campus housing options include apartments, houses, and dormitories.</b>",
+            "data": [
                "<b>Apartments </b> <br>The Carbondale area offers a variety of apartment complexes, from luxury high-rises to budget-friendly options. Many of the apartments are located within walking distance of the SIUC campus.",
                "<b>Houses </b> <br>For those looking for a more private living option, there are several houses for rent in the Carbondale area. The houses vary in size and amenities and offer students the chance to live off-campus in a more relaxed atmosphere.",
                "<b>Dormitories </b> <br>The Carbondale area also offers several dormitory-style housing options, including the University Suites and the SIUC Retreat. Both complexes offer single and double rooms, laundry facilities, and study lounges.",

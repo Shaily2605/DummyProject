@@ -339,22 +339,22 @@ export const southerncaliforniainstituteofarchitecture = {
             "type": "list-bollet",
             "title": "",
             "info": "Hostels:",
-            "textBelowInfo": "There are several hostel options near SCI-Arc. These include:",
+            "textBelowInfo": "<b>There are several hostel options near SCI-Arc. These include:</b>",
             "data": [
-                "HI Los Angeles – Santa Monica Hostel – Located only 6 miles from SCI-Arc, this hostel offers a variety of dormitory-style rooms and private rooms.",
-                "Hostelling International – Hollywood – Situated only 5 miles from SCI-Arc, this hostel offers both dormitory-style and private rooms.",
-                "Pacific Hotel – Located just 4 miles from SCI-Arc, this hostel offers both dormitory-style and private rooms. "
+                "<b>HI Los Angeles – Santa Monica Hostel –</b> Located only 6 miles from SCI-Arc, this hostel offers a variety of dormitory-style rooms and private rooms.",
+                "<b>Hostelling International – Hollywood –</b> Situated only 5 miles from SCI-Arc, this hostel offers both dormitory-style and private rooms.",
+                "<b>Pacific Hotel –</b> Located just 4 miles from SCI-Arc, this hostel offers both dormitory-style and private rooms. "
             ]
         },
         {
             "type": "list-bollet",
             "title": "",
             "info": "Hotels:",
-            "textBelowInfo": "There are many hotel options near SCI-Arc. These include:",
+            "textBelowInfo": "<b>There are many hotel options near SCI-Arc. These include:</b>",
             "data": [
-                "The Standard – Downtown LA – Located only 4 miles from SCI-Arc, this 4-star hotel offers luxurious rooms with a range of amenities.",
-                "The Mayfair – Located only 3 miles from SCI-Arc, this 4-star hotel offers a variety of rooms with luxurious amenities.",
-                "The Line – Located only 5 miles from SCI-Arc, this 4-star hotel offers stylish rooms with a range of amenities."
+                "<b>The Standard – Downtown LA –</b> Located only 4 miles from SCI-Arc, this 4-star hotel offers luxurious rooms with a range of amenities.",
+                "<b>The Mayfair –</b> Located only 3 miles from SCI-Arc, this 4-star hotel offers a variety of rooms with luxurious amenities.",
+                "<b>The Line –</b> Located only 5 miles from SCI-Arc, this 4-star hotel offers stylish rooms with a range of amenities."
             ]
         },
         {

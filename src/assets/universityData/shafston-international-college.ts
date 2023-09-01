@@ -1,6 +1,6 @@
 export const shafstoninternationalcollege = {
-    "Title": "Shafston International College.,Queensland,Australia",
-    "shortTitle": "Shafston International College.,Queensland",
+    "Title": "Shafston International College,Queensland,Australia",
+    "shortTitle": "Shafston International College,Queensland",
     "location": "Australia",
     "type": "bb",
     "rating": "vv",
@@ -9,7 +9,7 @@ export const shafstoninternationalcollege = {
     "info": [
         {
             type: 'title',
-            title: 'Shafston International College.,Queensland,Australia'
+            title: 'Shafston International College,Queensland,Australia'
         },
         {
             type: 'text',

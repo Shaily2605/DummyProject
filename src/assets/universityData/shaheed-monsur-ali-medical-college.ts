@@ -344,8 +344,8 @@ export const shaheedmonsuralimedicalcollege = {
             "title": "Hostel",
             "info": "Shaheed Monsur Ali Medical College provides accommodation facilities for students both on and off-campus.",
             "data": [
-                "<b>On-Campus Accommodation: </b> The college provides hostel accommodation for both male and female students within its campus. Hostels are equipped with basic facilities like beds, study tables, chairs, cupboards, and fans. There is a mess facility on campus as well as a common kitchen for cooking.",
-                "<b>Off-Campus Accommodation: </b> There are several private hostels located in the vicinity of the college. These hostels provide basic amenities such as beds, study tables, chairs, cupboards, and fans. Some hostels even provide basic meals such as breakfast and lunch. The rent for these hostels is usually affordable."
+                "<b>On-Campus Accommodation: </b> <br>The college provides hostel accommodation for both male and female students within its campus. Hostels are equipped with basic facilities like beds, study tables, chairs, cupboards, and fans. There is a mess facility on campus as well as a common kitchen for cooking.",
+                "<b>Off-Campus Accommodation: </b> <br>There are several private hostels located in the vicinity of the college. These hostels provide basic amenities such as beds, study tables, chairs, cupboards, and fans. Some hostels even provide basic meals such as breakfast and lunch. The rent for these hostels is usually affordable."
             ]
         },
         {

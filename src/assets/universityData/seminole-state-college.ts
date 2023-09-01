@@ -332,13 +332,27 @@ export const seminolestatecollege = {
         {
             "type": "list-bollet",
             "title": "Hostel",
-            "info": "Seminole State College offers several on-campus housing options. ",
+            "info": "<p>Seminole State College offers several on-campus housing options. </p> <p>On-Campus Accommodations</p>",
+            "textBelowInfo": "<b>The college has a variety of on-campus housing options, including traditional dorms, suites, and apartments. All on-campus housing is overseen by the college's Office of Residence Life.</b>",
             "data": [
-                "<b>On-Campus Accommodations </b> <br>The college has a variety of on-campus housing options, including traditional dorms, suites, and apartments. All on-campus housing is overseen by the college's Office of Residence Life.",
                 "<b>Traditional Dorms </b> <br>The college offers traditional dorms for students. The dorms come in a variety of sizes and configurations, including double, triple, and quad rooms. All dorms come fully furnished with beds, desks, and dressers and have access to the college's Wi-Fi network. ",
                 "<b>Suites and Apartments </b> <br>Seminole State College also offers suite and apartment style housing. These on-campus living options come with more amenities than the traditional dorms and offer students more privacy. The suites and apartments come in a variety of sizes and configurations, including single and double bedrooms.",
-                "<b>Off-Campus Accommodations </b> <br>Seminole State College also offers a variety of off-campus housing options for students. These options include dorms and apartments that are located in the surrounding area.",
-                "<b>Hostels </b> <br>Seminole State College also offers hostel accommodation for students. The hostel offers a variety of amenities, including shared bedrooms, common areas, and communal kitchens. The hostel is located near the college campus and is a great option for students who are looking for a more affordable housing option."
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Off-Campus Accommodations",
+            "data": [
+                "Seminole State College also offers a variety of off-campus housing options for students. These options include dorms and apartments that are located in the surrounding area.",
+            ]
+        },
+        {
+            "type": "text",
+            "title": "",
+            "info": "Hostels",
+            "data": [
+                "Seminole State College also offers hostel accommodation for students. The hostel offers a variety of amenities, including shared bedrooms, common areas, and communal kitchens. The hostel is located near the college campus and is a great option for students who are looking for a more affordable housing option."
             ]
         },
         {
