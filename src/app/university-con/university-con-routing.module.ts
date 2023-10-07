@@ -10198,6 +10198,1363 @@ const routes: Routes = [
   },
 
   {
+    path: 'datta-meghe-institute-of-medical-sciences/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'datta-meghe-institute-of-medical-sciences/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'devi-ahilya-vishwavidyalaya-indore/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'mansarovar-global-university-bhopal/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mansarovar-global-university-bhopal/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'rabindranath-tagore-university-bhopal/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'rabindranath-tagore-university-bhopal/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'barkatullah-university-bhopal/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'barkatullah-university-bhopal/faq/.',
+    component: UniversityConComponent
+  },
+
+
+   {
+    path: 'jaypee-university-of-engineering-and-technology-guna/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'jaypee-university-of-engineering-and-technology-guna/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'kj-somaiya-institute-management-studies-and-research-mumbai/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'peoples-university-bhopal/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'peoples-university-bhopal/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'acharya-institute-of-technology/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-technology/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'cmr-university-bangalore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'cmr-university-bangalore/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'nl-dalmia-institute-of-management-studies-and-research-mumbai/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'ramaiah-institute-of-technology-banglore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramaiah-institute-of-technology-banglore/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'sharda-university/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sharda-university/faq/.',
+    component: UniversityConComponent
+  },
+
+   {
+    path: 'aims-institute-of-management-and-studies-pune/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'aims-institute-of-management-and-studies-pune/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'itm-business-school-navi-mumbai/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'itm-business-school-navi-mumbai/faq/.',
+    component: UniversityConComponent
+  },
+
+
+  {
+    path: 'mit-art-design-and-technology-university-pune/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'mit-art-design-and-technology-university-pune/faq/.',
+    component: UniversityConComponent
+  },
+
+   {
+    path: 'ramachandran-international-institute-of-management-pune/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'ramachandran-international-institute-of-management-pune/faq/.',
+    component: UniversityConComponent
+  },
+
+{
+  path: 'amity-university-noida/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/courses-and-fees/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/admission/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/review/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/placement/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/gallery/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/scholarship/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/faculty/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/news/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/hostel/.',
+  component: UniversityConComponent
+},
+{
+  path: 'amity-university-noida/faq/.',
+  component: UniversityConComponent
+},
+
+{
+  path: 'delhi-university/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/courses-and-fees/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/admission/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/review/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/placement/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/gallery/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/scholarship/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/faculty/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/news/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/hostel/.',
+  component: UniversityConComponent
+},
+{
+  path: 'delhi-university/faq/.',
+  component: UniversityConComponent
+},
+
+{
+  path: 'institute-of-management-technology-ghaziabad/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/courses-and-fees/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/admission/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/review/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/placement/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/gallery/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/scholarship/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/faculty/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/news/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/hostel/.',
+  component: UniversityConComponent
+},
+{
+  path: 'institute-of-management-technology-ghaziabad/faq/.',
+  component: UniversityConComponent
+},
+
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/courses-and-fees/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/admission/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/review/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/placement/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/gallery/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/scholarship/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/faculty/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/news/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/hostel/.',
+  component: UniversityConComponent
+},
+{
+  path: 'k-j-somaiya-college-of-engineering-mumbai/faq/.',
+  component: UniversityConComponent
+},
+
+
+   {
+    path: 'acharya-institute-of-graduate-studies/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'acharya-institute-of-graduate-studies/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'azim-premji-university-bangalore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'azim-premji-university-bangalore/faq/.',
+    component: UniversityConComponent
+  },
+
+   {
+    path: 'birla-institute-of-technology-and-sciences/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'birla-institute-of-technology-and-sciences/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'indian-institute-of-management-indore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-management-indore/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'indian-institute-of-mass-communication-delhi/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'indian-institute-of-mass-communication-delhi/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'government-medical-college-datia/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'government-medical-college-datia/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'institute-of-chemical-technology-ict-mumbai/faq/.',
+    component: UniversityConComponent
+  },
+
+   {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'lnct-medical-college-and-sewakunj-hospital-indore/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/courses-and-fees/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/admission/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/review/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/placement/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/gallery/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/scholarship/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/faculty/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/news/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/hostel/.',
+    component: UniversityConComponent
+  },
+  {
+    path: 'sri-aurobindo-institute-of-medical-sciences-indore/faq/.',
+    component: UniversityConComponent
+  },
+
+  {
     path: 'dalian-medical-university/.',
     component: UniversityConComponent
   },
@@ -20640,6 +21997,8 @@ const routes: Routes = [
     path: 'victoria-university/faq/.',
     component: UniversityConComponent
   },
+
+//1159 Started
 
   {
     path: 'millennia-atlantic-university/.',

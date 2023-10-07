@@ -454,6 +454,37 @@ import * as amaltasinstituteofmedicalsciences from '../../assets/universityData/
 import * as governmentmedicalcollegechhindwara from '../../assets/universityData/government-medical-college-chhindwara'
 import * as grantmedicalcollegemumbai from '../../assets/universityData/grant-medical-college-mumbai'
 import * as indianinstituteofinformationtechnology from '../../assets/universityData/indian-institute-of-information-technology'
+import * as dattamegheinstituteofmedicalsciences from '../../assets/universityData/datta-meghe-institute-of-medical-sciences'
+import * as deviahilyavishwavidyalayaindore from '../../assets/universityData/devi-ahilya-vishwavidyalaya-indore'
+import * as mansarovarglobaluniversitybhopal from '../../assets/universityData/mansarovar-global-university-bhopal'
+import * as rabindranathtagoreuniversitybhopal from '../../assets/universityData/rabindranath-tagore-university-bhopal'
+import * as barkatullahuniversitybhopal from '../../assets/universityData/barkatullah-university-bhopal'
+import * as jaypeeuniversityofengineeringandtechnologyguna from '../../assets/universityData/jaypee-university-of-engineering-and-technology-guna'
+import * as kjsomaiyainstitutemanagementstudiesandresearchmumbai from '../../assets/universityData/kj-somaiya-institute-management-studies-and-research-mumbai'
+import * as peoplesuniversitybhopal from '../../assets/universityData/peoples-university-bhopal'
+import * as acharyainstituteoftechnology from '../../assets/universityData/acharya-institute-of-technology'
+import * as cmruniversitybangalore from '../../assets/universityData/cmr-university-bangalore'
+import * as nldalmiainstituteofmanagementstudiesandresearchmumbai from '../../assets/universityData/nl-dalmia-institute-of-management-studies-and-research-mumbai'
+import * as ramaiahinstituteoftechnologybanglore from '../../assets/universityData/ramaiah-institute-of-technology-banglore'
+import * as shardauniversity from '../../assets/universityData/sharda-university'
+import * as aimsinstituteofmanagementandstudiespune from '../../assets/universityData/aims-institute-of-management-and-studies-pune'
+import * as itmbusinessschoolnavimumbai from '../../assets/universityData/itm-business-school-navi-mumbai'
+import * as mitartdesignandtechnologyuniversitypune from '../../assets/universityData/mit-art-design-and-technology-university-pune'
+import * as ramachandraninternationalinstituteofmanagementpune from '../../assets/universityData/ramachandran-international-institute-of-management-pune'
+import * as amityuniversitynoida from '../../assets/universityData/amity-university-noida'
+import * as delhiuniversity from '../../assets/universityData/delhi-university'
+import * as instituteofmanagementtechnologyghaziabad from '../../assets/universityData/institute-of-management-technology-ghaziabad'
+import * as kjsomaiyacollegeofengineeringmumbai from '../../assets/universityData/k-j-somaiya-college-of-engineering-mumbai'
+import * as acharyainstituteofgraduatestudies from '../../assets/universityData/acharya-institute-of-graduate-studies'
+import * as azimpremjiuniversitybangalore from '../../assets/universityData/azim-premji-university-bangalore'
+import * as birlainstituteoftechnologyandsciences from '../../assets/universityData/birla-institute-of-technology-and-sciences'
+import * as indianinstituteofmanagementindore from '../../assets/universityData/indian-institute-of-management-indore'
+import * as indianinstituteofmasscommunicationdelhi from '../../assets/universityData/indian-institute-of-mass-communication-delhi'
+import * as governmentmedicalcollegedatia from '../../assets/universityData/government-medical-college-datia'
+import * as instituteofchemicaltechnologyictmumbai from '../../assets/universityData/institute-of-chemical-technology-ict-mumbai'
+import * as lnctmedicalcollegeandsewakunjhospitalindore from '../../assets/universityData/lnct-medical-college-and-sewakunj-hospital-indore'
+import * as sriaurobindoinstituteofmedicalsciencesindore from '../../assets/universityData/sri-aurobindo-institute-of-medical-sciences-indore'
+
 
 //****************1159 started****************
 import * as millenniaatlanticuniversity from '../../assets/universityData/millennia-atlantic-university'
@@ -2079,7 +2110,40 @@ export {
     governmentmedicalcollegechhindwara,
     grantmedicalcollegemumbai,
     indianinstituteofinformationtechnology,
+    dattamegheinstituteofmedicalsciences,
+    deviahilyavishwavidyalayaindore,
+    mansarovarglobaluniversitybhopal,
+    rabindranathtagoreuniversitybhopal,
+    barkatullahuniversitybhopal,
+    jaypeeuniversityofengineeringandtechnologyguna,
+    kjsomaiyainstitutemanagementstudiesandresearchmumbai,
+    peoplesuniversitybhopal,
+    acharyainstituteoftechnology,
+    cmruniversitybangalore,
+    nldalmiainstituteofmanagementstudiesandresearchmumbai,
+    ramaiahinstituteoftechnologybanglore,
+    shardauniversity,
+    aimsinstituteofmanagementandstudiespune,
+    itmbusinessschoolnavimumbai,
+    mitartdesignandtechnologyuniversitypune,
+    ramachandraninternationalinstituteofmanagementpune,
+    amityuniversitynoida,
+    delhiuniversity,
+    instituteofmanagementtechnologyghaziabad,
+    kjsomaiyacollegeofengineeringmumbai,
+    acharyainstituteofgraduatestudies,
+    azimpremjiuniversitybangalore,
+    birlainstituteoftechnologyandsciences,
+    indianinstituteofmanagementindore,
+    indianinstituteofmasscommunicationdelhi,
+    governmentmedicalcollegedatia,
+    instituteofchemicaltechnologyictmumbai,
+    lnctmedicalcollegeandsewakunjhospitalindore,
+    sriaurobindoinstituteofmedicalsciencesindore,
+    
 
+
+// 1159 Started
     millenniaatlanticuniversity,
     millersvilleuniversitypennsylvania,
     milliganuniversitytennessee,

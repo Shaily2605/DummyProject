@@ -349,13 +349,13 @@ export const southwestinstituteofhealingarts = {
             "title": "",
             "info": "Off-Campus Accommodation:",
             "data": [
-                "Quality Suites Tempe - This hotel is located approximately 1.4 miles from the campus and offers double queen, king, and studio rooms.",
-                "La Quinta Inn & Suites Phoenix Tempe - This hotel is located approximately 4.2 miles from the campus and offers double queen and king rooms.",
-                "Residence Inn Phoenix Tempe - This hotel is located approximately 5.6 miles from the campus and offers studio, one-bedroom, and two-bedroom suites.",
-                "Extended Stay America Phoenix - Tempe - This hotel is located approximately 6.1 miles from the campus and offers studio rooms.",
-                "Red Roof Inn Phoenix - Tempe - This hotel is located approximately 6.3 miles from the campus and offers double queen and king rooms.",
-                "Home2 Suites Phoenix Tempe - Airport - This hotel is located approximately 7.5 miles from the campus and offers studio and one-bedroom suites.",
-                "SpringHill Suites Phoenix Tempe - This hotel is located approximately 8.4 miles from the campus and offers studio and one-bedroom suites."
+                "<b>Quality Suites Tempe -</b> This hotel is located approximately 1.4 miles from the campus and offers double queen, king, and studio rooms.",
+                "<b>La Quinta Inn & Suites Phoenix Tempe -</b> This hotel is located approximately 4.2 miles from the campus and offers double queen and king rooms.",
+                "<b>Residence Inn Phoenix Tempe -</b> This hotel is located approximately 5.6 miles from the campus and offers studio, one-bedroom, and two-bedroom suites.",
+                "<b>Extended Stay America Phoenix - Tempe -</b> This hotel is located approximately 6.1 miles from the campus and offers studio rooms.",
+                "<b>Red Roof Inn Phoenix - Tempe -</b> This hotel is located approximately 6.3 miles from the campus and offers double queen and king rooms.",
+                "<b>Home2 Suites Phoenix Tempe - Airport -</b> This hotel is located approximately 7.5 miles from the campus and offers studio and one-bedroom suites.",
+                "<b>SpringHill Suites Phoenix Tempe -</b> This hotel is located approximately 8.4 miles from the campus and offers studio and one-bedroom suites."
             ]
         },
         {
@@ -363,9 +363,9 @@ export const southwestinstituteofhealingarts = {
             "title": "",
             "info": "Hostels:",
             "data": [
-                "Phoenix Hostel - This hostel is located approximately 8.2 miles from the campus and offers dormitory-style rooms. ",
-                "Hostel Central Phoenix - This hostel is located approximately 8.2 miles from the campus and offers dormitory-style rooms. ",
-                "HI Phoenix - This hostel is located approximately 9.7 miles from the campus and offers dormitory-style rooms."
+                "<b>Phoenix Hostel -</b> This hostel is located approximately 8.2 miles from the campus and offers dormitory-style rooms. ",
+                "<b>Hostel Central Phoenix -</b> This hostel is located approximately 8.2 miles from the campus and offers dormitory-style rooms. ",
+                "<b>HI Phoenix -</b> This hostel is located approximately 9.7 miles from the campus and offers dormitory-style rooms."
             ]
         },
         {
